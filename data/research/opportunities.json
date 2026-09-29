@@ -1,96 +1,100 @@
 [
   {
-    "title": "Without the Hot Air",
-    "url": "https://www.withouthotair.com/",
-    "summary": " Article URL:  https://www.withouthotair.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49892175  \n Points: 53 \n # Comments: 27 ",
+    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+    "url": "https://github.com/lostmsu/TurboGPT",
+    "summary": " Inspired by minGPT for home experiments. Requires CUDA 13.4; build script is Windows only. \n \n Comments URL:  https://news.ycombinator.com/item?id=49898931  \n Points: 29 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-29T14:53:59.419168+00:00"
+    "researched_at": "2026-09-29T22:19:25.258981+00:00"
   },
   {
-    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-    "summary": " Article URL:  https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions  \n Comments URL:  https://news.ycombinator.com/item?id=49893709  \n Points: 35 \n # Comments: 8 ",
+    "title": "Dots: Always-on agents",
+    "url": "https://openai.com/index/introducing-dots/",
+    "summary": " Article URL:  https://openai.com/index/introducing-dots/  \n Comments URL:  https://news.ycombinator.com/item?id=49896604  \n Points: 408 \n # Comments: 317 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-29T14:53:59.419151+00:00"
+    "researched_at": "2026-09-29T22:19:25.258999+00:00"
   },
   {
-    "title": "Where's the \"Intelligence Explosion\"?",
-    "url": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
-    "summary": " Article URL:  https://www.noahpinion.blog/p/wheres-the-intelligence-explosion  \n Comments URL:  https://news.ycombinator.com/item?id=49893266  \n Points: 9 \n # Comments: 1 ",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap/",
+    "summary": " Article URL:  https://openai.com/index/devday-2026-recap/  \n Comments URL:  https://news.ycombinator.com/item?id=49896600  \n Points: 83 \n # Comments: 38 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-29T22:19:25.259001+00:00"
+  },
+  {
+    "title": "ChatGPT Pro 500",
+    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+    "summary": " Article URL:  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers  \n Comments URL:  https://news.ycombinator.com/item?id=49896975  \n Points: 164 \n # Comments: 171 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-29T22:19:25.258993+00:00"
+  },
+  {
+    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+    "summary": " Article URL:  https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/  \n Comments URL:  https://news.ycombinator.com/item?id=49899090  \n Points: 97 \n # Comments: 47 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419159+00:00"
+    "researched_at": "2026-09-29T22:19:25.258965+00:00"
   },
   {
-    "title": "What makes software development engineering",
-    "url": "https://parksb.github.io/en/article/44.html",
-    "summary": " Article URL:  https://parksb.github.io/en/article/44.html  \n Comments URL:  https://news.ycombinator.com/item?id=49892958  \n Points: 13 \n # Comments: 16 ",
+    "title": "Tcl/Tk 9.1",
+    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+    "summary": " Article URL:  https://www.tcl-lang.org/software/tcltk/9.1.html  \n Comments URL:  https://news.ycombinator.com/item?id=49896712  \n Points: 214 \n # Comments: 65 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419162+00:00"
+    "researched_at": "2026-09-29T22:19:25.258996+00:00"
   },
   {
-    "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-    "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-    "summary": " Article URL:  https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027  \n Comments URL:  https://news.ycombinator.com/item?id=49891550  \n Points: 252 \n # Comments: 179 ",
+    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+    "url": "https://space.bl2.net/",
+    "summary": " Article URL:  https://space.bl2.net/  \n Comments URL:  https://news.ycombinator.com/item?id=49898778  \n Points: 36 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419183+00:00"
+    "researched_at": "2026-09-29T22:19:25.258987+00:00"
   },
   {
-    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-    "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
-    "summary": " Article URL:  https://jevstiller.pages.dev/posts/the-guarantee/  \n Comments URL:  https://news.ycombinator.com/item?id=49891769  \n Points: 9 \n # Comments: 1 ",
+    "title": "Nicholas Polson has authored 258 academic papers in 2026 so far",
+    "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+    "summary": " Article URL:  https://statmodeling.stat.columbia.edu/2026/08/27/258/  \n Comments URL:  https://news.ycombinator.com/item?id=49898877  \n Points: 114 \n # Comments: 83 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419179+00:00"
+    "researched_at": "2026-09-29T22:19:25.258984+00:00"
   },
   {
-    "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
-    "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-    "summary": " Article URL:  https://spectrum.ieee.org/delhi-electricity-loss  \n Comments URL:  https://news.ycombinator.com/item?id=49892245  \n Points: 172 \n # Comments: 96 ",
+    "title": "Galaxy Game – Interim Computer Museum",
+    "url": "https://icm.museum/blog/?p=698",
+    "summary": " Article URL:  https://icm.museum/blog/?p=698  \n Comments URL:  https://news.ycombinator.com/item?id=49899004  \n Points: 8 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419165+00:00"
+    "researched_at": "2026-09-29T22:19:25.258976+00:00"
   },
   {
-    "title": "Google ending ChromeOS support two years early",
-    "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
-    "summary": " Article URL:  https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674  \n Comments URL:  https://news.ycombinator.com/item?id=49893653  \n Points: 19 \n # Comments: 10 ",
+    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "summary": " Article URL:  https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities  \n Comments URL:  https://news.ycombinator.com/item?id=49897075  \n Points: 139 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419156+00:00"
-  },
-  {
-    "title": "Claude partial outage",
-    "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
-    "summary": " Article URL:  https://status.claude.com/incidents/4xvtc2gnq73l  \n Comments URL:  https://news.ycombinator.com/item?id=49893876  \n Points: 62 \n # Comments: 28 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419143+00:00"
-  },
-  {
-    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-    "url": "https://www.cbc.ca/lite/story/9.7361622",
-    "summary": " Article URL:  https://www.cbc.ca/lite/story/9.7361622  \n Comments URL:  https://news.ycombinator.com/item?id=49892120  \n Points: 52 \n # Comments: 21 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-09-29T14:53:59.419171+00:00"
+    "researched_at": "2026-09-29T22:19:25.258990+00:00"
   }
 ]

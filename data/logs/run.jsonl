@@ -110,3 +110,22 @@
 {"timestamp": "2026-09-29T14:53:59.422417+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-09-29T14:53:59.422650+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-09-29T14:53:59.422964+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-09-29T22:19:22.765838+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-09-29T22:19:22.780585+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:22.781340+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-09-29T22:19:22.782195+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-09-29T22:19:22.937560+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-09-29T22:19:25.258803+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-09-29T22:19:25.260041+00:00", "event": "draft_created", "draft_id": "show-hn-turbogpt-train-22kib-transformer-in-13s", "path": "data/content/drafts/show-hn-turbogpt-train-22kib-transformer-in-13s.json"}
+{"timestamp": "2026-09-29T22:19:25.260332+00:00", "event": "draft_created", "draft_id": "dots-always-on-agents", "path": "data/content/drafts/dots-always-on-agents.json"}
+{"timestamp": "2026-09-29T22:19:25.260606+00:00", "event": "draft_created", "draft_id": "devday-2026-recap", "path": "data/content/drafts/devday-2026-recap.json"}
+{"timestamp": "2026-09-29T22:19:25.260903+00:00", "event": "draft_created", "draft_id": "chatgpt-pro-500", "path": "data/content/drafts/chatgpt-pro-500.json"}
+{"timestamp": "2026-09-29T22:19:25.261192+00:00", "event": "draft_created", "draft_id": "u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels", "path": "data/content/drafts/u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.json"}
+{"timestamp": "2026-09-29T22:19:25.261347+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-turbogpt-train-22kib-transformer-in-13s.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:25.261492+00:00", "event": "draft_validation", "path": "data/content/drafts/dots-always-on-agents.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:25.261631+00:00", "event": "draft_validation", "path": "data/content/drafts/devday-2026-recap.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:25.261792+00:00", "event": "draft_validation", "path": "data/content/drafts/chatgpt-pro-500.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:25.261929+00:00", "event": "draft_validation", "path": "data/content/drafts/u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-29T22:19:25.262166+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-09-29T22:19:25.262380+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-09-29T22:19:25.262690+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
