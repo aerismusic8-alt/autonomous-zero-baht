@@ -1,0 +1,27 @@
+[
+  {
+    "path": "data/content/drafts/show-hn-raven-the-harness-of-harnesses-built-for-rsi.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/ai-companies-leak-data-to-advertisers-pdf.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/you-are-no-longer-invited-to-dinner.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/using-any-c-library-in-godot.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/us-sanctions-force-the-netherlands-off-microsoft-and-toward-alternative-nixos.json",
+    "passed": true,
+    "errors": []
+  }
+]
