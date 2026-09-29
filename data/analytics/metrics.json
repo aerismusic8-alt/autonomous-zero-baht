@@ -8,7 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T14:49:31.867121+00:00"
+    "recorded_at": "2026-09-29T14:53:59.422774+00:00"
   },
   {
     "content_id": "unsurprisingly-meta-s-new-muse-ai-agent-blatantly-ignores-users-permissions",
@@ -19,7 +19,18 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T14:49:31.867131+00:00"
+    "recorded_at": "2026-09-29T14:53:59.422780+00:00"
+  },
+  {
+    "content_id": "where-s-the-intelligence-explosion",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-29T14:53:59.422783+00:00"
   },
   {
     "content_id": "what-makes-software-development-engineering",
@@ -30,7 +41,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T14:49:31.867137+00:00"
+    "recorded_at": "2026-09-29T14:53:59.422785+00:00"
   },
   {
     "content_id": "us-sanctions-force-the-netherlands-off-microsoft-and-toward-alternative-nixos",
@@ -41,17 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T14:49:31.867141+00:00"
-  },
-  {
-    "content_id": "show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-29T14:49:31.867145+00:00"
+    "recorded_at": "2026-09-29T14:53:59.422787+00:00"
   }
 ]

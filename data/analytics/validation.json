@@ -1,26 +1,26 @@
 [
   {
-    "path": "data\\content\\drafts\\without-the-hot-air.json",
+    "path": "data/content/drafts/without-the-hot-air.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data\\content\\drafts\\unsurprisingly-meta-s-new-muse-ai-agent-blatantly-ignores-users-permissions.json",
+    "path": "data/content/drafts/unsurprisingly-meta-s-new-muse-ai-agent-blatantly-ignores-users-permissions.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data\\content\\drafts\\what-makes-software-development-engineering.json",
+    "path": "data/content/drafts/where-s-the-intelligence-explosion.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data\\content\\drafts\\us-sanctions-force-the-netherlands-off-microsoft-and-toward-alternative-nixos.json",
+    "path": "data/content/drafts/what-makes-software-development-engineering.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data\\content\\drafts\\show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound.json",
+    "path": "data/content/drafts/us-sanctions-force-the-netherlands-off-microsoft-and-toward-alternative-nixos.json",
     "passed": true,
     "errors": []
   }
