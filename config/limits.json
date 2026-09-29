@@ -1,0 +1,7 @@
+{
+  "budget_thb": 0,
+  "max_items_per_feed": 10,
+  "max_drafts_per_run": 5,
+  "max_feed_bytes": 2000000,
+  "feed_timeout_seconds": 12
+}

@@ -10,7 +10,8 @@ ROOT = Path(__file__).resolve().parents[1]
 
 def main():
     config_path = ROOT / "config" / "system.json"
-    config = json.loads(config_path.read_text(encoding="utf-8"))
+    # utf-8-sig keeps Windows-created UTF-8 JSON with a BOM compatible.
+    config = json.loads(config_path.read_text(encoding="utf-8-sig"))
     if config.get("no_payment_guard") is not True or config.get("budget_thb") != 0:
         raise RuntimeError("NO-PAYMENT GUARD: configuration must explicitly enforce zero spending.")
     log_event("run_started", project=config.get("project"), mode=config.get("mode"), budget_thb=0)

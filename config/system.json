@@ -1,0 +1,18 @@
+{
+    "project":  "AUTONOMOUS ZERO-BAHT BUSINESS OS",
+    "mode":  "AUTONOMOUS-FIRST",
+    "budget_thb":  0,
+    "no_payment_guard":  true,
+    "user_agent":  "ZeroBahtOS/0.1",
+    "rss_feeds":  [
+                      "https://hnrss.org/frontpage"
+                  ],
+    "keywords":  [
+                     "automation",
+                     "ai",
+                     "productivity",
+                     "developer tools"
+                 ],
+    "max_items_per_feed":  10,
+    "max_drafts_per_run":  5
+}

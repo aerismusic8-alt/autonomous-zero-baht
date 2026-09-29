@@ -1,0 +1,14 @@
+{
+  "research": {
+    "primary": "public_rss",
+    "paid_providers_allowed": false
+  },
+  "content": {
+    "primary": "rule_based_templates",
+    "paid_providers_allowed": false
+  },
+  "publishing": {
+    "enabled": false,
+    "requires_human_review": true
+  }
+}
