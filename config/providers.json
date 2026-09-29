@@ -9,6 +9,11 @@
   },
   "publishing": {
     "enabled": false,
-    "requires_human_review": true
+    "requires_human_review": true,
+    "adapter": null
+  },
+  "analytics": {
+    "enabled": true,
+    "accept_unverified_metrics": false
   }
 }
