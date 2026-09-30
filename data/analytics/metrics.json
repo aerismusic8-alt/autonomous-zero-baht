@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "responsible-release-of-ai-generated-mathematics",
+    "content_id": "pi-dev-you-said-no-mcp",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,7 +8,29 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-30T05:37:27.428474+00:00"
+    "recorded_at": "2026-09-30T12:40:17.609498+00:00"
+  },
+  {
+    "content_id": "gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-30T12:40:17.609503+00:00"
+  },
+  {
+    "content_id": "floppy-emu-hardware-failure-analysis-results",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-30T12:40:17.609505+00:00"
   },
   {
     "content_id": "u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels",
@@ -19,29 +41,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-30T05:37:27.428483+00:00"
-  },
-  {
-    "content_id": "tesla-takes-on-30b-in-credit-as-it-approaches-unprofitability",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-30T05:37:27.428484+00:00"
-  },
-  {
-    "content_id": "strange-parodies-of-atari-2600-video-game-box-cover-art-2008",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-30T05:37:27.428485+00:00"
+    "recorded_at": "2026-09-30T12:40:17.609507+00:00"
   },
   {
     "content_id": "show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites",
@@ -52,6 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-30T05:37:27.428486+00:00"
+    "recorded_at": "2026-09-30T12:40:17.609508+00:00"
   }
 ]

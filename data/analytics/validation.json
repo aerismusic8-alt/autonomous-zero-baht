@@ -1,21 +1,21 @@
 [
   {
-    "path": "data/content/drafts/responsible-release-of-ai-generated-mathematics.json",
+    "path": "data/content/drafts/pi-dev-you-said-no-mcp.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/floppy-emu-hardware-failure-analysis-results.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/tesla-takes-on-30b-in-credit-as-it-approaches-unprofitability.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/strange-parodies-of-atari-2600-video-game-box-cover-art-2008.json",
     "passed": true,
     "errors": []
   },
