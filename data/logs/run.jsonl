@@ -167,3 +167,22 @@
 {"timestamp": "2026-09-30T12:40:17.609241+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-09-30T12:40:17.609416+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-09-30T12:40:17.609664+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-09-30T22:19:37.946429+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-09-30T22:19:37.951078+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:37.951955+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-09-30T22:19:37.952923+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-09-30T22:19:38.079447+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-09-30T22:19:40.373718+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-09-30T22:19:40.374938+00:00", "event": "draft_created", "draft_id": "surprisingly-complex-waves-reveal-the-brain-s-inner-workings", "path": "data/content/drafts/surprisingly-complex-waves-reveal-the-brain-s-inner-workings.json"}
+{"timestamp": "2026-09-30T22:19:40.375234+00:00", "event": "draft_created", "draft_id": "gemini-4-argon-high-intelligence-performance-and-price-analysis", "path": "data/content/drafts/gemini-4-argon-high-intelligence-performance-and-price-analysis.json"}
+{"timestamp": "2026-09-30T22:19:40.375505+00:00", "event": "draft_created", "draft_id": "gemini-4-argon", "path": "data/content/drafts/gemini-4-argon.json"}
+{"timestamp": "2026-09-30T22:19:40.375769+00:00", "event": "draft_created", "draft_id": "functional-ultrasound-imaging-fusi-from-scratch", "path": "data/content/drafts/functional-ultrasound-imaging-fusi-from-scratch.json"}
+{"timestamp": "2026-09-30T22:19:40.376063+00:00", "event": "draft_created", "draft_id": "cs240-ai-cheating-retrospective", "path": "data/content/drafts/cs240-ai-cheating-retrospective.json"}
+{"timestamp": "2026-09-30T22:19:40.376222+00:00", "event": "draft_validation", "path": "data/content/drafts/surprisingly-complex-waves-reveal-the-brain-s-inner-workings.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:40.376368+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-4-argon-high-intelligence-performance-and-price-analysis.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:40.376506+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-4-argon.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:40.376644+00:00", "event": "draft_validation", "path": "data/content/drafts/functional-ultrasound-imaging-fusi-from-scratch.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:40.376774+00:00", "event": "draft_validation", "path": "data/content/drafts/cs240-ai-cheating-retrospective.json", "passed": true, "errors": []}
+{"timestamp": "2026-09-30T22:19:40.377034+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-09-30T22:19:40.377211+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-09-30T22:19:40.377504+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

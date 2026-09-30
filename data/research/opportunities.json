@@ -1,98 +1,102 @@
 [
   {
-    "title": "Pi.dev: You Said No MCP",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "summary": " Article URL:  https://earendil.com/posts/you-said-no-mcp/  \n Comments URL:  https://news.ycombinator.com/item?id=49906637  \n Points: 173 \n # Comments: 75 ",
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "summary": " Article URL:  https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/  \n Comments URL:  https://news.ycombinator.com/item?id=49912955  \n Points: 82 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-30T12:40:17.606226+00:00"
+    "researched_at": "2026-09-30T22:19:40.373943+00:00"
   },
   {
-    "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-    "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-    "summary": " Article URL:  https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence  \n Comments URL:  https://news.ycombinator.com/item?id=49906669  \n Points: 59 \n # Comments: 72 ",
+    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+    "summary": " Article URL:  https://artificialanalysis.ai/models/gemini-4-argon  \n Comments URL:  https://news.ycombinator.com/item?id=49914236  \n Points: 43 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-30T12:40:17.606222+00:00"
+    "researched_at": "2026-09-30T22:19:40.373917+00:00"
   },
   {
-    "title": "Floppy Emu Hardware Failure Analysis Results",
-    "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-    "summary": " Article URL:  https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/  \n Comments URL:  https://news.ycombinator.com/item?id=49902093  \n Points: 17 \n # Comments: 4 ",
+    "title": "Gemini 4 Argon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/  \n Comments URL:  https://news.ycombinator.com/item?id=49913571  \n Points: 683 \n # Comments: 423 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-30T12:40:17.606236+00:00"
+    "researched_at": "2026-09-30T22:19:40.373928+00:00"
   },
   {
-    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-    "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-    "summary": " Article URL:  https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/  \n Comments URL:  https://news.ycombinator.com/item?id=49899090  \n Points: 242 \n # Comments: 141 ",
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "summary": " Article URL:  https://www.neuroai.science/p/functional-ultrasound-imaging-from  \n Comments URL:  https://news.ycombinator.com/item?id=49913604  \n Points: 12 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T22:19:40.373925+00:00"
+  },
+  {
+    "title": "CS240 AI Cheating Retrospective",
+    "url": "https://turkeyland.net/thoughts/ai.php",
+    "summary": " Article URL:  https://turkeyland.net/thoughts/ai.php  \n Comments URL:  https://news.ycombinator.com/item?id=49913458  \n Points: 27 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-09-30T22:19:40.373931+00:00"
+  },
+  {
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+    "url": "https://www.thespacereview.com/article/4951/1",
+    "summary": " Article URL:  https://www.thespacereview.com/article/4951/1  \n Comments URL:  https://news.ycombinator.com/item?id=49915082  \n Points: 7 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606245+00:00"
+    "researched_at": "2026-09-30T22:19:40.373908+00:00"
   },
   {
-    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-    "url": "https://space.bl2.net/",
-    "summary": " Article URL:  https://space.bl2.net/  \n Comments URL:  https://news.ycombinator.com/item?id=49898778  \n Points: 279 \n # Comments: 71 ",
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "url": "https://www.mattkeeter.com/projects/halfspace/",
+    "summary": " Article URL:  https://www.mattkeeter.com/projects/halfspace/  \n Comments URL:  https://news.ycombinator.com/item?id=49913350  \n Points: 36 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606248+00:00"
+    "researched_at": "2026-09-30T22:19:40.373937+00:00"
   },
   {
-    "title": "September 2026: The world today, as seen by one Polish guy",
-    "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-    "summary": " Article URL:  https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/  \n Comments URL:  https://news.ycombinator.com/item?id=49905487  \n Points: 334 \n # Comments: 196 ",
+    "title": "Gitea 28.0",
+    "url": "https://blog.gitea.com/release-of-28.0.0/",
+    "summary": " Article URL:  https://blog.gitea.com/release-of-28.0.0/  \n Comments URL:  https://news.ycombinator.com/item?id=49913975  \n Points: 47 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606229+00:00"
+    "researched_at": "2026-09-30T22:19:40.373921+00:00"
   },
   {
-    "title": "RSS Feeds for Last.fm",
-    "url": "https://lfm.xiffy.nl/",
-    "summary": " Article URL:  https://lfm.xiffy.nl/  \n Comments URL:  https://news.ycombinator.com/item?id=49903862  \n Points: 93 \n # Comments: 27 ",
+    "title": "EDG C++ front-end goes public",
+    "url": "https://edgcpp.org/#transition",
+    "summary": " Article URL:  https://edgcpp.org/#transition  \n Comments URL:  https://news.ycombinator.com/item?id=49913192  \n Points: 94 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606233+00:00"
+    "researched_at": "2026-09-30T22:19:40.373940+00:00"
   },
   {
-    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-    "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-    "summary": " Article URL:  https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river  \n Comments URL:  https://news.ycombinator.com/item?id=49902019  \n Points: 52 \n # Comments: 22 ",
+    "title": "Dear Software Makers",
+    "url": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+    "summary": " Article URL:  https://blog.jim-nielsen.com/2026/dear-software-makers/  \n Comments URL:  https://news.ycombinator.com/item?id=49913364  \n Points: 27 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606239+00:00"
-  },
-  {
-    "title": "Most data centers refusing to say how much water, electricity they use",
-    "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-    "summary": " Article URL:  https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use  \n Comments URL:  https://news.ycombinator.com/item?id=49907057  \n Points: 38 \n # Comments: 8 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606214+00:00"
-  },
-  {
-    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "url": "https://github.com/ninjahawk/livenerf",
-    "summary": " Article URL:  https://github.com/ninjahawk/livenerf  \n Comments URL:  https://news.ycombinator.com/item?id=49901736  \n Points: 694 \n # Comments: 271 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-09-30T12:40:17.606242+00:00"
+    "researched_at": "2026-09-30T22:19:40.373934+00:00"
   }
 ]
