@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "show-hn-turbogpt-train-22kib-transformer-in-13s",
+    "content_id": "responsible-release-of-ai-generated-mathematics",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,40 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T22:19:25.262502+00:00"
-  },
-  {
-    "content_id": "dots-always-on-agents",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-29T22:19:25.262508+00:00"
-  },
-  {
-    "content_id": "devday-2026-recap",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-29T22:19:25.262510+00:00"
-  },
-  {
-    "content_id": "chatgpt-pro-500",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-09-29T22:19:25.262512+00:00"
+    "recorded_at": "2026-09-30T05:37:27.428474+00:00"
   },
   {
     "content_id": "u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels",
@@ -52,6 +19,39 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-09-29T22:19:25.262514+00:00"
+    "recorded_at": "2026-09-30T05:37:27.428483+00:00"
+  },
+  {
+    "content_id": "tesla-takes-on-30b-in-credit-as-it-approaches-unprofitability",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-30T05:37:27.428484+00:00"
+  },
+  {
+    "content_id": "strange-parodies-of-atari-2600-video-game-box-cover-art-2008",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-30T05:37:27.428485+00:00"
+  },
+  {
+    "content_id": "show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-09-30T05:37:27.428486+00:00"
   }
 ]

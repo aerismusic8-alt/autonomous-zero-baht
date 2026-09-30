@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/show-hn-turbogpt-train-22kib-transformer-in-13s.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/dots-always-on-agents.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/devday-2026-recap.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/chatgpt-pro-500.json",
+    "path": "data/content/drafts/responsible-release-of-ai-generated-mathematics.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/u-s-postal-inspectors-shut-down-website-selling-counterfeit-postage-labels.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/tesla-takes-on-30b-in-credit-as-it-approaches-unprofitability.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/strange-parodies-of-atari-2600-video-game-box-cover-art-2008.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/show-hn-real-time-solar-system-with-526k-asteroids-and-all-tracked-satellites.json",
     "passed": true,
     "errors": []
   }

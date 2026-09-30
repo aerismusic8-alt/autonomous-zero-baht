@@ -1,100 +1,94 @@
 [
   {
-    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-    "url": "https://github.com/lostmsu/TurboGPT",
-    "summary": " Inspired by minGPT for home experiments. Requires CUDA 13.4; build script is Windows only. \n \n Comments URL:  https://news.ycombinator.com/item?id=49898931  \n Points: 29 \n # Comments: 4 ",
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "url": "https://agmai.org/general-sep29/",
+    "summary": " Article URL:  https://agmai.org/general-sep29/  \n Comments URL:  https://news.ycombinator.com/item?id=49903713  \n Points: 17 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-09-29T22:19:25.258981+00:00"
-  },
-  {
-    "title": "Dots: Always-on agents",
-    "url": "https://openai.com/index/introducing-dots/",
-    "summary": " Article URL:  https://openai.com/index/introducing-dots/  \n Comments URL:  https://news.ycombinator.com/item?id=49896604  \n Points: 408 \n # Comments: 317 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-09-29T22:19:25.258999+00:00"
-  },
-  {
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap/",
-    "summary": " Article URL:  https://openai.com/index/devday-2026-recap/  \n Comments URL:  https://news.ycombinator.com/item?id=49896600  \n Points: 83 \n # Comments: 38 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-09-29T22:19:25.259001+00:00"
-  },
-  {
-    "title": "ChatGPT Pro 500",
-    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-    "summary": " Article URL:  https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers  \n Comments URL:  https://news.ycombinator.com/item?id=49896975  \n Points: 164 \n # Comments: 171 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-09-29T22:19:25.258993+00:00"
+    "researched_at": "2026-09-30T05:37:27.426796+00:00"
   },
   {
     "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
     "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-    "summary": " Article URL:  https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/  \n Comments URL:  https://news.ycombinator.com/item?id=49899090  \n Points: 97 \n # Comments: 47 ",
+    "summary": " Article URL:  https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/  \n Comments URL:  https://news.ycombinator.com/item?id=49899090  \n Points: 200 \n # Comments: 118 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258965+00:00"
+    "researched_at": "2026-09-30T05:37:27.426805+00:00"
   },
   {
-    "title": "Tcl/Tk 9.1",
-    "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-    "summary": " Article URL:  https://www.tcl-lang.org/software/tcltk/9.1.html  \n Comments URL:  https://news.ycombinator.com/item?id=49896712  \n Points: 214 \n # Comments: 65 ",
+    "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+    "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+    "summary": " Article URL:  https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/  \n Comments URL:  https://news.ycombinator.com/item?id=49904408  \n Points: 15 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258996+00:00"
+    "researched_at": "2026-09-30T05:37:27.426784+00:00"
+  },
+  {
+    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+    "url": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
+    "summary": " Article URL:  https://mightygodking.com/2008/04/21/fun-from-yesterday/  \n Comments URL:  https://news.ycombinator.com/item?id=49903383  \n Points: 25 \n # Comments: 20 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T05:37:27.426800+00:00"
   },
   {
     "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
     "url": "https://space.bl2.net/",
-    "summary": " Article URL:  https://space.bl2.net/  \n Comments URL:  https://news.ycombinator.com/item?id=49898778  \n Points: 36 \n # Comments: 10 ",
+    "summary": " Article URL:  https://space.bl2.net/  \n Comments URL:  https://news.ycombinator.com/item?id=49898778  \n Points: 174 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258987+00:00"
+    "researched_at": "2026-09-30T05:37:27.426806+00:00"
   },
   {
-    "title": "Nicholas Polson has authored 258 academic papers in 2026 so far",
-    "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-    "summary": " Article URL:  https://statmodeling.stat.columbia.edu/2026/08/27/258/  \n Comments URL:  https://news.ycombinator.com/item?id=49898877  \n Points: 114 \n # Comments: 83 ",
+    "title": "RSS Feeds for Last.fm",
+    "url": "https://lfm.xiffy.nl/",
+    "summary": " Article URL:  https://lfm.xiffy.nl/  \n Comments URL:  https://news.ycombinator.com/item?id=49903862  \n Points: 14 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258984+00:00"
+    "researched_at": "2026-09-30T05:37:27.426794+00:00"
   },
   {
-    "title": "Galaxy Game – Interim Computer Museum",
-    "url": "https://icm.museum/blog/?p=698",
-    "summary": " Article URL:  https://icm.museum/blog/?p=698  \n Comments URL:  https://news.ycombinator.com/item?id=49899004  \n Points: 8 \n # Comments: 0 ",
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
+    "url": "https://github.com/Sparticle62ops/pssa",
+    "summary": " Article URL:  https://github.com/Sparticle62ops/pssa  \n Comments URL:  https://news.ycombinator.com/item?id=49903993  \n Points: 44 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258976+00:00"
+    "researched_at": "2026-09-30T05:37:27.426792+00:00"
   },
   {
-    "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-    "summary": " Article URL:  https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities  \n Comments URL:  https://news.ycombinator.com/item?id=49897075  \n Points: 139 \n # Comments: 99 ",
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "summary": " Article URL:  https://github.com/ninjahawk/livenerf  \n Comments URL:  https://news.ycombinator.com/item?id=49901736  \n Points: 405 \n # Comments: 163 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-09-29T22:19:25.258990+00:00"
+    "researched_at": "2026-09-30T05:37:27.426802+00:00"
+  },
+  {
+    "title": "LinkedIn Larpmaxxing",
+    "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+    "summary": " Article URL:  https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/  \n Comments URL:  https://news.ycombinator.com/item?id=49904314  \n Points: 23 \n # Comments: 15 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T05:37:27.426789+00:00"
+  },
+  {
+    "title": "Ballmer Peak",
+    "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+    "summary": " Article URL:  https://en.wikipedia.org/wiki/Ballmer_Peak  \n Comments URL:  https://news.ycombinator.com/item?id=49903712  \n Points: 25 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-09-30T05:37:27.426798+00:00"
   }
 ]
