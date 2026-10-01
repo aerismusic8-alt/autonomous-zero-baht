@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-rhun-an-open-source-code-editor-written-in-assembly",
+  "created_at": "2026-10-01T22:43:53.311051+00:00",
+  "source_title": "Show HN: Rhun, an open-source code editor written in assembly",
+  "source_url": "https://rhun.app/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 0,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription. It's a solo project, MIT licensed and still early. \n \n Comments URL:  https://news.ycombinator.com/item?id=49926726  \n Points: 12 \n # Comments: 2",
+      "source_url": "https://rhun.app/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Rhun, an open-source code editor written in assembly\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://rhun.app/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Rhun, an open-source code editor written in assembly อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://rhun.app/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

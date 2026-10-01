@@ -1,96 +1,92 @@
 [
   {
-    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "summary": " Article URL:  https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design  \n Comments URL:  https://news.ycombinator.com/item?id=49919910  \n Points: 70 \n # Comments: 28 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T13:23:36.484596+00:00"
-  },
-  {
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "summary": " Article URL:  https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html  \n Comments URL:  https://news.ycombinator.com/item?id=49921050  \n Points: 10 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T13:23:36.484569+00:00"
-  },
-  {
-    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-    "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-    "summary": " Article URL:  https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate  \n Comments URL:  https://news.ycombinator.com/item?id=49919680  \n Points: 0 \n # Comments: 0 ",
+    "title": "The death of web development education",
+    "url": "https://molily.de/web-dev-education/",
+    "summary": " Article URL:  https://molily.de/web-dev-education/  \n Comments URL:  https://news.ycombinator.com/item?id=49927100  \n Points: 78 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484599+00:00"
+    "researched_at": "2026-10-01T22:43:53.309570+00:00"
   },
   {
-    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-    "url": "https://www.thespacereview.com/article/4951/1",
-    "summary": " Article URL:  https://www.thespacereview.com/article/4951/1  \n Comments URL:  https://news.ycombinator.com/item?id=49915082  \n Points: 256 \n # Comments: 124 ",
+    "title": "SvelteKit 3 Is Here",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "summary": " Article URL:  https://svelte.dev/blog/sveltekit-3-is-here  \n Comments URL:  https://news.ycombinator.com/item?id=49926536  \n Points: 27 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484609+00:00"
+    "researched_at": "2026-10-01T22:43:53.309591+00:00"
   },
   {
-    "title": "StreetComplete on iOS is now in public beta",
-    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-    "summary": " Article URL:  https://github.com/streetcomplete/StreetComplete/issues/5421  \n Comments URL:  https://news.ycombinator.com/item?id=49920160  \n Points: 149 \n # Comments: 29 ",
+    "title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "url": "https://rhun.app/",
+    "summary": " I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription. It's a solo project, MIT licensed and still early. \n \n Comments URL:  https://news.ycombinator.com/item?id=49926726  \n Points: 12 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484592+00:00"
+    "researched_at": "2026-10-01T22:43:53.309585+00:00"
   },
   {
-    "title": "Returning from vacation? The government can search your phone without a warrant",
-    "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/  \n Comments URL:  https://news.ycombinator.com/item?id=49920234  \n Points: 120 \n # Comments: 107 ",
+    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+    "url": "https://github.com/Vibra-Ingenn/Janus",
+    "summary": " Article URL:  https://github.com/Vibra-Ingenn/Janus  \n Comments URL:  https://news.ycombinator.com/item?id=49926773  \n Points: 29 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484589+00:00"
+    "researched_at": "2026-10-01T22:43:53.309578+00:00"
   },
   {
-    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-    "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-    "summary": " Article URL:  https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026  \n Comments URL:  https://news.ycombinator.com/item?id=49920932  \n Points: 26 \n # Comments: 6 ",
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "summary": " Article URL:  https://earendil.com/posts/pi-durable/  \n Comments URL:  https://news.ycombinator.com/item?id=49925969  \n Points: 146 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484582+00:00"
+    "researched_at": "2026-10-01T22:43:53.309600+00:00"
   },
   {
-    "title": "How to speed up the Rust compiler in September 2026",
-    "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-    "summary": " Article URL:  https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html  \n Comments URL:  https://news.ycombinator.com/item?id=49920896  \n Points: 9 \n # Comments: 1 ",
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "summary": " Article URL:  https://earendil.com/posts/pi-1-0/  \n Comments URL:  https://news.ycombinator.com/item?id=49926069  \n Points: 501 \n # Comments: 176 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484585+00:00"
+    "researched_at": "2026-10-01T22:43:53.309597+00:00"
   },
   {
-    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-    "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-    "summary": " Article URL:  https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/  \n Comments URL:  https://news.ycombinator.com/item?id=49920997  \n Points: 28 \n # Comments: 13 ",
+    "title": "OpenRadioss is not open anymore",
+    "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+    "summary": " Article URL:  https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/  \n Comments URL:  https://news.ycombinator.com/item?id=49927392  \n Points: 11 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484577+00:00"
+    "researched_at": "2026-10-01T22:43:53.309558+00:00"
   },
   {
-    "title": "56k.rip – the 1996 dial-up internet experience",
-    "url": "https://56k.rip/",
-    "summary": " Article URL:  https://56k.rip/  \n Comments URL:  https://news.ycombinator.com/item?id=49915126  \n Points: 210 \n # Comments: 90 ",
+    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "summary": " Article URL:  https://automatictransmission.khoury.northeastern.edu/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=49926628  \n Points: 107 \n # Comments: 93 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T13:23:36.484606+00:00"
+    "researched_at": "2026-10-01T22:43:53.309588+00:00"
+  },
+  {
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "summary": " Article URL:  https://www.cssbed.com  \n Comments URL:  https://news.ycombinator.com/item?id=49927212  \n Points: 17 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-01T22:43:53.309566+00:00"
+  },
+  {
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "summary": " Article URL:  https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/  \n Comments URL:  https://news.ycombinator.com/item?id=49926512  \n Points: 35 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-01T22:43:53.309594+00:00"
   }
 ]
