@@ -1,100 +1,96 @@
 [
   {
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "summary": " Article URL:  https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/  \n Comments URL:  https://news.ycombinator.com/item?id=49912955  \n Points: 159 \n # Comments: 51 ",
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "summary": " Article URL:  https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design  \n Comments URL:  https://news.ycombinator.com/item?id=49919910  \n Points: 70 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T06:01:20.294814+00:00"
+    "researched_at": "2026-10-01T13:23:36.484596+00:00"
   },
   {
-    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-    "url": "https://github.com/TantrixAuto/yantra",
-    "summary": " Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it. Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up. That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available. On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule's action can run before its children are visited. A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you. A small example (full version, with compile commands, in th",
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "summary": " Article URL:  https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html  \n Comments URL:  https://news.ycombinator.com/item?id=49921050  \n Points: 10 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-01T06:01:20.294787+00:00"
+    "researched_at": "2026-10-01T13:23:36.484569+00:00"
   },
   {
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-    "summary": " Article URL:  https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/  \n Comments URL:  https://news.ycombinator.com/item?id=49917378  \n Points: 5 \n # Comments: 0 ",
+    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+    "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+    "summary": " Article URL:  https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate  \n Comments URL:  https://news.ycombinator.com/item?id=49919680  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T06:01:20.294769+00:00"
-  },
-  {
-    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-    "summary": " Article URL:  https://www.neuroai.science/p/functional-ultrasound-imaging-from  \n Comments URL:  https://news.ycombinator.com/item?id=49913604  \n Points: 37 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-01T06:01:20.294801+00:00"
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-01T13:23:36.484599+00:00"
   },
   {
     "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
     "url": "https://www.thespacereview.com/article/4951/1",
-    "summary": " Article URL:  https://www.thespacereview.com/article/4951/1  \n Comments URL:  https://news.ycombinator.com/item?id=49915082  \n Points: 186 \n # Comments: 80 ",
+    "summary": " Article URL:  https://www.thespacereview.com/article/4951/1  \n Comments URL:  https://news.ycombinator.com/item?id=49915082  \n Points: 256 \n # Comments: 124 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294798+00:00"
+    "researched_at": "2026-10-01T13:23:36.484609+00:00"
   },
   {
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "summary": " Article URL:  https://www.mattkeeter.com/projects/halfspace/  \n Comments URL:  https://news.ycombinator.com/item?id=49913350  \n Points: 108 \n # Comments: 9 ",
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "summary": " Article URL:  https://github.com/streetcomplete/StreetComplete/issues/5421  \n Comments URL:  https://news.ycombinator.com/item?id=49920160  \n Points: 149 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294808+00:00"
+    "researched_at": "2026-10-01T13:23:36.484592+00:00"
   },
   {
-    "title": "Gemini 4 Argon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-    "summary": " See also:  Gemini 4 Argon (High): Intelligence, Performance and Price Analysis  -  https://news.ycombinator.com/item?id=49914236  \n \n Comments URL:  https://news.ycombinator.com/item?id=49913571  \n Points: 1215 \n # Comments: 784 ",
+    "title": "Returning from vacation? The government can search your phone without a warrant",
+    "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/  \n Comments URL:  https://news.ycombinator.com/item?id=49920234  \n Points: 120 \n # Comments: 107 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294805+00:00"
+    "researched_at": "2026-10-01T13:23:36.484589+00:00"
   },
   {
-    "title": "EDG C++ front-end goes public",
-    "url": "https://edgcpp.org/#transition",
-    "summary": "  https://github.com/edgcpp/compiler  \n \n Comments URL:  https://news.ycombinator.com/item?id=49913192  \n Points: 193 \n # Comments: 87 ",
+    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+    "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+    "summary": " Article URL:  https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026  \n Comments URL:  https://news.ycombinator.com/item?id=49920932  \n Points: 26 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294811+00:00"
+    "researched_at": "2026-10-01T13:23:36.484582+00:00"
   },
   {
-    "title": "Before pixels: Modular industrial dashboards",
-    "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-    "summary": " Article URL:  https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/  \n Comments URL:  https://news.ycombinator.com/item?id=49912792  \n Points: 85 \n # Comments: 13 ",
+    "title": "How to speed up the Rust compiler in September 2026",
+    "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+    "summary": " Article URL:  https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html  \n Comments URL:  https://news.ycombinator.com/item?id=49920896  \n Points: 9 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294817+00:00"
+    "researched_at": "2026-10-01T13:23:36.484585+00:00"
+  },
+  {
+    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+    "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+    "summary": " Article URL:  https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/  \n Comments URL:  https://news.ycombinator.com/item?id=49920997  \n Points: 28 \n # Comments: 13 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-01T13:23:36.484577+00:00"
   },
   {
     "title": "56k.rip – the 1996 dial-up internet experience",
     "url": "https://56k.rip/",
-    "summary": " Article URL:  https://56k.rip/  \n Comments URL:  https://news.ycombinator.com/item?id=49915126  \n Points: 133 \n # Comments: 73 ",
+    "summary": " Article URL:  https://56k.rip/  \n Comments URL:  https://news.ycombinator.com/item?id=49915126  \n Points: 210 \n # Comments: 90 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T06:01:20.294794+00:00"
+    "researched_at": "2026-10-01T13:23:36.484606+00:00"
   }
 ]
