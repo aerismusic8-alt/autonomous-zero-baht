@@ -5,12 +5,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-dodo.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amd-intel-nvidia.json",
+    "path": "data/content/drafts/show-hn-audionaut-an-open-source-cross-platform-multitrack-audio-editor.json",
     "passed": true,
     "errors": []
   },
@@ -21,6 +16,11 @@
   },
   {
     "path": "data/content/drafts/several-vulnerabilities-have-been-discovered-in-the-linux-kernel.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/how-singapore-s-government-run-dating-service-works.json",
     "passed": true,
     "errors": []
   }

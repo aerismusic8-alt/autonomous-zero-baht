@@ -1,6 +1,6 @@
 {
   "id": "several-vulnerabilities-have-been-discovered-in-the-linux-kernel",
-  "created_at": "2026-10-02T05:44:09.124833+00:00",
+  "created_at": "2026-10-02T12:42:03.077888+00:00",
   "source_title": "Several vulnerabilities have been discovered in the Linux kernel",
   "source_url": "https://lwn.net/Articles/1097401/",
   "source_feed": "https://hnrss.org/frontpage",
@@ -15,7 +15,7 @@
         "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
         "สรุปและขั้นตอนถัดไป"
       ],
-      "source_summary_for_editor": "Article URL:  https://lwn.net/Articles/1097401/  \n Comments URL:  https://news.ycombinator.com/item?id=49928121  \n Points: 212 \n # Comments: 137",
+      "source_summary_for_editor": "Article URL:  https://lwn.net/Articles/1097401/  \n Comments URL:  https://news.ycombinator.com/item?id=49928121  \n Points: 382 \n # Comments: 272",
       "source_url": "https://lwn.net/Articles/1097401/"
     },
     "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Several vulnerabilities have been discovered in the Linux kernel\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://lwn.net/Articles/1097401/",
