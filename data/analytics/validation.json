@@ -1,16 +1,11 @@
 [
   {
-    "path": "data/content/drafts/the-death-of-web-development-education.json",
+    "path": "data/content/drafts/frog-and-toad-and-the-increasingly-capable-machines.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/sveltekit-3-is-here.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-rhun-an-open-source-code-editor-written-in-assembly.json",
+    "path": "data/content/drafts/using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-dodo.json",
     "passed": true,
     "errors": []
   },
@@ -20,7 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/pi-durable.json",
+    "path": "data/content/drafts/shimano-bicycle-museum-review.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/several-vulnerabilities-have-been-discovered-in-the-linux-kernel.json",
     "passed": true,
     "errors": []
   }

@@ -1,92 +1,94 @@
 [
   {
-    "title": "The death of web development education",
-    "url": "https://molily.de/web-dev-education/",
-    "summary": " Article URL:  https://molily.de/web-dev-education/  \n Comments URL:  https://news.ycombinator.com/item?id=49927100  \n Points: 78 \n # Comments: 56 ",
+    "title": "Frog and Toad and the Increasingly Capable Machines",
+    "url": "https://www.frogandtoad.ai/",
+    "summary": " Article URL:  https://www.frogandtoad.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=49927760  \n Points: 103 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309570+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-02T05:44:09.122776+00:00"
   },
   {
-    "title": "SvelteKit 3 Is Here",
-    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-    "summary": " Article URL:  https://svelte.dev/blog/sveltekit-3-is-here  \n Comments URL:  https://news.ycombinator.com/item?id=49926536  \n Points: 27 \n # Comments: 2 ",
+    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+    "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+    "summary": " Article URL:  https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness  \n Comments URL:  https://news.ycombinator.com/item?id=49926917  \n Points: 110 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309591+00:00"
-  },
-  {
-    "title": "Show HN: Rhun, an open-source code editor written in assembly",
-    "url": "https://rhun.app/",
-    "summary": " I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription. It's a solo project, MIT licensed and still early. \n \n Comments URL:  https://news.ycombinator.com/item?id=49926726  \n Points: 12 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309585+00:00"
+    "researched_at": "2026-10-02T05:44:09.122782+00:00"
   },
   {
     "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
     "url": "https://github.com/Vibra-Ingenn/Janus",
-    "summary": " Article URL:  https://github.com/Vibra-Ingenn/Janus  \n Comments URL:  https://news.ycombinator.com/item?id=49926773  \n Points: 29 \n # Comments: 2 ",
+    "summary": " Article URL:  https://github.com/Vibra-Ingenn/Janus  \n Comments URL:  https://news.ycombinator.com/item?id=49926773  \n Points: 61 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309578+00:00"
+    "researched_at": "2026-10-02T05:44:09.122789+00:00"
   },
   {
-    "title": "Pi Durable",
-    "url": "https://earendil.com/posts/pi-durable/",
-    "summary": " Article URL:  https://earendil.com/posts/pi-durable/  \n Comments URL:  https://news.ycombinator.com/item?id=49925969  \n Points: 146 \n # Comments: 14 ",
+    "title": "Shimano Bicycle Museum Review",
+    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+    "summary": " Article URL:  https://inrng.com/2026/10/shimano-bicycle-museum/  \n Comments URL:  https://news.ycombinator.com/item?id=49930047  \n Points: 5 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309600+00:00"
+    "researched_at": "2026-10-02T05:44:09.122750+00:00"
   },
   {
-    "title": "Pi 1.0",
-    "url": "https://earendil.com/posts/pi-1-0/",
-    "summary": " Article URL:  https://earendil.com/posts/pi-1-0/  \n Comments URL:  https://news.ycombinator.com/item?id=49926069  \n Points: 501 \n # Comments: 176 ",
+    "title": "Several vulnerabilities have been discovered in the Linux kernel",
+    "url": "https://lwn.net/Articles/1097401/",
+    "summary": " Article URL:  https://lwn.net/Articles/1097401/  \n Comments URL:  https://news.ycombinator.com/item?id=49928121  \n Points: 212 \n # Comments: 137 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309597+00:00"
+    "researched_at": "2026-10-02T05:44:09.122773+00:00"
   },
   {
-    "title": "OpenRadioss is not open anymore",
-    "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
-    "summary": " Article URL:  https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/  \n Comments URL:  https://news.ycombinator.com/item?id=49927392  \n Points: 11 \n # Comments: 10 ",
+    "title": "Meta's Muse is fantastic for web scraping",
+    "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+    "summary": " Article URL:  https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/  \n Comments URL:  https://news.ycombinator.com/item?id=49929970  \n Points: 12 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309558+00:00"
+    "researched_at": "2026-10-02T05:44:09.122759+00:00"
   },
   {
-    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-    "summary": " Article URL:  https://automatictransmission.khoury.northeastern.edu/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=49926628  \n Points: 107 \n # Comments: 93 ",
+    "title": "How Singapore's government-run dating service works",
+    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+    "summary": " Article URL:  https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works  \n Comments URL:  https://news.ycombinator.com/item?id=49929113  \n Points: 63 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309588+00:00"
+    "researched_at": "2026-10-02T05:44:09.122767+00:00"
+  },
+  {
+    "title": "DeepSeek Harness",
+    "url": "https://www.deepseek.com/en/harness/",
+    "summary": " Article URL:  https://www.deepseek.com/en/harness/  \n Comments URL:  https://news.ycombinator.com/item?id=49929489  \n Points: 85 \n # Comments: 25 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-02T05:44:09.122763+00:00"
   },
   {
     "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
     "url": "https://www.cssbed.com",
-    "summary": " Article URL:  https://www.cssbed.com  \n Comments URL:  https://news.ycombinator.com/item?id=49927212  \n Points: 17 \n # Comments: 3 ",
+    "summary": " Article URL:  https://www.cssbed.com  \n Comments URL:  https://news.ycombinator.com/item?id=49927212  \n Points: 86 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309566+00:00"
+    "researched_at": "2026-10-02T05:44:09.122779+00:00"
   },
   {
-    "title": "ArXiv's Updated Rate Limit Policy",
-    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-    "summary": " Article URL:  https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/  \n Comments URL:  https://news.ycombinator.com/item?id=49926512  \n Points: 35 \n # Comments: 12 ",
+    "title": "Butterflies use optical illusions to dodge predators",
+    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+    "summary": " Article URL:  https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators  \n Comments URL:  https://news.ycombinator.com/item?id=49928152  \n Points: 29 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-01T22:43:53.309594+00:00"
+    "researched_at": "2026-10-02T05:44:09.122770+00:00"
   }
 ]

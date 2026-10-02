@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "the-death-of-web-development-education",
+    "content_id": "frog-and-toad-and-the-increasingly-capable-machines",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,10 +8,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-01T22:43:53.313142+00:00"
+    "recorded_at": "2026-10-02T05:44:09.126322+00:00"
   },
   {
-    "content_id": "sveltekit-3-is-here",
+    "content_id": "using-opus-5-5-to-discover-a-new-eyewitness-record-of-the-dodo",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,18 +19,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-01T22:43:53.313147+00:00"
-  },
-  {
-    "content_id": "show-hn-rhun-an-open-source-code-editor-written-in-assembly",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-01T22:43:53.313150+00:00"
+    "recorded_at": "2026-10-02T05:44:09.126328+00:00"
   },
   {
     "content_id": "show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amd-intel-nvidia",
@@ -41,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-01T22:43:53.313152+00:00"
+    "recorded_at": "2026-10-02T05:44:09.126331+00:00"
   },
   {
-    "content_id": "pi-durable",
+    "content_id": "shimano-bicycle-museum-review",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -52,6 +41,17 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-01T22:43:53.313154+00:00"
+    "recorded_at": "2026-10-02T05:44:09.126333+00:00"
+  },
+  {
+    "content_id": "several-vulnerabilities-have-been-discovered-in-the-linux-kernel",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-02T05:44:09.126334+00:00"
   }
 ]
