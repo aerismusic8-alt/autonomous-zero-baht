@@ -1,94 +1,98 @@
 [
   {
-    "title": "Frog and Toad and the Increasingly Capable Machines",
-    "url": "https://www.frogandtoad.ai/",
-    "summary": " Article URL:  https://www.frogandtoad.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=49927760  \n Points: 239 \n # Comments: 56 ",
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "summary": " Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time. When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc. Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model. So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right? Then, after months of iterations and trying one thing after the other... it worked!!! Long story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-02T12:42:03.076105+00:00"
+    "researched_at": "2026-10-02T22:17:29.801720+00:00"
   },
   {
-    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-    "url": "https://github.com/kvoltmer/Audionaut",
-    "summary": " Article URL:  https://github.com/kvoltmer/Audionaut  \n Comments URL:  https://news.ycombinator.com/item?id=49931031  \n Points: 39 \n # Comments: 12 ",
+    "title": "STS-51-F Abort-to-Orbit (1985)",
+    "url": "https://en.wikipedia.org/wiki/STS-51-F",
+    "summary": " Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure. Some 2015 coverage of this mission:  https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...   https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49935797  \n Points: 26 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-02T22:17:29.801740+00:00"
+  },
+  {
+    "title": "Muse Gadgets",
+    "url": "https://gadgets.muse.ai",
+    "summary": " Article URL:  https://gadgets.muse.ai  \n Comments URL:  https://news.ycombinator.com/item?id=49937504  \n Points: 52 \n # Comments: 35 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-02T22:17:29.801727+00:00"
+  },
+  {
+    "title": "Zig v0.17.0",
+    "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "summary": " Article URL:  https://ziglang.org/download/0.17.0/release-notes.html  \n Comments URL:  https://news.ycombinator.com/item?id=49938521  \n Points: 107 \n # Comments: 47 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076086+00:00"
+    "researched_at": "2026-10-02T22:17:29.801702+00:00"
   },
   {
-    "title": "Shimano Bicycle Museum Review",
-    "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-    "summary": " Article URL:  https://inrng.com/2026/10/shimano-bicycle-museum/  \n Comments URL:  https://news.ycombinator.com/item?id=49930047  \n Points: 158 \n # Comments: 25 ",
+    "title": "The Harness Is the Company",
+    "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "summary": " Article URL:  https://blog.sshh.io/p/the-harness-is-the-company  \n Comments URL:  https://news.ycombinator.com/item?id=49938616  \n Points: 13 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076089+00:00"
+    "researched_at": "2026-10-02T22:17:29.801663+00:00"
   },
   {
-    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-    "url": "https://lwn.net/Articles/1097401/",
-    "summary": " Article URL:  https://lwn.net/Articles/1097401/  \n Comments URL:  https://news.ycombinator.com/item?id=49928121  \n Points: 382 \n # Comments: 272 ",
+    "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+    "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+    "summary": " Article URL:  https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression  \n Comments URL:  https://news.ycombinator.com/item?id=49937718  \n Points: 81 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076102+00:00"
+    "researched_at": "2026-10-02T22:17:29.801724+00:00"
   },
   {
-    "title": "How Singapore's government-run dating service works",
-    "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-    "summary": " Article URL:  https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works  \n Comments URL:  https://news.ycombinator.com/item?id=49929113  \n Points: 198 \n # Comments: 184 ",
+    "title": "From the creator of Redis; run LLM locally with ds4",
+    "url": "https://dwarfstar.sh/",
+    "summary": " Article URL:  https://dwarfstar.sh/  \n Comments URL:  https://news.ycombinator.com/item?id=49936575  \n Points: 90 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076096+00:00"
+    "researched_at": "2026-10-02T22:17:29.801736+00:00"
   },
   {
-    "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
-    "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
-    "summary": " Article URL:  https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/  \n Comments URL:  https://news.ycombinator.com/item?id=49932606  \n Points: 15 \n # Comments: 3 ",
+    "title": "Everyone's Packing Up",
+    "url": "https://widdershins.verja.net/everyones-packing-up/",
+    "summary": " Article URL:  https://widdershins.verja.net/everyones-packing-up/  \n Comments URL:  https://news.ycombinator.com/item?id=49938047  \n Points: 79 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076066+00:00"
+    "researched_at": "2026-10-02T22:17:29.801710+00:00"
   },
   {
-    "title": "European payments groups join forces to challenge US dominance",
-    "url": "https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/",
-    "summary": " Article URL:  https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/  \n Comments URL:  https://news.ycombinator.com/item?id=49932383  \n Points: 18 \n # Comments: 6 ",
+    "title": "Apple Pass Designer",
+    "url": "https://developer.apple.com/pass-designer/",
+    "summary": " Article URL:  https://developer.apple.com/pass-designer/  \n Comments URL:  https://news.ycombinator.com/item?id=49937276  \n Points: 220 \n # Comments: 151 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076074+00:00"
+    "researched_at": "2026-10-02T22:17:29.801733+00:00"
   },
   {
-    "title": "DeepSeek Harness Desktop for macOS and Windows",
-    "url": "https://www.deepseek.com/en/harness/",
-    "summary": " Article URL:  https://www.deepseek.com/en/harness/  \n Comments URL:  https://news.ycombinator.com/item?id=49929489  \n Points: 274 \n # Comments: 142 ",
+    "title": "\"The only intuitive interface is the nipple\" (2012)",
+    "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+    "summary": " Article URL:  https://www.greenend.org.uk/rjk/misc/nipple.html  \n Comments URL:  https://news.ycombinator.com/item?id=49937387  \n Points: 27 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076093+00:00"
-  },
-  {
-    "title": "Butterflies use optical illusions to dodge predators",
-    "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-    "summary": " Article URL:  https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators  \n Comments URL:  https://news.ycombinator.com/item?id=49928152  \n Points: 57 \n # Comments: 12 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076099+00:00"
-  },
-  {
-    "title": "Alarm Grows over 'Clearly Illegal' US Election Meddling in Brazil",
-    "url": "https://www.commondreams.org/news/trump-election-interference-brazil",
-    "summary": " Article URL:  https://www.commondreams.org/news/trump-election-interference-brazil  \n Comments URL:  https://news.ycombinator.com/item?id=49931926  \n Points: 14 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-02T12:42:03.076079+00:00"
+    "researched_at": "2026-10-02T22:17:29.801730+00:00"
   }
 ]

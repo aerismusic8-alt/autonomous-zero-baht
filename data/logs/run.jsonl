@@ -281,3 +281,22 @@
 {"timestamp": "2026-10-02T12:42:03.079357+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-02T12:42:03.079565+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-02T12:42:03.079890+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-02T22:17:29.413176+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-02T22:17:29.418963+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.419743+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-02T22:17:29.420561+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-02T22:17:29.548322+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-02T22:17:29.801536+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-02T22:17:29.802795+00:00", "event": "draft_created", "draft_id": "show-hn-made-an-open-source-lego-ai-generator", "path": "data/content/drafts/show-hn-made-an-open-source-lego-ai-generator.json"}
+{"timestamp": "2026-10-02T22:17:29.803099+00:00", "event": "draft_created", "draft_id": "sts-51-f-abort-to-orbit-1985", "path": "data/content/drafts/sts-51-f-abort-to-orbit-1985.json"}
+{"timestamp": "2026-10-02T22:17:29.803375+00:00", "event": "draft_created", "draft_id": "muse-gadgets", "path": "data/content/drafts/muse-gadgets.json"}
+{"timestamp": "2026-10-02T22:17:29.803648+00:00", "event": "draft_created", "draft_id": "zig-v0-17-0", "path": "data/content/drafts/zig-v0-17-0.json"}
+{"timestamp": "2026-10-02T22:17:29.803951+00:00", "event": "draft_created", "draft_id": "the-harness-is-the-company", "path": "data/content/drafts/the-harness-is-the-company.json"}
+{"timestamp": "2026-10-02T22:17:29.804108+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-made-an-open-source-lego-ai-generator.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.804253+00:00", "event": "draft_validation", "path": "data/content/drafts/sts-51-f-abort-to-orbit-1985.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.804386+00:00", "event": "draft_validation", "path": "data/content/drafts/muse-gadgets.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.804521+00:00", "event": "draft_validation", "path": "data/content/drafts/zig-v0-17-0.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.804651+00:00", "event": "draft_validation", "path": "data/content/drafts/the-harness-is-the-company.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-02T22:17:29.804909+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-02T22:17:29.805121+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-02T22:17:29.805404+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
