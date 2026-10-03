@@ -319,3 +319,22 @@
 {"timestamp": "2026-10-03T05:22:47.370241+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-03T05:22:47.370321+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-03T05:22:47.370487+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-03T11:43:50.098991+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-03T11:43:50.102718+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.103205+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-03T11:43:50.103831+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-03T11:43:50.217968+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-03T11:43:50.809171+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-03T11:43:50.810269+00:00", "event": "draft_created", "draft_id": "gemini-ending-free-use-of-flash-and-pro-models", "path": "data/content/drafts/gemini-ending-free-use-of-flash-and-pro-models.json"}
+{"timestamp": "2026-10-03T11:43:50.810488+00:00", "event": "draft_created", "draft_id": "updates-to-full-disk-access-in-macos", "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json"}
+{"timestamp": "2026-10-03T11:43:50.810674+00:00", "event": "draft_created", "draft_id": "show-hn-offrun-manage-every-coding-agent-from-one-workspace", "path": "data/content/drafts/show-hn-offrun-manage-every-coding-agent-from-one-workspace.json"}
+{"timestamp": "2026-10-03T11:43:50.810839+00:00", "event": "draft_created", "draft_id": "newgrounds-com-a-community-of-games-music-and-art", "path": "data/content/drafts/newgrounds-com-a-community-of-games-music-and-art.json"}
+{"timestamp": "2026-10-03T11:43:50.811004+00:00", "event": "draft_created", "draft_id": "make-tmux-the-os", "path": "data/content/drafts/make-tmux-the-os.json"}
+{"timestamp": "2026-10-03T11:43:50.811130+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-ending-free-use-of-flash-and-pro-models.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.811218+00:00", "event": "draft_validation", "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.811293+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-offrun-manage-every-coding-agent-from-one-workspace.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.811367+00:00", "event": "draft_validation", "path": "data/content/drafts/newgrounds-com-a-community-of-games-music-and-art.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.811434+00:00", "event": "draft_validation", "path": "data/content/drafts/make-tmux-the-os.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T11:43:50.811585+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-03T11:43:50.811684+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-03T11:43:50.811848+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
