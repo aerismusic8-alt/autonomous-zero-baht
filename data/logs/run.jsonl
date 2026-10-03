@@ -300,3 +300,22 @@
 {"timestamp": "2026-10-02T22:17:29.804909+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-02T22:17:29.805121+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-02T22:17:29.805404+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-03T05:22:47.041271+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-03T05:22:47.043946+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.044354+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-03T05:22:47.044839+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-03T05:22:47.137310+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-03T05:22:47.368191+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-03T05:22:47.369138+00:00", "event": "draft_created", "draft_id": "show-hn-made-an-open-source-lego-ai-generator", "path": "data/content/drafts/show-hn-made-an-open-source-lego-ai-generator.json"}
+{"timestamp": "2026-10-03T05:22:47.369345+00:00", "event": "draft_created", "draft_id": "ntsb-preliminary-report-prime-air-767-runway-overrun-pdf", "path": "data/content/drafts/ntsb-preliminary-report-prime-air-767-runway-overrun-pdf.json"}
+{"timestamp": "2026-10-03T05:22:47.369493+00:00", "event": "draft_created", "draft_id": "muse-gadgets", "path": "data/content/drafts/muse-gadgets.json"}
+{"timestamp": "2026-10-03T05:22:47.369657+00:00", "event": "draft_created", "draft_id": "where-is-the-planet", "path": "data/content/drafts/where-is-the-planet.json"}
+{"timestamp": "2026-10-03T05:22:47.369789+00:00", "event": "draft_created", "draft_id": "updates-to-full-disk-access-in-macos", "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json"}
+{"timestamp": "2026-10-03T05:22:47.369886+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-made-an-open-source-lego-ai-generator.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.369956+00:00", "event": "draft_validation", "path": "data/content/drafts/ntsb-preliminary-report-prime-air-767-runway-overrun-pdf.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.370014+00:00", "event": "draft_validation", "path": "data/content/drafts/muse-gadgets.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.370068+00:00", "event": "draft_validation", "path": "data/content/drafts/where-is-the-planet.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.370120+00:00", "event": "draft_validation", "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-03T05:22:47.370241+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-03T05:22:47.370321+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-03T05:22:47.370487+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

@@ -5,7 +5,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/sts-51-f-abort-to-orbit-1985.json",
+    "path": "data/content/drafts/ntsb-preliminary-report-prime-air-767-runway-overrun-pdf.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/zig-v0-17-0.json",
+    "path": "data/content/drafts/where-is-the-planet.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/the-harness-is-the-company.json",
+    "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json",
     "passed": true,
     "errors": []
   }
