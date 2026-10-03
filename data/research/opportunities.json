@@ -1,94 +1,96 @@
 [
   {
-    "title": "Gemini ending free use of Flash and Pro models",
-    "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
-    "summary": " Article URL:  https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/  \n Comments URL:  https://news.ycombinator.com/item?id=49942592  \n Points: 29 \n # Comments: 15 ",
+    "title": "US killer's sentence quashed because of AI video of victim shown in court",
+    "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+    "summary": " Article URL:  https://www.bbc.com/news/articles/cwgkvygg5nzvo  \n Comments URL:  https://news.ycombinator.com/item?id=49944127  \n Points: 34 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-03T11:43:50.809338+00:00"
+    "researched_at": "2026-10-03T16:25:52.103567+00:00"
   },
   {
-    "title": "Updates to Full Disk Access in macOS",
-    "url": "https://developer.apple.com/news/?id=p6zjojqw",
-    "summary": " Article URL:  https://developer.apple.com/news/?id=p6zjojqw  \n Comments URL:  https://news.ycombinator.com/item?id=49937631  \n Points: 211 \n # Comments: 141 ",
+    "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+    "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+    "summary": " Article URL:  https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack  \n Comments URL:  https://news.ycombinator.com/item?id=49943524  \n Points: 0 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-03T16:25:52.103572+00:00"
+  },
+  {
+    "title": "The Escalation of War in Ethiopia",
+    "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+    "summary": " Article URL:  https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia  \n Comments URL:  https://news.ycombinator.com/item?id=49943451  \n Points: 114 \n # Comments: 107 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809366+00:00"
+    "researched_at": "2026-10-03T16:25:52.103576+00:00"
   },
   {
     "title": "Show HN: Offrun – manage every coding agent from one workspace",
     "url": "https://offrun.dev/",
-    "summary": " Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left. \n \n Comments URL:  https://news.ycombinator.com/item?id=49942434  \n Points: 5 \n # Comments: 0 ",
+    "summary": " Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left. \n \n Comments URL:  https://news.ycombinator.com/item?id=49942434  \n Points: 47 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809347+00:00"
+    "researched_at": "2026-10-03T16:25:52.103593+00:00"
   },
   {
-    "title": "Newgrounds.com – A community of games, music, and art",
-    "url": "https://www.newgrounds.com/",
-    "summary": " Article URL:  https://www.newgrounds.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49940394  \n Points: 246 \n # Comments: 65 ",
+    "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "summary": " Article URL:  https://tej.as/blog/aleph-alpha-kolibri  \n Comments URL:  https://news.ycombinator.com/item?id=49943034  \n Points: 288 \n # Comments: 120 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809361+00:00"
+    "researched_at": "2026-10-03T16:25:52.103580+00:00"
   },
   {
-    "title": "Make Tmux the OS",
-    "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-    "summary": " Article URL:  https://matduggan.com/what-does-my-dream-os-ui-look-like/  \n Comments URL:  https://news.ycombinator.com/item?id=49937540  \n Points: 62 \n # Comments: 29 ",
+    "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "summary": " Article URL:  https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/  \n Comments URL:  https://news.ycombinator.com/item?id=49942706  \n Points: 188 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809369+00:00"
+    "researched_at": "2026-10-03T16:25:52.103583+00:00"
   },
   {
-    "title": "GitHub's new dashboard experience now the default",
-    "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
-    "summary": " Article URL:  https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/  \n Comments URL:  https://news.ycombinator.com/item?id=49942818  \n Points: 17 \n # Comments: 12 ",
+    "title": "FTL: A new operating system for clouds",
+    "url": "https://ftl-os.org/",
+    "summary": " Article URL:  https://ftl-os.org/  \n Comments URL:  https://news.ycombinator.com/item?id=49944912  \n Points: 19 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809331+00:00"
+    "researched_at": "2026-10-03T16:25:52.103558+00:00"
   },
   {
     "title": "Extra Big Ass Intelligence",
     "url": "https://www.extrabigassintelligence.com/",
-    "summary": " Article URL:  https://www.extrabigassintelligence.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49941114  \n Points: 315 \n # Comments: 68 ",
+    "summary": " Article URL:  https://www.extrabigassintelligence.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49941114  \n Points: 404 \n # Comments: 89 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809353+00:00"
+    "researched_at": "2026-10-03T16:25:52.103600+00:00"
   },
   {
     "title": "Cloudflare OHTTP gateway",
     "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "summary": " Article URL:  https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/  \n Comments URL:  https://news.ycombinator.com/item?id=49941091  \n Points: 95 \n # Comments: 24 ",
+    "summary": " Article URL:  https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/  \n Comments URL:  https://news.ycombinator.com/item?id=49941091  \n Points: 146 \n # Comments: 62 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809356+00:00"
-  },
-  {
-    "title": "Barcodes are about to go extinct",
-    "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
-    "summary": " Article URL:  https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct  \n Comments URL:  https://news.ycombinator.com/item?id=49938306  \n Points: 53 \n # Comments: 84 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809364+00:00"
+    "researched_at": "2026-10-03T16:25:52.103603+00:00"
   },
   {
     "title": "An Update on Orion for Linux and Windows",
     "url": "https://blog.kagi.com/update-orion-linux-windows",
-    "summary": " Article URL:  https://blog.kagi.com/update-orion-linux-windows  \n Comments URL:  https://news.ycombinator.com/item?id=49941447  \n Points: 68 \n # Comments: 35 ",
+    "summary": " Article URL:  https://blog.kagi.com/update-orion-linux-windows  \n Comments URL:  https://news.ycombinator.com/item?id=49941447  \n Points: 135 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-03T11:43:50.809350+00:00"
+    "researched_at": "2026-10-03T16:25:52.103596+00:00"
   }
 ]

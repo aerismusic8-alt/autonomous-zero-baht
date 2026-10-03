@@ -1,11 +1,16 @@
 [
   {
-    "path": "data/content/drafts/gemini-ending-free-use-of-flash-and-pro-models.json",
+    "path": "data/content/drafts/us-killer-s-sentence-quashed-because-of-ai-video-of-victim-shown-in-court.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/updates-to-full-disk-access-in-macos.json",
+    "path": "data/content/drafts/great-question-yc-w21-is-hiring-product-engineers-in-canada-remote.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-escalation-of-war-in-ethiopia.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/newgrounds-com-a-community-of-games-music-and-art.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/make-tmux-the-os.json",
+    "path": "data/content/drafts/kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english.json",
     "passed": true,
     "errors": []
   }
