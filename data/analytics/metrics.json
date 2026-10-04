@@ -1,5 +1,27 @@
 [
   {
+    "content_id": "show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-04T12:26:40.931684+00:00"
+  },
+  {
+    "content_id": "in-ukraine-distributed-renewables-foil-russia-s-assaults",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-04T12:26:40.931690+00:00"
+  },
+  {
     "content_id": "why-don-t-more-developers-use-the-platform",
     "impressions": null,
     "clicks": null,
@@ -8,7 +30,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-04T05:58:41.237590+00:00"
+    "recorded_at": "2026-10-04T12:26:40.931692+00:00"
   },
   {
     "content_id": "we-re-working-on-a-new-runescape-mmo",
@@ -19,7 +41,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-04T05:58:41.237593+00:00"
+    "recorded_at": "2026-10-04T12:26:40.931695+00:00"
   },
   {
     "content_id": "we-re-going-to-need-default-hard-budget-caps-on-pretty-much-everything",
@@ -30,28 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-04T05:58:41.237595+00:00"
-  },
-  {
-    "content_id": "the-work-by-valve-s-timur-krist-f-on-improving-old-amd-gpus-on-linux",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-04T05:58:41.237597+00:00"
-  },
-  {
-    "content_id": "tell-hn-bob-cringely-has-died",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-04T05:58:41.237598+00:00"
+    "recorded_at": "2026-10-04T12:26:40.931697+00:00"
   }
 ]
