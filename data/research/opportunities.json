@@ -1,96 +1,98 @@
 [
   {
+    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "summary": " Article URL:  https://github.com/omlahore/RemoveMacAI  \n Comments URL:  https://news.ycombinator.com/item?id=49957116  \n Points: 139 \n # Comments: 62 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-04T21:32:19.852536+00:00"
+  },
+  {
     "title": "Show HN: AI search for every photo and every frame of video on macOS",
     "url": "https://github.com/allenv0/SCM",
-    "summary": " Article URL:  https://github.com/allenv0/SCM  \n Comments URL:  https://news.ycombinator.com/item?id=49952111  \n Points: 6 \n # Comments: 1 ",
+    "summary": " Article URL:  https://github.com/allenv0/SCM  \n Comments URL:  https://news.ycombinator.com/item?id=49952111  \n Points: 125 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-04T12:26:40.928027+00:00"
+    "researched_at": "2026-10-04T21:32:19.852570+00:00"
   },
   {
-    "title": "In Ukraine, distributed renewables foil Russia's assaults",
-    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "summary": " Article URL:  https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/  \n Comments URL:  https://news.ycombinator.com/item?id=49951881  \n Points: 108 \n # Comments: 89 ",
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "summary": " Paper: \n https://www.usenix.org/system/files/atc21-ousterhout.pdf  Related:  https://lwn.net/Articles/1003059/ ,  https://www.theregister.com/networks/2026/10/01/stanford-pro...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49957117  \n Points: 20 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-04T12:26:40.928039+00:00"
+    "researched_at": "2026-10-04T21:32:19.852532+00:00"
   },
   {
-    "title": "Why don't more developers “use the platform”?",
-    "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-    "summary": " Article URL:  https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/  \n Comments URL:  https://news.ycombinator.com/item?id=49950554  \n Points: 166 \n # Comments: 139 ",
+    "title": "The evolution of effective altruism",
+    "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
+    "summary": "  https://archive.ph/3gSCc  Related:  https://www.economist.com/by-invitation/2026/10/04/will-maca...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49953777  \n Points: 40 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928049+00:00"
+    "researched_at": "2026-10-04T21:32:19.852562+00:00"
   },
   {
-    "title": "We're working on a new RuneScape MMO",
-    "url": "https://play.runescape.com/4",
-    "summary": " Article URL:  https://play.runescape.com/4  \n Comments URL:  https://news.ycombinator.com/item?id=49949588  \n Points: 90 \n # Comments: 36 ",
+    "title": "Show HN: Build with Python – a beginner course where your code draws",
+    "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+    "summary": " Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc. The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output. The course has 13 modules, with the first 6 foundation modules free, module 7-13 with free readings but guide labs for a one-time price of $49. Please give it a try at  https://scimigo.com/en/learn/build-with-python \nSend me feedback on the UX and on the exercise design, especially if you teach kids to program. I am also working on a C++ version for beginners (also with browser, no gcc or command lines). stay tuned. \n \n Comments URL:  https://news.ycombinator.com/item?id=49956771  \n Points: 11 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928056+00:00"
+    "researched_at": "2026-10-04T21:32:19.852555+00:00"
   },
   {
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "summary": " Article URL:  https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/  \n Comments URL:  https://news.ycombinator.com/item?id=49949235  \n Points: 475 \n # Comments: 233 ",
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "summary": " Article URL:  https://github.com/Niko1221/Strata  \n Comments URL:  https://news.ycombinator.com/item?id=49953495  \n Points: 489 \n # Comments: 249 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928063+00:00"
+    "researched_at": "2026-10-04T21:32:19.852565+00:00"
   },
   {
-    "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-    "url": "https://gamehistory.org/5k-magazines/",
-    "summary": " Article URL:  https://gamehistory.org/5k-magazines/  \n Comments URL:  https://news.ycombinator.com/item?id=49952029  \n Points: 38 \n # Comments: 3 ",
+    "title": "Incentives in Academic Research",
+    "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+    "summary": " Article URL:  https://www.msoos.org/2026/10/incentives-in-academic-research/  \n Comments URL:  https://news.ycombinator.com/item?id=49956035  \n Points: 12 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928034+00:00"
+    "researched_at": "2026-10-04T21:32:19.852559+00:00"
   },
   {
-    "title": "Tell HN: Bob Cringely has died",
-    "url": "https://news.ycombinator.com/item?id=49949438",
-    "summary": " I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed. \n \n Comments URL:  https://news.ycombinator.com/item?id=49949438  \n Points: 524 \n # Comments: 104 ",
+    "title": "Improper redaction reveals Google Data Center water and electricity usage",
+    "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+    "summary": " Article URL:  https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/  \n Comments URL:  https://news.ycombinator.com/item?id=49957068  \n Points: 100 \n # Comments: 116 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928059+00:00"
+    "researched_at": "2026-10-04T21:32:19.852540+00:00"
   },
   {
-    "title": "Religious scholars met with Anthropic",
-    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-    "summary": "  https://archive.is/y8FW0  \n \n Comments URL:  https://news.ycombinator.com/item?id=49950052  \n Points: 91 \n # Comments: 217 ",
+    "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+    "url": "https://island-three.gruberbuilds.workers.dev/",
+    "summary": " Article URL:  https://island-three.gruberbuilds.workers.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=49957191  \n Points: 19 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928053+00:00"
+    "researched_at": "2026-10-04T21:32:19.852524+00:00"
   },
   {
-    "title": "Reasons I didn't become an EMT, ranked",
-    "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-    "summary": " Article URL:  https://ben.stolovitz.com/posts/reasons-not-emt-ranked/  \n Comments URL:  https://news.ycombinator.com/item?id=49947631  \n Points: 167 \n # Comments: 78 ",
+    "title": "Bill Draper has died",
+    "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+    "summary": "  https://archive.ph/YRgDY  \n \n Comments URL:  https://news.ycombinator.com/item?id=49953288  \n Points: 40 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928065+00:00"
-  },
-  {
-    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-    "url": "https://github.com/PowderworksCode/headstart",
-    "summary": " Article URL:  https://github.com/PowderworksCode/headstart  \n Comments URL:  https://news.ycombinator.com/item?id=49951218  \n Points: 16 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-04T12:26:40.928042+00:00"
+    "researched_at": "2026-10-04T21:32:19.852567+00:00"
   }
 ]
