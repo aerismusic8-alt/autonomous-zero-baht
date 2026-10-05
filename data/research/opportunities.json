@@ -2,97 +2,99 @@
   {
     "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
     "url": "https://github.com/omlahore/RemoveMacAI",
-    "summary": " Article URL:  https://github.com/omlahore/RemoveMacAI  \n Comments URL:  https://news.ycombinator.com/item?id=49957116  \n Points: 139 \n # Comments: 62 ",
+    "summary": " Article URL:  https://github.com/omlahore/RemoveMacAI  \n Comments URL:  https://news.ycombinator.com/item?id=49957116  \n Points: 475 \n # Comments: 298 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-04T21:32:19.852536+00:00"
+    "researched_at": "2026-10-05T05:47:12.322538+00:00"
   },
   {
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "url": "https://github.com/allenv0/SCM",
-    "summary": " Article URL:  https://github.com/allenv0/SCM  \n Comments URL:  https://news.ycombinator.com/item?id=49952111  \n Points: 125 \n # Comments: 59 ",
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "summary": " Article URL:  https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/  \n Comments URL:  https://news.ycombinator.com/item?id=49959869  \n Points: 158 \n # Comments: 92 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-04T21:32:19.852570+00:00"
+    "researched_at": "2026-10-05T05:47:12.322510+00:00"
+  },
+  {
+    "title": "In the wake of closure, a digital archive of animated materials appears online",
+    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "summary": "  https://archive.org/details/tippett-archive/  \n \n Comments URL:  https://news.ycombinator.com/item?id=49957812  \n Points: 86 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-05T05:47:12.322529+00:00"
   },
   {
     "title": "Homa: The end of TCP for AI clusters [video]",
     "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-    "summary": " Paper: \n https://www.usenix.org/system/files/atc21-ousterhout.pdf  Related:  https://lwn.net/Articles/1003059/ ,  https://www.theregister.com/networks/2026/10/01/stanford-pro...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49957117  \n Points: 20 \n # Comments: 2 ",
+    "summary": " Paper: \n https://www.usenix.org/system/files/atc21-ousterhout.pdf  Related:  https://lwn.net/Articles/1003059/ ,  https://www.theregister.com/networks/2026/10/01/stanford-pro...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49957117  \n Points: 66 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-04T21:32:19.852532+00:00"
+    "researched_at": "2026-10-05T05:47:12.322534+00:00"
   },
   {
-    "title": "The evolution of effective altruism",
-    "url": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-    "summary": "  https://archive.ph/3gSCc  Related:  https://www.economist.com/by-invitation/2026/10/04/will-maca...  \n \n Comments URL:  https://news.ycombinator.com/item?id=49953777  \n Points: 40 \n # Comments: 53 ",
+    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+    "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+    "summary": " Article URL:  https://vincent.bernat.ch/en/blog/2026-http-over-ssh  \n Comments URL:  https://news.ycombinator.com/item?id=49958569  \n Points: 106 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852562+00:00"
+    "researched_at": "2026-10-05T05:47:12.322524+00:00"
   },
   {
-    "title": "Show HN: Build with Python – a beginner course where your code draws",
-    "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-    "summary": " Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying on CLI/terminal output. No need to worry about python installation, package versions, venv etc. The lab runs with Pyodide in a web worker, and the program output is a picture by the side of the code block. A user would experiment with the code, and see the immediate changes in the visual output. The course has 13 modules, with the first 6 foundation modules free, module 7-13 with free readings but guide labs for a one-time price of $49. Please give it a try at  https://scimigo.com/en/learn/build-with-python \nSend me feedback on the UX and on the exercise design, especially if you teach kids to program. I am also working on a C++ version for beginners (also with browser, no gcc or command lines). stay tuned. \n \n Comments URL:  https://news.ycombinator.com/item?id=49956771  \n Points: 11 \n # Comments: 3 ",
+    "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+    "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+    "summary": " Article URL:  https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857  \n Comments URL:  https://news.ycombinator.com/item?id=49960084  \n Points: 148 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852555+00:00"
+    "researched_at": "2026-10-05T05:47:12.322506+00:00"
   },
   {
-    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-    "url": "https://github.com/Niko1221/Strata",
-    "summary": " Article URL:  https://github.com/Niko1221/Strata  \n Comments URL:  https://news.ycombinator.com/item?id=49953495  \n Points: 489 \n # Comments: 249 ",
+    "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+    "url": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
+    "summary": " Article URL:  https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/  \n Comments URL:  https://news.ycombinator.com/item?id=49960628  \n Points: 8 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852565+00:00"
-  },
-  {
-    "title": "Incentives in Academic Research",
-    "url": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-    "summary": " Article URL:  https://www.msoos.org/2026/10/incentives-in-academic-research/  \n Comments URL:  https://news.ycombinator.com/item?id=49956035  \n Points: 12 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852559+00:00"
+    "researched_at": "2026-10-05T05:47:12.322497+00:00"
   },
   {
     "title": "Improper redaction reveals Google Data Center water and electricity usage",
     "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-    "summary": " Article URL:  https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/  \n Comments URL:  https://news.ycombinator.com/item?id=49957068  \n Points: 100 \n # Comments: 116 ",
+    "summary": " Article URL:  https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/  \n Comments URL:  https://news.ycombinator.com/item?id=49957068  \n Points: 329 \n # Comments: 440 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852540+00:00"
+    "researched_at": "2026-10-05T05:47:12.322542+00:00"
   },
   {
-    "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-    "url": "https://island-three.gruberbuilds.workers.dev/",
-    "summary": " Article URL:  https://island-three.gruberbuilds.workers.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=49957191  \n Points: 19 \n # Comments: 15 ",
+    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+    "url": "https://getartcraft.com/apps",
+    "summary": " Article URL:  https://getartcraft.com/apps  \n Comments URL:  https://news.ycombinator.com/item?id=49958850  \n Points: 67 \n # Comments: 71 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852524+00:00"
+    "researched_at": "2026-10-05T05:47:12.322521+00:00"
   },
   {
-    "title": "Bill Draper has died",
-    "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-    "summary": "  https://archive.ph/YRgDY  \n \n Comments URL:  https://news.ycombinator.com/item?id=49953288  \n Points: 40 \n # Comments: 12 ",
+    "title": "A 40ms Go garbage collector pause caused by swap",
+    "url": "https://frn.sh/go-gc/",
+    "summary": " Article URL:  https://frn.sh/go-gc/  \n Comments URL:  https://news.ycombinator.com/item?id=49959654  \n Points: 34 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-04T21:32:19.852567+00:00"
+    "researched_at": "2026-10-05T05:47:12.322514+00:00"
   }
 ]

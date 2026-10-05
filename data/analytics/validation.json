@@ -5,7 +5,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.json",
+    "path": "data/content/drafts/powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/in-the-wake-of-closure-a-digital-archive-of-animated-materials-appears-online.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/the-evolution-of-effective-altruism.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-build-with-python-a-beginner-course-where-your-code-draws.json",
+    "path": "data/content/drafts/self-hosted-http-tunnels-with-ssh-and-nginx.json",
     "passed": true,
     "errors": []
   }
