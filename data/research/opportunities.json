@@ -1,98 +1,94 @@
 [
   {
-    "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-    "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-    "summary": " Article URL:  https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a  \n Comments URL:  https://news.ycombinator.com/item?id=49964537  \n Points: 28 \n # Comments: 22 ",
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "url": "https://qlabs.sh/research/dust",
+    "summary": " Article URL:  https://qlabs.sh/research/dust  \n Comments URL:  https://news.ycombinator.com/item?id=49970871  \n Points: 74 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-05T14:47:38.291947+00:00"
+    "researched_at": "2026-10-06T00:06:04.811879+00:00"
   },
   {
-    "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-    "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=RFTfANuLBF4  \n Comments URL:  https://news.ycombinator.com/item?id=49965042  \n Points: 3 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-05T14:47:38.291941+00:00"
-  },
-  {
-    "title": "Gitframes",
-    "url": "https://github.com/gatewai-dev/gitframes",
-    "summary": " Article URL:  https://github.com/gatewai-dev/gitframes  \n Comments URL:  https://news.ycombinator.com/item?id=49964265  \n Points: 37 \n # Comments: 18 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-05T14:47:38.291953+00:00"
-  },
-  {
-    "title": "Web Search API",
-    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-    "summary": " Article URL:  https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/  \n Comments URL:  https://news.ycombinator.com/item?id=49963171  \n Points: 152 \n # Comments: 86 ",
+    "title": "Worth Building",
+    "url": "https://armstr.ng/writing/worth-building",
+    "summary": " Article URL:  https://armstr.ng/writing/worth-building  \n Comments URL:  https://news.ycombinator.com/item?id=49971952  \n Points: 17 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291966+00:00"
+    "researched_at": "2026-10-06T00:06:04.811855+00:00"
   },
   {
-    "title": "The Era of Software Quality, or the Era of Ostriches?",
-    "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-    "summary": " Article URL:  https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/  \n Comments URL:  https://news.ycombinator.com/item?id=49964018  \n Points: 30 \n # Comments: 7 ",
+    "title": "Texas city demands $2M for public records on Flock usage",
+    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/  \n Comments URL:  https://news.ycombinator.com/item?id=49971523  \n Points: 42 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291961+00:00"
+    "researched_at": "2026-10-06T00:06:04.811871+00:00"
   },
   {
-    "title": "Tell HN: Uceprotect is extorting website owners",
-    "url": "https://news.ycombinator.com/item?id=49964045",
-    "summary": " I recently discovered by accident that our website was being blocked by Orange's security filters. After a quick check, I found that our IP address is listed on UCEPROTECT Level 3. The listing is based on the reputation of the entire ASN 14061 (DigitalOcean, US) [1]. In other words, even if your IP did nothing wrong, it will still be listed because of its ASN. If your site is innocent and listed only because it's hosted on DigitalOcean, UCEPROTECT offers to whitelist it for about $30/month or $108/year [2]. I checked the ASNs of several other popular hosting providers, and they're all listed too. So if your site is hosted on DigitalOcean or any other major provider, it's probably blacklisted as well. That can cut you off from customers on mobile networks like Orange, whose \"cybersecurity protection\" uses blacklists like UCEPROTECT to filter traffic. Honestly, in my 20-year career, this is the first time I've seen a blacklist misbehave this badly and ask for money when there's clearly ",
+    "title": "Graphical UI",
+    "url": "https://www.graphicalui.com/",
+    "summary": " Article URL:  https://www.graphicalui.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49971356  \n Points: 19 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291958+00:00"
+    "researched_at": "2026-10-06T00:06:04.811874+00:00"
   },
   {
-    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-    "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-    "summary": " Article URL:  https://www.nobelprize.org/prizes/medicine/2026/press-release/  \n Comments URL:  https://news.ycombinator.com/item?id=49963094  \n Points: 78 \n # Comments: 23 ",
+    "title": "Global Solar Atlas: summary of solar power potential globally",
+    "url": "https://globalsolaratlas.info/",
+    "summary": " Article URL:  https://globalsolaratlas.info/  \n Comments URL:  https://news.ycombinator.com/item?id=49971782  \n Points: 7 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291969+00:00"
+    "researched_at": "2026-10-06T00:06:04.811865+00:00"
   },
   {
-    "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-    "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-    "summary": " Article URL:  https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped  \n Comments URL:  https://news.ycombinator.com/item?id=49964303  \n Points: 110 \n # Comments: 67 ",
+    "title": "Find the flattest route between any two points in SF",
+    "url": "https://flattensf.com/",
+    "summary": " Article URL:  https://flattensf.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49971230  \n Points: 77 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291950+00:00"
+    "researched_at": "2026-10-06T00:06:04.811877+00:00"
   },
   {
-    "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-    "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-    "summary": " Article URL:  https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/  \n Comments URL:  https://news.ycombinator.com/item?id=49963366  \n Points: 215 \n # Comments: 186 ",
+    "title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+    "summary": " Article URL:  https://www.debugbear.com/blog/example-dot-com-redesign-history  \n Comments URL:  https://news.ycombinator.com/item?id=49971921  \n Points: 33 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291964+00:00"
+    "researched_at": "2026-10-06T00:06:04.811858+00:00"
   },
   {
-    "title": "Apple and a Hacker's Future",
-    "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-    "summary": " Article URL:  https://stratechery.com/2026/apple-and-a-hackers-future/  \n Comments URL:  https://news.ycombinator.com/item?id=49962857  \n Points: 115 \n # Comments: 98 ",
+    "title": "Ephemeral Testing",
+    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+    "summary": " Article URL:  https://lemire.me/blog/2026/10/05/ephemeral-testing/  \n Comments URL:  https://news.ycombinator.com/item?id=49972008  \n Points: 10 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-05T14:47:38.291971+00:00"
+    "researched_at": "2026-10-06T00:06:04.811848+00:00"
+  },
+  {
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "summary": " Article URL:  https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/  \n Comments URL:  https://news.ycombinator.com/item?id=49971846  \n Points: 53 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-06T00:06:04.811862+00:00"
+  },
+  {
+    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+    "url": "https://nivdayan.github.io/dostoevsky.pdf",
+    "summary": " Article URL:  https://nivdayan.github.io/dostoevsky.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=49971678  \n Points: 6 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-06T00:06:04.811868+00:00"
   }
 ]

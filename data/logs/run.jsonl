@@ -471,3 +471,22 @@
 {"timestamp": "2026-10-05T14:47:38.294201+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-05T14:47:38.294342+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-05T14:47:38.294573+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-06T00:06:04.124310+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-06T00:06:04.127367+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.127772+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-06T00:06:04.128285+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-06T00:06:04.229247+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-06T00:06:04.811725+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-06T00:06:04.812672+00:00", "event": "draft_created", "draft_id": "dust-pretraining-transformers-without-backpropagation", "path": "data/content/drafts/dust-pretraining-transformers-without-backpropagation.json"}
+{"timestamp": "2026-10-06T00:06:04.812878+00:00", "event": "draft_created", "draft_id": "worth-building", "path": "data/content/drafts/worth-building.json"}
+{"timestamp": "2026-10-06T00:06:04.813075+00:00", "event": "draft_created", "draft_id": "texas-city-demands-2m-for-public-records-on-flock-usage", "path": "data/content/drafts/texas-city-demands-2m-for-public-records-on-flock-usage.json"}
+{"timestamp": "2026-10-06T00:06:04.813235+00:00", "event": "draft_created", "draft_id": "graphical-ui", "path": "data/content/drafts/graphical-ui.json"}
+{"timestamp": "2026-10-06T00:06:04.813394+00:00", "event": "draft_created", "draft_id": "global-solar-atlas-summary-of-solar-power-potential-globally", "path": "data/content/drafts/global-solar-atlas-summary-of-solar-power-potential-globally.json"}
+{"timestamp": "2026-10-06T00:06:04.813499+00:00", "event": "draft_validation", "path": "data/content/drafts/dust-pretraining-transformers-without-backpropagation.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.813583+00:00", "event": "draft_validation", "path": "data/content/drafts/worth-building.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.813655+00:00", "event": "draft_validation", "path": "data/content/drafts/texas-city-demands-2m-for-public-records-on-flock-usage.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.813717+00:00", "event": "draft_validation", "path": "data/content/drafts/graphical-ui.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.813778+00:00", "event": "draft_validation", "path": "data/content/drafts/global-solar-atlas-summary-of-solar-power-potential-globally.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-06T00:06:04.813910+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-06T00:06:04.814022+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-06T00:06:04.814234+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
