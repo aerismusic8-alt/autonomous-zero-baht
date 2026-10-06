@@ -1,92 +1,102 @@
 [
   {
-    "title": "Why Common Lisp is now the best programming language",
-    "url": "https://www.vivienhenz.com/common-lisp",
-    "summary": " Article URL:  https://www.vivienhenz.com/common-lisp  \n Comments URL:  https://news.ycombinator.com/item?id=49973598  \n Points: 107 \n # Comments: 138 ",
+    "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+    "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+    "summary": " Article URL:  https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/  \n Comments URL:  https://news.ycombinator.com/item?id=49978563  \n Points: 91 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434678+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-06T18:25:19.467245+00:00"
   },
   {
-    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-    "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-    "summary": " Article URL:  https://gwern.net/doc/design/2026-10-03-gwern-samon.html  \n Comments URL:  https://news.ycombinator.com/item?id=49972211  \n Points: 39 \n # Comments: 16 ",
+    "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+    "url": "https://peterszentkiralyi.eu/darkplug/",
+    "summary": " I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger. So I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge/burn workflow, split grade (2 timing channels) and paper development timing. I’ve been using it for a few months in my improvised bathroom darkroom. Fair warning: the app was blindly vibe coded using Codex and Xcode. \n \n Comments URL:  https://news.ycombinator.com/item?id=49978595  \n Points: 25 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434686+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-06T18:25:19.467241+00:00"
   },
   {
-    "title": "Resurrecting iChat Audio and Video Conferencing",
-    "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-    "summary": " Article URL:  https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/  \n Comments URL:  https://news.ycombinator.com/item?id=49973878  \n Points: 25 \n # Comments: 5 ",
+    "title": "Mistral Large 4",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "summary": "  https://docs.mistral.ai/models/mistral-large-4-0  \n \n Comments URL:  https://news.ycombinator.com/item?id=49977979  \n Points: 1075 \n # Comments: 699 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434673+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-06T18:25:19.467251+00:00"
   },
   {
-    "title": "Photopea creator weighs in on Photosuite project",
-    "url": "https://github.com/eolix/photosuite/issues/77",
-    "summary": " Article URL:  https://github.com/eolix/photosuite/issues/77  \n Comments URL:  https://news.ycombinator.com/item?id=49972730  \n Points: 100 \n # Comments: 59 ",
+    "title": "Former German spy chief arrested for attempted treason",
+    "url": "https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/",
+    "summary": " Article URL:  https://www.reuters.com/business/finance/former-german-spy-chief-detained-suspicion-espionage-treason-bild-reports-2026-10-06/  \n Comments URL:  https://news.ycombinator.com/item?id=49981063  \n Points: 22 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434681+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-06T18:25:19.467221+00:00"
   },
   {
-    "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-    "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
-    "summary": " Article URL:  https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days  \n Comments URL:  https://news.ycombinator.com/item?id=49972607  \n Points: 114 \n # Comments: 88 ",
+    "title": "AI is now capable of developing its own inference hardware",
+    "url": "https://github.com/FeSens/openTPU",
+    "summary": " Article URL:  https://github.com/FeSens/openTPU  \n Comments URL:  https://news.ycombinator.com/item?id=49980715  \n Points: 125 \n # Comments: 97 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434684+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-06T18:25:19.467225+00:00"
   },
   {
-    "title": "Global Solar Atlas: summary of solar power potential globally",
-    "url": "https://globalsolaratlas.info/",
-    "summary": " Article URL:  https://globalsolaratlas.info/  \n Comments URL:  https://news.ycombinator.com/item?id=49971782  \n Points: 42 \n # Comments: 20 ",
+    "title": "The Early History of Smalltalk (1993)",
+    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "summary": " Article URL:  https://worrydream.com/EarlyHistoryOfSmalltalk/  \n Comments URL:  https://news.ycombinator.com/item?id=49979845  \n Points: 62 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434694+00:00"
+    "researched_at": "2026-10-06T18:25:19.467228+00:00"
   },
   {
-    "title": "Friendship ended with Deno, now Node is my best friend",
-    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-    "summary": " Article URL:  https://dbushell.com/2026/10/03/deno-to-node/  \n Comments URL:  https://news.ycombinator.com/item?id=49971719  \n Points: 119 \n # Comments: 54 ",
+    "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+    "url": "https://www.parseable.com",
+    "summary": " Article URL:  https://www.parseable.com  \n Comments URL:  https://news.ycombinator.com/item?id=49978171  \n Points: 48 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434696+00:00"
+    "researched_at": "2026-10-06T18:25:19.467248+00:00"
   },
   {
-    "title": "Example.com just launched the biggest redesign in decades",
-    "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "summary": " Article URL:  https://www.debugbear.com/blog/example-dot-com-redesign-history  \n Comments URL:  https://news.ycombinator.com/item?id=49971921  \n Points: 168 \n # Comments: 94 ",
+    "title": "California Closed the Montana License Plate Loophole",
+    "url": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+    "summary": " Article URL:  https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole  \n Comments URL:  https://news.ycombinator.com/item?id=49981186  \n Points: 10 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434689+00:00"
+    "researched_at": "2026-10-06T18:25:19.467218+00:00"
   },
   {
-    "title": "Ephemeral Testing",
-    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-    "summary": " Article URL:  https://lemire.me/blog/2026/10/05/ephemeral-testing/  \n Comments URL:  https://news.ycombinator.com/item?id=49972008  \n Points: 48 \n # Comments: 13 ",
+    "title": "Ask a model if code is malicious and it reaches for its morals",
+    "url": "https://www.manifold.security/blog/do-models-consider-morality-malware",
+    "summary": " Article URL:  https://www.manifold.security/blog/do-models-consider-morality-malware  \n Comments URL:  https://news.ycombinator.com/item?id=49981455  \n Points: 8 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434688+00:00"
+    "researched_at": "2026-10-06T18:25:19.467204+00:00"
   },
   {
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "summary": " Article URL:  https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/  \n Comments URL:  https://news.ycombinator.com/item?id=49971846  \n Points: 378 \n # Comments: 272 ",
+    "title": "Adobe Creative Suite Cleanroom Port to Rust",
+    "url": "https://github.com/storytold/photocraft",
+    "summary": " Article URL:  https://github.com/storytold/photocraft  \n Comments URL:  https://news.ycombinator.com/item?id=49981449  \n Points: 68 \n # Comments: 25 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T06:26:24.434692+00:00"
+    "researched_at": "2026-10-06T18:25:19.467213+00:00"
   }
 ]
