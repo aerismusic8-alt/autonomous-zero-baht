@@ -1,94 +1,92 @@
 [
   {
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "url": "https://qlabs.sh/research/dust",
-    "summary": " Article URL:  https://qlabs.sh/research/dust  \n Comments URL:  https://news.ycombinator.com/item?id=49970871  \n Points: 74 \n # Comments: 5 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-06T00:06:04.811879+00:00"
-  },
-  {
-    "title": "Worth Building",
-    "url": "https://armstr.ng/writing/worth-building",
-    "summary": " Article URL:  https://armstr.ng/writing/worth-building  \n Comments URL:  https://news.ycombinator.com/item?id=49971952  \n Points: 17 \n # Comments: 5 ",
+    "title": "Why Common Lisp is now the best programming language",
+    "url": "https://www.vivienhenz.com/common-lisp",
+    "summary": " Article URL:  https://www.vivienhenz.com/common-lisp  \n Comments URL:  https://news.ycombinator.com/item?id=49973598  \n Points: 107 \n # Comments: 138 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811855+00:00"
+    "researched_at": "2026-10-06T06:26:24.434678+00:00"
   },
   {
-    "title": "Texas city demands $2M for public records on Flock usage",
-    "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/  \n Comments URL:  https://news.ycombinator.com/item?id=49971523  \n Points: 42 \n # Comments: 6 ",
+    "title": "Samon: Designing a Zen Garden Raking Puzzle",
+    "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+    "summary": " Article URL:  https://gwern.net/doc/design/2026-10-03-gwern-samon.html  \n Comments URL:  https://news.ycombinator.com/item?id=49972211  \n Points: 39 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811871+00:00"
+    "researched_at": "2026-10-06T06:26:24.434686+00:00"
   },
   {
-    "title": "Graphical UI",
-    "url": "https://www.graphicalui.com/",
-    "summary": " Article URL:  https://www.graphicalui.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49971356  \n Points: 19 \n # Comments: 0 ",
+    "title": "Resurrecting iChat Audio and Video Conferencing",
+    "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+    "summary": " Article URL:  https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/  \n Comments URL:  https://news.ycombinator.com/item?id=49973878  \n Points: 25 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811874+00:00"
+    "researched_at": "2026-10-06T06:26:24.434673+00:00"
+  },
+  {
+    "title": "Photopea creator weighs in on Photosuite project",
+    "url": "https://github.com/eolix/photosuite/issues/77",
+    "summary": " Article URL:  https://github.com/eolix/photosuite/issues/77  \n Comments URL:  https://news.ycombinator.com/item?id=49972730  \n Points: 100 \n # Comments: 59 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-06T06:26:24.434681+00:00"
+  },
+  {
+    "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+    "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+    "summary": " Article URL:  https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days  \n Comments URL:  https://news.ycombinator.com/item?id=49972607  \n Points: 114 \n # Comments: 88 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-06T06:26:24.434684+00:00"
   },
   {
     "title": "Global Solar Atlas: summary of solar power potential globally",
     "url": "https://globalsolaratlas.info/",
-    "summary": " Article URL:  https://globalsolaratlas.info/  \n Comments URL:  https://news.ycombinator.com/item?id=49971782  \n Points: 7 \n # Comments: 2 ",
+    "summary": " Article URL:  https://globalsolaratlas.info/  \n Comments URL:  https://news.ycombinator.com/item?id=49971782  \n Points: 42 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811865+00:00"
+    "researched_at": "2026-10-06T06:26:24.434694+00:00"
   },
   {
-    "title": "Find the flattest route between any two points in SF",
-    "url": "https://flattensf.com/",
-    "summary": " Article URL:  https://flattensf.com/  \n Comments URL:  https://news.ycombinator.com/item?id=49971230  \n Points: 77 \n # Comments: 22 ",
+    "title": "Friendship ended with Deno, now Node is my best friend",
+    "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+    "summary": " Article URL:  https://dbushell.com/2026/10/03/deno-to-node/  \n Comments URL:  https://news.ycombinator.com/item?id=49971719  \n Points: 119 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811877+00:00"
+    "researched_at": "2026-10-06T06:26:24.434696+00:00"
   },
   {
-    "title": "Example.com Just Launched the Biggest Redesign in Decades",
+    "title": "Example.com just launched the biggest redesign in decades",
     "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-    "summary": " Article URL:  https://www.debugbear.com/blog/example-dot-com-redesign-history  \n Comments URL:  https://news.ycombinator.com/item?id=49971921  \n Points: 33 \n # Comments: 20 ",
+    "summary": " Article URL:  https://www.debugbear.com/blog/example-dot-com-redesign-history  \n Comments URL:  https://news.ycombinator.com/item?id=49971921  \n Points: 168 \n # Comments: 94 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811858+00:00"
+    "researched_at": "2026-10-06T06:26:24.434689+00:00"
   },
   {
     "title": "Ephemeral Testing",
     "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-    "summary": " Article URL:  https://lemire.me/blog/2026/10/05/ephemeral-testing/  \n Comments URL:  https://news.ycombinator.com/item?id=49972008  \n Points: 10 \n # Comments: 0 ",
+    "summary": " Article URL:  https://lemire.me/blog/2026/10/05/ephemeral-testing/  \n Comments URL:  https://news.ycombinator.com/item?id=49972008  \n Points: 48 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811848+00:00"
+    "researched_at": "2026-10-06T06:26:24.434688+00:00"
   },
   {
     "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
     "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "summary": " Article URL:  https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/  \n Comments URL:  https://news.ycombinator.com/item?id=49971846  \n Points: 53 \n # Comments: 5 ",
+    "summary": " Article URL:  https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/  \n Comments URL:  https://news.ycombinator.com/item?id=49971846  \n Points: 378 \n # Comments: 272 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811862+00:00"
-  },
-  {
-    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-    "url": "https://nivdayan.github.io/dostoevsky.pdf",
-    "summary": " Article URL:  https://nivdayan.github.io/dostoevsky.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=49971678  \n Points: 6 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-06T00:06:04.811868+00:00"
+    "researched_at": "2026-10-06T06:26:24.434692+00:00"
   }
 ]
