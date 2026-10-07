@@ -1,100 +1,102 @@
 [
   {
-    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "url": "https://github.com/nano-muse/nanoMuse",
-    "summary": " Article URL:  https://github.com/nano-muse/nanoMuse  \n Comments URL:  https://news.ycombinator.com/item?id=49987765  \n Points: 3 \n # Comments: 0 ",
+    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+    "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+    "summary": " Article URL:  https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating  \n Comments URL:  https://news.ycombinator.com/item?id=49990763  \n Points: 39 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T06:05:30.220124+00:00"
+    "researched_at": "2026-10-07T13:30:23.427399+00:00"
   },
   {
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "summary": " Article URL:  https://www.sregym.com/blog/jev-driven-sre-diagnosis  \n Comments URL:  https://news.ycombinator.com/item?id=49986765  \n Points: 20 \n # Comments: 4 ",
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "summary": " Article URL:  https://www.nobelprize.org/prizes/chemistry/2026/press-release/  \n Comments URL:  https://news.ycombinator.com/item?id=49990470  \n Points: 114 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T06:05:30.220136+00:00"
+    "researched_at": "2026-10-07T13:30:23.427402+00:00"
   },
   {
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "summary": " Article URL:  https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/  \n Comments URL:  https://news.ycombinator.com/item?id=49988230  \n Points: 12 \n # Comments: 0 ",
+    "title": "Google Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "summary": " Article URL:  https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/  \n Comments URL:  https://news.ycombinator.com/item?id=49991823  \n Points: 13 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T06:05:30.220107+00:00"
+    "researched_at": "2026-10-07T13:30:23.427388+00:00"
   },
   {
-    "title": "ESP32-C3 Adblock",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "summary": " Article URL:  https://github.com/M-Abozaid/esp32-c3-adblock  \n Comments URL:  https://news.ycombinator.com/item?id=49986862  \n Points: 45 \n # Comments: 8 ",
+    "title": "Forever Junior: The Skills AI Can't Develop for You",
+    "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+    "summary": " Article URL:  https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/  \n Comments URL:  https://news.ycombinator.com/item?id=49989684  \n Points: 28 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T06:05:30.220134+00:00"
+    "researched_at": "2026-10-07T13:30:23.427406+00:00"
   },
   {
-    "title": "Xbox has secured exclusive GTA 6 streaming rights",
-    "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-    "summary": " Article URL:  https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights  \n Comments URL:  https://news.ycombinator.com/item?id=49987245  \n Points: 29 \n # Comments: 28 ",
+    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+    "url": "https://github.com/szabadkai/c64-keyboard-font/",
+    "summary": " Article URL:  https://github.com/szabadkai/c64-keyboard-font/  \n Comments URL:  https://news.ycombinator.com/item?id=49990224  \n Points: 173 \n # Comments: 32 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-07T13:30:23.427404+00:00"
+  },
+  {
+    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+    "summary": " Article URL:  https://fiveminutesforward.com/post/2026-10-04-telegraph-test/  \n Comments URL:  https://news.ycombinator.com/item?id=49991580  \n Points: 19 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220129+00:00"
+    "researched_at": "2026-10-07T13:30:23.427391+00:00"
   },
   {
-    "title": "The art of defusing a second world war bomb",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-    "summary": " Article URL:  https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb  \n Comments URL:  https://news.ycombinator.com/item?id=49987858  \n Points: 11 \n # Comments: 2 ",
+    "title": "Shipping JPEG XL in Chrome",
+    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+    "summary": " Article URL:  https://developer.chrome.com/blog/jpeg-xl-in-chrome  \n Comments URL:  https://news.ycombinator.com/item?id=49991227  \n Points: 157 \n # Comments: 74 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220117+00:00"
+    "researched_at": "2026-10-07T13:30:23.427394+00:00"
   },
   {
-    "title": "Strands Decider 2B: a small, open-source, decision model",
-    "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-    "summary": " Article URL:  https://strandsagents.com/blog/introducing-strands-decider/  \n Comments URL:  https://news.ycombinator.com/item?id=49987076  \n Points: 104 \n # Comments: 20 ",
+    "title": "Plastic Straw Ban Isn't Environmentalism–It's Virtue Signaling – Oregon Catalyst",
+    "url": "https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html",
+    "summary": " Article URL:  https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html  \n Comments URL:  https://news.ycombinator.com/item?id=49992046  \n Points: 4 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220132+00:00"
+    "researched_at": "2026-10-07T13:30:23.427385+00:00"
   },
   {
-    "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-    "url": "https://nanochess.org/la_cueva_bbs.html",
-    "summary": " Article URL:  https://nanochess.org/la_cueva_bbs.html  \n Comments URL:  https://news.ycombinator.com/item?id=49987675  \n Points: 26 \n # Comments: 4 ",
+    "title": "It may soon be possible to create \"mirror life\"",
+    "url": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
+    "summary": " Article URL:  https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life  \n Comments URL:  https://news.ycombinator.com/item?id=49991132  \n Points: 26 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220127+00:00"
+    "researched_at": "2026-10-07T13:30:23.427396+00:00"
   },
   {
-    "title": "Calling It Quits on ServerFault",
-    "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-    "summary": " Article URL:  https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml  \n Comments URL:  https://news.ycombinator.com/item?id=49988142  \n Points: 41 \n # Comments: 14 ",
+    "title": "House with 15m underground tunnels for sale for 300k",
+    "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+    "summary": " Article URL:  https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/  \n Comments URL:  https://news.ycombinator.com/item?id=49992125  \n Points: 23 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220113+00:00"
-  },
-  {
-    "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "summary": " Article URL:  https://github.com/boykopovar/AnyPS5  \n Comments URL:  https://news.ycombinator.com/item?id=49985664  \n Points: 179 \n # Comments: 138 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-07T06:05:30.220139+00:00"
+    "researched_at": "2026-10-07T13:30:23.427374+00:00"
   }
 ]
