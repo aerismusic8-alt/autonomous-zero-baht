@@ -1,102 +1,102 @@
 [
   {
-    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
-    "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-    "summary": " Article URL:  https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating  \n Comments URL:  https://news.ycombinator.com/item?id=49990763  \n Points: 39 \n # Comments: 24 ",
+    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+    "url": "https://agent.reviews/",
+    "summary": " Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and over agents would encounter the exact same limitations on different tasks using the same tool. So we wondered why these weren’t fixed. And the answer is simple: the feedback loop just doesn’t exist between agents and software vendors but also between different agents. Humans can share their experience on platforms like  https://g2.com  and  https://trustpilot.com , but agents have nowhere to. So we created:  https://agent.reviews : the G2 for agents. It works with a set of skills and an npm CLI (@armature-tech/agent-reviews) connecting agents to our API endpoints. Anyone can ask their agent (Claude Code, Codex, Cursor, etc.) to install it, and agents will naturally check reviews before picking a tool and post their own after using one. As usual, privacy was our main concern, so we added 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T13:30:23.427399+00:00"
+    "researched_at": "2026-10-07T23:08:11.127645+00:00"
   },
   {
-    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-    "summary": " Article URL:  https://www.nobelprize.org/prizes/chemistry/2026/press-release/  \n Comments URL:  https://news.ycombinator.com/item?id=49990470  \n Points: 114 \n # Comments: 13 ",
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "summary": " Article URL:  https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=49997161  \n Points: 219 \n # Comments: 221 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T13:30:23.427402+00:00"
+    "researched_at": "2026-10-07T23:08:11.127622+00:00"
   },
   {
-    "title": "Google Playground: Create and play custom games",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/  \n Comments URL:  https://news.ycombinator.com/item?id=49991823  \n Points: 13 \n # Comments: 1 ",
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "summary": " Article URL:  https://openai.com/index/gpt-6-for-everyone/  \n Comments URL:  https://news.ycombinator.com/item?id=49996425  \n Points: 423 \n # Comments: 214 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T13:30:23.427388+00:00"
+    "researched_at": "2026-10-07T23:08:11.127632+00:00"
   },
   {
-    "title": "Forever Junior: The Skills AI Can't Develop for You",
-    "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-    "summary": " Article URL:  https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/  \n Comments URL:  https://news.ycombinator.com/item?id=49989684  \n Points: 28 \n # Comments: 18 ",
+    "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+    "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+    "summary": " Article URL:  https://link.springer.com/article/10.1007/s10739-026-09866-7  \n Comments URL:  https://news.ycombinator.com/item?id=49998006  \n Points: 71 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T13:30:23.427406+00:00"
+    "researched_at": "2026-10-07T23:08:11.127619+00:00"
   },
   {
-    "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-    "url": "https://github.com/szabadkai/c64-keyboard-font/",
-    "summary": " Article URL:  https://github.com/szabadkai/c64-keyboard-font/  \n Comments URL:  https://news.ycombinator.com/item?id=49990224  \n Points: 173 \n # Comments: 32 ",
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "summary": " Article URL:  https://www.anthropic.com/claude-haiku-5-5  \n Comments URL:  https://news.ycombinator.com/item?id=49996437  \n Points: 584 \n # Comments: 282 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T13:30:23.427404+00:00"
+    "researched_at": "2026-10-07T23:08:11.127627+00:00"
   },
   {
-    "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-    "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-    "summary": " Article URL:  https://fiveminutesforward.com/post/2026-10-04-telegraph-test/  \n Comments URL:  https://news.ycombinator.com/item?id=49991580  \n Points: 19 \n # Comments: 14 ",
+    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+    "url": "https://bigwords.page/",
+    "summary": " Article URL:  https://bigwords.page/  \n Comments URL:  https://news.ycombinator.com/item?id=49994443  \n Points: 291 \n # Comments: 97 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T13:30:23.427391+00:00"
+    "researched_at": "2026-10-07T23:08:11.127649+00:00"
   },
   {
-    "title": "Shipping JPEG XL in Chrome",
-    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-    "summary": " Article URL:  https://developer.chrome.com/blog/jpeg-xl-in-chrome  \n Comments URL:  https://news.ycombinator.com/item?id=49991227  \n Points: 157 \n # Comments: 74 ",
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "summary": " Article URL:  https://debasishg.github.io/blog/push-ifs-up-fors-down/  \n Comments URL:  https://news.ycombinator.com/item?id=49997073  \n Points: 74 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T13:30:23.427394+00:00"
+    "researched_at": "2026-10-07T23:08:11.127624+00:00"
   },
   {
-    "title": "Plastic Straw Ban Isn't Environmentalism–It's Virtue Signaling – Oregon Catalyst",
-    "url": "https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html",
-    "summary": " Article URL:  https://oregoncatalyst.com/42230-plastic-straw-ban-isnt-environmentalismits-virtue-signaling.html  \n Comments URL:  https://news.ycombinator.com/item?id=49992046  \n Points: 4 \n # Comments: 0 ",
+    "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 206 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T13:30:23.427385+00:00"
+    "researched_at": "2026-10-07T23:08:11.127615+00:00"
   },
   {
-    "title": "It may soon be possible to create \"mirror life\"",
-    "url": "https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life",
-    "summary": " Article URL:  https://www.economist.com/science-and-technology/2026/09/30/it-may-soon-be-possible-to-create-mirror-life  \n Comments URL:  https://news.ycombinator.com/item?id=49991132  \n Points: 26 \n # Comments: 31 ",
+    "title": "I'm in love with a German film star",
+    "url": "https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/",
+    "summary": " Article URL:  https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/  \n Comments URL:  https://news.ycombinator.com/item?id=49999606  \n Points: 9 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T13:30:23.427396+00:00"
+    "researched_at": "2026-10-07T23:08:11.127609+00:00"
   },
   {
-    "title": "House with 15m underground tunnels for sale for 300k",
-    "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
-    "summary": " Article URL:  https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/  \n Comments URL:  https://news.ycombinator.com/item?id=49992125  \n Points: 23 \n # Comments: 18 ",
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "summary": " Article URL:  https://github.com/docker/docker-agent  \n Comments URL:  https://news.ycombinator.com/item?id=49996259  \n Points: 149 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T13:30:23.427374+00:00"
+    "researched_at": "2026-10-07T23:08:11.127635+00:00"
   }
 ]
