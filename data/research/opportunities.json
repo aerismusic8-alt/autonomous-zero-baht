@@ -1,102 +1,98 @@
 [
   {
-    "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-    "url": "https://agent.reviews/",
-    "summary": " Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and over agents would encounter the exact same limitations on different tasks using the same tool. So we wondered why these weren’t fixed. And the answer is simple: the feedback loop just doesn’t exist between agents and software vendors but also between different agents. Humans can share their experience on platforms like  https://g2.com  and  https://trustpilot.com , but agents have nowhere to. So we created:  https://agent.reviews : the G2 for agents. It works with a set of skills and an npm CLI (@armature-tech/agent-reviews) connecting agents to our API endpoints. Anyone can ask their agent (Claude Code, Codex, Cursor, etc.) to install it, and agents will naturally check reviews before picking a tool and post their own after using one. As usual, privacy was our main concern, so we added 3 ",
+    "title": "Terence Tao Responds to the OpenAI Math Drop",
+    "url": "https://mathstodon.xyz/@tao/117395269325940185",
+    "summary": " Article URL:  https://mathstodon.xyz/@tao/117395269325940185  \n Comments URL:  https://news.ycombinator.com/item?id=50002008  \n Points: 81 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T23:08:11.127645+00:00"
-  },
-  {
-    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-    "summary": " Article URL:  https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=49997161  \n Points: 219 \n # Comments: 221 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T23:08:11.127622+00:00"
+    "researched_at": "2026-10-08T06:11:00.234405+00:00"
   },
   {
     "title": "GPT‑6 and Intelligent UI for everyone",
     "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "summary": " Article URL:  https://openai.com/index/gpt-6-for-everyone/  \n Comments URL:  https://news.ycombinator.com/item?id=49996425  \n Points: 423 \n # Comments: 214 ",
+    "summary": " Article URL:  https://openai.com/index/gpt-6-for-everyone/  \n Comments URL:  https://news.ycombinator.com/item?id=49996425  \n Points: 573 \n # Comments: 296 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T23:08:11.127632+00:00"
-  },
-  {
-    "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
-    "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-    "summary": " Article URL:  https://link.springer.com/article/10.1007/s10739-026-09866-7  \n Comments URL:  https://news.ycombinator.com/item?id=49998006  \n Points: 71 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-07T23:08:11.127619+00:00"
+    "researched_at": "2026-10-08T06:11:00.234435+00:00"
   },
   {
     "title": "Claude Haiku 5.5",
     "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "summary": " Article URL:  https://www.anthropic.com/claude-haiku-5-5  \n Comments URL:  https://news.ycombinator.com/item?id=49996437  \n Points: 584 \n # Comments: 282 ",
+    "summary": " Article URL:  https://www.anthropic.com/claude-haiku-5-5  \n Comments URL:  https://news.ycombinator.com/item?id=49996437  \n Points: 791 \n # Comments: 391 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-07T23:08:11.127627+00:00"
+    "researched_at": "2026-10-08T06:11:00.234428+00:00"
   },
   {
     "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
     "url": "https://bigwords.page/",
-    "summary": " Article URL:  https://bigwords.page/  \n Comments URL:  https://news.ycombinator.com/item?id=49994443  \n Points: 291 \n # Comments: 97 ",
+    "summary": " Article URL:  https://bigwords.page/  \n Comments URL:  https://news.ycombinator.com/item?id=49994443  \n Points: 439 \n # Comments: 128 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T23:08:11.127649+00:00"
+    "researched_at": "2026-10-08T06:11:00.234446+00:00"
   },
   {
     "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
     "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-    "summary": " Article URL:  https://debasishg.github.io/blog/push-ifs-up-fors-down/  \n Comments URL:  https://news.ycombinator.com/item?id=49997073  \n Points: 74 \n # Comments: 30 ",
+    "summary": " Article URL:  https://debasishg.github.io/blog/push-ifs-up-fors-down/  \n Comments URL:  https://news.ycombinator.com/item?id=49997073  \n Points: 130 \n # Comments: 62 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T23:08:11.127624+00:00"
+    "researched_at": "2026-10-08T06:11:00.234425+00:00"
   },
   {
-    "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+    "title": "Margaret Hamilton has died",
     "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 206 \n # Comments: 18 ",
+    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 1164 \n # Comments: 130 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T23:08:11.127615+00:00"
+    "researched_at": "2026-10-08T06:11:00.234418+00:00"
   },
   {
-    "title": "I'm in love with a German film star",
-    "url": "https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/",
-    "summary": " Article URL:  https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/  \n Comments URL:  https://news.ycombinator.com/item?id=49999606  \n Points: 9 \n # Comments: 0 ",
+    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+    "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+    "summary": " Article URL:  https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html  \n Comments URL:  https://news.ycombinator.com/item?id=49996406  \n Points: 71 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T23:08:11.127609+00:00"
+    "researched_at": "2026-10-08T06:11:00.234438+00:00"
   },
   {
     "title": "Docker Agent",
     "url": "https://github.com/docker/docker-agent",
-    "summary": " Article URL:  https://github.com/docker/docker-agent  \n Comments URL:  https://news.ycombinator.com/item?id=49996259  \n Points: 149 \n # Comments: 59 ",
+    "summary": " Article URL:  https://github.com/docker/docker-agent  \n Comments URL:  https://news.ycombinator.com/item?id=49996259  \n Points: 210 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-07T23:08:11.127635+00:00"
+    "researched_at": "2026-10-08T06:11:00.234441+00:00"
+  },
+  {
+    "title": "A 100x faster* alternative to homebrew",
+    "url": "https://github.com/zerobrewhq/zerobrew",
+    "summary": " Article URL:  https://github.com/zerobrewhq/zerobrew  \n Comments URL:  https://news.ycombinator.com/item?id=50001580  \n Points: 30 \n # Comments: 20 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-08T06:11:00.234413+00:00"
+  },
+  {
+    "title": "'Jonathan' is the oldest land animal on Earth",
+    "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+    "summary": " Article URL:  https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/  \n Comments URL:  https://news.ycombinator.com/item?id=49998066  \n Points: 115 \n # Comments: 47 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-08T06:11:00.234421+00:00"
   }
 ]

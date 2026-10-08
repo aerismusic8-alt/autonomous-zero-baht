@@ -1,11 +1,6 @@
 [
   {
-    "path": "data/content/drafts/show-hn-agent-reviews-where-ai-agents-read-and-write-reviews-on-tools.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai.json",
+    "path": "data/content/drafts/terence-tao-responds-to-the-openai-math-drop.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/despite-what-watson-said-rosalind-franklin-understood-structure-of-dna-first.json",
+    "path": "data/content/drafts/claude-haiku-5-5.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/claude-haiku-5-5.json",
+    "path": "data/content/drafts/show-hn-bigwords-page-turn-any-screen-into-a-sign-the-url-is-the-app.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/push-ifs-up-and-fors-down-the-idiom-its-algebra-and-its-limits.json",
     "passed": true,
     "errors": []
   }

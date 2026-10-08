@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "show-hn-agent-reviews-where-ai-agents-read-and-write-reviews-on-tools",
+    "content_id": "terence-tao-responds-to-the-openai-math-drop",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,18 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-07T23:08:11.129672+00:00"
-  },
-  {
-    "content_id": "meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-07T23:08:11.129686+00:00"
+    "recorded_at": "2026-10-08T06:11:00.238047+00:00"
   },
   {
     "content_id": "gpt-6-and-intelligent-ui-for-everyone",
@@ -30,18 +19,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-07T23:08:11.129688+00:00"
-  },
-  {
-    "content_id": "despite-what-watson-said-rosalind-franklin-understood-structure-of-dna-first",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-07T23:08:11.129690+00:00"
+    "recorded_at": "2026-10-08T06:11:00.238052+00:00"
   },
   {
     "content_id": "claude-haiku-5-5",
@@ -52,6 +30,28 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-07T23:08:11.129691+00:00"
+    "recorded_at": "2026-10-08T06:11:00.238055+00:00"
+  },
+  {
+    "content_id": "show-hn-bigwords-page-turn-any-screen-into-a-sign-the-url-is-the-app",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-08T06:11:00.238057+00:00"
+  },
+  {
+    "content_id": "push-ifs-up-and-fors-down-the-idiom-its-algebra-and-its-limits",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-08T06:11:00.238059+00:00"
   }
 ]
