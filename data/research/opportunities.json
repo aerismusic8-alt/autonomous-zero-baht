@@ -1,94 +1,98 @@
 [
   {
-    "title": "OpenAI Withdraws 3 Math Papers",
-    "url": "https://github.com/openai/math/blob/main/history.md",
-    "summary": " Article URL:  https://github.com/openai/math/blob/main/history.md  \n Comments URL:  https://news.ycombinator.com/item?id=50003107  \n Points: 144 \n # Comments: 105 ",
+    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+    "url": "https://openrouter.ai/stepfun/step-5-preview",
+    "summary": " Article URL:  https://openrouter.ai/stepfun/step-5-preview  \n Comments URL:  https://news.ycombinator.com/item?id=50007764  \n Points: 76 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-08T13:36:29.166152+00:00"
+    "researched_at": "2026-10-08T23:23:48.202789+00:00"
   },
   {
-    "title": "“Math 2.0” will need to value mathematical progress more holistically",
-    "url": "https://mathstodon.xyz/@tao/117395269325940185",
-    "summary": " Article URL:  https://mathstodon.xyz/@tao/117395269325940185  \n Comments URL:  https://news.ycombinator.com/item?id=50002008  \n Points: 416 \n # Comments: 407 ",
+    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+    "url": "https://github.com/thesnarkitecht/rembrandt",
+    "summary": " Article URL:  https://github.com/thesnarkitecht/rembrandt  \n Comments URL:  https://news.ycombinator.com/item?id=50012199  \n Points: 36 \n # Comments: 32 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-08T23:23:48.202762+00:00"
+  },
+  {
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "summary": " Article URL:  https://biohub.org/news/virtual-biology-initiative-expansion/  \n Comments URL:  https://news.ycombinator.com/item?id=50011999  \n Points: 42 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-08T23:23:48.202769+00:00"
+  },
+  {
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "summary": " Article URL:  https://cactuscompute.com/blog/whistle  \n Comments URL:  https://news.ycombinator.com/item?id=50008427  \n Points: 445 \n # Comments: 104 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166162+00:00"
+    "researched_at": "2026-10-08T23:23:48.202783+00:00"
   },
   {
-    "title": "Telnet BBS Guide",
-    "url": "https://www.telnetbbsguide.com/",
-    "summary": " Article URL:  https://www.telnetbbsguide.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50005017  \n Points: 17 \n # Comments: 5 ",
+    "title": "Trump administration is suspending Microsoft from a green card program",
+    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+    "summary": " Article URL:  https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea  \n Comments URL:  https://news.ycombinator.com/item?id=50006832  \n Points: 788 \n # Comments: 1360 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166141+00:00"
+    "researched_at": "2026-10-08T23:23:48.202795+00:00"
   },
   {
-    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "summary": " Article URL:  https://github.com/pingdotgg/ts-rust  \n Comments URL:  https://news.ycombinator.com/item?id=50000676  \n Points: 88 \n # Comments: 166 ",
+    "title": "Theranos.world",
+    "url": "https://www.theranos.world/",
+    "summary": " Article URL:  https://www.theranos.world/  \n Comments URL:  https://news.ycombinator.com/item?id=50009295  \n Points: 211 \n # Comments: 98 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166164+00:00"
+    "researched_at": "2026-10-08T23:23:48.202780+00:00"
   },
   {
-    "title": "Margaret Hamilton has died",
-    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 1801 \n # Comments: 194 ",
+    "title": "The value of not getting to the point (2015)",
+    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+    "summary": " Article URL:  https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/  \n Comments URL:  https://news.ycombinator.com/item?id=50010470  \n Points: 92 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166166+00:00"
+    "researched_at": "2026-10-08T23:23:48.202777+00:00"
   },
   {
-    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
-    "summary": " Article URL:  https://quesma.com/blog/invisible-cities-one-shot/  \n Comments URL:  https://news.ycombinator.com/item?id=50004790  \n Points: 69 \n # Comments: 27 ",
+    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
+    "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+    "summary": " Article URL:  http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html  \n Comments URL:  https://news.ycombinator.com/item?id=50008047  \n Points: 85 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166146+00:00"
+    "researched_at": "2026-10-08T23:23:48.202786+00:00"
   },
   {
-    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
-    "url": "https://dat-ecosystem.org/",
-    "summary": " Article URL:  https://dat-ecosystem.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50002505  \n Points: 28 \n # Comments: 13 ",
+    "title": "New gTLD Application for .lan",
+    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
+    "summary": " Article URL:  https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary  \n Comments URL:  https://news.ycombinator.com/item?id=50007353  \n Points: 92 \n # Comments: 112 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166154+00:00"
+    "researched_at": "2026-10-08T23:23:48.202792+00:00"
   },
   {
-    "title": "Classic PC demoscene productions running natively in the browser",
-    "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-    "summary": " Article URL:  https://treylorswift.github.io/demoscene-recomp/web/  \n Comments URL:  https://news.ycombinator.com/item?id=50002426  \n Points: 115 \n # Comments: 100 ",
+    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+    "summary": " Article URL:  https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full  \n Comments URL:  https://news.ycombinator.com/item?id=50011928  \n Points: 104 \n # Comments: 85 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166156+00:00"
-  },
-  {
-    "title": "Anne Carson wins Nobel Prize in literature 2026",
-    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-    "summary": " Article URL:  https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50004777  \n Points: 40 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166149+00:00"
-  },
-  {
-    "title": "'Jonathan' is the oldest land animal on Earth",
-    "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-    "summary": " Article URL:  https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/  \n Comments URL:  https://news.ycombinator.com/item?id=49998066  \n Points: 195 \n # Comments: 106 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-08T13:36:29.166168+00:00"
+    "researched_at": "2026-10-08T23:23:48.202773+00:00"
   }
 ]
