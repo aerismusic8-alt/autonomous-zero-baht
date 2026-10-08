@@ -1,98 +1,94 @@
 [
   {
-    "title": "Terence Tao Responds to the OpenAI Math Drop",
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "summary": " Article URL:  https://github.com/openai/math/blob/main/history.md  \n Comments URL:  https://news.ycombinator.com/item?id=50003107  \n Points: 144 \n # Comments: 105 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-08T13:36:29.166152+00:00"
+  },
+  {
+    "title": "“Math 2.0” will need to value mathematical progress more holistically",
     "url": "https://mathstodon.xyz/@tao/117395269325940185",
-    "summary": " Article URL:  https://mathstodon.xyz/@tao/117395269325940185  \n Comments URL:  https://news.ycombinator.com/item?id=50002008  \n Points: 81 \n # Comments: 42 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-08T06:11:00.234405+00:00"
-  },
-  {
-    "title": "GPT‑6 and Intelligent UI for everyone",
-    "url": "https://openai.com/index/gpt-6-for-everyone/",
-    "summary": " Article URL:  https://openai.com/index/gpt-6-for-everyone/  \n Comments URL:  https://news.ycombinator.com/item?id=49996425  \n Points: 573 \n # Comments: 296 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-08T06:11:00.234435+00:00"
-  },
-  {
-    "title": "Claude Haiku 5.5",
-    "url": "https://www.anthropic.com/claude-haiku-5-5",
-    "summary": " Article URL:  https://www.anthropic.com/claude-haiku-5-5  \n Comments URL:  https://news.ycombinator.com/item?id=49996437  \n Points: 791 \n # Comments: 391 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-08T06:11:00.234428+00:00"
-  },
-  {
-    "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-    "url": "https://bigwords.page/",
-    "summary": " Article URL:  https://bigwords.page/  \n Comments URL:  https://news.ycombinator.com/item?id=49994443  \n Points: 439 \n # Comments: 128 ",
+    "summary": " Article URL:  https://mathstodon.xyz/@tao/117395269325940185  \n Comments URL:  https://news.ycombinator.com/item?id=50002008  \n Points: 416 \n # Comments: 407 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234446+00:00"
+    "researched_at": "2026-10-08T13:36:29.166162+00:00"
   },
   {
-    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-    "summary": " Article URL:  https://debasishg.github.io/blog/push-ifs-up-fors-down/  \n Comments URL:  https://news.ycombinator.com/item?id=49997073  \n Points: 130 \n # Comments: 62 ",
+    "title": "Telnet BBS Guide",
+    "url": "https://www.telnetbbsguide.com/",
+    "summary": " Article URL:  https://www.telnetbbsguide.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50005017  \n Points: 17 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234425+00:00"
+    "researched_at": "2026-10-08T13:36:29.166141+00:00"
+  },
+  {
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "summary": " Article URL:  https://github.com/pingdotgg/ts-rust  \n Comments URL:  https://news.ycombinator.com/item?id=50000676  \n Points: 88 \n # Comments: 166 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-08T13:36:29.166164+00:00"
   },
   {
     "title": "Margaret Hamilton has died",
     "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 1164 \n # Comments: 130 ",
+    "summary": " Article URL:  https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007  \n Comments URL:  https://news.ycombinator.com/item?id=49998895  \n Points: 1801 \n # Comments: 194 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234418+00:00"
+    "researched_at": "2026-10-08T13:36:29.166166+00:00"
   },
   {
-    "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
-    "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
-    "summary": " Article URL:  https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html  \n Comments URL:  https://news.ycombinator.com/item?id=49996406  \n Points: 71 \n # Comments: 8 ",
+    "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+    "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+    "summary": " Article URL:  https://quesma.com/blog/invisible-cities-one-shot/  \n Comments URL:  https://news.ycombinator.com/item?id=50004790  \n Points: 69 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234438+00:00"
+    "researched_at": "2026-10-08T13:36:29.166146+00:00"
   },
   {
-    "title": "Docker Agent",
-    "url": "https://github.com/docker/docker-agent",
-    "summary": " Article URL:  https://github.com/docker/docker-agent  \n Comments URL:  https://news.ycombinator.com/item?id=49996259  \n Points: 210 \n # Comments: 99 ",
+    "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+    "url": "https://dat-ecosystem.org/",
+    "summary": " Article URL:  https://dat-ecosystem.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50002505  \n Points: 28 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234441+00:00"
+    "researched_at": "2026-10-08T13:36:29.166154+00:00"
   },
   {
-    "title": "A 100x faster* alternative to homebrew",
-    "url": "https://github.com/zerobrewhq/zerobrew",
-    "summary": " Article URL:  https://github.com/zerobrewhq/zerobrew  \n Comments URL:  https://news.ycombinator.com/item?id=50001580  \n Points: 30 \n # Comments: 20 ",
+    "title": "Classic PC demoscene productions running natively in the browser",
+    "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+    "summary": " Article URL:  https://treylorswift.github.io/demoscene-recomp/web/  \n Comments URL:  https://news.ycombinator.com/item?id=50002426  \n Points: 115 \n # Comments: 100 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234413+00:00"
+    "researched_at": "2026-10-08T13:36:29.166156+00:00"
+  },
+  {
+    "title": "Anne Carson wins Nobel Prize in literature 2026",
+    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "summary": " Article URL:  https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50004777  \n Points: 40 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-08T13:36:29.166149+00:00"
   },
   {
     "title": "'Jonathan' is the oldest land animal on Earth",
     "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-    "summary": " Article URL:  https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/  \n Comments URL:  https://news.ycombinator.com/item?id=49998066  \n Points: 115 \n # Comments: 47 ",
+    "summary": " Article URL:  https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/  \n Comments URL:  https://news.ycombinator.com/item?id=49998066  \n Points: 195 \n # Comments: 106 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T06:11:00.234421+00:00"
+    "researched_at": "2026-10-08T13:36:29.166168+00:00"
   }
 ]

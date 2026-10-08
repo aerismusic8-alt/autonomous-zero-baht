@@ -604,3 +604,22 @@
 {"timestamp": "2026-10-08T06:11:00.237736+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-08T06:11:00.237946+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-08T06:11:00.238268+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-08T13:36:23.345502+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-08T13:36:23.382624+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:23.383147+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-08T13:36:23.383628+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-08T13:36:23.515934+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-08T13:36:29.165991+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-08T13:36:29.166815+00:00", "event": "draft_created", "draft_id": "openai-withdraws-3-math-papers", "path": "data/content/drafts/openai-withdraws-3-math-papers.json"}
+{"timestamp": "2026-10-08T13:36:29.166979+00:00", "event": "draft_created", "draft_id": "math-2-0-will-need-to-value-mathematical-progress-more-holistically", "path": "data/content/drafts/math-2-0-will-need-to-value-mathematical-progress-more-holistically.json"}
+{"timestamp": "2026-10-08T13:36:29.167109+00:00", "event": "draft_created", "draft_id": "telnet-bbs-guide", "path": "data/content/drafts/telnet-bbs-guide.json"}
+{"timestamp": "2026-10-08T13:36:29.167231+00:00", "event": "draft_created", "draft_id": "port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-llm", "path": "data/content/drafts/port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-llm.json"}
+{"timestamp": "2026-10-08T13:36:29.167354+00:00", "event": "draft_created", "draft_id": "margaret-hamilton-has-died", "path": "data/content/drafts/margaret-hamilton-has-died.json"}
+{"timestamp": "2026-10-08T13:36:29.167442+00:00", "event": "draft_validation", "path": "data/content/drafts/openai-withdraws-3-math-papers.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:29.167506+00:00", "event": "draft_validation", "path": "data/content/drafts/math-2-0-will-need-to-value-mathematical-progress-more-holistically.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:29.167559+00:00", "event": "draft_validation", "path": "data/content/drafts/telnet-bbs-guide.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:29.167613+00:00", "event": "draft_validation", "path": "data/content/drafts/port-of-the-typescript-compiler-checker-and-lsp-to-rust-by-llm.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:29.167665+00:00", "event": "draft_validation", "path": "data/content/drafts/margaret-hamilton-has-died.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-08T13:36:29.167796+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-08T13:36:29.167870+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-08T13:36:29.168014+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
