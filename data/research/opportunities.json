@@ -1,98 +1,98 @@
 [
   {
-    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "summary": " Article URL:  https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/  \n Comments URL:  https://news.ycombinator.com/item?id=50018350  \n Points: 80 \n # Comments: 42 ",
+    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+    "summary": " Article URL:  https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306  \n Comments URL:  https://news.ycombinator.com/item?id=50026555  \n Points: 209 \n # Comments: 113 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T13:26:33.899378+00:00"
+    "researched_at": "2026-10-09T22:41:40.845747+00:00"
   },
   {
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "summary": " Article URL:  https://github.com/franzenzenhofer/big-arrow-on-the-screen  \n Comments URL:  https://news.ycombinator.com/item?id=50018817  \n Points: 149 \n # Comments: 54 ",
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "summary": " Article URL:  https://typesafe.ai/blog/series-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50023450  \n Points: 204 \n # Comments: 164 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T13:26:33.899371+00:00"
+    "researched_at": "2026-10-09T22:41:40.845775+00:00"
   },
   {
-    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-    "summary": " Article URL:  https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/  \n Comments URL:  https://news.ycombinator.com/item?id=50019455  \n Points: 10 \n # Comments: 0 ",
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "url": "https://carrierexplode.com/",
+    "summary": " Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups. \n \n Comments URL:  https://news.ycombinator.com/item?id=50024499  \n Points: 148 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T13:26:33.899360+00:00"
+    "researched_at": "2026-10-09T22:41:40.845771+00:00"
   },
   {
-    "title": "The Hetzner Cloud network stack – history and technical overview",
-    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-    "summary": " Article URL:  https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/  \n Comments URL:  https://news.ycombinator.com/item?id=50019451  \n Points: 22 \n # Comments: 2 ",
+    "title": "You might want to try being less creative",
+    "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+    "summary": " Article URL:  https://blog.bawolf.com/p/you-might-want-to-try-being-less  \n Comments URL:  https://news.ycombinator.com/item?id=50024927  \n Points: 52 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899367+00:00"
+    "researched_at": "2026-10-09T22:41:40.845756+00:00"
   },
   {
-    "title": "Our $445M Series D",
-    "url": "https://oxide.computer/blog/our-445m-series-d",
-    "summary": " Article URL:  https://oxide.computer/blog/our-445m-series-d  \n Comments URL:  https://news.ycombinator.com/item?id=50020014  \n Points: 7 \n # Comments: 0 ",
+    "title": "Triple-A Minesweeper",
+    "url": "https://minesweeper.mikelacher.com/",
+    "summary": " Article URL:  https://minesweeper.mikelacher.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50022292  \n Points: 421 \n # Comments: 92 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899346+00:00"
+    "researched_at": "2026-10-09T22:41:40.845777+00:00"
   },
   {
-    "title": "Once: Cache CLI Commands",
-    "url": "https://github.com/alex0ptr/once",
-    "summary": " Article URL:  https://github.com/alex0ptr/once  \n Comments URL:  https://news.ycombinator.com/item?id=50018239  \n Points: 29 \n # Comments: 8 ",
+    "title": "Show HN: The rarest tech books and docs you've probably never read",
+    "url": "https://readrare.com/",
+    "summary": " Article URL:  https://readrare.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50024055  \n Points: 28 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899381+00:00"
+    "researched_at": "2026-10-09T22:41:40.845773+00:00"
   },
   {
-    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-    "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-    "summary": " Article URL:  https://www.nobelprize.org/prizes/peace/2026/press-release/  \n Comments URL:  https://news.ycombinator.com/item?id=50018420  \n Points: 170 \n # Comments: 84 ",
+    "title": "No Man Is an Island",
+    "url": "https://borretti.me/article/no-man-is-an-island",
+    "summary": " Article URL:  https://borretti.me/article/no-man-is-an-island  \n Comments URL:  https://news.ycombinator.com/item?id=50025935  \n Points: 202 \n # Comments: 103 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899375+00:00"
+    "researched_at": "2026-10-09T22:41:40.845753+00:00"
   },
   {
-    "title": "MXC - a sandboxed code execution system",
-    "url": "https://github.com/microsoft/mxc",
-    "summary": " Article URL:  https://github.com/microsoft/mxc  \n Comments URL:  https://news.ycombinator.com/item?id=50016489  \n Points: 77 \n # Comments: 45 ",
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "summary": " Article URL:  https://commandline.microsoft.com/microsoft-decision-1-model-foundry/  \n Comments URL:  https://news.ycombinator.com/item?id=50024913  \n Points: 93 \n # Comments: 34 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899386+00:00"
+    "researched_at": "2026-10-09T22:41:40.845758+00:00"
   },
   {
-    "title": "I'm in a Meeting",
-    "url": "https://iminafleeting.com/",
-    "summary": " Article URL:  https://iminafleeting.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50018088  \n Points: 147 \n # Comments: 58 ",
+    "title": "M7.6 Earthquake in Panama",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+    "summary": " Article URL:  https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive  \n Comments URL:  https://news.ycombinator.com/item?id=50024669  \n Points: 109 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899384+00:00"
+    "researched_at": "2026-10-09T22:41:40.845760+00:00"
   },
   {
-    "title": "Deno Is Joining Cloudflare",
-    "url": "https://deno.com/blog/cloudflare",
-    "summary": " Article URL:  https://deno.com/blog/cloudflare  \n Comments URL:  https://news.ycombinator.com/item?id=50019911  \n Points: 55 \n # Comments: 23 ",
+    "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
+    "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
+    "summary": " Article URL:  https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find  \n Comments URL:  https://news.ycombinator.com/item?id=50024571  \n Points: 86 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T13:26:33.899355+00:00"
+    "researched_at": "2026-10-09T22:41:40.845763+00:00"
   }
 ]
