@@ -1,11 +1,6 @@
 [
   {
-    "path": "data/content/drafts/step-5-preview-a-1m-context-moe-from-stepfun-shows-up-on-openrouter.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai.json",
+    "path": "data/content/drafts/openai-the-partition-principle-and-mathematics.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/whistle-speech-to-text-in-16-9-mb.json",
+    "path": "data/content/drafts/what-should-we-tell-our-students.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/trump-administration-is-suspending-microsoft-from-a-green-card-program.json",
+    "path": "data/content/drafts/theranos-world.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-value-of-not-getting-to-the-point-2015.json",
     "passed": true,
     "errors": []
   }

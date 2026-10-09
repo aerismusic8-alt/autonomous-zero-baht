@@ -642,3 +642,22 @@
 {"timestamp": "2026-10-08T23:23:48.205271+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-08T23:23:48.205375+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-08T23:23:48.205630+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-09T06:14:21.062288+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-09T06:14:21.075620+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:21.076130+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-09T06:14:21.076669+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-09T06:14:21.375298+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-09T06:14:24.711306+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-09T06:14:24.712120+00:00", "event": "draft_created", "draft_id": "openai-the-partition-principle-and-mathematics", "path": "data/content/drafts/openai-the-partition-principle-and-mathematics.json"}
+{"timestamp": "2026-10-09T06:14:24.712286+00:00", "event": "draft_created", "draft_id": "ai-ready-biological-data-1-8b-global-commitment", "path": "data/content/drafts/ai-ready-biological-data-1-8b-global-commitment.json"}
+{"timestamp": "2026-10-09T06:14:24.712425+00:00", "event": "draft_created", "draft_id": "what-should-we-tell-our-students", "path": "data/content/drafts/what-should-we-tell-our-students.json"}
+{"timestamp": "2026-10-09T06:14:24.712552+00:00", "event": "draft_created", "draft_id": "theranos-world", "path": "data/content/drafts/theranos-world.json"}
+{"timestamp": "2026-10-09T06:14:24.712681+00:00", "event": "draft_created", "draft_id": "the-value-of-not-getting-to-the-point-2015", "path": "data/content/drafts/the-value-of-not-getting-to-the-point-2015.json"}
+{"timestamp": "2026-10-09T06:14:24.712767+00:00", "event": "draft_validation", "path": "data/content/drafts/openai-the-partition-principle-and-mathematics.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:24.712827+00:00", "event": "draft_validation", "path": "data/content/drafts/ai-ready-biological-data-1-8b-global-commitment.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:24.712881+00:00", "event": "draft_validation", "path": "data/content/drafts/what-should-we-tell-our-students.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:24.712930+00:00", "event": "draft_validation", "path": "data/content/drafts/theranos-world.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:24.712981+00:00", "event": "draft_validation", "path": "data/content/drafts/the-value-of-not-getting-to-the-point-2015.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-09T06:14:24.713092+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-09T06:14:24.713166+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-09T06:14:24.713302+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

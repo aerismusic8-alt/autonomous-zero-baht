@@ -1,98 +1,96 @@
 [
   {
-    "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
-    "url": "https://openrouter.ai/stepfun/step-5-preview",
-    "summary": " Article URL:  https://openrouter.ai/stepfun/step-5-preview  \n Comments URL:  https://news.ycombinator.com/item?id=50007764  \n Points: 76 \n # Comments: 23 ",
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "url": "https://karagila.org/2026/openai-pp/",
+    "summary": " Article URL:  https://karagila.org/2026/openai-pp/  \n Comments URL:  https://news.ycombinator.com/item?id=50013902  \n Points: 88 \n # Comments: 114 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-08T23:23:48.202789+00:00"
-  },
-  {
-    "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-    "url": "https://github.com/thesnarkitecht/rembrandt",
-    "summary": " Article URL:  https://github.com/thesnarkitecht/rembrandt  \n Comments URL:  https://news.ycombinator.com/item?id=50012199  \n Points: 36 \n # Comments: 32 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-08T23:23:48.202762+00:00"
+    "researched_at": "2026-10-09T06:14:24.711474+00:00"
   },
   {
     "title": "AI-ready biological data: $1.8B global commitment",
     "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "summary": " Article URL:  https://biohub.org/news/virtual-biology-initiative-expansion/  \n Comments URL:  https://news.ycombinator.com/item?id=50011999  \n Points: 42 \n # Comments: 1 ",
+    "summary": " Article URL:  https://biohub.org/news/virtual-biology-initiative-expansion/  \n Comments URL:  https://news.ycombinator.com/item?id=50011999  \n Points: 105 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-08T23:23:48.202769+00:00"
+    "researched_at": "2026-10-09T06:14:24.711478+00:00"
   },
   {
-    "title": "Whistle: Speech to Text in 16.9 MB",
-    "url": "https://cactuscompute.com/blog/whistle",
-    "summary": " Article URL:  https://cactuscompute.com/blog/whistle  \n Comments URL:  https://news.ycombinator.com/item?id=50008427  \n Points: 445 \n # Comments: 104 ",
+    "title": "What should we tell our students?",
+    "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+    "summary": " Article URL:  https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/  \n Comments URL:  https://news.ycombinator.com/item?id=50015236  \n Points: 70 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202783+00:00"
-  },
-  {
-    "title": "Trump administration is suspending Microsoft from a green card program",
-    "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-    "summary": " Article URL:  https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea  \n Comments URL:  https://news.ycombinator.com/item?id=50006832  \n Points: 788 \n # Comments: 1360 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202795+00:00"
+    "researched_at": "2026-10-09T06:14:24.711471+00:00"
   },
   {
     "title": "Theranos.world",
     "url": "https://www.theranos.world/",
-    "summary": " Article URL:  https://www.theranos.world/  \n Comments URL:  https://news.ycombinator.com/item?id=50009295  \n Points: 211 \n # Comments: 98 ",
+    "summary": " Article URL:  https://www.theranos.world/  \n Comments URL:  https://news.ycombinator.com/item?id=50009295  \n Points: 385 \n # Comments: 136 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202780+00:00"
+    "researched_at": "2026-10-09T06:14:24.711485+00:00"
   },
   {
     "title": "The value of not getting to the point (2015)",
     "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-    "summary": " Article URL:  https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/  \n Comments URL:  https://news.ycombinator.com/item?id=50010470  \n Points: 92 \n # Comments: 29 ",
+    "summary": " Article URL:  https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/  \n Comments URL:  https://news.ycombinator.com/item?id=50010470  \n Points: 144 \n # Comments: 47 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202777+00:00"
+    "researched_at": "2026-10-09T06:14:24.711483+00:00"
   },
   {
-    "title": "Show HN: Making a flexible \"neon\" t-shirt with LED filaments",
-    "url": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
-    "summary": " Article URL:  http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html  \n Comments URL:  https://news.ycombinator.com/item?id=50008047  \n Points: 85 \n # Comments: 15 ",
+    "title": "Show HN: Quake ported to safe Rust, playable in browser",
+    "url": "https://quake-srp.pages.dev/",
+    "summary": " Article URL:  https://quake-srp.pages.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50016312  \n Points: 55 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202786+00:00"
+    "researched_at": "2026-10-09T06:14:24.711463+00:00"
   },
   {
-    "title": "New gTLD Application for .lan",
-    "url": "https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary",
-    "summary": " Article URL:  https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary  \n Comments URL:  https://news.ycombinator.com/item?id=50007353  \n Points: 92 \n # Comments: 112 ",
+    "title": "Reducing undefined behavior in the C language",
+    "url": "https://lwn.net/Articles/1095811/",
+    "summary": " Article URL:  https://lwn.net/Articles/1095811/  \n Comments URL:  https://news.ycombinator.com/item?id=50015074  \n Points: 85 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202792+00:00"
+    "researched_at": "2026-10-09T06:14:24.711473+00:00"
+  },
+  {
+    "title": "Keyboard differences between Windows and Macs",
+    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+    "summary": " Article URL:  https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/  \n Comments URL:  https://news.ycombinator.com/item?id=50015515  \n Points: 56 \n # Comments: 49 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-09T06:14:24.711468+00:00"
+  },
+  {
+    "title": "Bevy 0.20",
+    "url": "https://bevy.org/news/bevy-0-20/",
+    "summary": " Article URL:  https://bevy.org/news/bevy-0-20/  \n Comments URL:  https://news.ycombinator.com/item?id=50013610  \n Points: 127 \n # Comments: 21 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-09T06:14:24.711476+00:00"
   },
   {
     "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
     "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-    "summary": " Article URL:  https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full  \n Comments URL:  https://news.ycombinator.com/item?id=50011928  \n Points: 104 \n # Comments: 85 ",
+    "summary": " Article URL:  https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full  \n Comments URL:  https://news.ycombinator.com/item?id=50011928  \n Points: 256 \n # Comments: 151 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-08T23:23:48.202773+00:00"
+    "researched_at": "2026-10-09T06:14:24.711481+00:00"
   }
 ]
