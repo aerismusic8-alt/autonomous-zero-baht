@@ -1,96 +1,98 @@
 [
   {
-    "title": "OpenAI, the Partition Principle, and Mathematics",
-    "url": "https://karagila.org/2026/openai-pp/",
-    "summary": " Article URL:  https://karagila.org/2026/openai-pp/  \n Comments URL:  https://news.ycombinator.com/item?id=50013902  \n Points: 88 \n # Comments: 114 ",
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "summary": " Article URL:  https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/  \n Comments URL:  https://news.ycombinator.com/item?id=50018350  \n Points: 80 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T06:14:24.711474+00:00"
+    "researched_at": "2026-10-09T13:26:33.899378+00:00"
   },
   {
-    "title": "AI-ready biological data: $1.8B global commitment",
-    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "summary": " Article URL:  https://biohub.org/news/virtual-biology-initiative-expansion/  \n Comments URL:  https://news.ycombinator.com/item?id=50011999  \n Points: 105 \n # Comments: 14 ",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "summary": " Article URL:  https://github.com/franzenzenhofer/big-arrow-on-the-screen  \n Comments URL:  https://news.ycombinator.com/item?id=50018817  \n Points: 149 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T06:14:24.711478+00:00"
+    "researched_at": "2026-10-09T13:26:33.899371+00:00"
   },
   {
-    "title": "What should we tell our students?",
-    "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-    "summary": " Article URL:  https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/  \n Comments URL:  https://news.ycombinator.com/item?id=50015236  \n Points: 70 \n # Comments: 75 ",
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+    "summary": " Article URL:  https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/  \n Comments URL:  https://news.ycombinator.com/item?id=50019455  \n Points: 10 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-09T13:26:33.899360+00:00"
+  },
+  {
+    "title": "The Hetzner Cloud network stack – history and technical overview",
+    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+    "summary": " Article URL:  https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/  \n Comments URL:  https://news.ycombinator.com/item?id=50019451  \n Points: 22 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711471+00:00"
+    "researched_at": "2026-10-09T13:26:33.899367+00:00"
   },
   {
-    "title": "Theranos.world",
-    "url": "https://www.theranos.world/",
-    "summary": " Article URL:  https://www.theranos.world/  \n Comments URL:  https://news.ycombinator.com/item?id=50009295  \n Points: 385 \n # Comments: 136 ",
+    "title": "Our $445M Series D",
+    "url": "https://oxide.computer/blog/our-445m-series-d",
+    "summary": " Article URL:  https://oxide.computer/blog/our-445m-series-d  \n Comments URL:  https://news.ycombinator.com/item?id=50020014  \n Points: 7 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711485+00:00"
+    "researched_at": "2026-10-09T13:26:33.899346+00:00"
   },
   {
-    "title": "The value of not getting to the point (2015)",
-    "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-    "summary": " Article URL:  https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/  \n Comments URL:  https://news.ycombinator.com/item?id=50010470  \n Points: 144 \n # Comments: 47 ",
+    "title": "Once: Cache CLI Commands",
+    "url": "https://github.com/alex0ptr/once",
+    "summary": " Article URL:  https://github.com/alex0ptr/once  \n Comments URL:  https://news.ycombinator.com/item?id=50018239  \n Points: 29 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711483+00:00"
+    "researched_at": "2026-10-09T13:26:33.899381+00:00"
   },
   {
-    "title": "Show HN: Quake ported to safe Rust, playable in browser",
-    "url": "https://quake-srp.pages.dev/",
-    "summary": " Article URL:  https://quake-srp.pages.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50016312  \n Points: 55 \n # Comments: 22 ",
+    "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+    "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+    "summary": " Article URL:  https://www.nobelprize.org/prizes/peace/2026/press-release/  \n Comments URL:  https://news.ycombinator.com/item?id=50018420  \n Points: 170 \n # Comments: 84 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711463+00:00"
+    "researched_at": "2026-10-09T13:26:33.899375+00:00"
   },
   {
-    "title": "Reducing undefined behavior in the C language",
-    "url": "https://lwn.net/Articles/1095811/",
-    "summary": " Article URL:  https://lwn.net/Articles/1095811/  \n Comments URL:  https://news.ycombinator.com/item?id=50015074  \n Points: 85 \n # Comments: 48 ",
+    "title": "MXC - a sandboxed code execution system",
+    "url": "https://github.com/microsoft/mxc",
+    "summary": " Article URL:  https://github.com/microsoft/mxc  \n Comments URL:  https://news.ycombinator.com/item?id=50016489  \n Points: 77 \n # Comments: 45 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711473+00:00"
+    "researched_at": "2026-10-09T13:26:33.899386+00:00"
   },
   {
-    "title": "Keyboard differences between Windows and Macs",
-    "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
-    "summary": " Article URL:  https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/  \n Comments URL:  https://news.ycombinator.com/item?id=50015515  \n Points: 56 \n # Comments: 49 ",
+    "title": "I'm in a Meeting",
+    "url": "https://iminafleeting.com/",
+    "summary": " Article URL:  https://iminafleeting.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50018088  \n Points: 147 \n # Comments: 58 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711468+00:00"
+    "researched_at": "2026-10-09T13:26:33.899384+00:00"
   },
   {
-    "title": "Bevy 0.20",
-    "url": "https://bevy.org/news/bevy-0-20/",
-    "summary": " Article URL:  https://bevy.org/news/bevy-0-20/  \n Comments URL:  https://news.ycombinator.com/item?id=50013610  \n Points: 127 \n # Comments: 21 ",
+    "title": "Deno Is Joining Cloudflare",
+    "url": "https://deno.com/blog/cloudflare",
+    "summary": " Article URL:  https://deno.com/blog/cloudflare  \n Comments URL:  https://news.ycombinator.com/item?id=50019911  \n Points: 55 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711476+00:00"
-  },
-  {
-    "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-    "summary": " Article URL:  https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full  \n Comments URL:  https://news.ycombinator.com/item?id=50011928  \n Points: 256 \n # Comments: 151 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-09T06:14:24.711481+00:00"
+    "researched_at": "2026-10-09T13:26:33.899355+00:00"
   }
 ]
