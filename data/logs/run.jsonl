@@ -737,3 +737,22 @@
 {"timestamp": "2026-10-10T12:37:41.109484+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-10T12:37:41.109663+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-10T12:37:41.110016+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-10T21:48:17.095019+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-10T21:48:17.098226+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:17.098736+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-10T21:48:17.099295+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-10T21:48:17.214327+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-10T21:48:18.468683+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-10T21:48:18.469653+00:00", "event": "draft_created", "draft_id": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai", "path": "data/content/drafts/nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai.json"}
+{"timestamp": "2026-10-10T21:48:18.469866+00:00", "event": "draft_created", "draft_id": "why-duckdb-2-0-is-faster", "path": "data/content/drafts/why-duckdb-2-0-is-faster.json"}
+{"timestamp": "2026-10-10T21:48:18.470056+00:00", "event": "draft_created", "draft_id": "unikernels-were-hard-key-word-were", "path": "data/content/drafts/unikernels-were-hard-key-word-were.json"}
+{"timestamp": "2026-10-10T21:48:18.470232+00:00", "event": "draft_created", "draft_id": "takeshi-s-castle", "path": "data/content/drafts/takeshi-s-castle.json"}
+{"timestamp": "2026-10-10T21:48:18.470410+00:00", "event": "draft_created", "draft_id": "pvx-001-open-source-covid-19-vaccine-starts-phase-1-trial", "path": "data/content/drafts/pvx-001-open-source-covid-19-vaccine-starts-phase-1-trial.json"}
+{"timestamp": "2026-10-10T21:48:18.470536+00:00", "event": "draft_validation", "path": "data/content/drafts/nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:18.470637+00:00", "event": "draft_validation", "path": "data/content/drafts/why-duckdb-2-0-is-faster.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:18.470724+00:00", "event": "draft_validation", "path": "data/content/drafts/unikernels-were-hard-key-word-were.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:18.470807+00:00", "event": "draft_validation", "path": "data/content/drafts/takeshi-s-castle.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:18.470894+00:00", "event": "draft_validation", "path": "data/content/drafts/pvx-001-open-source-covid-19-vaccine-starts-phase-1-trial.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T21:48:18.471049+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-10T21:48:18.471181+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-10T21:48:18.471371+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

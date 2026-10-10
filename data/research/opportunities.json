@@ -1,96 +1,94 @@
 [
   {
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "url": "https://github.com/rociiu/talorys",
-    "summary": " Article URL:  https://github.com/rociiu/talorys  \n Comments URL:  https://news.ycombinator.com/item?id=50031614  \n Points: 42 \n # Comments: 16 ",
+    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+    "summary": " Article URL:  https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a  \n Comments URL:  https://news.ycombinator.com/item?id=50035886  \n Points: 80 \n # Comments: 49 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-10T12:37:41.106213+00:00"
+    "researched_at": "2026-10-10T21:48:18.468859+00:00"
   },
   {
-    "title": "Food processing influences metabolism and brain activity",
-    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-    "summary": " Article URL:  https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html  \n Comments URL:  https://news.ycombinator.com/item?id=50029830  \n Points: 58 \n # Comments: 44 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-10T12:37:41.106224+00:00"
-  },
-  {
-    "title": "`123456' password used in Danish CPR data breach",
-    "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-    "summary": " Article URL:  https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/  \n Comments URL:  https://news.ycombinator.com/item?id=50031269  \n Points: 152 \n # Comments: 90 ",
+    "title": "Why DuckDB 2.0 is faster",
+    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+    "summary": " Article URL:  https://motherduck.com/blog/why-duckdb-20-is-faster/  \n Comments URL:  https://news.ycombinator.com/item?id=50035530  \n Points: 74 \n # Comments: 25 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106217+00:00"
+    "researched_at": "2026-10-10T21:48:18.468862+00:00"
   },
   {
-    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-    "summary": " Article URL:  https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/  \n Comments URL:  https://news.ycombinator.com/item?id=50029123  \n Points: 220 \n # Comments: 106 ",
+    "title": "Unikernels were hard. key word: were",
+    "url": "https://ghuntley.com/unikernels/",
+    "summary": " Article URL:  https://ghuntley.com/unikernels/  \n Comments URL:  https://news.ycombinator.com/item?id=50033357  \n Points: 45 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106227+00:00"
+    "researched_at": "2026-10-10T21:48:18.468873+00:00"
   },
   {
-    "title": "REA Reverse – Engineer Anything",
-    "url": "https://rea.tools/",
-    "summary": " Article URL:  https://rea.tools/  \n Comments URL:  https://news.ycombinator.com/item?id=50028275  \n Points: 478 \n # Comments: 195 ",
+    "title": "Takeshi's Castle",
+    "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+    "summary": " Article URL:  https://en.wikipedia.org/wiki/Takeshi%27s_Castle  \n Comments URL:  https://news.ycombinator.com/item?id=50036119  \n Points: 50 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106232+00:00"
+    "researched_at": "2026-10-10T21:48:18.468856+00:00"
   },
   {
-    "title": "LLMs Aren't Inevitable",
-    "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-    "summary": " Article URL:  https://deadsimpletech.com/blog/llms-arent-inevitable  \n Comments URL:  https://news.ycombinator.com/item?id=50032064  \n Points: 5 \n # Comments: 0 ",
+    "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
+    "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+    "summary": " Article URL:  https://chronicles.popvax.com/p/popvax-goes-clinical  \n Comments URL:  https://news.ycombinator.com/item?id=50033721  \n Points: 104 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106198+00:00"
+    "researched_at": "2026-10-10T21:48:18.468868+00:00"
   },
   {
-    "title": "Computers Cannot Make Decisions",
-    "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-    "summary": " Article URL:  https://wiki.cateat.fish/art:computers_cannot_make_decisions  \n Comments URL:  https://news.ycombinator.com/item?id=50029982  \n Points: 124 \n # Comments: 102 ",
+    "title": "Knuth reward check",
+    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+    "summary": " Article URL:  https://www.thomas-huehn.com/knuth-reward-check/  \n Comments URL:  https://news.ycombinator.com/item?id=50034081  \n Points: 111 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106221+00:00"
+    "researched_at": "2026-10-10T21:48:18.468864+00:00"
   },
   {
-    "title": "Compiling Rust to readable C with Eurydice",
-    "url": "https://lwn.net/Articles/1055211/",
-    "summary": " Article URL:  https://lwn.net/Articles/1055211/  \n Comments URL:  https://news.ycombinator.com/item?id=50027853  \n Points: 93 \n # Comments: 26 ",
+    "title": "How Protein Took over the World",
+    "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+    "summary": "  https://archive.is/CbkfI  \n \n Comments URL:  https://news.ycombinator.com/item?id=50034008  \n Points: 44 \n # Comments: 88 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106237+00:00"
+    "researched_at": "2026-10-10T21:48:18.468866+00:00"
   },
   {
-    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
-    "summary": " Article URL:  https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants  \n Comments URL:  https://news.ycombinator.com/item?id=50028027  \n Points: 87 \n # Comments: 19 ",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "summary": " Article URL:  https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/  \n Comments URL:  https://news.ycombinator.com/item?id=50037299  \n Points: 5 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106235+00:00"
+    "researched_at": "2026-10-10T21:48:18.468847+00:00"
   },
   {
-    "title": "Apple/macOS silently removed from official Unix registry",
-    "url": "https://www.opengroup.org//openbrand/register/",
-    "summary": " Article URL:  https://www.opengroup.org//openbrand/register/  \n Comments URL:  https://news.ycombinator.com/item?id=50031653  \n Points: 30 \n # Comments: 13 ",
+    "title": "Bitwarden Dual License Model",
+    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+    "summary": " Article URL:  https://community.bitwarden.com/t/published-version-update-in-app-stores/102750  \n Comments URL:  https://news.ycombinator.com/item?id=50033407  \n Points: 307 \n # Comments: 228 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T12:37:41.106205+00:00"
+    "researched_at": "2026-10-10T21:48:18.468871+00:00"
+  },
+  {
+    "title": "50MB operating system can resurrect your old PC",
+    "url": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+    "summary": " Article URL:  https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/  \n Comments URL:  https://news.ycombinator.com/item?id=50036571  \n Points: 14 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-10T21:48:18.468853+00:00"
   }
 ]
