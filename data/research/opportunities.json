@@ -1,98 +1,96 @@
 [
   {
-    "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-    "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-    "summary": " Article URL:  https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306  \n Comments URL:  https://news.ycombinator.com/item?id=50026555  \n Points: 209 \n # Comments: 113 ",
+    "title": "Put a price on breakthroughs",
+    "url": "https://alexwang.ai/posts/put-a-price-on-breakthroughs/",
+    "summary": " Article URL:  https://alexwang.ai/posts/put-a-price-on-breakthroughs/  \n Comments URL:  https://news.ycombinator.com/item?id=50028982  \n Points: 10 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T22:41:40.845747+00:00"
+    "researched_at": "2026-10-10T05:57:27.875228+00:00"
   },
   {
-    "title": "Typesafe AI raises $870M at $7.5B",
-    "url": "https://typesafe.ai/blog/series-ai",
-    "summary": " Article URL:  https://typesafe.ai/blog/series-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50023450  \n Points: 204 \n # Comments: 164 ",
+    "title": "If AI is conscient, then we are making slaves",
+    "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
+    "summary": " Article URL:  https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi  \n Comments URL:  https://news.ycombinator.com/item?id=50029681  \n Points: 8 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-09T22:41:40.845775+00:00"
+    "researched_at": "2026-10-10T05:57:27.875210+00:00"
   },
   {
-    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-    "url": "https://carrierexplode.com/",
-    "summary": " Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations for all the common baseband configurations, etc. There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups. \n \n Comments URL:  https://news.ycombinator.com/item?id=50024499  \n Points: 148 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-09T22:41:40.845771+00:00"
-  },
-  {
-    "title": "You might want to try being less creative",
-    "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-    "summary": " Article URL:  https://blog.bawolf.com/p/you-might-want-to-try-being-less  \n Comments URL:  https://news.ycombinator.com/item?id=50024927  \n Points: 52 \n # Comments: 24 ",
+    "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+    "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+    "summary": " Article URL:  https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/  \n Comments URL:  https://news.ycombinator.com/item?id=50029123  \n Points: 38 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845756+00:00"
+    "researched_at": "2026-10-10T05:57:27.875225+00:00"
   },
   {
-    "title": "Triple-A Minesweeper",
-    "url": "https://minesweeper.mikelacher.com/",
-    "summary": " Article URL:  https://minesweeper.mikelacher.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50022292  \n Points: 421 \n # Comments: 92 ",
+    "title": "REA Reverse – Engineer Anything",
+    "url": "https://rea.tools/",
+    "summary": " Article URL:  https://rea.tools/  \n Comments URL:  https://news.ycombinator.com/item?id=50028275  \n Points: 244 \n # Comments: 81 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845777+00:00"
+    "researched_at": "2026-10-10T05:57:27.875239+00:00"
   },
   {
-    "title": "Show HN: The rarest tech books and docs you've probably never read",
-    "url": "https://readrare.com/",
-    "summary": " Article URL:  https://readrare.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50024055  \n Points: 28 \n # Comments: 3 ",
+    "title": "Next.js 16.4",
+    "url": "https://nextjs.org/blog/next-16-4",
+    "summary": " Article URL:  https://nextjs.org/blog/next-16-4  \n Comments URL:  https://news.ycombinator.com/item?id=50028855  \n Points: 6 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845773+00:00"
+    "researched_at": "2026-10-10T05:57:27.875231+00:00"
   },
   {
-    "title": "No Man Is an Island",
-    "url": "https://borretti.me/article/no-man-is-an-island",
-    "summary": " Article URL:  https://borretti.me/article/no-man-is-an-island  \n Comments URL:  https://news.ycombinator.com/item?id=50025935  \n Points: 202 \n # Comments: 103 ",
+    "title": "Lobbying",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html",
+    "summary": " Article URL:  https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html  \n Comments URL:  https://news.ycombinator.com/item?id=50029630  \n Points: 136 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845753+00:00"
+    "researched_at": "2026-10-10T05:57:27.875217+00:00"
   },
   {
-    "title": "Microsoft-Decision-1, our model for fast decision-making",
-    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-    "summary": " Article URL:  https://commandline.microsoft.com/microsoft-decision-1-model-foundry/  \n Comments URL:  https://news.ycombinator.com/item?id=50024913  \n Points: 93 \n # Comments: 34 ",
+    "title": "Has the Autonomous Trucking Revolution Arrived?",
+    "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+    "summary": " Article URL:  https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/  \n Comments URL:  https://news.ycombinator.com/item?id=50028062  \n Points: 22 \n # Comments: 36 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845758+00:00"
+    "researched_at": "2026-10-10T05:57:27.875242+00:00"
   },
   {
-    "title": "M7.6 Earthquake in Panama",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-    "summary": " Article URL:  https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive  \n Comments URL:  https://news.ycombinator.com/item?id=50024669  \n Points: 109 \n # Comments: 33 ",
+    "title": "Data Center Darling's $30B IPO Dream Crushed in 48 Hours",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+    "summary": " Article URL:  https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours  \n Comments URL:  https://news.ycombinator.com/item?id=50029452  \n Points: 17 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845760+00:00"
+    "researched_at": "2026-10-10T05:57:27.875221+00:00"
   },
   {
-    "title": "Ideas aren't getting harder to find, anyone who tells you otherwise is a coward",
-    "url": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-    "summary": " Article URL:  https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find  \n Comments URL:  https://news.ycombinator.com/item?id=50024571  \n Points: 86 \n # Comments: 31 ",
+    "title": "Compiling Rust to readable C with Eurydice",
+    "url": "https://lwn.net/Articles/1055211/",
+    "summary": " Article URL:  https://lwn.net/Articles/1055211/  \n Comments URL:  https://news.ycombinator.com/item?id=50027853  \n Points: 47 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-09T22:41:40.845763+00:00"
+    "researched_at": "2026-10-10T05:57:27.875248+00:00"
+  },
+  {
+    "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+    "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+    "summary": " Article URL:  https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants  \n Comments URL:  https://news.ycombinator.com/item?id=50028027  \n Points: 28 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-10T05:57:27.875245+00:00"
   }
 ]

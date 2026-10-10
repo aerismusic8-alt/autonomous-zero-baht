@@ -699,3 +699,22 @@
 {"timestamp": "2026-10-09T22:41:40.864801+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-09T22:41:40.864910+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-09T22:41:40.865095+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-10T05:57:27.351324+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-10T05:57:27.354651+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.355100+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-10T05:57:27.355638+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-10T05:57:27.450816+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-10T05:57:27.875013+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-10T05:57:27.876288+00:00", "event": "draft_created", "draft_id": "put-a-price-on-breakthroughs", "path": "data/content/drafts/put-a-price-on-breakthroughs.json"}
+{"timestamp": "2026-10-10T05:57:27.876585+00:00", "event": "draft_created", "draft_id": "if-ai-is-conscient-then-we-are-making-slaves", "path": "data/content/drafts/if-ai-is-conscient-then-we-are-making-slaves.json"}
+{"timestamp": "2026-10-10T05:57:27.876952+00:00", "event": "draft_created", "draft_id": "telegram-desktop-vulnerability-allowed-any-user-s-file-to-be-stolen", "path": "data/content/drafts/telegram-desktop-vulnerability-allowed-any-user-s-file-to-be-stolen.json"}
+{"timestamp": "2026-10-10T05:57:27.877229+00:00", "event": "draft_created", "draft_id": "rea-reverse-engineer-anything", "path": "data/content/drafts/rea-reverse-engineer-anything.json"}
+{"timestamp": "2026-10-10T05:57:27.877487+00:00", "event": "draft_created", "draft_id": "next-js-16-4", "path": "data/content/drafts/next-js-16-4.json"}
+{"timestamp": "2026-10-10T05:57:27.877642+00:00", "event": "draft_validation", "path": "data/content/drafts/put-a-price-on-breakthroughs.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.877767+00:00", "event": "draft_validation", "path": "data/content/drafts/if-ai-is-conscient-then-we-are-making-slaves.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.877900+00:00", "event": "draft_validation", "path": "data/content/drafts/telegram-desktop-vulnerability-allowed-any-user-s-file-to-be-stolen.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.878004+00:00", "event": "draft_validation", "path": "data/content/drafts/rea-reverse-engineer-anything.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.878101+00:00", "event": "draft_validation", "path": "data/content/drafts/next-js-16-4.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-10T05:57:27.878300+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-10T05:57:27.878451+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-10T05:57:27.878705+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
