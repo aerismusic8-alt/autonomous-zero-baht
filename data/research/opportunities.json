@@ -2,93 +2,97 @@
   {
     "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
     "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "summary": " Article URL:  https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a  \n Comments URL:  https://news.ycombinator.com/item?id=50035886  \n Points: 80 \n # Comments: 49 ",
+    "summary": " Article URL:  https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a  \n Comments URL:  https://news.ycombinator.com/item?id=50035886  \n Points: 146 \n # Comments: 96 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-10T21:48:18.468859+00:00"
+    "researched_at": "2026-10-11T05:52:45.683124+00:00"
+  },
+  {
+    "title": "AI agents in a stand-up call",
+    "url": "https://atoll92.github.io/agent-standup/",
+    "summary": " Article URL:  https://atoll92.github.io/agent-standup/  \n Comments URL:  https://news.ycombinator.com/item?id=50039630  \n Points: 12 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-11T05:52:45.683085+00:00"
+  },
+  {
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "summary": " Article URL:  https://momo5502.com/posts/2026-10-09-game-decompilation/  \n Comments URL:  https://news.ycombinator.com/item?id=50039092  \n Points: 68 \n # Comments: 54 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-11T05:52:45.683105+00:00"
   },
   {
     "title": "Why DuckDB 2.0 is faster",
     "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-    "summary": " Article URL:  https://motherduck.com/blog/why-duckdb-20-is-faster/  \n Comments URL:  https://news.ycombinator.com/item?id=50035530  \n Points: 74 \n # Comments: 25 ",
+    "summary": " Article URL:  https://motherduck.com/blog/why-duckdb-20-is-faster/  \n Comments URL:  https://news.ycombinator.com/item?id=50035530  \n Points: 183 \n # Comments: 57 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468862+00:00"
+    "researched_at": "2026-10-11T05:52:45.683127+00:00"
   },
   {
-    "title": "Unikernels were hard. key word: were",
-    "url": "https://ghuntley.com/unikernels/",
-    "summary": " Article URL:  https://ghuntley.com/unikernels/  \n Comments URL:  https://news.ycombinator.com/item?id=50033357  \n Points: 45 \n # Comments: 19 ",
+    "title": "WallHop – 12ft.io is gone, so I built a replacement",
+    "url": "https://wallhop.io/",
+    "summary": " Article URL:  https://wallhop.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50038634  \n Points: 203 \n # Comments: 90 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468873+00:00"
+    "researched_at": "2026-10-11T05:52:45.683110+00:00"
   },
   {
-    "title": "Takeshi's Castle",
-    "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
-    "summary": " Article URL:  https://en.wikipedia.org/wiki/Takeshi%27s_Castle  \n Comments URL:  https://news.ycombinator.com/item?id=50036119  \n Points: 50 \n # Comments: 22 ",
+    "title": "PSPi 6 – Raspberry Pi in a PSP",
+    "url": "https://github.com/othermod/PSPi-Version-6",
+    "summary": " Article URL:  https://github.com/othermod/PSPi-Version-6  \n Comments URL:  https://news.ycombinator.com/item?id=50038623  \n Points: 54 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468856+00:00"
+    "researched_at": "2026-10-11T05:52:45.683115+00:00"
   },
   {
-    "title": "PVX-001: open-source Covid-19 vaccine starts Phase 1 trial",
-    "url": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-    "summary": " Article URL:  https://chronicles.popvax.com/p/popvax-goes-clinical  \n Comments URL:  https://news.ycombinator.com/item?id=50033721  \n Points: 104 \n # Comments: 17 ",
+    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+    "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=XiZmM6hwwAU  \n Comments URL:  https://news.ycombinator.com/item?id=50039536  \n Points: 24 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468868+00:00"
+    "researched_at": "2026-10-11T05:52:45.683093+00:00"
   },
   {
-    "title": "Knuth reward check",
-    "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-    "summary": " Article URL:  https://www.thomas-huehn.com/knuth-reward-check/  \n Comments URL:  https://news.ycombinator.com/item?id=50034081  \n Points: 111 \n # Comments: 41 ",
+    "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+    "url": "https://worldfacts.app",
+    "summary": " Article URL:  https://worldfacts.app  \n Comments URL:  https://news.ycombinator.com/item?id=50039504  \n Points: 34 \n # Comments: 36 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468864+00:00"
+    "researched_at": "2026-10-11T05:52:45.683101+00:00"
   },
   {
-    "title": "How Protein Took over the World",
-    "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
-    "summary": "  https://archive.is/CbkfI  \n \n Comments URL:  https://news.ycombinator.com/item?id=50034008  \n Points: 44 \n # Comments: 88 ",
+    "title": "Build your own decision model",
+    "url": "https://nishtahir.com/build-your-own-decision-model/",
+    "summary": " Article URL:  https://nishtahir.com/build-your-own-decision-model/  \n Comments URL:  https://news.ycombinator.com/item?id=50037949  \n Points: 195 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468866+00:00"
+    "researched_at": "2026-10-11T05:52:45.683118+00:00"
   },
   {
-    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-    "summary": " Article URL:  https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/  \n Comments URL:  https://news.ycombinator.com/item?id=50037299  \n Points: 5 \n # Comments: 2 ",
+    "title": "A city-building game in which the city would prefer you didn't",
+    "url": "https://housing.over.pizza/",
+    "summary": " Article URL:  https://housing.over.pizza/  \n Comments URL:  https://news.ycombinator.com/item?id=50036864  \n Points: 254 \n # Comments: 89 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468847+00:00"
-  },
-  {
-    "title": "Bitwarden Dual License Model",
-    "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-    "summary": " Article URL:  https://community.bitwarden.com/t/published-version-update-in-app-stores/102750  \n Comments URL:  https://news.ycombinator.com/item?id=50033407  \n Points: 307 \n # Comments: 228 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468871+00:00"
-  },
-  {
-    "title": "50MB operating system can resurrect your old PC",
-    "url": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
-    "summary": " Article URL:  https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/  \n Comments URL:  https://news.ycombinator.com/item?id=50036571  \n Points: 14 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-10T21:48:18.468853+00:00"
+    "researched_at": "2026-10-11T05:52:45.683121+00:00"
   }
 ]

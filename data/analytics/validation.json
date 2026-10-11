@@ -5,22 +5,22 @@
     "errors": []
   },
   {
+    "path": "data/content/drafts/ai-agents-in-a-stand-up-call.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/why-duckdb-2-0-is-faster.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/unikernels-were-hard-key-word-were.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/takeshi-s-castle.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/pvx-001-open-source-covid-19-vaccine-starts-phase-1-trial.json",
+    "path": "data/content/drafts/wallhop-12ft-io-is-gone-so-i-built-a-replacement.json",
     "passed": true,
     "errors": []
   }
