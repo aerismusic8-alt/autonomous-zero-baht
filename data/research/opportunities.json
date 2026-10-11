@@ -1,98 +1,94 @@
 [
   {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "url": "https://jobs.ashbyhq.com/weave-os",
-    "summary": " Article URL:  https://jobs.ashbyhq.com/weave-os  \n Comments URL:  https://news.ycombinator.com/item?id=50042330  \n Points: 0 \n # Comments: 0 ",
+    "title": "NYC's \"Click to Cancel\" rule is now in effect",
+    "url": "https://www.nyc.gov/main/click-to-cancel",
+    "summary": " Article URL:  https://www.nyc.gov/main/click-to-cancel  \n Comments URL:  https://news.ycombinator.com/item?id=50045946  \n Points: 251 \n # Comments: 111 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-11T12:56:27.724567+00:00"
+    "researched_at": "2026-10-11T22:01:39.763186+00:00"
   },
   {
-    "title": "I paid people to try and follow my README",
-    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "summary": " Article URL:  https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/  \n Comments URL:  https://news.ycombinator.com/item?id=50042219  \n Points: 60 \n # Comments: 34 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-11T12:56:27.724570+00:00"
-  },
-  {
-    "title": "AI is creating a 'human premium' for art created by people",
-    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-    "summary": " Article URL:  https://www.bbc.com/news/articles/c5vgjm3gk7rzo  \n Comments URL:  https://news.ycombinator.com/item?id=50042107  \n Points: 45 \n # Comments: 42 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-11T12:56:27.724576+00:00"
-  },
-  {
-    "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
-    "url": "https://copilot.travel/tolls/europe-2026",
-    "summary": " Article URL:  https://copilot.travel/tolls/europe-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50042149  \n Points: 20 \n # Comments: 11 ",
+    "title": "apsw: Another Python SQLite Wrapper",
+    "url": "https://github.com/rogerbinns/apsw",
+    "summary": " Article URL:  https://github.com/rogerbinns/apsw  \n Comments URL:  https://news.ycombinator.com/item?id=50045273  \n Points: 46 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724573+00:00"
+    "researched_at": "2026-10-11T22:01:39.763188+00:00"
   },
   {
-    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-    "url": "https://verdagon.dev/blog/valen-group-borrowing",
-    "summary": " Article URL:  https://verdagon.dev/blog/valen-group-borrowing  \n Comments URL:  https://news.ycombinator.com/item?id=50042362  \n Points: 5 \n # Comments: 3 ",
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "summary": " Article URL:  https://nanolathe.gg  \n Comments URL:  https://news.ycombinator.com/item?id=50045984  \n Points: 248 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724564+00:00"
+    "researched_at": "2026-10-11T22:01:39.763183+00:00"
   },
   {
-    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-    "summary": " Article URL:  https://radar.cloudflare.com/bots/as13238?dateRange=7d  \n Comments URL:  https://news.ycombinator.com/item?id=50041619  \n Points: 266 \n # Comments: 98 ",
+    "title": "The gap in shared understanding of LLM capability is widening",
+    "url": "https://twitter.com/karpathy/status/2109361546505966046",
+    "summary": " Article URL:  https://twitter.com/karpathy/status/2109361546505966046  \n Comments URL:  https://news.ycombinator.com/item?id=50047422  \n Points: 36 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724585+00:00"
+    "researched_at": "2026-10-11T22:01:39.763162+00:00"
   },
   {
-    "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
-    "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
-    "summary": " Article URL:  https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html  \n Comments URL:  https://news.ycombinator.com/item?id=50042370  \n Points: 12 \n # Comments: 4 ",
+    "title": "The Unreasonable Effectiveness of Vex in NixOS",
+    "url": "https://blog.kammel.dev/post/nixos_vex/",
+    "summary": " Article URL:  https://blog.kammel.dev/post/nixos_vex/  \n Comments URL:  https://news.ycombinator.com/item?id=50046864  \n Points: 28 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724559+00:00"
+    "researched_at": "2026-10-11T22:01:39.763176+00:00"
   },
   {
-    "title": "Nitter: Update Oct 10th seeking funding and legal help",
-    "url": "https://nitter.net",
-    "summary": " Article URL:  https://nitter.net  \n Comments URL:  https://news.ycombinator.com/item?id=50041682  \n Points: 162 \n # Comments: 50 ",
+    "title": "Do You Have Pre-2012 Onion Issues?",
+    "url": "https://theonion.com/archivehunt/",
+    "summary": " Article URL:  https://theonion.com/archivehunt/  \n Comments URL:  https://news.ycombinator.com/item?id=50047055  \n Points: 160 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724579+00:00"
+    "researched_at": "2026-10-11T22:01:39.763173+00:00"
   },
   {
-    "title": "Don't Put Tilde In Your Path",
-    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-    "summary": " Article URL:  https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/  \n Comments URL:  https://news.ycombinator.com/item?id=50042425  \n Points: 10 \n # Comments: 0 ",
+    "title": "Chapter 1 of Ways of Seeing by John Berger",
+    "url": "https://www.ways-of-seeing.com/ch1",
+    "summary": " Article URL:  https://www.ways-of-seeing.com/ch1  \n Comments URL:  https://news.ycombinator.com/item?id=50046241  \n Points: 52 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724551+00:00"
+    "researched_at": "2026-10-11T22:01:39.763179+00:00"
   },
   {
-    "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
-    "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
-    "summary": " Article URL:  https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/  \n Comments URL:  https://news.ycombinator.com/item?id=50041667  \n Points: 25 \n # Comments: 29 ",
+    "title": "Cartographers of North Korea",
+    "url": "https://cartographers-nk.wonyoung.so/",
+    "summary": " Article URL:  https://cartographers-nk.wonyoung.so/  \n Comments URL:  https://news.ycombinator.com/item?id=50047091  \n Points: 85 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T12:56:27.724582+00:00"
+    "researched_at": "2026-10-11T22:01:39.763167+00:00"
+  },
+  {
+    "title": "Artificial Insanity",
+    "url": "https://richwhitehouse.com/index.php?postid=78",
+    "summary": " Article URL:  https://richwhitehouse.com/index.php?postid=78  \n Comments URL:  https://news.ycombinator.com/item?id=50047071  \n Points: 49 \n # Comments: 49 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-11T22:01:39.763170+00:00"
+  },
+  {
+    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+    "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+    "summary": " Article URL:  https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963  \n Comments URL:  https://news.ycombinator.com/item?id=50047825  \n Points: 29 \n # Comments: 6 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-11T22:01:39.763154+00:00"
   }
 ]
