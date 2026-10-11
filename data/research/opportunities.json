@@ -1,98 +1,98 @@
 [
   {
-    "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-    "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-    "summary": " Article URL:  https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a  \n Comments URL:  https://news.ycombinator.com/item?id=50035886  \n Points: 146 \n # Comments: 96 ",
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "url": "https://jobs.ashbyhq.com/weave-os",
+    "summary": " Article URL:  https://jobs.ashbyhq.com/weave-os  \n Comments URL:  https://news.ycombinator.com/item?id=50042330  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-11T05:52:45.683124+00:00"
+    "researched_at": "2026-10-11T12:56:27.724567+00:00"
   },
   {
-    "title": "AI agents in a stand-up call",
-    "url": "https://atoll92.github.io/agent-standup/",
-    "summary": " Article URL:  https://atoll92.github.io/agent-standup/  \n Comments URL:  https://news.ycombinator.com/item?id=50039630  \n Points: 12 \n # Comments: 3 ",
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "summary": " Article URL:  https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/  \n Comments URL:  https://news.ycombinator.com/item?id=50042219  \n Points: 60 \n # Comments: 34 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-11T05:52:45.683085+00:00"
+    "researched_at": "2026-10-11T12:56:27.724570+00:00"
   },
   {
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "summary": " Article URL:  https://momo5502.com/posts/2026-10-09-game-decompilation/  \n Comments URL:  https://news.ycombinator.com/item?id=50039092  \n Points: 68 \n # Comments: 54 ",
+    "title": "AI is creating a 'human premium' for art created by people",
+    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+    "summary": " Article URL:  https://www.bbc.com/news/articles/c5vgjm3gk7rzo  \n Comments URL:  https://news.ycombinator.com/item?id=50042107  \n Points: 45 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-11T05:52:45.683105+00:00"
+    "researched_at": "2026-10-11T12:56:27.724576+00:00"
   },
   {
-    "title": "Why DuckDB 2.0 is faster",
-    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-    "summary": " Article URL:  https://motherduck.com/blog/why-duckdb-20-is-faster/  \n Comments URL:  https://news.ycombinator.com/item?id=50035530  \n Points: 183 \n # Comments: 57 ",
+    "title": "What driving across Europe costs in tolls, vignettes, bridges and fuel",
+    "url": "https://copilot.travel/tolls/europe-2026",
+    "summary": " Article URL:  https://copilot.travel/tolls/europe-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50042149  \n Points: 20 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683127+00:00"
+    "researched_at": "2026-10-11T12:56:27.724573+00:00"
   },
   {
-    "title": "WallHop – 12ft.io is gone, so I built a replacement",
-    "url": "https://wallhop.io/",
-    "summary": " Article URL:  https://wallhop.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50038634  \n Points: 203 \n # Comments: 90 ",
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "url": "https://verdagon.dev/blog/valen-group-borrowing",
+    "summary": " Article URL:  https://verdagon.dev/blog/valen-group-borrowing  \n Comments URL:  https://news.ycombinator.com/item?id=50042362  \n Points: 5 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683110+00:00"
+    "researched_at": "2026-10-11T12:56:27.724564+00:00"
   },
   {
-    "title": "PSPi 6 – Raspberry Pi in a PSP",
-    "url": "https://github.com/othermod/PSPi-Version-6",
-    "summary": " Article URL:  https://github.com/othermod/PSPi-Version-6  \n Comments URL:  https://news.ycombinator.com/item?id=50038623  \n Points: 54 \n # Comments: 5 ",
+    "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+    "summary": " Article URL:  https://radar.cloudflare.com/bots/as13238?dateRange=7d  \n Comments URL:  https://news.ycombinator.com/item?id=50041619  \n Points: 266 \n # Comments: 98 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683115+00:00"
+    "researched_at": "2026-10-11T12:56:27.724585+00:00"
   },
   {
-    "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
-    "url": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=XiZmM6hwwAU  \n Comments URL:  https://news.ycombinator.com/item?id=50039536  \n Points: 24 \n # Comments: 5 ",
+    "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+    "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+    "summary": " Article URL:  https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html  \n Comments URL:  https://news.ycombinator.com/item?id=50042370  \n Points: 12 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683093+00:00"
+    "researched_at": "2026-10-11T12:56:27.724559+00:00"
   },
   {
-    "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
-    "url": "https://worldfacts.app",
-    "summary": " Article URL:  https://worldfacts.app  \n Comments URL:  https://news.ycombinator.com/item?id=50039504  \n Points: 34 \n # Comments: 36 ",
+    "title": "Nitter: Update Oct 10th seeking funding and legal help",
+    "url": "https://nitter.net",
+    "summary": " Article URL:  https://nitter.net  \n Comments URL:  https://news.ycombinator.com/item?id=50041682  \n Points: 162 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683101+00:00"
+    "researched_at": "2026-10-11T12:56:27.724579+00:00"
   },
   {
-    "title": "Build your own decision model",
-    "url": "https://nishtahir.com/build-your-own-decision-model/",
-    "summary": " Article URL:  https://nishtahir.com/build-your-own-decision-model/  \n Comments URL:  https://news.ycombinator.com/item?id=50037949  \n Points: 195 \n # Comments: 39 ",
+    "title": "Don't Put Tilde In Your Path",
+    "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+    "summary": " Article URL:  https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/  \n Comments URL:  https://news.ycombinator.com/item?id=50042425  \n Points: 10 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683118+00:00"
+    "researched_at": "2026-10-11T12:56:27.724551+00:00"
   },
   {
-    "title": "A city-building game in which the city would prefer you didn't",
-    "url": "https://housing.over.pizza/",
-    "summary": " Article URL:  https://housing.over.pizza/  \n Comments URL:  https://news.ycombinator.com/item?id=50036864  \n Points: 254 \n # Comments: 89 ",
+    "title": "\"Robot\" Is a Social Construct: Why Your Dishwasher Is Not a Robot",
+    "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+    "summary": " Article URL:  https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/  \n Comments URL:  https://news.ycombinator.com/item?id=50041667  \n Points: 25 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T05:52:45.683121+00:00"
+    "researched_at": "2026-10-11T12:56:27.724582+00:00"
   }
 ]
