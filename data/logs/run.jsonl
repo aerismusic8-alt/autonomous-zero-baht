@@ -832,3 +832,22 @@
 {"timestamp": "2026-10-12T06:04:16.679796+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-12T06:04:16.679986+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-12T06:04:16.680272+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-12T15:34:00.261327+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-12T15:34:00.275872+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:00.276305+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-12T15:34:00.276804+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-12T15:34:00.673060+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-12T15:34:01.103172+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-12T15:34:01.104130+00:00", "event": "draft_created", "draft_id": "why-aren-t-ai-companies-being-charged-for-hacking", "path": "data/content/drafts/why-aren-t-ai-companies-being-charged-for-hacking.json"}
+{"timestamp": "2026-10-12T15:34:01.104323+00:00", "event": "draft_created", "draft_id": "qgis-bans-ai-assisted-contributions", "path": "data/content/drafts/qgis-bans-ai-assisted-contributions.json"}
+{"timestamp": "2026-10-12T15:34:01.104469+00:00", "event": "draft_created", "draft_id": "solar-panels-that-plug-into-your-wall", "path": "data/content/drafts/solar-panels-that-plug-into-your-wall.json"}
+{"timestamp": "2026-10-12T15:34:01.104606+00:00", "event": "draft_created", "draft_id": "show-hn-ps2-games-statically-recompiled-to-webassembly", "path": "data/content/drafts/show-hn-ps2-games-statically-recompiled-to-webassembly.json"}
+{"timestamp": "2026-10-12T15:34:01.104738+00:00", "event": "draft_created", "draft_id": "living-in-the-weimar-era-of-ruby", "path": "data/content/drafts/living-in-the-weimar-era-of-ruby.json"}
+{"timestamp": "2026-10-12T15:34:01.104838+00:00", "event": "draft_validation", "path": "data/content/drafts/why-aren-t-ai-companies-being-charged-for-hacking.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:01.104903+00:00", "event": "draft_validation", "path": "data/content/drafts/qgis-bans-ai-assisted-contributions.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:01.104959+00:00", "event": "draft_validation", "path": "data/content/drafts/solar-panels-that-plug-into-your-wall.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:01.105011+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-ps2-games-statically-recompiled-to-webassembly.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:01.105059+00:00", "event": "draft_validation", "path": "data/content/drafts/living-in-the-weimar-era-of-ruby.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-12T15:34:01.105180+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-12T15:34:01.105280+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-12T15:34:01.105420+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
