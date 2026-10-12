@@ -1,94 +1,92 @@
 [
   {
-    "title": "NYC's \"Click to Cancel\" rule is now in effect",
-    "url": "https://www.nyc.gov/main/click-to-cancel",
-    "summary": " Article URL:  https://www.nyc.gov/main/click-to-cancel  \n Comments URL:  https://news.ycombinator.com/item?id=50045946  \n Points: 251 \n # Comments: 111 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-11T22:01:39.763186+00:00"
-  },
-  {
-    "title": "apsw: Another Python SQLite Wrapper",
-    "url": "https://github.com/rogerbinns/apsw",
-    "summary": " Article URL:  https://github.com/rogerbinns/apsw  \n Comments URL:  https://news.ycombinator.com/item?id=50045273  \n Points: 46 \n # Comments: 12 ",
+    "title": "Yandex bot traffic down 99% after data center attack",
+    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
+    "summary": " Article URL:  https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic  \n Comments URL:  https://news.ycombinator.com/item?id=50051532  \n Points: 94 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763188+00:00"
+    "researched_at": "2026-10-12T06:04:16.676516+00:00"
   },
   {
-    "title": "Total Annihilation, rebuilt for modern computers",
-    "url": "https://nanolathe.gg",
-    "summary": " Article URL:  https://nanolathe.gg  \n Comments URL:  https://news.ycombinator.com/item?id=50045984  \n Points: 248 \n # Comments: 99 ",
+    "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+    "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+    "summary": " Article URL:  https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/  \n Comments URL:  https://news.ycombinator.com/item?id=50051530  \n Points: 11 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763183+00:00"
+    "researched_at": "2026-10-12T06:04:16.676521+00:00"
   },
   {
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "summary": " Article URL:  https://twitter.com/karpathy/status/2109361546505966046  \n Comments URL:  https://news.ycombinator.com/item?id=50047422  \n Points: 36 \n # Comments: 9 ",
+    "title": "Whatever became of holography? (2011)",
+    "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+    "summary": " Article URL:  https://www.americanscientist.org/article/whatever-became-of-holography  \n Comments URL:  https://news.ycombinator.com/item?id=50049411  \n Points: 104 \n # Comments: 49 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763162+00:00"
+    "researched_at": "2026-10-12T06:04:16.676542+00:00"
   },
   {
-    "title": "The Unreasonable Effectiveness of Vex in NixOS",
-    "url": "https://blog.kammel.dev/post/nixos_vex/",
-    "summary": " Article URL:  https://blog.kammel.dev/post/nixos_vex/  \n Comments URL:  https://news.ycombinator.com/item?id=50046864  \n Points: 28 \n # Comments: 0 ",
+    "title": "Type-safe HTML templating in Zig",
+    "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+    "summary": " Article URL:  https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html  \n Comments URL:  https://news.ycombinator.com/item?id=50051573  \n Points: 26 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763176+00:00"
+    "researched_at": "2026-10-12T06:04:16.676506+00:00"
   },
   {
-    "title": "Do You Have Pre-2012 Onion Issues?",
-    "url": "https://theonion.com/archivehunt/",
-    "summary": " Article URL:  https://theonion.com/archivehunt/  \n Comments URL:  https://news.ycombinator.com/item?id=50047055  \n Points: 160 \n # Comments: 14 ",
+    "title": "Local Indexing to reduce tool calling and token usage",
+    "url": "https://tedhaley.ca/pensieve/",
+    "summary": " Article URL:  https://tedhaley.ca/pensieve/  \n Comments URL:  https://news.ycombinator.com/item?id=50049508  \n Points: 53 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763173+00:00"
+    "researched_at": "2026-10-12T06:04:16.676534+00:00"
   },
   {
-    "title": "Chapter 1 of Ways of Seeing by John Berger",
-    "url": "https://www.ways-of-seeing.com/ch1",
-    "summary": " Article URL:  https://www.ways-of-seeing.com/ch1  \n Comments URL:  https://news.ycombinator.com/item?id=50046241  \n Points: 52 \n # Comments: 9 ",
+    "title": "Illustration Beyond Proof",
+    "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+    "summary": " Article URL:  https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/  \n Comments URL:  https://news.ycombinator.com/item?id=50049133  \n Points: 52 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763179+00:00"
+    "researched_at": "2026-10-12T06:04:16.676546+00:00"
   },
   {
-    "title": "Cartographers of North Korea",
-    "url": "https://cartographers-nk.wonyoung.so/",
-    "summary": " Article URL:  https://cartographers-nk.wonyoung.so/  \n Comments URL:  https://news.ycombinator.com/item?id=50047091  \n Points: 85 \n # Comments: 8 ",
+    "title": "HashiCorp archives the Boundary open source repo",
+    "url": "https://github.com/hashicorp/boundary",
+    "summary": " Article URL:  https://github.com/hashicorp/boundary  \n Comments URL:  https://news.ycombinator.com/item?id=50049498  \n Points: 62 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763167+00:00"
+    "researched_at": "2026-10-12T06:04:16.676538+00:00"
   },
   {
-    "title": "Artificial Insanity",
-    "url": "https://richwhitehouse.com/index.php?postid=78",
-    "summary": " Article URL:  https://richwhitehouse.com/index.php?postid=78  \n Comments URL:  https://news.ycombinator.com/item?id=50047071  \n Points: 49 \n # Comments: 49 ",
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "summary": " Article URL:  https://royfish.dev/fingerprints-are-the-new-cookies  \n Comments URL:  https://news.ycombinator.com/item?id=50048642  \n Points: 246 \n # Comments: 118 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763170+00:00"
+    "researched_at": "2026-10-12T06:04:16.676557+00:00"
   },
   {
-    "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-    "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-    "summary": " Article URL:  https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963  \n Comments URL:  https://news.ycombinator.com/item?id=50047825  \n Points: 29 \n # Comments: 6 ",
+    "title": "Doory – Open-Source Canva",
+    "url": "https://github.com/shaongitbd/doory",
+    "summary": " Article URL:  https://github.com/shaongitbd/doory  \n Comments URL:  https://news.ycombinator.com/item?id=50049872  \n Points: 66 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-11T22:01:39.763154+00:00"
+    "researched_at": "2026-10-12T06:04:16.676530+00:00"
+  },
+  {
+    "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
+    "url": "https://github.com/ClickHouse/clickhouse-c",
+    "summary": " Article URL:  https://github.com/ClickHouse/clickhouse-c  \n Comments URL:  https://news.ycombinator.com/item?id=50049003  \n Points: 29 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-12T06:04:16.676553+00:00"
   }
 ]
