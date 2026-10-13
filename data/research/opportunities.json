@@ -1,96 +1,98 @@
 [
   {
-    "title": "Why aren't AI companies being charged for hacking?",
-    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-    "summary": " Article URL:  https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/  \n Comments URL:  https://news.ycombinator.com/item?id=50057278  \n Points: 169 \n # Comments: 121 ",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "summary": " Article URL:  https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html  \n Comments URL:  https://news.ycombinator.com/item?id=50063365  \n Points: 34 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-12T15:34:01.103392+00:00"
+    "researched_at": "2026-10-13T00:45:39.004683+00:00"
   },
   {
-    "title": "QGIS bans AI assisted contributions",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "summary": " Article URL:  https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387  \n Comments URL:  https://news.ycombinator.com/item?id=50054751  \n Points: 276 \n # Comments: 279 ",
+    "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+    "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+    "summary": " Article URL:  https://nirajrajgor.com/blog/kindle-photo-frame-with-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50064318  \n Points: 51 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-12T15:34:01.103411+00:00"
+    "researched_at": "2026-10-13T00:45:39.004662+00:00"
   },
   {
-    "title": "Solar Panels That Plug into Your Wall",
-    "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
-    "summary": " Article URL:  https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy  \n Comments URL:  https://news.ycombinator.com/item?id=50056822  \n Points: 43 \n # Comments: 31 ",
+    "title": "AI is a tool and using it well takes skill",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "summary": " Article URL:  https://yyhh.org/blog/2026/10/ai-is-a-tool/  \n Comments URL:  https://news.ycombinator.com/item?id=50063427  \n Points: 200 \n # Comments: 184 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-13T00:45:39.004671+00:00"
+  },
+  {
+    "title": "Who Is Vfmaddrnd231pd?",
+    "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+    "summary": " Article URL:  https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/  \n Comments URL:  https://news.ycombinator.com/item?id=50063138  \n Points: 97 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103404+00:00"
+    "researched_at": "2026-10-13T00:45:39.004686+00:00"
   },
   {
-    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-    "url": "https://github.com/snuri00/ps2-web-recomp",
-    "summary": " Article URL:  https://github.com/snuri00/ps2-web-recomp  \n Comments URL:  https://news.ycombinator.com/item?id=50052251  \n Points: 141 \n # Comments: 76 ",
+    "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+    "url": "https://brickbrag.com/",
+    "summary": " Article URL:  https://brickbrag.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50063042  \n Points: 21 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103422+00:00"
+    "researched_at": "2026-10-13T00:45:39.004690+00:00"
   },
   {
-    "title": "Living in the Weimar Era of Ruby",
-    "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
-    "summary": " Article URL:  https://blog.julik.nl/2026/10/the-weimar-of-ruby  \n Comments URL:  https://news.ycombinator.com/item?id=50054474  \n Points: 10 \n # Comments: 0 ",
+    "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+    "url": "https://github.com/andrewfader/blokkily",
+    "summary": " Article URL:  https://github.com/andrewfader/blokkily  \n Comments URL:  https://news.ycombinator.com/item?id=50064438  \n Points: 6 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103414+00:00"
+    "researched_at": "2026-10-13T00:45:39.004658+00:00"
   },
   {
-    "title": "Incident with Actions, Pull Requests and Issues",
-    "url": "https://www.githubstatus.com/incidents/93njd414rpbx",
-    "summary": " Article URL:  https://www.githubstatus.com/incidents/93njd414rpbx  \n Comments URL:  https://news.ycombinator.com/item?id=50055375  \n Points: 95 \n # Comments: 66 ",
+    "title": "Phreak.ing – Internet Phone Switch",
+    "url": "https://phreak.ing/",
+    "summary": " Article URL:  https://phreak.ing/  \n Comments URL:  https://news.ycombinator.com/item?id=50063417  \n Points: 55 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103406+00:00"
+    "researched_at": "2026-10-13T00:45:39.004677+00:00"
   },
   {
-    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-    "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "summary": " Article URL:  https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce  \n Comments URL:  https://news.ycombinator.com/item?id=50052638  \n Points: 25 \n # Comments: 9 ",
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "url": "https://github.com/prabanta-dev/janas",
+    "summary": " Article URL:  https://github.com/prabanta-dev/janas  \n Comments URL:  https://news.ycombinator.com/item?id=50063717  \n Points: 15 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103419+00:00"
+    "researched_at": "2026-10-13T00:45:39.004668+00:00"
   },
   {
-    "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-    "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-    "summary": " Article URL:  https://www.bbc.com/news/articles/c64g1l5389kvo  \n Comments URL:  https://news.ycombinator.com/item?id=50054207  \n Points: 497 \n # Comments: 169 ",
+    "title": "Breaking Bad star RJ Mitte dies aged 34",
+    "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+    "summary": " Article URL:  https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332  \n Comments URL:  https://news.ycombinator.com/item?id=50063831  \n Points: 106 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103416+00:00"
+    "researched_at": "2026-10-13T00:45:39.004665+00:00"
   },
   {
-    "title": "Citroen revives the 2CV for an electric age",
-    "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo",
-    "summary": " Article URL:  https://www.bbc.co.uk/news/articles/c620r33plgppo  \n Comments URL:  https://news.ycombinator.com/item?id=50055220  \n Points: 110 \n # Comments: 110 ",
+    "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+    "url": "https://doi.org/10.1111/acel.70751",
+    "summary": " Article URL:  https://doi.org/10.1111/acel.70751  \n Comments URL:  https://news.ycombinator.com/item?id=50064536  \n Points: 55 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103409+00:00"
-  },
-  {
-    "title": "An Unmade Film Shaped Hayao Miyazaki",
-    "url": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
-    "summary": " Article URL:  https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki  \n Comments URL:  https://news.ycombinator.com/item?id=50057030  \n Points: 11 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-12T15:34:01.103400+00:00"
+    "researched_at": "2026-10-13T00:45:39.004651+00:00"
   }
 ]

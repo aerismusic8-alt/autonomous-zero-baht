@@ -851,3 +851,22 @@
 {"timestamp": "2026-10-12T15:34:01.105180+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-12T15:34:01.105280+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-12T15:34:01.105420+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-13T00:45:27.089448+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-13T00:45:27.093066+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:27.093644+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-13T00:45:27.094330+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-13T00:45:27.212785+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-13T00:45:39.004505+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-13T00:45:39.005663+00:00", "event": "draft_created", "draft_id": "intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x", "path": "data/content/drafts/intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.json"}
+{"timestamp": "2026-10-13T00:45:39.005940+00:00", "event": "draft_created", "draft_id": "gpt-6-astra-helped-me-jailbreak-my-kindle", "path": "data/content/drafts/gpt-6-astra-helped-me-jailbreak-my-kindle.json"}
+{"timestamp": "2026-10-13T00:45:39.006242+00:00", "event": "draft_created", "draft_id": "ai-is-a-tool-and-using-it-well-takes-skill", "path": "data/content/drafts/ai-is-a-tool-and-using-it-well-takes-skill.json"}
+{"timestamp": "2026-10-13T00:45:39.006512+00:00", "event": "draft_created", "draft_id": "who-is-vfmaddrnd231pd", "path": "data/content/drafts/who-is-vfmaddrnd231pd.json"}
+{"timestamp": "2026-10-13T00:45:39.006784+00:00", "event": "draft_created", "draft_id": "show-hn-brickbrag-a-multiplayer-brick-building-world-in-the-browser", "path": "data/content/drafts/show-hn-brickbrag-a-multiplayer-brick-building-world-in-the-browser.json"}
+{"timestamp": "2026-10-13T00:45:39.006935+00:00", "event": "draft_validation", "path": "data/content/drafts/intel-d270-gpu-ai-accelerator-up-to-480-gb-lpddr5x.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:39.007104+00:00", "event": "draft_validation", "path": "data/content/drafts/gpt-6-astra-helped-me-jailbreak-my-kindle.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:39.007240+00:00", "event": "draft_validation", "path": "data/content/drafts/ai-is-a-tool-and-using-it-well-takes-skill.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:39.007368+00:00", "event": "draft_validation", "path": "data/content/drafts/who-is-vfmaddrnd231pd.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:39.007510+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-brickbrag-a-multiplayer-brick-building-world-in-the-browser.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-13T00:45:39.007745+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-13T00:45:39.007990+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-13T00:45:39.008298+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
