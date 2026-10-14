@@ -204,7 +204,8 @@ def build() -> dict:
     <div class="links">
       <a class="btn" href="code.zip" download>Download source (code.zip)</a>
       <a class="btn" href="docs/STATUS.md">STATUS</a>
-      <a class="btn" href="docs/MARKET_RESEARCH.md">Market research</a>
+      <a class="btn" href="references.html">Reference videos (real examples)</a>
+      <a class="btn" href="docs/REFERENCE_VIDEOS.md">Market research</a>
       <a class="btn" href="docs/TOOLS.md">Tools inventory</a>
       <a class="btn" href="docs/PUBLISHING.md">Publishing</a>
       <a class="btn" href="docs/SETUP_FOR_K.md">Setup for K</a>

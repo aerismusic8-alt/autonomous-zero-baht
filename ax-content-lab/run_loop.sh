@@ -16,6 +16,10 @@ python3 pipeline/research.py --label loop --limit 20 --enrich 6 \
             "unsolved mystery shorts" "what if physics shorts" || true
 python3 pipeline/analyze.py > research/analysis_latest.md 2>/dev/null || true
 
+step "reference videos (real high performers, links for K)"
+python3 pipeline/references.py --per-query 4 >/dev/null 2>&1 || true
+python3 pipeline/build_refs_page.py >/dev/null 2>&1 || true
+
 step "generate specs for new series entries"
 python3 pipeline/gen_specs.py >/dev/null || true
 
