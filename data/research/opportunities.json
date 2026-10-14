@@ -1,98 +1,98 @@
 [
   {
-    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-    "url": "https://github.com/graphicle-ai/graphicle",
-    "summary": " Article URL:  https://github.com/graphicle-ai/graphicle  \n Comments URL:  https://news.ycombinator.com/item?id=50088713  \n Points: 10 \n # Comments: 1 ",
+    "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+    "url": "https://typesafe.ai/blog/jev-1-14",
+    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 29 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T17:16:13.679292+00:00"
+    "researched_at": "2026-10-14T21:44:45.919778+00:00"
   },
   {
-    "title": "Running Windows desktop tests from Linux with disposable VMs",
-    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-    "summary": " Article URL:  https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation  \n Comments URL:  https://news.ycombinator.com/item?id=50088643  \n Points: 36 \n # Comments: 17 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "automation"
-    ],
-    "researched_at": "2026-10-14T17:16:13.679296+00:00"
-  },
-  {
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-    "summary": " Article URL:  https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/  \n Comments URL:  https://news.ycombinator.com/item?id=50088430  \n Points: 116 \n # Comments: 100 ",
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "summary": " Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T17:16:13.679302+00:00"
+    "researched_at": "2026-10-14T21:44:45.919807+00:00"
   },
   {
-    "title": "Submarine cable resilience",
-    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-    "summary": " Article URL:  https://blog.apnic.net/2026/10/14/submarine-cable-resilience/  \n Comments URL:  https://news.ycombinator.com/item?id=50089229  \n Points: 24 \n # Comments: 3 ",
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "summary": " Article URL:  https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/  \n Comments URL:  https://news.ycombinator.com/item?id=50092664  \n Points: 200 \n # Comments: 152 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-14T21:44:45.919799+00:00"
+  },
+  {
+    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+    "url": "https://blog.cloudflare.com/yandex-outage/",
+    "summary": " Article URL:  https://blog.cloudflare.com/yandex-outage/  \n Comments URL:  https://news.ycombinator.com/item?id=50094673  \n Points: 104 \n # Comments: 36 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679285+00:00"
+    "researched_at": "2026-10-14T21:44:45.919789+00:00"
   },
   {
-    "title": "Strands Decider: Why Not an Encoder?",
-    "url": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
-    "summary": " Article URL:  https://brooker.co.za:443/blog/2026/10/04/encoders.html  \n Comments URL:  https://news.ycombinator.com/item?id=50088447  \n Points: 7 \n # Comments: 0 ",
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "url": "https://oxide.computer/blog/voxel-labs",
+    "summary": " Article URL:  https://oxide.computer/blog/voxel-labs  \n Comments URL:  https://news.ycombinator.com/item?id=50092423  \n Points: 17 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679299+00:00"
+    "researched_at": "2026-10-14T21:44:45.919809+00:00"
   },
   {
-    "title": "Scientists Are Teaching Birds to Sing Lost Songs",
-    "url": "https://e360.yale.edu/digest/teaching-birds-lost-songs",
-    "summary": " Article URL:  https://e360.yale.edu/digest/teaching-birds-lost-songs  \n Comments URL:  https://news.ycombinator.com/item?id=50087337  \n Points: 10 \n # Comments: 0 ",
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "summary": " Article URL:  https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/  \n Comments URL:  https://news.ycombinator.com/item?id=50093568  \n Points: 387 \n # Comments: 83 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679304+00:00"
+    "researched_at": "2026-10-14T21:44:45.919794+00:00"
   },
   {
-    "title": "RIP Eric Binnion",
-    "url": "https://ma.tt/2026/10/rip-eric/",
-    "summary": " Article URL:  https://ma.tt/2026/10/rip-eric/  \n Comments URL:  https://news.ycombinator.com/item?id=50087044  \n Points: 74 \n # Comments: 34 ",
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 58 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679307+00:00"
+    "researched_at": "2026-10-14T21:44:45.919783+00:00"
   },
   {
-    "title": "Passkeys are not a trap",
-    "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-    "summary": " Article URL:  https://scotthelme.co.uk/passkeys-are-not-a-trap/  \n Comments URL:  https://news.ycombinator.com/item?id=50088935  \n Points: 236 \n # Comments: 348 ",
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "summary": " Article URL:  https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/  \n Comments URL:  https://news.ycombinator.com/item?id=50092730  \n Points: 221 \n # Comments: 151 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679289+00:00"
+    "researched_at": "2026-10-14T21:44:45.919797+00:00"
   },
   {
-    "title": "Nvidia's first GPU: GeForce 256",
-    "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
-    "summary": " Article URL:  https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/  \n Comments URL:  https://news.ycombinator.com/item?id=50086363  \n Points: 19 \n # Comments: 10 ",
+    "title": "Fancy Curl Sites",
+    "url": "https://nytpu.com/gemlog/2026-03-18",
+    "summary": " Article URL:  https://nytpu.com/gemlog/2026-03-18  \n Comments URL:  https://news.ycombinator.com/item?id=50093612  \n Points: 35 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679310+00:00"
+    "researched_at": "2026-10-14T21:44:45.919791+00:00"
   },
   {
-    "title": "Amsterdam police confisquates server left-wing ISP A/I at American request",
-    "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
-    "summary": " Article URL:  https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960  \n Comments URL:  https://news.ycombinator.com/item?id=50090084  \n Points: 45 \n # Comments: 9 ",
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "summary": " Article URL:  https://sunshowers.io/posts/anthropic-mononoke/  \n Comments URL:  https://news.ycombinator.com/item?id=50094694  \n Points: 130 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T17:16:13.679279+00:00"
+    "researched_at": "2026-10-14T21:44:45.919786+00:00"
   }
 ]
