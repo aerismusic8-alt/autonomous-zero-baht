@@ -1,0 +1,82 @@
+{
+  "slug": "0018_the_extra_shadow",
+  "title": "The Extra Shadow",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The photograph was taken at noon, in full sun.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Three children stood in a row on the beach.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Three small shadows stretched out in front of them.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "And one more, behind them, facing the wrong way.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "None of them had anyone standing behind them.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "COUNT THEM",
+    "description": "Quiet Horror Files - \"The Extra Shadow\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "0021_the_coldest_place",
+  "title": "The Coldest Place",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS",
+      "text": "The coldest place we have ever found is not in deep space.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "It is a cloud of gas 5,000 light years away, called the Boomerang Nebula.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "It sits at one degree above absolute zero.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "That is colder than the empty space around it.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "It is colder than the light left over from the Big Bang.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for more.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "COLDER THAN SPACE",
+    "description": "Cosmic Wonders - \"The Coldest Place\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

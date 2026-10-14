@@ -123,9 +123,25 @@ def main() -> int:
     A("## Repository")
     A("")
     A("- GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab")
-    A("- Public — all code, QC reports, specs, research snapshots and the 10 finished")
+    A("- Public — all code, QC reports, specs, research snapshots and the 30 finished")
     A("  MP4s are readable without authentication.")
     A("- Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).")
+    A("")
+
+    A("## Publishing channels")
+    A("")
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import platforms  # noqa: E402
+        st = platforms.status()
+        A("| Platform | Ready | Missing credential |")
+        A("|---|---|---|")
+        for k, v in st.items():
+            miss = ", ".join(v["missing"]) if v["missing"] else "—"
+            A(f"| {v['name']} | {'YES' if v['ready'] else 'BLOCKED'} | {miss} |")
+    except Exception:  # noqa: BLE001
+        A("_platform status unavailable_")
+    A("")
     A("")
 
     A("## Automation")

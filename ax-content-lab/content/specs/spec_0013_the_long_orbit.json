@@ -1,0 +1,82 @@
+{
+  "slug": "0013_the_long_orbit",
+  "title": "The Long Orbit",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 5477",
+      "text": "She woke from cryo expecting a busy station.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "The station was still there. Still orbiting. Still in perfect repair.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "The logs ran without a single gap for two hundred years.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The last entry was written in her own handwriting.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "It said: do not wake up before you read this.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "STILL ORBITING",
+    "description": "Deep Space Logs - \"The Long Orbit\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "science fiction shorts",
+      "twist ending",
+      "short story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

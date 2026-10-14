@@ -1,0 +1,82 @@
+{
+  "slug": "0020_why_stars_die_twice",
+  "title": "Why Stars Die Twice",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS",
+      "text": "A massive star does not simply die.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "It collapses, then explodes, then collapses again.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "The first death is silent. The second one outshines a galaxy.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "For a few weeks, it is brighter than every star in the sky combined.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "Then it leaves behind a single spoonful weighing a billion tonnes.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for more.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "TWICE",
+    "description": "Cosmic Wonders - \"Why Stars Die Twice\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

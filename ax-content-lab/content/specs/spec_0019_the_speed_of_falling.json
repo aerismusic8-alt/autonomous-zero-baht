@@ -1,0 +1,82 @@
+{
+  "slug": "0019_the_speed_of_falling",
+  "title": "The Speed of Falling",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS",
+      "text": "Gravity is not pulling you down.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "You are not being pulled at all.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "You are falling - and the ground is rushing up to meet you.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "A feather and a hammer fall at the same speed. There is no pull.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "There is only the curve of space, bending toward the Earth.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for more.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NOT A FORCE",
+    "description": "Cosmic Wonders - \"The Speed of Falling\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

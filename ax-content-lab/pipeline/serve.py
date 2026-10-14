@@ -64,29 +64,43 @@ code{background:#141a29;padding:2px 6px;border-radius:5px}
 <div class="card">
   <label for="yt">YouTube OAuth client JSON (paste the whole file contents)</label>
   <textarea id="yt" rows="6" placeholder='{"installed":{"client_id":"...","client_secret":"..."}}'></textarea>
-  <button onclick="sendYoutube()">Save YouTube client</button>
+  <button onclick="send('youtube','yt','out2')">Save YouTube client</button>
   <div id="out2"></div>
-  <div class="note">Optional. Needed later for uploading. You can do this step another time.</div>
+  <div class="note">Step 1 in docs/SETUP_FOR_K.md. Needed to upload to YouTube.</div>
 </div>
 
-<div class="note">After saving, tell AX "เสร็จแล้ว" and it will verify and push automatically.</div>
+<div class="card">
+  <label for="tk">TikTok client JSON</label>
+  <textarea id="tk" rows="3" placeholder='{"client_key":"...","client_secret":"..."}'></textarea>
+  <button onclick="send('tiktok','tk','out3')">Save TikTok client</button>
+  <div id="out3"></div>
+</div>
+
+<div class="card">
+  <label for="mt">Meta (Facebook + Instagram) token JSON</label>
+  <textarea id="mt" rows="4" placeholder='{"access_token":"EAAG...","page_id":"...","ig_user_id":"..."}'></textarea>
+  <button onclick="send('meta','mt','out4')">Save Meta token</button>
+  <div id="out4"></div>
+  <div class="note">Covers both Facebook Reels and Instagram Reels.</div>
+</div>
+
+<div class="note">After saving, tell AX "เสร็จแล้ว" and it will verify and start posting.</div>
 
 <script>
 const KEY = "__KEY__";
-async function post(payload, outEl){
+async function send(kind, inputId, outId){
+  const outEl = document.getElementById(outId);
+  const value = document.getElementById(inputId).value;
   outEl.className=""; outEl.textContent="saving...";
   try{
     const r = await fetch("/api/intake/"+KEY,{method:"POST",
-      headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
+      headers:{"Content-Type":"application/json"},body:JSON.stringify({kind,value})});
     const j = await r.json();
     outEl.className = j.ok ? "ok" : "bad";
     outEl.textContent = j.message;
   }catch(e){ outEl.className="bad"; outEl.textContent="error: "+e; }
 }
-function sendGithub(){ post({kind:"github", value:document.getElementById("gh").value},
-                            document.getElementById("out")); }
-function sendYoutube(){ post({kind:"youtube", value:document.getElementById("yt").value},
-                            document.getElementById("out2")); }
+function sendGithub(){ send("github","gh","out"); }
 </script>
 </div></body></html>
 """
@@ -167,7 +181,31 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 return
             _write_private(os.path.join(SECRETS, "youtube_client_secret.json"), value)
             self._json(200, {"ok": True,
-                             "message": "Saved to secrets/youtube_client_secret.json."})
+                             "message": "Saved. Tell AX 'done' to start YouTube uploads."})
+        elif kind == "tiktok":
+            try:
+                parsed = json.loads(value)
+            except Exception:  # noqa: BLE001
+                self._json(400, {"ok": False, "message": "not valid JSON"})
+                return
+            if not (parsed.get("client_key") and parsed.get("client_secret")):
+                self._json(400, {"ok": False,
+                                 "message": "needs client_key and client_secret"})
+                return
+            _write_private(os.path.join(SECRETS, "tiktok_client.json"), value)
+            self._json(200, {"ok": True, "message": "Saved TikTok client."})
+        elif kind == "meta":
+            try:
+                parsed = json.loads(value)
+            except Exception:  # noqa: BLE001
+                self._json(400, {"ok": False, "message": "not valid JSON"})
+                return
+            if not parsed.get("access_token"):
+                self._json(400, {"ok": False, "message": "needs access_token"})
+                return
+            _write_private(os.path.join(SECRETS, "meta_token.json"), value)
+            self._json(200, {"ok": True,
+                             "message": "Saved Meta token (Facebook + Instagram)."})
         else:
             self._json(400, {"ok": False, "message": "unknown kind"})
 

@@ -1,0 +1,82 @@
+{
+  "slug": "0012_six_minutes_of_silence",
+  "title": "Six Minutes of Silence",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 5301",
+      "text": "The Mars crew went quiet for six minutes.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Every system logged it. Every camera missed it.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "They woke up on schedule, in the right seats, wearing the right suits.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "But all four of them were soaking wet.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "There has never been liquid water on that part of Mars.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "MISSING TIME",
+    "description": "Deep Space Logs - \"Six Minutes of Silence\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "science fiction shorts",
+      "twist ending",
+      "short story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

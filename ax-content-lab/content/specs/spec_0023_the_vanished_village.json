@@ -1,0 +1,82 @@
+{
+  "slug": "0023_the_vanished_village",
+  "title": "The Vanished Village",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 27",
+      "text": "In 1930, a fur trapper reached a village of three hundred people.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Every door was open. Every stove was cold but full.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Meals sat half-eaten on the tables.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The sled dogs were still tethered. They had not been fed for days.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "No one has ever explained where three hundred people went.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "300 PEOPLE",
+    "description": "Unsolved Archive - \"The Vanished Village\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

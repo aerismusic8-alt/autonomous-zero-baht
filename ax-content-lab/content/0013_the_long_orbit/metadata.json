@@ -1,0 +1,43 @@
+{
+  "slug": "0013_the_long_orbit",
+  "title": "The Long Orbit",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs - \"The Long Orbit\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "science fiction shorts",
+    "twist ending",
+    "short story"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#shortstory",
+    "#space",
+    "#creepy",
+    "#fiction"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 24.74,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": []
+  },
+  "generated_at": "2026-10-14T23:33:15.079495+00:00"
+}

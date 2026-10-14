@@ -1,0 +1,82 @@
+{
+  "slug": "0011_the_probe_that_came_back",
+  "title": "The Probe That Came Back",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 5120",
+      "text": "We launched it in 1979 and forgot it by 1990.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Last month, it came back.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Its data core held one file: forty years of audio.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The first four minutes are the launch. You can hear the engineers cheering.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "The last four minutes are the same cheering. From the other side.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT RECORDED US",
+    "description": "Deep Space Logs - \"The Probe That Came Back\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "science fiction shorts",
+      "twist ending",
+      "short story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

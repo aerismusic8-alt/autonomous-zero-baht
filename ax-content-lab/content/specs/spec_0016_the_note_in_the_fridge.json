@@ -1,0 +1,82 @@
+{
+  "slug": "0016_the_note_in_the_fridge",
+  "title": "The Note in the Fridge",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "She lived alone and kept a tidy fridge.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "On Monday there was a note on the milk: you forgot the eggs.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "She had forgotten the eggs. She laughed it off.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "On Friday the note said: you are reading this on Friday.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "It was the only note she had not written herself.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT KNOWS",
+    "description": "Quiet Horror Files - \"The Note in the Fridge\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

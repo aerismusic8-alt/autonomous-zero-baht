@@ -1,0 +1,82 @@
+{
+  "slug": "0026_the_second_landing",
+  "title": "The Second Landing",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 48",
+      "text": "The flight landed safely and everyone disembarked.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "The log shows the same flight landing twice, forty minutes apart.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Same airport. Same gate. Same passengers.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The second entry lists one extra passenger, unnamed.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "The aircraft has since flown thousands of times without incident.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT LANDED TWICE",
+    "description": "Unsolved Archive - \"The Second Landing\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

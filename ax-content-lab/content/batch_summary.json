@@ -1,6 +1,6 @@
 {
-  "produced": 10,
-  "qc_pass": 10,
+  "produced": 30,
+  "qc_pass": 30,
   "failed": [],
   "results": [
     {
@@ -102,7 +102,207 @@
       "seconds": 0.0,
       "skipped": true,
       "ok": true
+    },
+    {
+      "spec": "spec_0011_the_probe_that_came_back.json",
+      "slug": "0011_the_probe_that_came_back",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.08,
+      "seconds": 146.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0012_six_minutes_of_silence.json",
+      "slug": "0012_six_minutes_of_silence",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.3,
+      "seconds": 131.4,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0013_the_long_orbit.json",
+      "slug": "0013_the_long_orbit",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 24.74,
+      "seconds": 144.8,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0014_duplicate_transmission.json",
+      "slug": "0014_duplicate_transmission",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.48,
+      "seconds": 134.5,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0015_the_house_that_counts.json",
+      "slug": "0015_the_house_that_counts",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.09,
+      "seconds": 146.7,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0016_the_note_in_the_fridge.json",
+      "slug": "0016_the_note_in_the_fridge",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 23.14,
+      "seconds": 136.4,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0017_the_three_am_train.json",
+      "slug": "0017_the_three_am_train",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 27.83,
+      "seconds": 162.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0018_the_extra_shadow.json",
+      "slug": "0018_the_extra_shadow",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 21.37,
+      "seconds": 127.8,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0019_the_speed_of_falling.json",
+      "slug": "0019_the_speed_of_falling",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 20.45,
+      "seconds": 123.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0020_why_stars_die_twice.json",
+      "slug": "0020_why_stars_die_twice",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 23.87,
+      "seconds": 141.9,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0021_the_coldest_place.json",
+      "slug": "0021_the_coldest_place",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.16,
+      "seconds": 132.4,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0022_the_sound_of_a_black_hole.json",
+      "slug": "0022_the_sound_of_a_black_hole",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.8,
+      "seconds": 134.9,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0023_the_vanished_village.json",
+      "slug": "0023_the_vanished_village",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.09,
+      "seconds": 150.5,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0024_the_man_who_never_slept.json",
+      "slug": "0024_the_man_who_never_slept",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 24.06,
+      "seconds": 145.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0025_the_tape_from_room_three.json",
+      "slug": "0025_the_tape_from_room_three",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.28,
+      "seconds": 137.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0026_the_second_landing.json",
+      "slug": "0026_the_second_landing",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.63,
+      "seconds": 149.7,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0027_if_you_stopped_time.json",
+      "slug": "0027_if_you_stopped_time",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.59,
+      "seconds": 149.4,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0028_if_light_was_slow.json",
+      "slug": "0028_if_light_was_slow",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.11,
+      "seconds": 132.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0029_if_the_ocean_drained.json",
+      "slug": "0029_if_the_ocean_drained",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 21.85,
+      "seconds": 103.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0030_if_you_could_see_radio.json",
+      "slug": "0030_if_you_could_see_radio",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 24.55,
+      "seconds": 107.4,
+      "skipped": false,
+      "ok": true
     }
   ],
-  "generated_at": "2026-10-14T15:55:07Z"
+  "generated_at": "2026-10-14T23:46:49Z"
 }

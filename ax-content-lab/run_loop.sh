@@ -29,8 +29,11 @@ python3 pipeline/batch.py --workers 3 || true
 step "sync state store"
 python3 pipeline/store.py sync
 
-step "publish (no-op unless OAuth is configured)"
-python3 pipeline/publisher.py --all --privacy private || true
+step "publish to every ready platform (no-op until credentials exist)"
+python3 pipeline/multipost.py --all || true
+
+step "scheduled posting tick (posts only inside a due slot)"
+python3 pipeline/schedule.py --tick || true
 
 step "analytics"
 python3 pipeline/analytics.py || true

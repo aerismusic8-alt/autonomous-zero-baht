@@ -1,0 +1,82 @@
+{
+  "slug": "0027_if_you_stopped_time",
+  "title": "If You Stopped Time",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "What if time stopped - but only for you?",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Everyone would freeze mid-step. The world would hold its breath.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "You could walk anywhere. Move anything.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "But light is carried by time. Without it, you would see nothing at all.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "You would be awake, alone, in perfect darkness, forever.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for more.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "ONE SECOND",
+    "description": "What If Physics - \"If You Stopped Time\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "science facts",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

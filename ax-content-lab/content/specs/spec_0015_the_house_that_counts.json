@@ -1,0 +1,82 @@
+{
+  "slug": "0015_the_house_that_counts",
+  "title": "The House That Counts",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The house had five rooms. Everyone agreed on that.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Five rooms, one hall, one front door.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "But every night, someone walked past the bedroom twice.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The floorboards counted six sets of footsteps.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "The house had five rooms. It always had six visitors.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "FIVE ROOMS",
+    "description": "Quiet Horror Files - \"The House That Counts\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

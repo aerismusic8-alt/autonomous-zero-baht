@@ -209,6 +209,7 @@ def build() -> dict:
       <a class="btn" href="docs/TOOLS.md">Tools inventory</a>
       <a class="btn" href="docs/PUBLISHING.md">Publishing</a>
       <a class="btn" href="docs/SETUP_FOR_K.md">Setup for K</a>
+      <a class="btn" href="docs/PUBLISHING.md">Publishing</a>
       <a class="btn" href="docs/README.md">README</a>
     </div>
     <p style="margin-top:14px">All narrative text is original writing. All music is synthesised

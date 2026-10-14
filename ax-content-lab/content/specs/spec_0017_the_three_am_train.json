@@ -1,0 +1,82 @@
+{
+  "slug": "0017_the_three_am_train",
+  "title": "The 3 AM Train",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The station closed in 1957. The tracks were lifted in 1962.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "But at 3 AM, the platform lights still come on.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "The timetable board still shows one departure.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "It has no destination listed. Only a time.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "3 AM. Every night. For sixty years.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "CLOSED 1957",
+    "description": "Quiet Horror Files - \"The 3 AM Train\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

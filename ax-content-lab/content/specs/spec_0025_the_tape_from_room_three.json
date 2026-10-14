@@ -1,0 +1,82 @@
+{
+  "slug": "0025_the_tape_from_room_three",
+  "title": "The Tape from Room 3",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 41",
+      "text": "A recorder was left running in an empty room overnight.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "The tape held nine hours of silence.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Then, at 4:07, a calm voice said one sentence.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "It named the investigator who would later take the case.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "That investigator was eleven years old at the time.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "WHO SPOKE",
+    "description": "Unsolved Archive - \"The Tape from Room 3\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}
