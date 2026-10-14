@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "url": "https://museumofages.org/w/vinci",
+    "summary": " Hello HN, I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and then his last house in Amboise. The entrance is free. At the different stops you can see for example his paintings close to their real size, or 15 of his machines rebuilt in code, and you can have a look at 29 of his anatomy sheets. We also selected 207 of his manuscript pages which you can read in a virtual reading table, mirror the view to read his writing and 131 of the 207 are translated. We also rebuilt his last house in Amboise on the later stops of the walk. The museum is available in seven languages. Each stop has one of four grades as a label, documented, reconstructed, conjectural and not known. In a detailed view the user can have a closer look at the sources. The materials of the rooms and machines are created in Three.js. The museum runs with WebGPU. If the browser doesn’t supp",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-14T11:58:46.561722+00:00"
+  },
+  {
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "summary": " Article URL:  https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers  \n Comments URL:  https://news.ycombinator.com/item?id=50085302  \n Points: 10 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-14T11:58:46.561707+00:00"
+  },
+  {
+    "title": "Xi's 'death watch' will become a global spectacle",
+    "url": "https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle",
+    "summary": " Article URL:  https://www.semafor.com/article/10/13/2026/xis-death-watch-will-become-a-global-spectacle  \n Comments URL:  https://news.ycombinator.com/item?id=50085607  \n Points: 17 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561690+00:00"
+  },
+  {
+    "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+    "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+    "summary": " Article URL:  https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/  \n Comments URL:  https://news.ycombinator.com/item?id=50084838  \n Points: 28 \n # Comments: 7 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561726+00:00"
+  },
+  {
+    "title": "What agents mean for Rust (and vice versa)",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+    "summary": " Article URL:  https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/  \n Comments URL:  https://news.ycombinator.com/item?id=50084416  \n Points: 30 \n # Comments: 23 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561732+00:00"
+  },
+  {
+    "title": "Show HN: Building an LLM from Scratch in TypeScript",
+    "url": "https://book.humanexperiences.io/",
+    "summary": " I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover dataloaders, embeddings, and the attention mechanism so far. Feedback welcome if anything's unclear. \n \n Comments URL:  https://news.ycombinator.com/item?id=50085332  \n Points: 27 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561699+00:00"
+  },
+  {
+    "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+    "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+    "summary": " Article URL:  https://blog.lorenzano.eu/pulsar-at-esug-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50085306  \n Points: 21 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561704+00:00"
+  },
+  {
+    "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+    "url": "https://typeof.net/Iosevka/",
+    "summary": " Article URL:  https://typeof.net/Iosevka/  \n Comments URL:  https://news.ycombinator.com/item?id=50084240  \n Points: 198 \n # Comments: 71 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561735+00:00"
+  },
+  {
+    "title": "Amazon pushes up prices across the Internet",
+    "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+    "summary": " Article URL:  https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/  \n Comments URL:  https://news.ycombinator.com/item?id=50084757  \n Points: 55 \n # Comments: 41 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561729+00:00"
+  },
+  {
+    "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+    "url": "https://github.com/android/ndk/issues/2260",
+    "summary": " Article URL:  https://github.com/android/ndk/issues/2260  \n Comments URL:  https://news.ycombinator.com/item?id=50083130  \n Points: 308 \n # Comments: 143 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-14T11:58:46.561738+00:00"
+  }
+]

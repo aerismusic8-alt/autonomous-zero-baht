@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "path": "data/content/drafts/show-hn-a-guided-3d-leonardo-da-vinci-museum-built-in-code.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/ai-laser-locking-for-quantum-computers-how-quera-automates-it.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/xi-s-death-watch-will-become-a-global-spectacle.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/who-is-planting-backdoors-in-ledger-crypto-wallets.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/what-agents-mean-for-rust-and-vice-versa.json",
+    "passed": true,
+    "errors": []
+  }
+]
