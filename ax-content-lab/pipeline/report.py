@@ -120,6 +120,14 @@ def main() -> int:
         A(f"- `research/{r}`")
     A("")
 
+    A("## Repository")
+    A("")
+    A("- GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab")
+    A("- Public — all code, QC reports, specs, research snapshots and the 10 finished")
+    A("  MP4s are readable without authentication.")
+    A("- Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).")
+    A("")
+
     A("## Automation")
     A("")
     A("- GitHub Actions workflow: `.github/workflows/lab-loop.yml` (2×/day, free minutes).")

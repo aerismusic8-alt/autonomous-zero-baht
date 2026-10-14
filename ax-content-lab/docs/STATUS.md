@@ -1,6 +1,6 @@
 # AX Viral Content Lab — Status
 
-Generated: 2026-10-14T15:55:09.153766+00:00  |  commit: `c8bab29`
+Generated: 2026-10-14T18:26:04.713339+00:00  |  commit: `62cd22a`
 
 ## Headline numbers (all evidence-backed)
 
@@ -48,6 +48,13 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 - `research/loop_20261014T155507Z.json`
 - `research/niche_scan_20261014T151544Z.json`
 - `research/shorts_scan_20261014T151740Z.json`
+
+## Repository
+
+- GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab
+- Public — all code, QC reports, specs, research snapshots and the 10 finished
+  MP4s are readable without authentication.
+- Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).
 
 ## Automation
 
