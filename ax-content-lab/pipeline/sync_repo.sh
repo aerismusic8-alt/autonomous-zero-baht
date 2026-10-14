@@ -34,7 +34,12 @@ git clone --quiet "https://${TOKEN}@github.com/${REPO}.git" "$WORK/repo" || {
   echo "[sync] BLOCKED: clone failed (check token scope: Contents = Read and write)"; exit 3; }
 
 cd "$WORK/repo" || exit 3
-git checkout --quiet -B "$BRANCH"
+# Base on the existing remote branch when it exists, so pushes fast-forward.
+if git fetch --quiet origin "$BRANCH" 2>/dev/null; then
+  git checkout --quiet -B "$BRANCH" "origin/$BRANCH"
+else
+  git checkout --quiet -B "$BRANCH"
+fi
 
 mkdir -p "$SUBDIR"
 # copy code + evidence, never secrets
@@ -44,13 +49,20 @@ done
 rm -rf "$SUBDIR/secrets" "$SUBDIR"/content/*/assets
 
 # keep only evidence-relevant media, and only the first time (v1.0 evidence set)
+FIRST_PUSH=0
 if ! git ls-tree -r --name-only HEAD "$SUBDIR" 2>/dev/null | grep -q 'final.mp4'; then
   echo "[sync] first push: including v1.0 video evidence"
+  FIRST_PUSH=1
 else
   rm -f "$SUBDIR"/content/*/final.mp4
 fi
 
 git add -A
+# videos are gitignored in the lab; force-add them only for the initial evidence push
+if [ "$FIRST_PUSH" = "1" ]; then
+  git add -f "$SUBDIR"/content/*/final.mp4 2>/dev/null || true
+  git add -f "$SUBDIR"/brand/*.png 2>/dev/null || true
+fi
 if git diff --cached --quiet; then
   echo "[sync] nothing to commit"
 else
