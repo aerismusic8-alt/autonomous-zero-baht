@@ -42,7 +42,14 @@ python3 pipeline/batch.py --workers 3           # produce + QC in parallel (idem
 python3 pipeline/batch.py --force               # rebuild everything
 python3 pipeline/store.py sync                  # refresh SQLite state
 python3 pipeline/publisher.py --dry-run         # validate packages
-python3 pipeline/publisher.py --all             # upload (needs OAuth)
+python3 pipeline/publisher.py --all             # upload to YouTube (needs OAuth)
+python3 pipeline/multipost.py --status          # real credential status, per platform
+python3 pipeline/multipost.py --all             # upload to every ready platform
+python3 pipeline/schedule.py --show             # posting plan and queue depth
+python3 pipeline/schedule.py --tick             # post the due slot (idempotent)
+python3 pipeline/verify_all.py                  # independent spec re-verification
+python3 pipeline/references.py                  # real high-view references + links
+python3 pipeline/build_refs_page.py             # render site/references.html
 python3 pipeline/analytics.py                   # pull real stats
 python3 pipeline/report.py                      # regenerate docs/STATUS.md
 python3 pipeline/build_site.py                  # rebuild the public gallery
@@ -73,13 +80,20 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
   (`Resource not accessible by personal access token`). The branch itself is public
   and readable, which is enough. To open PRs, add that permission to the PAT.
 - **YouTube upload**: still BLOCKED — no OAuth client. Needs K.
+- **Multi-platform posting**: `pipeline/platforms.py` reads credential files on disk and
+  reports per-platform readiness. `multipost.py` uploads; `schedule.py --tick` posts one
+  queued item per ready platform at 09/13/18/21 local (UTC+7). A publication row is
+  written only when the platform returns a real id/url — otherwise the run is BLOCKED.
+  All four platforms (YouTube, TikTok, Facebook Reels, Instagram Reels) need a
+  user-authorized token; there is no anonymous upload path, and none is attempted.
 - **Credential intake**: `pipeline/serve.py` serves a gallery plus `/connect`, where K
-  can paste a token over HTTPS without it entering the chat log.
+  can paste a token over HTTPS without it entering the chat log. It accepts GitHub,
+  YouTube client JSON, TikTok client JSON, and Meta token JSON.
 
 ## Performance notes
 
 - One video takes ~90–160 s wall clock; rendering is CPU-bound.
-- `batch.py --workers 3` is the sweet spot on 4 vCPU (3 workers ≈ 8 min for 10 videos).
+- `batch.py --workers 3` is the sweet spot on 4 vCPU (3 workers ≈ 25 min for 30 videos).
 - A no-op batch run is <1 s because finished work is skipped.
 - `edge-tts` needs network. `yt-dlp` search works but can rate-limit; treat failures
   as non-fatal (`|| true`).
@@ -98,9 +112,11 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 
 ## Current status
 
-10 videos produced, 10/10 QC PASS, pushed to the public repo. 0 published
-(BLOCKED on OAuth). Revenue ฿0.00. The one action needed from K: a YouTube OAuth
-client → `secrets/youtube_client_secret.json`. See `docs/SETUP_FOR_K.md`.
+30 videos produced, 30/30 QC PASS (independently re-verified spec-compliant),
+pushed to the public repo. 0 published (BLOCKED on credentials for all four
+platforms). Revenue ฿0.00. The one action needed from K: an OAuth/API credential
+per platform → see `docs/SETUP_FOR_K.md`. Reference research: 95 real high-view
+videos with links in `site/references.html`.
 
 ## Status vocabulary
 

@@ -66,7 +66,7 @@ banners/logos with the same renderer).
 
 - Research public market data (yt-dlp) — verified.
 - Write original scripts and generate original visuals, music and narration — verified.
-- Render, encode and quality-check publish-ready video files — verified (10/10 PASS).
+- Render, encode and quality-check publish-ready video files — verified (30/30 PASS).
 - Validate that every package is complete and QC-passed — verified.
 - Upload automatically the moment an OAuth token exists — code written, tested up
   to the auth boundary; will be verified end-to-end once K provides the client secret.
