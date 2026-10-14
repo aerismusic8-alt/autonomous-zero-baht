@@ -48,21 +48,18 @@ for item in pipeline content research docs brand .github README.md AGENTS.md run
 done
 rm -rf "$SUBDIR/secrets" "$SUBDIR"/content/*/assets
 
-# keep only evidence-relevant media, and only the first time (v1.0 evidence set)
-FIRST_PUSH=0
-if ! git ls-tree -r --name-only HEAD "$SUBDIR" 2>/dev/null | grep -q 'final.mp4'; then
-  echo "[sync] first push: including v1.0 video evidence"
-  FIRST_PUSH=1
+# Videos are gitignored in the lab, so they need a one-time force-add. Once they
+# are tracked in the repo they stay tracked; never delete them from disk (that
+# would stage a deletion and drop the evidence).
+if git ls-tree -r --name-only HEAD "$SUBDIR" 2>/dev/null | grep -q 'final.mp4'; then
+  echo "[sync] videos already in repo: keeping tracked evidence"
 else
-  rm -f "$SUBDIR"/content/*/final.mp4
+  echo "[sync] first push: force-adding v1.0 video evidence"
 fi
 
 git add -A
-# videos are gitignored in the lab; force-add them only for the initial evidence push
-if [ "$FIRST_PUSH" = "1" ]; then
-  git add -f "$SUBDIR"/content/*/final.mp4 2>/dev/null || true
-  git add -f "$SUBDIR"/brand/*.png 2>/dev/null || true
-fi
+git add -f "$SUBDIR"/content/*/final.mp4 2>/dev/null || true
+git add -f "$SUBDIR"/brand/*.png 2>/dev/null || true
 if git diff --cached --quiet; then
   echo "[sync] nothing to commit"
 else
