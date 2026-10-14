@@ -1,0 +1,108 @@
+{
+  "produced": 10,
+  "qc_pass": 10,
+  "failed": [],
+  "results": [
+    {
+      "spec": "spec_0001_the_last_signal.json",
+      "slug": "0001_the_last_signal",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 23.5,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0002_the_lighthouse_log.json",
+      "slug": "0002_the_lighthouse_log",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 27.54,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0003_voyagers_silence.json",
+      "slug": "0003_voyagers_silence",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 24.29,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0004_the_map_that_shouldnt_exist.json",
+      "slug": "0004_the_map_that_shouldnt_exist",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.49,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0005_if_the_sun_blinked.json",
+      "slug": "0005_if_the_sun_blinked",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.13,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0006_the_second_guest.json",
+      "slug": "0006_the_second_guest",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.6,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0007_signal_from_kepler.json",
+      "slug": "0007_signal_from_kepler",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 25.16,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0008_why_nothing_is_empty.json",
+      "slug": "0008_why_nothing_is_empty",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.54,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0009_the_last_photo.json",
+      "slug": "0009_the_last_photo",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 21.4,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0010_if_you_fell_through_earth.json",
+      "slug": "0010_if_you_fell_through_earth",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 22.92,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    }
+  ],
+  "generated_at": "2026-10-14T15:55:07Z"
+}

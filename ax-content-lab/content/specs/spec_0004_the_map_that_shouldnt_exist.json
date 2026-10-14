@@ -1,0 +1,82 @@
+{
+  "slug": "0004_the_map_that_shouldnt_exist",
+  "title": "The Map That Shouldn't Exist",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 12",
+      "text": "In 1513, a cartographer drew Antarctica.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "It would not be seen by human eyes for another 300 years.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "He drew the coastline under the ice. Accurately.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "He wrote that he copied it from older maps.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "No one has ever found those maps.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "DRAWN IN 1513",
+    "description": "Unsolved Archive - \"The Map That Shouldn't Exist\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

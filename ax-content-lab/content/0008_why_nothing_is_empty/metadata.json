@@ -1,0 +1,43 @@
+{
+  "slug": "0008_why_nothing_is_empty",
+  "title": "Why Nothing Is Empty",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders - \"Why Nothing Is Empty\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#space #science #facts #universe #astronomy",
+  "tags": [
+    "space facts",
+    "science facts",
+    "astronomy",
+    "universe facts",
+    "space documentary",
+    "mind blowing facts",
+    "science shorts",
+    "cosmos"
+  ],
+  "hashtags": [
+    "#space",
+    "#science",
+    "#facts",
+    "#universe",
+    "#astronomy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 22.54,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": []
+  },
+  "generated_at": "2026-10-14T15:46:13.070564+00:00"
+}

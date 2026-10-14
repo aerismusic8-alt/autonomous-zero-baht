@@ -1,0 +1,82 @@
+{
+  "slug": "0005_if_the_sun_blinked",
+  "title": "If the Sun Blinked",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "What if the Sun vanished for exactly one second?",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "You would not notice for eight minutes.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "That is how long light takes to cross the gap.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "Then the sky would go dark - and Earth would keep flying straight.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "Not falling. Not burning. Just leaving.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for more.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "8 MINUTES",
+    "description": "What If Physics - \"If the Sun Blinked\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "science facts",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

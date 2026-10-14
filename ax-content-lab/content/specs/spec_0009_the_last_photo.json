@@ -1,0 +1,82 @@
+{
+  "slug": "0009_the_last_photo",
+  "title": "The Last Photo",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 19",
+      "text": "The hikers were reported missing on a Sunday.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Their camera was found on a rock, still working.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "The final photo showed the trail ahead - and a figure behind them.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "The figure was wearing the jacket of a man still alive in the city.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "He had never left his apartment.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "WHO TOOK IT",
+    "description": "Unsolved Archive - \"The Last Photo\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

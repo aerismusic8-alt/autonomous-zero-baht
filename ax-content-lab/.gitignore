@@ -1,0 +1,29 @@
+# Secrets — never commit
+secrets/
+*.token.json
+youtube_token.json
+youtube_client_secret.json
+.env
+
+# Large generated media (produced on demand; metadata/QC are committed)
+content/*/assets/
+content/*/final.mp4
+*.mp4
+*.wav
+*.mp3
+*.m4a
+
+# Local caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.agent_tmp/
+
+# Research raw snapshots are kept (small, evidence)
+# but ignore any accidentally downloaded media
+research/*.mp4
+research/*.webm
+
+# generated public gallery (rebuild with pipeline/build_site.py)
+site/
+secrets/

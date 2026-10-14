@@ -1,0 +1,82 @@
+{
+  "slug": "0006_the_second_guest",
+  "title": "The Second Guest",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The hotel had twelve rooms and eleven guests.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "The night clerk counted the keys every evening. Eleven. Always eleven.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "On Tuesday he counted twelve.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "Room 6 had been sealed since 1974.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "Its key was warm.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "COUNT THEM",
+    "description": "Quiet Horror Files - \"The Second Guest\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

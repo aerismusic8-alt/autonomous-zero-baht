@@ -1,0 +1,71 @@
+{
+  "slug": "0001_the_last_signal",
+  "title": "The Last Signal",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.30,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 4471",
+      "text": "The probe had been silent for nineteen years.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 60
+    },
+    {
+      "text": "Then, at 3:14 in the morning, it answered.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 50
+    },
+    {
+      "text": "One word. Repeating. From a place no one had mapped.",
+      "style": "caption",
+      "theme": "abyss",
+      "particles": 70
+    },
+    {
+      "text": "\"Come home.\"",
+      "style": "quote",
+      "theme": "void",
+      "particles": 80
+    },
+    {
+      "text": "The probe was launched from Earth.\nIt had never been anywhere else.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 90
+    },
+    {
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 40
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT ANSWERED",
+    "description": "Deep Space Logs - Entry 4471. A probe goes silent for nineteen years, then sends one impossible word back to Earth. Original fiction, written and produced by AX Viral Content Lab. New entries regularly.\n\n#scifi #shortstory #creepy #space #microfiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "short story animation",
+      "science fiction shorts",
+      "twist ending"
+    ],
+    "hashtags": ["#scifi", "#shortstory", "#space", "#creepy", "#fiction"]
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form sci-fi narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "0007_signal_from_kepler",
+  "title": "Signal from Kepler",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 4488",
+      "text": "The signal arrived in a clean, patient rhythm.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 50
+    },
+    {
+      "kicker": "",
+      "text": "Four pulses. A pause. Four pulses. A pause.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 62
+    },
+    {
+      "kicker": "",
+      "text": "Astronomers spent a year deciding it was a pulsar.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 74
+    },
+    {
+      "kicker": "",
+      "text": "Then the pause changed. It spelled a number.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 86
+    },
+    {
+      "kicker": "",
+      "text": "The number was our own distance from Earth.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 98
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 110
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT REPEATS",
+    "description": "Deep Space Logs - \"Signal from Kepler\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "science fiction shorts",
+      "twist ending",
+      "short story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ]
+}

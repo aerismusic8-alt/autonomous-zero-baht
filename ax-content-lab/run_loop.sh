@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+# AX Viral Content Lab — one full loop, end to end.
+# Idempotent and safe to run on a schedule (cron / GitHub Actions / OpenHands).
+set -u
+
+cd "$(dirname "$0")"
+export PATH="$HOME/.local/bin:$PATH"
+STAMP="$(date -u +%FT%TZ)"
+echo "[ax-lab] loop start $STAMP"
+
+step() { echo "[ax-lab] -> $1"; }
+
+step "research (public metadata only)"
+python3 pipeline/research.py --label loop --limit 20 --enrich 6 \
+  --queries "scary stories shorts" "space facts shorts" \
+            "unsolved mystery shorts" "what if physics shorts" || true
+python3 pipeline/analyze.py > research/analysis_latest.md 2>/dev/null || true
+
+step "generate specs for new series entries"
+python3 pipeline/gen_specs.py >/dev/null || true
+
+step "produce + quality control"
+python3 pipeline/batch.py --workers 3 || true
+
+step "sync state store"
+python3 pipeline/store.py sync
+
+step "publish (no-op unless OAuth is configured)"
+python3 pipeline/publisher.py --all --privacy private || true
+
+step "analytics"
+python3 pipeline/analytics.py || true
+
+step "status report"
+python3 pipeline/report.py
+
+echo "[ax-lab] loop end $(date -u +%FT%TZ)"
