@@ -2,97 +2,101 @@
   {
     "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
     "url": "https://typesafe.ai/blog/jev-1-14",
-    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 233 \n # Comments: 80 ",
+    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 304 \n # Comments: 96 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-15T04:46:16.214512+00:00"
+    "researched_at": "2026-10-15T11:35:43.924894+00:00"
   },
   {
-    "title": "Show HN: My Terminal Themes Web App",
-    "url": "https://news.ycombinator.com/item?id=50098454",
-    "summary": " Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at  https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at  https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc. I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like! Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them. I would love for you guy",
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "url": "https://petal.live/",
+    "summary": " Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-15T04:46:16.214499+00:00"
+    "researched_at": "2026-10-15T11:35:43.924908+00:00"
+  },
+  {
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "url": "https://uji.sh/ito/",
+    "summary": " My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts' desire. So, we started looking out for harnesses. Pi was great, Pi was good. But in the end, it was JavaScript. I don't have anything against JavaScript, but Lua is more fitting, and I can just as easily base it in Rust to make it even faster. So, we started cooking, and we ended up with a design that's minimal at its core and is built using Lua. Every built-in abstraction, the way you define providers, the way you rice it up, everything, literally everything, you can do in Lua. But how? How does it all work? I proposed we just do it the Ratatui way, but my friend was like, nah! We shall make it possible to build TUIs in Lua. (Weirdo!) But it paid off, and we got ourselves a shiny new Lua library, ito!!! He didn't get the gravity of the situation. We had an awesome terminal UI library in Lua! I wanted everyone to know how",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-15T11:35:43.924887+00:00"
   },
   {
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "summary": " Article URL:  https://www.liquid.ai/blog/lfm2-5-24b-a2b  \n Comments URL:  https://news.ycombinator.com/item?id=50097369  \n Points: 114 \n # Comments: 30 ",
+    "summary": " Article URL:  https://www.liquid.ai/blog/lfm2-5-24b-a2b  \n Comments URL:  https://news.ycombinator.com/item?id=50097369  \n Points: 224 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-15T04:46:16.214504+00:00"
+    "researched_at": "2026-10-15T11:35:43.924876+00:00"
+  },
+  {
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "summary": " Article URL:  https://github.com/awslabs/aidlc-workflows  \n Comments URL:  https://news.ycombinator.com/item?id=50100387  \n Points: 11 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-15T11:35:43.924863+00:00"
   },
   {
     "title": "Tiny Little Office",
     "url": "https://tinylittleoffice.com/",
-    "summary": " Article URL:  https://tinylittleoffice.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50096142  \n Points: 233 \n # Comments: 31 ",
+    "summary": " Article URL:  https://tinylittleoffice.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50096142  \n Points: 472 \n # Comments: 85 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214506+00:00"
+    "researched_at": "2026-10-15T11:35:43.924890+00:00"
+  },
+  {
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "summary": " Article URL:  https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/  \n Comments URL:  https://news.ycombinator.com/item?id=50093568  \n Points: 1450 \n # Comments: 358 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T11:35:43.924899+00:00"
   },
   {
     "title": "The Double Headed Stack Allocator",
     "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-    "summary": " Article URL:  https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/  \n Comments URL:  https://news.ycombinator.com/item?id=50098274  \n Points: 29 \n # Comments: 5 ",
+    "summary": " Article URL:  https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/  \n Comments URL:  https://news.ycombinator.com/item?id=50098274  \n Points: 69 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214502+00:00"
+    "researched_at": "2026-10-15T11:35:43.924873+00:00"
+  },
+  {
+    "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+    "url": "https://github.com/andunieee/flipflop",
+    "summary": " This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on. \n \n Comments URL:  https://news.ycombinator.com/item?id=50099136  \n Points: 45 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T11:35:43.924870+00:00"
   },
   {
     "title": "OpenCode 2.0",
     "url": "https://anoma.ly/notes/opencode-2-0/",
-    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 411 \n # Comments: 173 ",
+    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 646 \n # Comments: 258 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214515+00:00"
-  },
-  {
-    "title": "One in ten people are older than 65. Three in four live under a leader who is",
-    "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-    "summary": " Article URL:  https://hannahritchie.substack.com/p/how-old-are-leaders  \n Comments URL:  https://news.ycombinator.com/item?id=50098570  \n Points: 24 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214493+00:00"
-  },
-  {
-    "title": "Future of Cancer Care Today (FCCT)",
-    "url": "https://sijbrandijfoundation.org/fcct",
-    "summary": " Article URL:  https://sijbrandijfoundation.org/fcct  \n Comments URL:  https://news.ycombinator.com/item?id=50098702  \n Points: 29 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214487+00:00"
-  },
-  {
-    "title": "Fancy Curl Sites",
-    "url": "https://nytpu.com/gemlog/2026-03-18",
-    "summary": " Article URL:  https://nytpu.com/gemlog/2026-03-18  \n Comments URL:  https://news.ycombinator.com/item?id=50093612  \n Points: 99 \n # Comments: 18 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214520+00:00"
-  },
-  {
-    "title": "Anthropic's Scion is heavily inspired by Mononoke",
-    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-    "summary": " Article URL:  https://sunshowers.io/posts/anthropic-mononoke/  \n Comments URL:  https://news.ycombinator.com/item?id=50094694  \n Points: 312 \n # Comments: 120 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-15T04:46:16.214517+00:00"
+    "researched_at": "2026-10-15T11:35:43.924896+00:00"
   }
 ]

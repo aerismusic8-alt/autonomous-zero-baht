@@ -8,10 +8,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-15T04:46:16.216930+00:00"
+    "recorded_at": "2026-10-15T11:35:43.927473+00:00"
   },
   {
-    "content_id": "show-hn-my-terminal-themes-web-app",
+    "content_id": "show-hn-petal-open-source-coscreen-screenhero-finally-free",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,7 +19,18 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-15T04:46:16.216933+00:00"
+    "recorded_at": "2026-10-15T11:35:43.927479+00:00"
+  },
+  {
+    "content_id": "show-hn-ito-build-terminal-uis-in-lua",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-15T11:35:43.927482+00:00"
   },
   {
     "content_id": "lfm2-5-24b-a2b-built-for-fast-on-device-agents",
@@ -30,10 +41,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-15T04:46:16.216935+00:00"
+    "recorded_at": "2026-10-15T11:35:43.927484+00:00"
   },
   {
-    "content_id": "tiny-little-office",
+    "content_id": "aidlc-adaptive-workflow-steering-rules-for-ai-coding-agents",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -41,17 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-15T04:46:16.216937+00:00"
-  },
-  {
-    "content_id": "the-double-headed-stack-allocator",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-15T04:46:16.216938+00:00"
+    "recorded_at": "2026-10-15T11:35:43.927487+00:00"
   }
 ]

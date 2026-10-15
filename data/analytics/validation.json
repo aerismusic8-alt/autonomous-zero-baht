@@ -5,7 +5,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/show-hn-my-terminal-themes-web-app.json",
+    "path": "data/content/drafts/show-hn-petal-open-source-coscreen-screenhero-finally-free.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/show-hn-ito-build-terminal-uis-in-lua.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/tiny-little-office.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/the-double-headed-stack-allocator.json",
+    "path": "data/content/drafts/aidlc-adaptive-workflow-steering-rules-for-ai-coding-agents.json",
     "passed": true,
     "errors": []
   }
