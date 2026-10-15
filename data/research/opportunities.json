@@ -2,97 +2,97 @@
   {
     "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
     "url": "https://typesafe.ai/blog/jev-1-14",
-    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 29 \n # Comments: 11 ",
+    "summary": " Article URL:  https://typesafe.ai/blog/jev-1-14  \n Comments URL:  https://news.ycombinator.com/item?id=50095353  \n Points: 233 \n # Comments: 80 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T21:44:45.919778+00:00"
+    "researched_at": "2026-10-15T04:46:16.214512+00:00"
   },
   {
-    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "url": "https://petal.live/",
-    "summary": " Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal ( https://github.com/kiruna-labs/petal ) Some history first, because when we started CoScreen we had hoped to break the sad and established pattern of this industry. Screenhero was an exceptional tool that a lot of us loved for pairing. Multiple cursors, low latency, you could click your partner’s editor, and just start typing. It felt like magic while we had it. Then Slack bought it in 2015, and shut down the standalone app in December 2017. When Till, Max, and I started CoScreen, we were aware of this history, and wanted to build an even more magical collaboration and screen sharing experience: the entire concept was “throw a window from your laptop up on someone else",
+    "title": "Show HN: My Terminal Themes Web App",
+    "url": "https://news.ycombinator.com/item?id=50098454",
+    "summary": " Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at  https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at  https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc. I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like! Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them. I would love for you guy",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T21:44:45.919807+00:00"
+    "researched_at": "2026-10-15T04:46:16.214499+00:00"
   },
   {
-    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "summary": " Article URL:  https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/  \n Comments URL:  https://news.ycombinator.com/item?id=50092664  \n Points: 200 \n # Comments: 152 ",
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "summary": " Article URL:  https://www.liquid.ai/blog/lfm2-5-24b-a2b  \n Comments URL:  https://news.ycombinator.com/item?id=50097369  \n Points: 114 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-14T21:44:45.919799+00:00"
+    "researched_at": "2026-10-15T04:46:16.214504+00:00"
   },
   {
-    "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-    "url": "https://blog.cloudflare.com/yandex-outage/",
-    "summary": " Article URL:  https://blog.cloudflare.com/yandex-outage/  \n Comments URL:  https://news.ycombinator.com/item?id=50094673  \n Points: 104 \n # Comments: 36 ",
+    "title": "Tiny Little Office",
+    "url": "https://tinylittleoffice.com/",
+    "summary": " Article URL:  https://tinylittleoffice.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50096142  \n Points: 233 \n # Comments: 31 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919789+00:00"
+    "researched_at": "2026-10-15T04:46:16.214506+00:00"
   },
   {
-    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
-    "url": "https://oxide.computer/blog/voxel-labs",
-    "summary": " Article URL:  https://oxide.computer/blog/voxel-labs  \n Comments URL:  https://news.ycombinator.com/item?id=50092423  \n Points: 17 \n # Comments: 1 ",
+    "title": "The Double Headed Stack Allocator",
+    "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+    "summary": " Article URL:  https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/  \n Comments URL:  https://news.ycombinator.com/item?id=50098274  \n Points: 29 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919809+00:00"
-  },
-  {
-    "title": "Things to know when you get cancer – 2026 Edition",
-    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-    "summary": " Article URL:  https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/  \n Comments URL:  https://news.ycombinator.com/item?id=50093568  \n Points: 387 \n # Comments: 83 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919794+00:00"
+    "researched_at": "2026-10-15T04:46:16.214502+00:00"
   },
   {
     "title": "OpenCode 2.0",
     "url": "https://anoma.ly/notes/opencode-2-0/",
-    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 58 \n # Comments: 13 ",
+    "summary": " Article URL:  https://anoma.ly/notes/opencode-2-0/  \n Comments URL:  https://news.ycombinator.com/item?id=50094994  \n Points: 411 \n # Comments: 173 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919783+00:00"
+    "researched_at": "2026-10-15T04:46:16.214515+00:00"
   },
   {
-    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-    "summary": " Article URL:  https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/  \n Comments URL:  https://news.ycombinator.com/item?id=50092730  \n Points: 221 \n # Comments: 151 ",
+    "title": "One in ten people are older than 65. Three in four live under a leader who is",
+    "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
+    "summary": " Article URL:  https://hannahritchie.substack.com/p/how-old-are-leaders  \n Comments URL:  https://news.ycombinator.com/item?id=50098570  \n Points: 24 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919797+00:00"
+    "researched_at": "2026-10-15T04:46:16.214493+00:00"
+  },
+  {
+    "title": "Future of Cancer Care Today (FCCT)",
+    "url": "https://sijbrandijfoundation.org/fcct",
+    "summary": " Article URL:  https://sijbrandijfoundation.org/fcct  \n Comments URL:  https://news.ycombinator.com/item?id=50098702  \n Points: 29 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-15T04:46:16.214487+00:00"
   },
   {
     "title": "Fancy Curl Sites",
     "url": "https://nytpu.com/gemlog/2026-03-18",
-    "summary": " Article URL:  https://nytpu.com/gemlog/2026-03-18  \n Comments URL:  https://news.ycombinator.com/item?id=50093612  \n Points: 35 \n # Comments: 9 ",
+    "summary": " Article URL:  https://nytpu.com/gemlog/2026-03-18  \n Comments URL:  https://news.ycombinator.com/item?id=50093612  \n Points: 99 \n # Comments: 18 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919791+00:00"
+    "researched_at": "2026-10-15T04:46:16.214520+00:00"
   },
   {
     "title": "Anthropic's Scion is heavily inspired by Mononoke",
     "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-    "summary": " Article URL:  https://sunshowers.io/posts/anthropic-mononoke/  \n Comments URL:  https://news.ycombinator.com/item?id=50094694  \n Points: 130 \n # Comments: 31 ",
+    "summary": " Article URL:  https://sunshowers.io/posts/anthropic-mononoke/  \n Comments URL:  https://news.ycombinator.com/item?id=50094694  \n Points: 312 \n # Comments: 120 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-14T21:44:45.919786+00:00"
+    "researched_at": "2026-10-15T04:46:16.214517+00:00"
   }
 ]

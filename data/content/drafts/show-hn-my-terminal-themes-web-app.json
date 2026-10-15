@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-my-terminal-themes-web-app",
+  "created_at": "2026-10-15T04:46:16.215378+00:00",
+  "source_title": "Show HN: My Terminal Themes Web App",
+  "source_url": "https://news.ycombinator.com/item?id=50098454",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: My Terminal Themes Web App",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it! I've been maintaining a popular repo of terminal themes at  https://github.com/mbadolato/iTerm2-Color-Schemes , and it was finally time to build the app with all the features I wanted! So, the next-gen version is live at  https://terminalthemes.com ! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more) It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc. I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like! Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them. I would love for you guy",
+      "source_url": "https://news.ycombinator.com/item?id=50098454"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: My Terminal Themes Web App\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50098454",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: My Terminal Themes Web App อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50098454",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

@@ -974,3 +974,22 @@
 {"timestamp": "2026-10-14T21:44:45.921534+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-14T21:44:45.921609+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-14T21:44:45.921761+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-15T04:46:15.773196+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-15T04:46:15.784409+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:15.784882+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-15T04:46:15.785448+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-15T04:46:16.094723+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-15T04:46:16.214346+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-15T04:46:16.215314+00:00", "event": "draft_created", "draft_id": "we-re-releasing-jev-1-14-0-along-with-experimental-features-for-dreamers", "path": "data/content/drafts/we-re-releasing-jev-1-14-0-along-with-experimental-features-for-dreamers.json"}
+{"timestamp": "2026-10-15T04:46:16.215558+00:00", "event": "draft_created", "draft_id": "show-hn-my-terminal-themes-web-app", "path": "data/content/drafts/show-hn-my-terminal-themes-web-app.json"}
+{"timestamp": "2026-10-15T04:46:16.215753+00:00", "event": "draft_created", "draft_id": "lfm2-5-24b-a2b-built-for-fast-on-device-agents", "path": "data/content/drafts/lfm2-5-24b-a2b-built-for-fast-on-device-agents.json"}
+{"timestamp": "2026-10-15T04:46:16.215940+00:00", "event": "draft_created", "draft_id": "tiny-little-office", "path": "data/content/drafts/tiny-little-office.json"}
+{"timestamp": "2026-10-15T04:46:16.216140+00:00", "event": "draft_created", "draft_id": "the-double-headed-stack-allocator", "path": "data/content/drafts/the-double-headed-stack-allocator.json"}
+{"timestamp": "2026-10-15T04:46:16.216254+00:00", "event": "draft_validation", "path": "data/content/drafts/we-re-releasing-jev-1-14-0-along-with-experimental-features-for-dreamers.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:16.216351+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-my-terminal-themes-web-app.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:16.216437+00:00", "event": "draft_validation", "path": "data/content/drafts/lfm2-5-24b-a2b-built-for-fast-on-device-agents.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:16.216517+00:00", "event": "draft_validation", "path": "data/content/drafts/tiny-little-office.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:16.216599+00:00", "event": "draft_validation", "path": "data/content/drafts/the-double-headed-stack-allocator.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T04:46:16.216750+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-15T04:46:16.216868+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-15T04:46:16.217064+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
