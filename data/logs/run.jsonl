@@ -1031,3 +1031,22 @@
 {"timestamp": "2026-10-15T17:05:13.316397+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-15T17:05:13.316635+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-15T17:05:13.316961+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-15T21:27:05.228092+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-15T21:27:05.232100+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:05.232684+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-15T21:27:05.233463+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-15T21:27:05.396549+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-15T21:27:06.544001+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-15T21:27:06.545668+00:00", "event": "draft_created", "draft_id": "muse-spark-open", "path": "data/content/drafts/muse-spark-open.json"}
+{"timestamp": "2026-10-15T21:27:06.546069+00:00", "event": "draft_created", "draft_id": "krea-3-an-image-model-built-for-editing-at-scale", "path": "data/content/drafts/krea-3-an-image-model-built-for-editing-at-scale.json"}
+{"timestamp": "2026-10-15T21:27:06.546410+00:00", "event": "draft_created", "draft_id": "why-are-we-even-doing-all-this", "path": "data/content/drafts/why-are-we-even-doing-all-this.json"}
+{"timestamp": "2026-10-15T21:27:06.546728+00:00", "event": "draft_created", "draft_id": "what-i-self-host", "path": "data/content/drafts/what-i-self-host.json"}
+{"timestamp": "2026-10-15T21:27:06.547088+00:00", "event": "draft_created", "draft_id": "we-are-entering-a-period-of-overlapping-crises", "path": "data/content/drafts/we-are-entering-a-period-of-overlapping-crises.json"}
+{"timestamp": "2026-10-15T21:27:06.547303+00:00", "event": "draft_validation", "path": "data/content/drafts/muse-spark-open.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:06.547494+00:00", "event": "draft_validation", "path": "data/content/drafts/krea-3-an-image-model-built-for-editing-at-scale.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:06.547664+00:00", "event": "draft_validation", "path": "data/content/drafts/why-are-we-even-doing-all-this.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:06.547821+00:00", "event": "draft_validation", "path": "data/content/drafts/what-i-self-host.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:06.547999+00:00", "event": "draft_validation", "path": "data/content/drafts/we-are-entering-a-period-of-overlapping-crises.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-15T21:27:06.548275+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-15T21:27:06.548502+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-15T21:27:06.548869+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
