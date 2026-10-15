@@ -69,8 +69,8 @@
       "qc_status": "PASS",
       "qc": "18/18",
       "duration": 25.16,
-      "seconds": 179.6,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -304,5 +304,5 @@
       "ok": true
     }
   ],
-  "generated_at": "2026-10-15T08:42:11Z"
+  "generated_at": "2026-10-15T09:11:06Z"
 }

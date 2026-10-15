@@ -92,6 +92,23 @@ Channel creation is tied to a Google account and cannot be delegated to AX.
 
 ---
 
+## 5. Google Drive backup (2 min, optional) — unlock offline copy
+
+Drive also needs a one-time Google consent bound to your account. AX installed
+`rclone` and wrote the uploader; it only needs the remote configured once.
+
+```
+rclone config          # n → new remote → name: axdrive → type: drive
+                       # scope: drive.file (least privilege) → sign in as
+                       # aerismusic8@gmail.com → leave defaults → y → q
+python3 pipeline/drive_sync.py --upload     # content/, docs/, brand/ → Drive
+```
+
+Target folder on Drive: **AX Content Lab**. Free 15 GB covers the video set.
+**Cost: ฿0.** Until then `drive_sync.py --status` reports `ready: false` honestly.
+
+---
+
 ## What AX does after each step
 
 - Re-reads the credential files and reports exactly what is ready and what is
