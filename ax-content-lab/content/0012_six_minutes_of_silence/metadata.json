@@ -36,8 +36,41 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "72409913906e4a00",
+        "prompt": "a cold dim mission control room at night, one glowing monitor, empty chairs, blue screen light, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 570045,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/72409913906e4a00.jpg",
+        "sha256": "fab8c00047497b1875493d8495ce57cb4990058ae477ab2c95316272422e736a",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "2f4607dbeede5b57",
+        "prompt": "an empty holographic star map with unmapped coordinates over darkness, ominous, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 577964,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/2f4607dbeede5b57.jpg",
+        "sha256": "e2698b240362636d3e3b91a40365956f060482ba5e3b237698968efe58c542b3",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "f0a31708e675dd57",
+        "prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 593802,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f0a31708e675dd57.jpg",
+        "sha256": "ad5ea882cd8fdfddcb828d6df80e2c25ec259544b7cdacab0f8b80200f6179b3",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T23:33:02.303615+00:00"
+  "generated_at": "2026-10-15T10:08:45.685102+00:00"
 }

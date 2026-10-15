@@ -38,12 +38,12 @@
     {
       "check": "frame_mid_not_black",
       "pass": true,
-      "detail": "YAVG=23.6"
+      "detail": "YAVG=41.9"
     },
     {
       "check": "frame_mid_has_detail",
       "pass": true,
-      "detail": "std=41.5"
+      "detail": "std=47.4"
     },
     {
       "check": "frame_end_not_black",
@@ -66,6 +66,16 @@
       "detail": "none declared"
     },
     {
+      "check": "ai_art_provenance",
+      "pass": true,
+      "detail": "3 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+    },
+    {
+      "check": "ai_art_license_flagged",
+      "pass": true,
+      "detail": "AI art flagged: model licence must be confirmed before monetised use"
+    },
+    {
       "check": "has_title",
       "pass": true,
       "detail": "Six Minutes of Silence"
@@ -81,8 +91,8 @@
       "detail": "8 tags"
     }
   ],
-  "passed": 16,
-  "total": 16,
+  "passed": 18,
+  "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-14T23:33:07.319752+00:00"
+  "qc_at": "2026-10-15T10:08:48.947288+00:00"
 }

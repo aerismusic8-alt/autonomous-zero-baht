@@ -36,8 +36,61 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "f6c1ed92158e5524",
+        "prompt": "a sun like an enormous glowing sphere beside a tiny Earth for scale, dramatic, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 823582,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f6c1ed92158e5524.jpg",
+        "sha256": "146f05dc720627d9978785642ff6abd8f0fe905a257e5e76f420b8f16e2ce55f",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "1fc35a937d0ce526",
+        "prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 831501,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/1fc35a937d0ce526.jpg",
+        "sha256": "c2460698a4b9fb886a6230cbcd8c0c7b0e6e5128dfe6104f66904bd25896362d",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "f94738578b2426ab",
+        "prompt": "Earth splitting into bands of light as a hypothetical force passes through it, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 839420,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f94738578b2426ab.jpg",
+        "sha256": "55a98795d5b5a59e5a3f83c8ad2a515f48d86c510628bf4f91337f4a42598187",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "837e3e2356173abb",
+        "prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 847339,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/837e3e2356173abb.jpg",
+        "sha256": "ac33b9aabda9f5137f2a95de933184f2d522965e1959e4fff2eae23ea7da47cf",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "128fbb157329f88d",
+        "prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 863177,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/128fbb157329f88d.jpg",
+        "sha256": "3101da74c35e040140e5439e02f1c1d8b8c80810a49dc880e679fa5db656d748",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:46:43.289829+00:00"
+  "generated_at": "2026-10-15T09:54:10.432267+00:00"
 }

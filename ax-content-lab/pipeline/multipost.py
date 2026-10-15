@@ -66,6 +66,35 @@ def _record(slug: str, platform: str, url: str | None, pid: str | None,
 
 
 # --------------------------------------------------------------------------- #
+# Packaging helpers — metadata.json keeps title/description/tags at the top
+# level (see produce.py); packaging is derived from those.
+# --------------------------------------------------------------------------- #
+def _packaging(meta: dict) -> dict:
+    pkg = meta.get("packaging") or {}
+    return {
+        "title": (pkg.get("title") or meta.get("title") or "").strip(),
+        "description": (pkg.get("description") or meta.get("description") or "").strip(),
+        "tags": pkg.get("tags") or meta.get("tags") or [],
+        "hashtags": pkg.get("hashtags") or meta.get("hashtags") or [],
+    }
+
+
+def _shorts_title(title: str) -> str:
+    """YouTube Shorts ranking reads '#Shorts' from the title or description."""
+    title = title.strip()
+    if "#shorts" in title.lower():
+        return title[:100]
+    return (title + " #Shorts")[:100]
+
+
+def _shorts_description(description: str) -> str:
+    desc = description.rstrip()
+    if "#shorts" not in desc.lower():
+        desc = (desc + "\n\n#Shorts").strip()
+    return desc[:4900]
+
+
+# --------------------------------------------------------------------------- #
 # YouTube
 # --------------------------------------------------------------------------- #
 def upload_youtube(item: dict, privacy: str = "public") -> dict:
@@ -93,13 +122,13 @@ def upload_youtube(item: dict, privacy: str = "public") -> dict:
             f.write(creds.to_json())
 
     yt = build("youtube", "v3", credentials=creds)
-    meta = item["meta"]
-    pkg = meta.get("packaging", {})
+    pkg = _packaging(item["meta"])
+    title = _shorts_title(pkg["title"])
     body = {
         "snippet": {
-            "title": (pkg.get("title") or meta.get("title", ""))[:100],
-            "description": pkg.get("description", "")[:4900],
-            "tags": pkg.get("tags", [])[:500],
+            "title": title,
+            "description": _shorts_description(pkg["description"]),
+            "tags": pkg["tags"][:500],
             "categoryId": "24",
         },
         "status": {"privacyStatus": privacy, "selfDeclaredMadeForKids": False},
@@ -210,8 +239,7 @@ def upload_instagram(item: dict) -> dict:
 
     base = "https://graph.facebook.com/v21.0"
     ig, at = tok["ig_user_id"], tok["access_token"]
-    meta = item["meta"]
-    pkg = meta.get("packaging", {})
+    pkg = _packaging(item["meta"])
 
     # Instagram pulls the video from a public URL, so it must be hosted first.
     public_base = os.environ.get("AX_PUBLIC_BASE", "").rstrip("/")
@@ -220,9 +248,13 @@ def upload_instagram(item: dict) -> dict:
                                      "where final.mp4 is reachable, then retry"}
     video_url = f"{public_base}/media/{item['slug']}/final.mp4"
 
+    caption = pkg["description"]
+    if pkg["hashtags"]:
+        tags = pkg["hashtags"] if isinstance(pkg["hashtags"], str) else " ".join(pkg["hashtags"])
+        caption = f"{caption}\n\n{tags}".strip()
     create = requests.post(f"{base}/{ig}/media", data={
         "media_type": "REELS", "video_url": video_url,
-        "caption": (pkg.get("description") or "")[:2100],
+        "caption": caption[:2100],
         "access_token": at}, timeout=120)
     if create.status_code != 200:
         return {"ok": False, "note": f"ig create HTTP {create.status_code}: {create.text[:200]}"}
@@ -286,9 +318,21 @@ def main() -> int:
     for it in items:
         for p in targets:
             if args.dry_run:
-                results.append({"slug": it["slug"], "platform": p,
-                                "status": "DRY_RUN",
-                                "size_mb": round(os.path.getsize(it["mp4"]) / 1e6, 2)})
+                pkg = _packaging(it["meta"])
+                entry = {
+                    "slug": it["slug"], "platform": p, "status": "DRY_RUN",
+                    "size_mb": round(os.path.getsize(it["mp4"]) / 1e6, 2),
+                    "resolution": it["meta"].get("resolution"),
+                    "duration_s": it["meta"].get("duration_seconds"),
+                    "title": _shorts_title(pkg["title"]) if p == "youtube" else pkg["title"],
+                    "description": pkg["description"][:300],
+                    "tags": pkg["tags"][:10],
+                }
+                creds_ok = platforms.status().get(p, {}).get("ready")
+                entry["credentials"] = "ready" if creds_ok else "BLOCKED"
+                if not creds_ok:
+                    entry["blocked_on"] = platforms.status()[p]["missing"]
+                results.append(entry)
                 continue
             r = UPLOADERS[p](it, args.privacy) if p == "youtube" else UPLOADERS[p](it)
             status = _record(it["slug"], p, r.get("url"), r.get("id"),

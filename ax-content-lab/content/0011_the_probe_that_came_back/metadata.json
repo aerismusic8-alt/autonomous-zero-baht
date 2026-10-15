@@ -36,8 +36,61 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "0b8dadcf861b5ea6",
+        "prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1886028,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/0b8dadcf861b5ea6.jpg",
+        "sha256": "8907aa0a215eebc79939e3270479b91a3e0d2d25cefedcd63f5581f0f015492f",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "ed3a9ab0691467b0",
+        "prompt": "a cold dim mission control room at night, one glowing monitor, empty chairs, blue screen light, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1893947,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/ed3a9ab0691467b0.jpg",
+        "sha256": "862abdaa59b1561563779e97aecc06f94d08df25eaae94d1b5af1c0e71683d52",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "f486ebc890779f90",
+        "prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1909785,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f486ebc890779f90.jpg",
+        "sha256": "12587d1a63a6a91fa31145ceb530db7a8e5960dc850bab2fba880608f646edf6",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "1aaac5db0b499a48",
+        "prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1917704,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/1aaac5db0b499a48.jpg",
+        "sha256": "026fb21264a51c14446b08e5e5e3b5758c631ac9a86d40ad1d6dad14c23a639f",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "91e64063f4ce890d",
+        "prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1925623,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/91e64063f4ce890d.jpg",
+        "sha256": "3ad248a0cc1376b0a773c2e227d61ca42b13e3ed8dbccaf375251b36b29971c1",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T23:33:16.924382+00:00"
+  "generated_at": "2026-10-15T10:01:04.023362+00:00"
 }

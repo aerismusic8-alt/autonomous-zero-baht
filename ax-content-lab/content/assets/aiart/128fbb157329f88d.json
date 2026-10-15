@@ -1,0 +1,19 @@
+{
+ "key": "128fbb157329f88d",
+ "path": "/workspace/project/content/assets/aiart/128fbb157329f88d.jpg",
+ "prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+ "base_prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion",
+ "style": "3d",
+ "seed": 863177,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20calm%20Earth%20from%20orbit%20with%20a%20subtle%20glowing%20field%20around%20it%2C%20resolved%20conclusion%2C%203d%20render%2C%20cinematic%20octane%20render%2C%20volumetric%20light%2C%20subsurface%20scattering%2C%20detailed%20materials%2C%20film%20still%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=863177&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "3101da74c35e040140e5439e02f1c1d8b8c80810a49dc880e679fa5db656d748",
+ "bytes": 47973,
+ "attempts": 1,
+ "generated_at": "2026-10-15T09:51:48.993927+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

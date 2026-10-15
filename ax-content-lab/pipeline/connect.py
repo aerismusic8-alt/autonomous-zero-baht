@@ -167,11 +167,60 @@ def install_youtube_client(src: str):
     return YT_CLIENT
 
 
+def _google_tokeninfo(access_token: str) -> dict:
+    r = subprocess.run(
+        ["curl", "-s", "-m", "20",
+         f"https://oauth2.googleapis.com/tokeninfo?access_token={access_token}"],
+        capture_output=True, text=True)
+    try:
+        return json.loads(r.stdout)
+    except Exception:  # noqa: BLE001
+        return {"error": "unparseable tokeninfo response"}
+
+
+def install_youtube_token(src: str, client_id: str = "", client_secret: str = ""):
+    """Convert a token from OAuth Playground (or any JSON with access/refresh
+    tokens) into the authorized-user file google-auth expects, after verifying
+    it actually carries the youtube.upload scope."""
+    raw = open(src).read() if os.path.isfile(src) else src
+    data = json.loads(raw)
+    at = data.get("access_token") or data.get("token")
+    if not at:
+        raise SystemExit("token JSON has no access_token")
+
+    info = _google_tokeninfo(at)
+    scopes = info.get("scope", "").split()
+    if "https://www.googleapis.com/auth/youtube.upload" not in scopes:
+        raise SystemExit(
+            f"token lacks youtube.upload scope; has: {scopes or info}")
+    if not data.get("refresh_token"):
+        raise SystemExit("token has no refresh_token; it will expire in ~1h. "
+                         "Re-copy the JSON that includes refresh_token.")
+
+    out = {
+        "token": at,
+        "refresh_token": data["refresh_token"],
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "client_id": data.get("client_id") or client_id,
+        "client_secret": data.get("client_secret") or client_secret,
+        "scopes": ["https://www.googleapis.com/auth/youtube.upload"],
+    }
+    if not (out["client_id"] and out["client_secret"]):
+        raise SystemExit("token JSON has no client_id/client_secret; the refresh "
+                         "will fail. Include them, or pass --client-id/--client-secret.")
+    _write_private(YT_TOKEN, json.dumps(out, indent=2))
+    return {"stored": "secrets/youtube_token.json", "scopes": scopes,
+            "verified": True}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("action", choices=["status", "check", "github", "youtube"])
+    ap.add_argument("action", choices=["status", "check", "github", "youtube",
+                                       "youtube-token"])
     ap.add_argument("--token")
     ap.add_argument("--client")
+    ap.add_argument("--client-id", default="")
+    ap.add_argument("--client-secret", default="")
     args = ap.parse_args()
 
     if args.action == "status":
@@ -188,6 +237,12 @@ def main() -> int:
         if not args.client:
             raise SystemExit("--client <path to downloaded OAuth JSON> required")
         print(json.dumps({"installed": install_youtube_client(args.client)}, indent=2))
+    elif args.action == "youtube-token":
+        if not (args.token or args.client):
+            raise SystemExit("--token <path or JSON string> required")
+        print(json.dumps(install_youtube_token(args.token or args.client,
+                                               args.client_id, args.client_secret),
+                         indent=2))
     return 0
 
 
