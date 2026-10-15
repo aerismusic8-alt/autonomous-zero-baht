@@ -123,6 +123,10 @@ def build() -> dict:
     built = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     cards = []
+    gh = ("https://github.com/aerismusic8-alt/autonomous-zero-baht/blob/"
+          "ax-content-lab/ax-content-lab/content")
+    ghraw = ("https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/"
+             "ax-content-lab/ax-content-lab/content")
     for i in items:
         badge = (f'<span class="badge ok">QC {i["qc"]} PASS</span>'
                  if i["qc_status"] == "PASS" else
@@ -131,6 +135,7 @@ def build() -> dict:
       <article class="card">
         <video controls preload="metadata" playsinline poster="media/{i['slug']}/thumb.png">
           <source src="media/{i['slug']}/final.mp4" type="video/mp4">
+          <source src="{ghraw}/{i['slug']}/final.mp4" type="video/mp4">
         </video>
         <div class="body">
           <h3>{html.escape(i['title'])}</h3>
@@ -138,6 +143,7 @@ def build() -> dict:
           {badge}
           <div class="links">
             <a class="btn" href="media/{i['slug']}/final.mp4" download>Download MP4</a>
+            <a class="btn" href="{gh}/{i['slug']}/final.mp4" target="_blank">GitHub</a>
             <a class="btn" href="media/{i['slug']}/thumb.png" target="_blank">Thumbnail</a>
           </div>
         </div>
@@ -223,6 +229,14 @@ def build() -> dict:
 """
     with open(os.path.join(SITE, "index.html"), "w") as f:
         f.write(page)
+
+    # references.html lives in the same dir and is wiped by the rmtree above,
+    # so rebuild it here to keep both pages in sync from one command.
+    try:
+        import build_refs_page
+        build_refs_page.main()
+    except Exception as e:  # noqa: BLE001
+        print(f"[build_site] references page skipped: {e}")
 
     return {"site": SITE, "videos": produced, "qc_pass": passed,
             "code_zip_mb": round(os.path.getsize(zpath) / 1e6, 2)}
