@@ -7,44 +7,62 @@
   "mood": "tense",
   "voice": "male_documentary",
   "rate": "+2%",
-  "scene_hold": 0.30,
+  "scene_hold": 0.3,
   "scenes": [
     {
       "kicker": "DEEP SPACE LOGS - ENTRY 4471",
       "text": "The probe had been silent for nineteen years.",
       "style": "caption",
       "theme": "signal",
-      "particles": 60
+      "particles": 60,
+      "art_prompt": "a lone deep-space probe drifting in black void, faint Earth far behind, tiny blue marble, cinematic wide shot",
+      "art_style": "retro-sci",
+      "art_seed": 1384693
     },
     {
       "text": "Then, at 3:14 in the morning, it answered.",
       "style": "caption",
       "theme": "void",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a cold mission control room at night, single glowing monitor, empty chairs, blue screen light",
+      "art_style": "retro-sci",
+      "art_seed": 1392612
     },
     {
       "text": "One word. Repeating. From a place no one had mapped.",
       "style": "caption",
       "theme": "abyss",
-      "particles": 70
+      "particles": 70,
+      "art_prompt": "an empty star map with unmapped coordinates, holographic grid over darkness, ominous",
+      "art_style": "retro-sci",
+      "art_seed": 1400531
     },
     {
       "text": "\"Come home.\"",
       "style": "quote",
       "theme": "void",
-      "particles": 80
+      "particles": 80,
+      "art_prompt": "a radio telescope dish under a starry night sky, faint signal waves, eerie glow",
+      "art_style": "retro-sci",
+      "art_seed": 1408450
     },
     {
       "text": "The probe was launched from Earth.\nIt had never been anywhere else.",
       "style": "caption",
       "theme": "ember",
-      "particles": 90
+      "particles": 90,
+      "art_prompt": "an old launch facility on Earth, rocket on the pad at dawn, nostalgic, wide establishing shot",
+      "art_style": "retro-sci",
+      "art_seed": 1416369
     },
     {
       "text": "Follow Deep Space Logs for the next entry.",
       "style": "endcard",
       "theme": "signal",
-      "particles": 40
+      "particles": 40,
+      "art_prompt": "a silent deep-space probe silhouette against a vast nebula, stars, quiet and final",
+      "art_style": "retro-sci",
+      "art_seed": 1424288
     }
   ],
   "packaging": {
@@ -60,12 +78,19 @@
       "science fiction shorts",
       "twist ending"
     ],
-    "hashtags": ["#scifi", "#shortstory", "#space", "#creepy", "#fiction"]
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
   },
   "sources": [
     {
       "note": "Original fiction. Concept informed by recurring short-form sci-fi narrative structures observed in market research (see research/*.json).",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "retro-sci"
 }

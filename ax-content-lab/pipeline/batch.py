@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Batch production runner: produce all specs in content/specs in parallel."""
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import argparse
 import glob
@@ -16,10 +17,11 @@ import produce  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def run_one(spec_path: str, force: bool = False) -> dict:
+def run_one(spec_path: str, force: bool = False, art: bool = False,
+            art_model: str = "flux") -> dict:
     t0 = time.time()
     try:
-        res = produce.build(spec_path, force=force)
+        res = produce.build(spec_path, force=force, art=art, art_model=art_model)
         skipped = res.get("skipped", False)
         return {
             "spec": os.path.basename(spec_path),
@@ -42,6 +44,9 @@ def main() -> int:
     ap.add_argument("--pattern", default="spec_*.json")
     ap.add_argument("--only", nargs="*", default=None, help="slug substrings to include")
     ap.add_argument("--force", action="store_true", help="rebuild even if already produced")
+    ap.add_argument("--art", action="store_true",
+                    help="generate AI illustrations per scene (pollinations.ai)")
+    ap.add_argument("--art-model", default="flux")
     args = ap.parse_args()
 
     specs = sorted(glob.glob(os.path.join(ROOT, "content", "specs", args.pattern)))
@@ -51,10 +56,11 @@ def main() -> int:
         print("no specs matched", file=sys.stderr)
         return 1
 
-    print(f"producing {len(specs)} piece(s) with {args.workers} workers", file=sys.stderr)
+    print(f"producing {len(specs)} piece(s) with {args.workers} workers"
+          f"{' + AI art' if args.art else ''}", file=sys.stderr)
     results = []
     with ProcessPoolExecutor(max_workers=args.workers) as ex:
-        futs = {ex.submit(run_one, s, args.force): s for s in specs}
+        futs = {ex.submit(run_one, s, args.force, args.art, args.art_model): s for s in specs}
         for fut in as_completed(futs):
             r = fut.result()
             results.append(r)

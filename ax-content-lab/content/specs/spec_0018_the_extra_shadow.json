@@ -14,42 +14,60 @@
       "text": "The photograph was taken at noon, in full sun.",
       "style": "caption",
       "theme": "ember",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a lonely lighthouse on a black cliff at night, beam sweeping the sea, heavy fog, ominous",
+      "art_style": "anime-horror",
+      "art_seed": 96229
     },
     {
       "kicker": "",
       "text": "Three children stood in a row on the beach.",
       "style": "caption",
       "theme": "ember",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "an open handwritten logbook on a wooden desk, single oil lamp, long shadows",
+      "art_style": "anime-horror",
+      "art_seed": 104148
     },
     {
       "kicker": "",
       "text": "Three small shadows stretched out in front of them.",
       "style": "caption",
       "theme": "ember",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "an empty coastal village at dusk, no people, curtains moving, unsettling calm",
+      "art_style": "anime-horror",
+      "art_seed": 112067
     },
     {
       "kicker": "",
       "text": "And one more, behind them, facing the wrong way.",
       "style": "quote",
       "theme": "ember",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a staircase descending into darkness, faint light below, damp stone walls",
+      "art_style": "anime-horror",
+      "art_seed": 119986
     },
     {
       "kicker": "",
       "text": "None of them had anyone standing behind them.",
       "style": "caption",
       "theme": "ember",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "a reflection in a dark window that does not match the room, horror",
+      "art_style": "anime-horror",
+      "art_seed": 127905
     },
     {
       "kicker": "",
       "text": "Follow for more Quiet Horror Files.",
       "style": "endcard",
       "theme": "ember",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a lighthouse gone dark at the edge of a storm, waves heavy, final dread",
+      "art_style": "anime-horror",
+      "art_seed": 135824
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "anime-horror"
 }

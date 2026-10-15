@@ -14,42 +14,60 @@
       "text": "Gravity is not pulling you down.",
       "style": "caption",
       "theme": "aurora",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a colossal nebula in deep space, towering pillars of gas, stars, awe-inspiring wide shot",
+      "art_style": "3d",
+      "art_seed": 844197
     },
     {
       "kicker": "",
       "text": "You are not being pulled at all.",
       "style": "caption",
       "theme": "aurora",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a planet's rings seen from close orbit, sharp sunlight, detailed surface below",
+      "art_style": "3d",
+      "art_seed": 852116
     },
     {
       "kicker": "",
       "text": "You are falling - and the ground is rushing up to meet you.",
       "style": "caption",
       "theme": "aurora",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "a black hole warping starlight, accretion disk, gravitational lensing, cinematic",
+      "art_style": "3d",
+      "art_seed": 860035
     },
     {
       "kicker": "",
       "text": "A feather and a hammer fall at the same speed. There is no pull.",
       "style": "quote",
       "theme": "aurora",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "countless galaxies scattered across the void, tiny foreground spacecraft for scale",
+      "art_style": "3d",
+      "art_seed": 867954
     },
     {
       "kicker": "",
       "text": "There is only the curve of space, bending toward the Earth.",
       "style": "caption",
       "theme": "aurora",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "a supernova blooming among the stars, brilliant expanding light",
+      "art_style": "3d",
+      "art_seed": 875873
     },
     {
       "kicker": "",
       "text": "Follow Cosmic Wonders for more.",
       "style": "endcard",
       "theme": "aurora",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "Earth small and blue against an enormous dark cosmos, quiet final wide shot",
+      "art_style": "3d",
+      "art_seed": 883792
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "3d"
 }

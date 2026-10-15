@@ -16,6 +16,7 @@ not itself a secret; it just keeps the endpoint unguessable. The endpoint is
 write-only: nothing stored can be read back through it.
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import http.server
 import json

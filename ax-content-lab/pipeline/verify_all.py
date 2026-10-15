@@ -10,6 +10,7 @@ Reads the actual files (not the QC self-report) and checks:
 Prints a summary and exits non-zero if anything fails.
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import glob
 import json

@@ -36,8 +36,71 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "3e3c3d7489bda9f1",
+        "prompt": "a lonely lighthouse on a black cliff at night, beam sweeping the sea, heavy fog, ominous, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1440363,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/3e3c3d7489bda9f1.jpg",
+        "sha256": "da21b5940a4b150fea7aea8f6308e07807ecbffb0ac846fd0ba10202d16b061d",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "9046b78f1aeeecf7",
+        "prompt": "an open handwritten logbook on a wooden desk, single oil lamp, long shadows, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1448282,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/9046b78f1aeeecf7.jpg",
+        "sha256": "d9f9f33c30f1132ac253a1e699ce272ed8c747d4867366b25d5db1483e2233eb",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "04a57c1b0af44729",
+        "prompt": "an empty coastal village at dusk, no people, curtains moving, unsettling calm, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1456201,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/04a57c1b0af44729.jpg",
+        "sha256": "457fe513ccead1cf0cb34dc7649fbdd012056026cfc85bb4abcaf49c7dc684c1",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "268f21f870d7b7c4",
+        "prompt": "a staircase descending into darkness, faint light below, damp stone walls, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1464120,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/268f21f870d7b7c4.jpg",
+        "sha256": "b897e4a0e01a653348b7297cdc6a02ecf742ecc09bacaff1dcae43f9fa76105d",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "21d30c2167a252af",
+        "prompt": "a reflection in a dark window that does not match the room, horror, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1472039,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/21d30c2167a252af.jpg",
+        "sha256": "fb1aeda4db016b41a8469a98327f3c6c751af0759e3f6e17436acf96fa5eb894",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "5e2351020acbec5f",
+        "prompt": "a lighthouse gone dark at the edge of a storm, waves heavy, final dread, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+        "style": "anime-horror",
+        "seed": 1479958,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/5e2351020acbec5f.jpg",
+        "sha256": "2bbd965c34af40108a5a0ffe92c39f87c7c3e73dbdb48dced61819a9054d2d4f",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:42:08.246725+00:00"
+  "generated_at": "2026-10-15T02:45:32.098201+00:00"
 }

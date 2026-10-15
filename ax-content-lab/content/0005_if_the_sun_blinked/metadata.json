@@ -36,8 +36,71 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "da419a44f437b2b0",
+        "prompt": "a sun like an enormous glowing sphere beside a tiny Earth for scale, dramatic, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1068995,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/da419a44f437b2b0.jpg",
+        "sha256": "c5f57911b4def2a7529ca8fdafea5ad047143a30ff7d3c6c266792d7605ba5ab",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "95f061f9fbdad384",
+        "prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1076914,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/95f061f9fbdad384.jpg",
+        "sha256": "475af3950fce7ba4a5119bc79c4002c13929858962fad9f0d210e425224e0dff",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "9d42eb00a4e22b19",
+        "prompt": "Earth splitting into bands of light as a hypothetical force passes through it, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1084833,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/9d42eb00a4e22b19.jpg",
+        "sha256": "b6e7042e93582ec5a6658ee63f26b808c92a0b498f00119ebeac2d2fb2cb76a8",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "cea0525ca0e396b7",
+        "prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1092752,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/cea0525ca0e396b7.jpg",
+        "sha256": "a004618e08cc80b561205a9c2da9dd22cb888be372a3edee844eba931404b735",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "f6d7b167e0d15a73",
+        "prompt": "light rays bending around a massive object, cosmic lensing diagram in space, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1100671,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f6d7b167e0d15a73.jpg",
+        "sha256": "7857bd376e100a6a2053a593449f284b2a22974c4bfa3510daf7b6be4b1762bb",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "a1f5b63916ff39ed",
+        "prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1108590,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/a1f5b63916ff39ed.jpg",
+        "sha256": "3918b36ef60da3ec432cc82c45e1f03ecbd22aa205bce532d57f44afcdc9a1cb",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:43:57.134280+00:00"
+  "generated_at": "2026-10-15T03:03:46.742431+00:00"
 }

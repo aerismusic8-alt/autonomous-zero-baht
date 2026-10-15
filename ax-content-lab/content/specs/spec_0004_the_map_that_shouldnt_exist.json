@@ -14,42 +14,60 @@
       "text": "In 1513, a cartographer drew Antarctica.",
       "style": "caption",
       "theme": "sepia",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight",
+      "art_style": "storybook",
+      "art_seed": 442289
     },
     {
       "kicker": "",
       "text": "It would not be seen by human eyes for another 300 years.",
       "style": "caption",
       "theme": "sepia",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a cluttered detective's desk, photographs and folders under a green desk lamp",
+      "art_style": "storybook",
+      "art_seed": 450208
     },
     {
       "kicker": "",
       "text": "He drew the coastline under the ice. Accurately.",
       "style": "caption",
       "theme": "sepia",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "an old archive room lined with dusty files, narrow aisle, single bulb",
+      "art_style": "storybook",
+      "art_seed": 458127
     },
     {
       "kicker": "",
       "text": "He wrote that he copied it from older maps.",
       "style": "quote",
       "theme": "sepia",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a fog-covered mountain trail where a path abruptly ends, cold light",
+      "art_style": "storybook",
+      "art_seed": 466046
     },
     {
       "kicker": "",
       "text": "No one has ever found those maps.",
       "style": "caption",
       "theme": "sepia",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "a faded family photograph on a mantelpiece, one face scratched out",
+      "art_style": "storybook",
+      "art_seed": 473965
     },
     {
       "kicker": "",
       "text": "Follow Unsolved Archive for the next file.",
       "style": "endcard",
       "theme": "sepia",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "an empty car parked on a remote road at dusk, doors closed, unexplained",
+      "art_style": "storybook",
+      "art_seed": 481884
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "storybook"
 }

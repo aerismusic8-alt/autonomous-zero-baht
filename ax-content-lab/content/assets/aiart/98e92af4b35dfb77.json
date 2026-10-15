@@ -1,0 +1,19 @@
+{
+ "key": "98e92af4b35dfb77",
+ "path": "/workspace/project/content/assets/aiart/98e92af4b35dfb77.jpg",
+ "prompt": "a faded family photograph on a mantelpiece, one face scratched out, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+ "base_prompt": "a faded family photograph on a mantelpiece, one face scratched out",
+ "style": "storybook",
+ "seed": 473965,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20faded%20family%20photograph%20on%20a%20mantelpiece%2C%20one%20face%20scratched%20out%2C%20storybook%20illustration%2C%20gouache%20painting%2C%20textured%20brushwork%2C%20warm%20palette%2C%20cinematic%20composition%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=473965&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "6deea1b6a31165330a338ca05e241dfaf792ef845e6c5d646ff7ad1800883cb1",
+ "bytes": 79137,
+ "attempts": 8,
+ "generated_at": "2026-10-15T02:53:31.865893+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

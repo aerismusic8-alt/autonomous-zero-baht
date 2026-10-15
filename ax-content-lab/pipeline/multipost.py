@@ -12,6 +12,7 @@ Usage:
     python3 pipeline/multipost.py --all             # every ready platform
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import argparse
 import json

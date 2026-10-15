@@ -1,0 +1,19 @@
+{
+ "key": "82736b6306ae2b50",
+ "path": "/workspace/project/content/assets/aiart/82736b6306ae2b50.jpg",
+ "prompt": "a fog-covered mountain trail where a path abruptly ends, cold light, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+ "base_prompt": "a fog-covered mountain trail where a path abruptly ends, cold light",
+ "style": "storybook",
+ "seed": 466046,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20fog-covered%20mountain%20trail%20where%20a%20path%20abruptly%20ends%2C%20cold%20light%2C%20storybook%20illustration%2C%20gouache%20painting%2C%20textured%20brushwork%2C%20warm%20palette%2C%20cinematic%20composition%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=466046&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "b66924c510e766f6f9c2a7a9bc5f30e893c0d26fe0466249ee315019d7a01156",
+ "bytes": 75250,
+ "attempts": 7,
+ "generated_at": "2026-10-15T02:52:41.821383+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

@@ -1,0 +1,19 @@
+{
+ "key": "238d7e185e9b6820",
+ "path": "/workspace/project/content/assets/aiart/238d7e185e9b6820.jpg",
+ "prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+ "base_prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final",
+ "style": "retro-sci",
+ "seed": 616537,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20silent%20probe%20silhouette%20against%20a%20vast%20nebula%2C%20stars%2C%20quiet%20and%20final%2C%20retro%20sci-fi%20illustration%2C%201970s%20airbrush%20poster%20art%2C%20nebula%2C%20film%20grain%2C%20dramatic%20scale%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=616537&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "cb8aa5d9a514286a4ff43eae59b1bc249c7f96f7f4c4c83b56175f07c1c88cc8",
+ "bytes": 75130,
+ "attempts": 7,
+ "generated_at": "2026-10-15T02:47:17.221851+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

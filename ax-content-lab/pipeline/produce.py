@@ -8,6 +8,7 @@ Reads a script spec (JSON) and produces a publish-ready package:
     final.mp4, thumbnail.png, metadata.json, qc_report.json, assets/
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import argparse
 import json
@@ -23,6 +24,11 @@ import audio
 import tts
 import video
 from video import Scene
+
+try:
+    import aiart
+except Exception:  # noqa: BLE001
+    aiart = None
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIENTATIONS = {
@@ -44,9 +50,21 @@ def make_thumbnail(spec: dict, scenes: list[Scene], out_png: str, size) -> str:
     from PIL import Image, ImageDraw, ImageFilter
     w, h = size
     theme = video.THEMES.get(spec.get("theme", "abyss"), video.THEMES["abyss"])
-    img = video._gradient(*theme["bg"]).resize((w, h))
-    glow = video._glow_base(theme).resize((w, h))
-    img = Image.alpha_composite(img.convert("RGBA"), glow).convert("RGB")
+    # Prefer the hero AI illustration as the cover; fall back to a gradient.
+    hero = next((s.bg_image for s in scenes if s.bg_image and os.path.exists(s.bg_image)), None)
+    if hero:
+        img = Image.open(hero).convert("RGB")
+        # cover-crop to the target aspect, then darken the lower third for text
+        sw, sh = img.size
+        scale = max(w / sw, h / sh)
+        img = img.resize((int(sw * scale), int(sh * scale)), Image.LANCZOS)
+        cx = (img.width - w) // 2
+        cy = int((img.height - h) * 0.32)
+        img = img.crop((cx, cy, cx + w, cy + h))
+    else:
+        img = video._gradient(*theme["bg"]).resize((w, h))
+        glow = video._glow_base(theme).resize((w, h))
+        img = Image.alpha_composite(img.convert("RGBA"), glow).convert("RGB")
 
     title = spec.get("title", "")
     # thumbnail hook text (short, punchy)
@@ -73,7 +91,9 @@ def make_thumbnail(spec: dict, scenes: list[Scene], out_png: str, size) -> str:
     return out_png
 
 
-def build(spec_path: str, out_root: str | None = None, force: bool = False) -> dict:
+def build(spec_path: str, out_root: str | None = None, force: bool = False,
+          art: bool = False, art_style: str | None = None,
+          art_model: str = "flux") -> dict:
     with open(spec_path) as f:
         spec = json.load(f)
 
@@ -106,7 +126,22 @@ def build(spec_path: str, out_root: str | None = None, force: bool = False) -> d
     voices = []
 
     # --- ASSET GENERATION + VOICE ---
+    art_log = []
     for i, s in enumerate(scene_specs):
+        bg = s.get("bg_image")
+        if art and aiart is not None and s.get("art_prompt"):
+            style = s.get("art_style") or art_style or spec.get("art_style") or "anime"
+            try:
+                rec = aiart.generate(s["art_prompt"], style=style,
+                                     seed=int(s.get("art_seed", i * 7 + 1)),
+                                     width=size[0], height=size[1],
+                                     model=art_model)
+                bg = rec["path"]
+                art_log.append({k: rec[k] for k in
+                                ("key", "prompt", "style", "seed", "model",
+                                 "path", "sha256", "license_note")})
+            except Exception as e:  # noqa: BLE001
+                print(f"[produce] art failed for scene {i}: {e}")
         scenes.append(Scene(
             text=s.get("text", ""),
             kicker=s.get("kicker", ""),
@@ -114,7 +149,7 @@ def build(spec_path: str, out_root: str | None = None, force: bool = False) -> d
             style=s.get("style", "caption"),
             particles=int(s.get("particles", 46)),
             seed=i * 7 + 1,
-            bg_image=s.get("bg_image"),
+            bg_image=bg,
         ))
         mp3 = os.path.join(assets, f"voice_{i:02d}.mp3")
         if s.get("text"):
@@ -204,8 +239,13 @@ def build(spec_path: str, out_root: str | None = None, force: bool = False) -> d
         "provenance": {
             "narration": "edge-tts neural TTS (Microsoft free tier)",
             "music": "procedurally synthesised (original, numpy)",
-            "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+            "visuals": ("AI-generated illustrations + procedural motion (Ken Burns, "
+                        "particles, captions) composited with PIL + ffmpeg"
+                        if art_log else
+                        "procedurally rendered (original, PIL + ffmpeg)"),
             "third_party_assets": [],
+            "ai_art": art_log,
+            "ai_art_provider": "pollinations.ai" if art_log else None,
         },
         "generated_at": datetime.now(timezone.utc).isoformat(),
     }
@@ -284,6 +324,18 @@ def run_qc(video_path: str, meta: dict, audio_stream: dict, spec: dict) -> dict:
         not meta["provenance"]["third_party_assets"],
         meta["provenance"]["third_party_assets"] or "none declared")
 
+    # AI art provenance (only when AI art was used): every asset must carry a
+    # reproducible seed and a recorded licence note, else it is not auditable.
+    art_log = meta["provenance"].get("ai_art") or []
+    if art_log:
+        ok = all(a.get("sha256") and a.get("seed") is not None and a.get("license_note")
+                 for a in art_log)
+        add("ai_art_provenance", ok,
+            f"{len(art_log)} AI assets, provider={meta['provenance'].get('ai_art_provider')}, "
+            f"all have seed+sha256+licence note")
+        add("ai_art_license_flagged", True,
+            "AI art flagged: model licence must be confirmed before monetised use")
+
     # packaging completeness
     add("has_title", bool(meta.get("title")), meta.get("title"))
     add("has_description", len(meta.get("description", "")) >= 30,
@@ -304,8 +356,14 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("spec")
     ap.add_argument("--out", default=None)
+    ap.add_argument("--force", action="store_true")
+    ap.add_argument("--art", action="store_true",
+                    help="generate AI illustrations for scenes with art_prompt")
+    ap.add_argument("--art-style", default=None, choices=sorted(aiart.STYLES) if aiart else None)
+    ap.add_argument("--art-model", default="flux")
     args = ap.parse_args()
-    res = build(args.spec, args.out)
+    res = build(args.spec, args.out, force=args.force, art=args.art,
+                art_style=args.art_style, art_model=args.art_model)
     print(json.dumps({"work_dir": res["work_dir"],
                       "qc_status": res["qc"]["status"],
                       "passed": f"{res['qc']['passed']}/{res['qc']['total']}",

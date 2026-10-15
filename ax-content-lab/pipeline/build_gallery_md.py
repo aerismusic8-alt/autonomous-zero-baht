@@ -5,6 +5,7 @@ Uses absolute raw URLs on the public branch, so every clip is reachable without
 the sandbox gallery being awake.
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import glob
 import json

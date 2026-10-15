@@ -14,42 +14,60 @@
       "text": "The Mars crew went quiet for six minutes.",
       "style": "caption",
       "theme": "signal",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot",
+      "art_style": "retro-sci",
+      "art_seed": 562126
     },
     {
       "kicker": "",
       "text": "Every system logged it. Every camera missed it.",
       "style": "caption",
       "theme": "signal",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a cold dim mission control room at night, one glowing monitor, empty chairs, blue screen light",
+      "art_style": "retro-sci",
+      "art_seed": 570045
     },
     {
       "kicker": "",
       "text": "They woke up on schedule, in the right seats, wearing the right suits.",
       "style": "caption",
       "theme": "signal",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "an empty holographic star map with unmapped coordinates over darkness, ominous",
+      "art_style": "retro-sci",
+      "art_seed": 577964
     },
     {
       "kicker": "",
       "text": "But all four of them were soaking wet.",
       "style": "quote",
       "theme": "signal",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie",
+      "art_style": "retro-sci",
+      "art_seed": 585883
     },
     {
       "kicker": "",
       "text": "There has never been liquid water on that part of Mars.",
       "style": "caption",
       "theme": "signal",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot",
+      "art_style": "retro-sci",
+      "art_seed": 593802
     },
     {
       "kicker": "",
       "text": "Follow Deep Space Logs for the next entry.",
       "style": "endcard",
       "theme": "signal",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final",
+      "art_style": "retro-sci",
+      "art_seed": 601721
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "retro-sci"
 }

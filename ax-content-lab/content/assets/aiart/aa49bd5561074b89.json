@@ -1,0 +1,19 @@
+{
+ "key": "aa49bd5561074b89",
+ "path": "/workspace/project/content/assets/aiart/aa49bd5561074b89.jpg",
+ "prompt": "test scene 0 space anime, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+ "base_prompt": "test scene 0 space anime",
+ "style": "retro-sci",
+ "seed": 9000,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/test%20scene%200%20space%20anime%2C%20retro%20sci-fi%20illustration%2C%201970s%20airbrush%20poster%20art%2C%20nebula%2C%20film%20grain%2C%20dramatic%20scale%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=9000&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "1907ecc10e8c77434a70cfc25298ae5736f2a9ca8071876431ff3b99f6bee4c9",
+ "bytes": 78525,
+ "attempts": 1,
+ "generated_at": "2026-10-15T02:32:17.476273+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

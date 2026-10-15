@@ -1,0 +1,19 @@
+{
+ "key": "afcfc4f47b51346b",
+ "path": "/workspace/project/content/assets/aiart/afcfc4f47b51346b.jpg",
+ "prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+ "base_prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot",
+ "style": "retro-sci",
+ "seed": 538011,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20lone%20deep-space%20probe%20drifting%20in%20black%20void%2C%20faint%20distant%20Earth%2C%20cinematic%20wide%20shot%2C%20retro%20sci-fi%20illustration%2C%201970s%20airbrush%20poster%20art%2C%20nebula%2C%20film%20grain%2C%20dramatic%20scale%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=538011&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "39bc65ccb2d01fe80fa233315c21fe4dfa027c836ae9a3d618a5ee4eca3d7df3",
+ "bytes": 60906,
+ "attempts": 1,
+ "generated_at": "2026-10-15T03:10:45.690249+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

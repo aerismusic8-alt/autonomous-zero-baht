@@ -1,0 +1,19 @@
+{
+ "key": "9046b78f1aeeecf7",
+ "path": "/workspace/project/content/assets/aiart/9046b78f1aeeecf7.jpg",
+ "prompt": "an open handwritten logbook on a wooden desk, single oil lamp, long shadows, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+ "base_prompt": "an open handwritten logbook on a wooden desk, single oil lamp, long shadows",
+ "style": "anime-horror",
+ "seed": 1448282,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/an%20open%20handwritten%20logbook%20on%20a%20wooden%20desk%2C%20single%20oil%20lamp%2C%20long%20shadows%2C%20anime%20style%20horror%20illustration%2C%201990s%20dark%20cel%20animation%2C%20high%20contrast%2C%20eerie%20rim%20light%2C%20desaturated%20palette%2C%20unsettling%20atmosphere%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1448282&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "d9f9f33c30f1132ac253a1e699ce272ed8c747d4867366b25d5db1483e2233eb",
+ "bytes": 46170,
+ "attempts": 1,
+ "generated_at": "2026-10-15T02:40:04.318356+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

@@ -7,7 +7,7 @@
       "spec": "spec_0001_the_last_signal.json",
       "slug": "0001_the_last_signal",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 23.5,
       "seconds": 0.0,
       "skipped": true,
@@ -17,7 +17,7 @@
       "spec": "spec_0002_the_lighthouse_log.json",
       "slug": "0002_the_lighthouse_log",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 27.54,
       "seconds": 0.0,
       "skipped": true,
@@ -27,7 +27,7 @@
       "spec": "spec_0003_voyagers_silence.json",
       "slug": "0003_voyagers_silence",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 24.29,
       "seconds": 0.0,
       "skipped": true,
@@ -37,7 +37,7 @@
       "spec": "spec_0004_the_map_that_shouldnt_exist.json",
       "slug": "0004_the_map_that_shouldnt_exist",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 22.49,
       "seconds": 0.0,
       "skipped": true,
@@ -47,7 +47,7 @@
       "spec": "spec_0005_if_the_sun_blinked.json",
       "slug": "0005_if_the_sun_blinked",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 22.13,
       "seconds": 0.0,
       "skipped": true,
@@ -57,7 +57,7 @@
       "spec": "spec_0006_the_second_guest.json",
       "slug": "0006_the_second_guest",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 22.6,
       "seconds": 0.0,
       "skipped": true,
@@ -67,10 +67,10 @@
       "spec": "spec_0007_signal_from_kepler.json",
       "slug": "0007_signal_from_kepler",
       "qc_status": "PASS",
-      "qc": "16/16",
+      "qc": "18/18",
       "duration": 25.16,
-      "seconds": 0.0,
-      "skipped": true,
+      "seconds": 179.6,
+      "skipped": false,
       "ok": true
     },
     {
@@ -109,8 +109,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.08,
-      "seconds": 146.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -119,8 +119,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.3,
-      "seconds": 131.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -129,8 +129,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 24.74,
-      "seconds": 144.8,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -139,8 +139,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.48,
-      "seconds": 134.5,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -149,8 +149,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.09,
-      "seconds": 146.7,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -159,8 +159,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 23.14,
-      "seconds": 136.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -169,8 +169,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 27.83,
-      "seconds": 162.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -179,8 +179,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 21.37,
-      "seconds": 127.8,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -189,8 +189,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 20.45,
-      "seconds": 123.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -199,8 +199,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 23.87,
-      "seconds": 141.9,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -209,8 +209,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.16,
-      "seconds": 132.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -219,8 +219,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.8,
-      "seconds": 134.9,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -229,8 +229,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.09,
-      "seconds": 150.5,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -239,8 +239,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 24.06,
-      "seconds": 145.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -249,8 +249,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.28,
-      "seconds": 137.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -259,8 +259,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.63,
-      "seconds": 149.7,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -269,8 +269,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.59,
-      "seconds": 149.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -279,8 +279,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 22.11,
-      "seconds": 132.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -289,8 +289,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 21.85,
-      "seconds": 103.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -299,10 +299,10 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 24.55,
-      "seconds": 107.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-14T23:46:49Z"
+  "generated_at": "2026-10-15T08:42:11Z"
 }

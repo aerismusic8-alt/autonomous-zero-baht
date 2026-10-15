@@ -6,6 +6,7 @@ particles, animated captions, vignette, progress bar) and piped straight into
 ffmpeg as raw RGB. No stock footage, no third-party assets -> fully original.
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import math
 import os
@@ -18,6 +19,9 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 W, H = 1080, 1920
 FPS = 30
+BG_ZOOM_PAD = 0.16  # extra frame on each axis so Ken Burns can pan without edges
+BG_ZOOM_MIN = 0.0   # Ken Burns zoom at the first frame
+BG_ZOOM_MAX = 0.06  # Ken Burns zoom at the last frame (slow push-in)
 
 FONT_DIRS = [
     "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -62,6 +66,13 @@ def _gradient(top, bottom) -> Image.Image:
         col[y, 0] = _lerp(_hex(top), _hex(bottom), t)
     img = np.repeat(col, W, axis=1).astype(np.uint8)
     return Image.fromarray(img, "RGB")
+
+
+def _shift(layer: Image.Image, dx: int, dy: int) -> Image.Image:
+    """Translate an RGBA layer, wrapping at the edges."""
+    return layer.transform(
+        layer.size, Image.AFFINE, (1, 0, -dx, 0, 1, -dy),
+        resample=Image.BILINEAR)
 
 
 def _vignette() -> Image.Image:
@@ -141,10 +152,14 @@ def render_scene(scene: Scene, dur: float, out_mp4: str, fps: int = FPS,
     n_frames = max(2, int(dur * fps))
 
     if scene.bg_image and os.path.exists(scene.bg_image):
-        base = Image.open(scene.bg_image).convert("RGB").resize((w, h), Image.LANCZOS)
-        base = Image.blend(base, _gradient(*theme["bg"]), 0.35)
+        src = Image.open(scene.bg_image).convert("RGB")
+        # upscale first so Ken Burns cropping always has pixels to move into
+        base = src.resize((int(w * (1 + BG_ZOOM_PAD)), int(h * (1 + BG_ZOOM_PAD))),
+                          Image.LANCZOS)
+        has_art = True
     else:
         base = _gradient(*theme["bg"])
+        has_art = False
 
     vig = _vignette().resize((w, h))
     glow = _glow_base(theme).resize((w, h))
@@ -199,11 +214,26 @@ def render_scene(scene: Scene, dur: float, out_mp4: str, fps: int = FPS,
     fade_out = min(0.35, dur * 0.3) if fade_end else 0.0
     for i in range(n_frames):
         t = i / fps
-        # --- background with drifting glow ---
-        gx = int(math.sin(t * 0.5 + scene.seed) * w * 0.10)
-        gy = int(math.cos(t * 0.38 + scene.seed) * h * 0.05)
-        frame = base.copy()
-        frame.paste(glow, (gx, gy), glow)
+        # --- background: slow Ken Burns move across the AI art, else drifting glow ---
+        if has_art:
+            p = i / max(1, n_frames - 1)
+            easeP = p * p * (3 - 2 * p)
+            zoom = 1.0 + BG_ZOOM_MIN + (BG_ZOOM_MAX - BG_ZOOM_MIN) * easeP
+            cw, ch = int(w * zoom), int(h * zoom)
+            ox = int((base.width - cw) * (0.15 + 0.7 * p))
+            oy = int((base.height - ch) * (0.5 + 0.35 * math.sin(scene.seed + p * 3)))
+            ox = max(0, min(base.width - cw, ox))
+            oy = max(0, min(base.height - ch, oy))
+            frame = base.crop((ox, oy, ox + cw, oy + ch)).resize((w, h), Image.BILINEAR)
+            # gentle glow only, so the art stays visible
+            gx = int(math.sin(t * 0.4 + scene.seed) * w * 0.04)
+            gy = int(math.cos(t * 0.3 + scene.seed) * h * 0.03)
+            frame = Image.alpha_composite(frame.convert("RGBA"), _shift(glow, gx, gy)).convert("RGB")
+        else:
+            gx = int(math.sin(t * 0.5 + scene.seed) * w * 0.10)
+            gy = int(math.cos(t * 0.38 + scene.seed) * h * 0.05)
+            frame = base.copy()
+            frame.paste(glow, (gx, gy), glow)
 
         # --- particles ---
         ov = Image.new("RGBA", (w, h), (0, 0, 0, 0))

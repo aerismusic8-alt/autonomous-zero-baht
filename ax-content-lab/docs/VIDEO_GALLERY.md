@@ -5,13 +5,13 @@ are permanent and do not depend on the sandbox gallery.
 
 | # | Series | Title | Length | QC | Play |
 |---|---|---|---|---|---|
-| 1 | Deep Space Logs | The Last Signal | 23.5s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0001_the_last_signal/final.mp4) |
-| 2 | Quiet Horror Files | The Lighthouse Log | 27.54s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0002_the_lighthouse_log/final.mp4) |
-| 3 | Deep Space Logs | Voyager's Silence | 24.29s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0003_voyagers_silence/final.mp4) |
-| 4 | Unsolved Archive | The Map That Shouldn't Exist | 22.49s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0004_the_map_that_shouldnt_exist/final.mp4) |
-| 5 | What If Physics | If the Sun Blinked | 22.13s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0005_if_the_sun_blinked/final.mp4) |
-| 6 | Quiet Horror Files | The Second Guest | 22.6s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0006_the_second_guest/final.mp4) |
-| 7 | Deep Space Logs | Signal from Kepler | 25.16s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0007_signal_from_kepler/final.mp4) |
+| 1 | Deep Space Logs | The Last Signal | 23.5s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0001_the_last_signal/final.mp4) |
+| 2 | Quiet Horror Files | The Lighthouse Log | 27.54s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0002_the_lighthouse_log/final.mp4) |
+| 3 | Deep Space Logs | Voyager's Silence | 24.29s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0003_voyagers_silence/final.mp4) |
+| 4 | Unsolved Archive | The Map That Shouldn't Exist | 22.49s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0004_the_map_that_shouldnt_exist/final.mp4) |
+| 5 | What If Physics | If the Sun Blinked | 22.13s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0005_if_the_sun_blinked/final.mp4) |
+| 6 | Quiet Horror Files | The Second Guest | 22.6s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0006_the_second_guest/final.mp4) |
+| 7 | Deep Space Logs | Signal from Kepler | 25.16s | PASS 18/18 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0007_signal_from_kepler/final.mp4) |
 | 8 | Cosmic Wonders | Why Nothing Is Empty | 22.54s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0008_why_nothing_is_empty/final.mp4) |
 | 9 | Unsolved Archive | The Last Photo | 21.4s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0009_the_last_photo/final.mp4) |
 | 10 | What If Physics | If You Fell Through Earth | 22.92s | PASS 16/16 | [MP4](https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/ax-content-lab/ax-content-lab/content/0010_if_you_fell_through_earth/final.mp4) |

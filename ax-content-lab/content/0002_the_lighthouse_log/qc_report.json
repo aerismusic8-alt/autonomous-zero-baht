@@ -28,32 +28,32 @@
     {
       "check": "frame_start_not_black",
       "pass": true,
-      "detail": "YAVG=21.1"
+      "detail": "YAVG=43.5"
     },
     {
       "check": "frame_start_has_detail",
       "pass": true,
-      "detail": "std=32.1"
+      "detail": "std=39.4"
     },
     {
       "check": "frame_mid_not_black",
       "pass": true,
-      "detail": "YAVG=23.8"
+      "detail": "YAVG=38.0"
     },
     {
       "check": "frame_mid_has_detail",
       "pass": true,
-      "detail": "std=35.6"
+      "detail": "std=39.7"
     },
     {
       "check": "frame_end_not_black",
       "pass": true,
-      "detail": "YAVG=22.7"
+      "detail": "YAVG=47.5"
     },
     {
       "check": "frame_end_has_detail",
       "pass": true,
-      "detail": "std=33.7"
+      "detail": "std=47.3"
     },
     {
       "check": "narration_present",
@@ -64,6 +64,16 @@
       "check": "no_third_party_assets",
       "pass": true,
       "detail": "none declared"
+    },
+    {
+      "check": "ai_art_provenance",
+      "pass": true,
+      "detail": "6 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+    },
+    {
+      "check": "ai_art_license_flagged",
+      "pass": true,
+      "detail": "AI art flagged: model licence must be confirmed before monetised use"
     },
     {
       "check": "has_title",
@@ -81,8 +91,8 @@
       "detail": "8 tags"
     }
   ],
-  "passed": 16,
-  "total": 16,
+  "passed": 18,
+  "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-14T15:42:14.012631+00:00"
+  "qc_at": "2026-10-15T02:45:36.367382+00:00"
 }

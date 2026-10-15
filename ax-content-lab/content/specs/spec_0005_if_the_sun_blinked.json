@@ -14,42 +14,60 @@
       "text": "What if the Sun vanished for exactly one second?",
       "style": "caption",
       "theme": "forest",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a sun like an enormous glowing sphere beside a tiny Earth for scale, dramatic",
+      "art_style": "3d",
+      "art_seed": 1068995
     },
     {
       "kicker": "",
       "text": "You would not notice for eight minutes.",
       "style": "caption",
       "theme": "forest",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid",
+      "art_style": "3d",
+      "art_seed": 1076914
     },
     {
       "kicker": "",
       "text": "That is how long light takes to cross the gap.",
       "style": "caption",
       "theme": "forest",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "Earth splitting into bands of light as a hypothetical force passes through it",
+      "art_style": "3d",
+      "art_seed": 1084833
     },
     {
       "kicker": "",
       "text": "Then the sky would go dark - and Earth would keep flying straight.",
       "style": "quote",
       "theme": "forest",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration",
+      "art_style": "3d",
+      "art_seed": 1092752
     },
     {
       "kicker": "",
       "text": "Not falling. Not burning. Just leaving.",
       "style": "caption",
       "theme": "forest",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "light rays bending around a massive object, cosmic lensing diagram in space",
+      "art_style": "3d",
+      "art_seed": 1100671
     },
     {
       "kicker": "",
       "text": "Follow What If Physics for more.",
       "style": "endcard",
       "theme": "forest",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion",
+      "art_style": "3d",
+      "art_seed": 1108590
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "3d"
 }

@@ -62,7 +62,7 @@ jobs:
           python pipeline/analyze.py > research/analysis_latest.md || true
 
       - name: Produce + QC all specs
-        run: python pipeline/batch.py --workers 2
+        run: python pipeline/batch.py --workers 2 --art
 
       - name: Sync state store
         run: python pipeline/store.py sync

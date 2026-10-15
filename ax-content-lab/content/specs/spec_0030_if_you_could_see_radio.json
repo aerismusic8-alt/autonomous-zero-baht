@@ -14,42 +14,60 @@
       "text": "Every phone call, every broadcast, every satellite is passing through you.",
       "style": "caption",
       "theme": "forest",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a sun like an enormous glowing sphere beside a tiny Earth for scale, dramatic",
+      "art_style": "3d",
+      "art_seed": 186816
     },
     {
       "kicker": "",
       "text": "If your eyes could see radio waves, the sky would never be dark.",
       "style": "caption",
       "theme": "forest",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid",
+      "art_style": "3d",
+      "art_seed": 194735
     },
     {
       "kicker": "",
       "text": "It would glow with thousands of overlapping signals.",
       "style": "caption",
       "theme": "forest",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "Earth splitting into bands of light as a hypothetical force passes through it",
+      "art_style": "3d",
+      "art_seed": 202654
     },
     {
       "kicker": "",
       "text": "Our own transmissions would outshine every star.",
       "style": "quote",
       "theme": "forest",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration",
+      "art_style": "3d",
+      "art_seed": 210573
     },
     {
       "kicker": "",
       "text": "We have already filled the sky with light we cannot see.",
       "style": "caption",
       "theme": "forest",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "light rays bending around a massive object, cosmic lensing diagram in space",
+      "art_style": "3d",
+      "art_seed": 218492
     },
     {
       "kicker": "",
       "text": "Follow What If Physics for more.",
       "style": "endcard",
       "theme": "forest",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion",
+      "art_style": "3d",
+      "art_seed": 226411
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "3d"
 }

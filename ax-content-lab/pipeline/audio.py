@@ -5,6 +5,7 @@ All music is synthesised from scratch with numpy -> 100% original, no licensing
 burden, no external assets. Output is 44.1kHz stereo WAV.
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import os
 import subprocess

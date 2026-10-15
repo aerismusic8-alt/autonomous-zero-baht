@@ -24,8 +24,11 @@ python3 pipeline/build_gallery_md.py >/dev/null 2>&1 || true
 step "generate specs for new series entries"
 python3 pipeline/gen_specs.py >/dev/null || true
 
-step "produce + quality control"
-python3 pipeline/batch.py --workers 3 || true
+step "attach visual prompts to any spec missing them"
+python3 pipeline/art_prompts.py >/dev/null || true
+
+step "produce + quality control (AI-illustrated)"
+python3 pipeline/batch.py --workers 3 --art || true
 
 step "sync state store"
 python3 pipeline/store.py sync

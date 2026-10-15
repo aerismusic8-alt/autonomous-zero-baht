@@ -1,0 +1,19 @@
+{
+ "key": "20539c393246b13a",
+ "path": "/workspace/project/content/assets/aiart/20539c393246b13a.jpg",
+ "prompt": "a reflection in a dark window that does not match the room, horror, anime style horror illustration, 1990s dark cel animation, high contrast, eerie rim light, desaturated palette, unsettling atmosphere, no text, no watermark",
+ "base_prompt": "a reflection in a dark window that does not match the room, horror",
+ "style": "anime-horror",
+ "seed": 963427,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20reflection%20in%20a%20dark%20window%20that%20does%20not%20match%20the%20room%2C%20horror%2C%20anime%20style%20horror%20illustration%2C%201990s%20dark%20cel%20animation%2C%20high%20contrast%2C%20eerie%20rim%20light%2C%20desaturated%20palette%2C%20unsettling%20atmosphere%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=963427&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "b3897502e2f531fde637b3d6b510dcb8c834912598e57a82ac8f8545b76fd58b",
+ "bytes": 49485,
+ "attempts": 8,
+ "generated_at": "2026-10-15T03:07:09.365535+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

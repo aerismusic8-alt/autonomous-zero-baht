@@ -1,0 +1,19 @@
+{
+ "key": "7d9f862c503fb65e",
+ "path": "/workspace/project/content/assets/aiart/7d9f862c503fb65e.jpg",
+ "prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+ "base_prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight",
+ "style": "storybook",
+ "seed": 442289,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20rain-soaked%20city%20street%20at%20night%20in%20the%201970s%2C%20wet%20asphalt%2C%20lone%20streetlight%2C%20storybook%20illustration%2C%20gouache%20painting%2C%20textured%20brushwork%2C%20warm%20palette%2C%20cinematic%20composition%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=442289&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "e2af6077eadd9c203b733e96bd2358ac393169b5fd72a79ce513166400d609f7",
+ "bytes": 80922,
+ "attempts": 1,
+ "generated_at": "2026-10-15T02:50:14.571099+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

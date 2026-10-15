@@ -36,8 +36,71 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "afcfc4f47b51346b",
+        "prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 538011,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/afcfc4f47b51346b.jpg",
+        "sha256": "39bc65ccb2d01fe80fa233315c21fe4dfa027c836ae9a3d618a5ee4eca3d7df3",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "0cc21c6a2f780dd7",
+        "prompt": "a cold dim mission control room at night, one glowing monitor, empty chairs, blue screen light, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 545930,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/0cc21c6a2f780dd7.jpg",
+        "sha256": "211b0e92f33dca864f4a54f1ab27fa4d187e39b05cca18cc0f28640d1161361b",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "4f8e71822b943928",
+        "prompt": "an empty holographic star map with unmapped coordinates over darkness, ominous, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 553849,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/4f8e71822b943928.jpg",
+        "sha256": "304d6262abd8cd3513f75835a40b28257fcb1cc338534109f5c49997e6b713cf",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "569c517ec814c20e",
+        "prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 561768,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/569c517ec814c20e.jpg",
+        "sha256": "e73c50e0206f80ab641f5be48d0d69d49bec48ad81c75751028c875c8f1a0e51",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "0d85bfc0649abea4",
+        "prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 569687,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/0d85bfc0649abea4.jpg",
+        "sha256": "0ce5df7bd2a3935c08674bdae0a4ceafc15b5ec2afefaf73e128ef42d862f6e8",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "3bc26fe63b0c23a2",
+        "prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 577606,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/3bc26fe63b0c23a2.jpg",
+        "sha256": "a99f552a40c0e3c2a98f342365f364ed736cb46981b63c690edbfd4f1819508a",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:44:37.352609+00:00"
+  "generated_at": "2026-10-15T08:42:06.422519+00:00"
 }

@@ -19,6 +19,7 @@ Usage:
     python3 pipeline/publisher.py --all              # upload every QC_PASS item
 """
 from __future__ import annotations
+import toolchain  # noqa: F401  (ensures ffmpeg/ffprobe on PATH)
 
 import argparse
 import json

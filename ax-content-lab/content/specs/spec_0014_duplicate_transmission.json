@@ -14,42 +14,60 @@
       "text": "Two identical signals arrived within a second of each other.",
       "style": "caption",
       "theme": "signal",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a lone deep-space probe drifting in black void, faint distant Earth, cinematic wide shot",
+      "art_style": "retro-sci",
+      "art_seed": 646874
     },
     {
       "kicker": "",
       "text": "Same frequency. Same length. Same content.",
       "style": "caption",
       "theme": "signal",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "a cold dim mission control room at night, one glowing monitor, empty chairs, blue screen light",
+      "art_style": "retro-sci",
+      "art_seed": 654793
     },
     {
       "kicker": "",
       "text": "One came from a star forty light years away.",
       "style": "caption",
       "theme": "signal",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "an empty holographic star map with unmapped coordinates over darkness, ominous",
+      "art_style": "retro-sci",
+      "art_seed": 662712
     },
     {
       "kicker": "",
       "text": "The other came from the far side of our own Moon.",
       "style": "quote",
       "theme": "signal",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie",
+      "art_style": "retro-sci",
+      "art_seed": 670631
     },
     {
       "kicker": "",
       "text": "The Moon signal arrived first.",
       "style": "caption",
       "theme": "signal",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot",
+      "art_style": "retro-sci",
+      "art_seed": 678550
     },
     {
       "kicker": "",
       "text": "Follow Deep Space Logs for the next entry.",
       "style": "endcard",
       "theme": "signal",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final",
+      "art_style": "retro-sci",
+      "art_seed": 686469
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "retro-sci"
 }

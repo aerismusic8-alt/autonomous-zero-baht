@@ -36,8 +36,71 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "7d9f862c503fb65e",
+        "prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 442289,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/7d9f862c503fb65e.jpg",
+        "sha256": "e2af6077eadd9c203b733e96bd2358ac393169b5fd72a79ce513166400d609f7",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "4a0300da81844ce9",
+        "prompt": "a cluttered detective's desk, photographs and folders under a green desk lamp, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 450208,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/4a0300da81844ce9.jpg",
+        "sha256": "3ef4346114e1cf75825397619b6cf9a50cea2e29fdb8d7c46cd0fee0bb5909d0",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "311c8975661ea04c",
+        "prompt": "an old archive room lined with dusty files, narrow aisle, single bulb, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 458127,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/311c8975661ea04c.jpg",
+        "sha256": "e1c77f41da041bd407ee6887edd77092a7ff559e6c9d60b636649fd909c0d088",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "82736b6306ae2b50",
+        "prompt": "a fog-covered mountain trail where a path abruptly ends, cold light, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 466046,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/82736b6306ae2b50.jpg",
+        "sha256": "b66924c510e766f6f9c2a7a9bc5f30e893c0d26fe0466249ee315019d7a01156",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "98e92af4b35dfb77",
+        "prompt": "a faded family photograph on a mantelpiece, one face scratched out, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 473965,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/98e92af4b35dfb77.jpg",
+        "sha256": "6deea1b6a31165330a338ca05e241dfaf792ef845e6c5d646ff7ad1800883cb1",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "0c71f2f1f0d4cbe6",
+        "prompt": "an empty car parked on a remote road at dusk, doors closed, unexplained, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 481884,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/0c71f2f1f0d4cbe6.jpg",
+        "sha256": "964b9c79a0073d6b14f2f358a6305f24fbc84dc5744cc4434ea6438c7b2be1a2",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:41:45.313273+00:00"
+  "generated_at": "2026-10-15T02:56:59.864229+00:00"
 }

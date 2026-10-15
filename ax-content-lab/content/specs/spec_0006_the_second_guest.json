@@ -14,42 +14,60 @@
       "text": "The hotel had twelve rooms and eleven guests.",
       "style": "caption",
       "theme": "ember",
-      "particles": 50
+      "particles": 50,
+      "art_prompt": "a lonely lighthouse on a black cliff at night, beam sweeping the sea, heavy fog, ominous",
+      "art_style": "anime-horror",
+      "art_seed": 931751
     },
     {
       "kicker": "",
       "text": "The night clerk counted the keys every evening. Eleven. Always eleven.",
       "style": "caption",
       "theme": "ember",
-      "particles": 62
+      "particles": 62,
+      "art_prompt": "an open handwritten logbook on a wooden desk, single oil lamp, long shadows",
+      "art_style": "anime-horror",
+      "art_seed": 939670
     },
     {
       "kicker": "",
       "text": "On Tuesday he counted twelve.",
       "style": "caption",
       "theme": "ember",
-      "particles": 74
+      "particles": 74,
+      "art_prompt": "an empty coastal village at dusk, no people, curtains moving, unsettling calm",
+      "art_style": "anime-horror",
+      "art_seed": 947589
     },
     {
       "kicker": "",
       "text": "Room 6 had been sealed since 1974.",
       "style": "quote",
       "theme": "ember",
-      "particles": 86
+      "particles": 86,
+      "art_prompt": "a staircase descending into darkness, faint light below, damp stone walls",
+      "art_style": "anime-horror",
+      "art_seed": 955508
     },
     {
       "kicker": "",
       "text": "Its key was warm.",
       "style": "caption",
       "theme": "ember",
-      "particles": 98
+      "particles": 98,
+      "art_prompt": "a reflection in a dark window that does not match the room, horror",
+      "art_style": "anime-horror",
+      "art_seed": 963427
     },
     {
       "kicker": "",
       "text": "Follow for more Quiet Horror Files.",
       "style": "endcard",
       "theme": "ember",
-      "particles": 110
+      "particles": 110,
+      "art_prompt": "a lighthouse gone dark at the edge of a storm, waves heavy, final dread",
+      "art_style": "anime-horror",
+      "art_seed": 971346
     }
   ],
   "packaging": {
@@ -78,5 +96,6 @@
       "note": "Original writing. Structure informed by public market research in research/*.json.",
       "no_reused_material": true
     }
-  ]
+  ],
+  "art_style": "anime-horror"
 }

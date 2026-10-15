@@ -1,0 +1,19 @@
+{
+ "key": "9d42eb00a4e22b19",
+ "path": "/workspace/project/content/assets/aiart/9d42eb00a4e22b19.jpg",
+ "prompt": "Earth splitting into bands of light as a hypothetical force passes through it, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+ "base_prompt": "Earth splitting into bands of light as a hypothetical force passes through it",
+ "style": "3d",
+ "seed": 1084833,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/Earth%20splitting%20into%20bands%20of%20light%20as%20a%20hypothetical%20force%20passes%20through%20it%2C%203d%20render%2C%20cinematic%20octane%20render%2C%20volumetric%20light%2C%20subsurface%20scattering%2C%20detailed%20materials%2C%20film%20still%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1084833&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "b6e7042e93582ec5a6658ee63f26b808c92a0b498f00119ebeac2d2fb2cb76a8",
+ "bytes": 62432,
+ "attempts": 8,
+ "generated_at": "2026-10-15T02:58:45.552857+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

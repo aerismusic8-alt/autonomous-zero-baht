@@ -1,0 +1,19 @@
+{
+ "key": "cea0525ca0e396b7",
+ "path": "/workspace/project/content/assets/aiart/cea0525ca0e396b7.jpg",
+ "prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+ "base_prompt": "a clock melting into orbiting rings of numbers, surreal physics illustration",
+ "style": "3d",
+ "seed": 1092752,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20clock%20melting%20into%20orbiting%20rings%20of%20numbers%2C%20surreal%20physics%20illustration%2C%203d%20render%2C%20cinematic%20octane%20render%2C%20volumetric%20light%2C%20subsurface%20scattering%2C%20detailed%20materials%2C%20film%20still%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1092752&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "a004618e08cc80b561205a9c2da9dd22cb888be372a3edee844eba931404b735",
+ "bytes": 52777,
+ "attempts": 8,
+ "generated_at": "2026-10-15T02:59:35.596623+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

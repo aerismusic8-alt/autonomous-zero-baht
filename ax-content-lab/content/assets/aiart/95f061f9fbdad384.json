@@ -1,0 +1,19 @@
+{
+ "key": "95f061f9fbdad384",
+ "path": "/workspace/project/content/assets/aiart/95f061f9fbdad384.jpg",
+ "prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+ "base_prompt": "a person standing inside a transparent physics diagram of spacetime, glowing grid",
+ "style": "3d",
+ "seed": 1076914,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/a%20person%20standing%20inside%20a%20transparent%20physics%20diagram%20of%20spacetime%2C%20glowing%20grid%2C%203d%20render%2C%20cinematic%20octane%20render%2C%20volumetric%20light%2C%20subsurface%20scattering%2C%20detailed%20materials%2C%20film%20still%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1076914&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "475af3950fce7ba4a5119bc79c4002c13929858962fad9f0d210e425224e0dff",
+ "bytes": 44795,
+ "attempts": 7,
+ "generated_at": "2026-10-15T02:57:54.338937+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}
