@@ -92,20 +92,25 @@ Channel creation is tied to a Google account and cannot be delegated to AX.
 
 ---
 
-## 5. Google Drive backup (2 min, optional) — unlock offline copy
+## 5. Google Drive backup — CONNECTED
 
-Drive also needs a one-time Google consent bound to your account. AX installed
-`rclone` and wrote the uploader; it only needs the remote configured once.
+K authorised Drive once (`rclone authorize "drive"`); the token is stored in
+git-ignored `secrets/drive_token.json`, so it survives sandbox resets and AX
+rebuilds the rclone remote automatically. Verified: `drive_sync.py --status`
+reports `ready: true` and a real upload completed.
 
 ```
-rclone config          # n → new remote → name: axdrive → type: drive
-                       # scope: drive.file (least privilege) → sign in as
-                       # aerismusic8@gmail.com → leave defaults → y → q
-python3 pipeline/drive_sync.py --upload     # content/, docs/, brand/ → Drive
+python3 pipeline/drive_sync.py --snapshot   # dated folder of all AI-art videos
+python3 pipeline/drive_sync.py --upload      # content/, docs/, brand/
+python3 pipeline/drive_sync.py --status      # what is connected
 ```
 
-Target folder on Drive: **AX Content Lab**. Free 15 GB covers the video set.
-**Cost: ฿0.** Until then `drive_sync.py --status` reports `ready: false` honestly.
+Snapshots land in **AX Content Lab / AI_Art_Batch_<date>** on Drive (account
+aerismusic8@gmail.com), each with `README.md` + `MANIFEST.json` and sha256 per
+video. **Cost: ฿0.**
+
+Note: rclone warns its shared Google client_id retires during 2026. If it stops
+working, make a free client_id (rclone.org/drive) and re-authorise.
 
 ---
 

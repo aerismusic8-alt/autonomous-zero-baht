@@ -36,8 +36,51 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "5368d375495e2cbc",
+        "prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 1739360,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/5368d375495e2cbc.jpg",
+        "sha256": "080d6835ad7881d87fa35b6f28fbf087dc65edf40e63a67a1abc891d3457218a",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "e75a9d6727b70e9a",
+        "prompt": "an old archive room lined with dusty files, narrow aisle, single bulb, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 1755198,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/e75a9d6727b70e9a.jpg",
+        "sha256": "5dc2a51cd019cb096291aae15adcd5ee16c32556fb163f4d37b8839bf4c2207a",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "728da7b9e9aeaaf1",
+        "prompt": "a fog-covered mountain trail where a path abruptly ends, cold light, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 1763117,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/728da7b9e9aeaaf1.jpg",
+        "sha256": "87619eeeebbff5e594ca2ec257525078d5b7db529b85f08dd3cdf28fff3278cb",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "88a88bf4ce80693f",
+        "prompt": "an empty car parked on a remote road at dusk, doors closed, unexplained, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 1778955,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/88a88bf4ce80693f.jpg",
+        "sha256": "14055a65bf161e0258d1fa761308820060277574b400adc615583e87f2b2f5d5",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:46:19.611574+00:00"
+  "generated_at": "2026-10-15T09:46:51.390443+00:00"
 }

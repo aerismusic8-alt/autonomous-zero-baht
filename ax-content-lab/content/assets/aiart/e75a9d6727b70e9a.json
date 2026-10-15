@@ -1,0 +1,19 @@
+{
+ "key": "e75a9d6727b70e9a",
+ "path": "/workspace/project/content/assets/aiart/e75a9d6727b70e9a.jpg",
+ "prompt": "an old archive room lined with dusty files, narrow aisle, single bulb, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+ "base_prompt": "an old archive room lined with dusty files, narrow aisle, single bulb",
+ "style": "storybook",
+ "seed": 1755198,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/an%20old%20archive%20room%20lined%20with%20dusty%20files%2C%20narrow%20aisle%2C%20single%20bulb%2C%20storybook%20illustration%2C%20gouache%20painting%2C%20textured%20brushwork%2C%20warm%20palette%2C%20cinematic%20composition%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1755198&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "5dc2a51cd019cb096291aae15adcd5ee16c32556fb163f4d37b8839bf4c2207a",
+ "bytes": 70205,
+ "attempts": 1,
+ "generated_at": "2026-10-15T09:41:27.910970+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}

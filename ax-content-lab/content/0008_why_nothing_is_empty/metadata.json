@@ -36,8 +36,51 @@
   "provenance": {
     "narration": "edge-tts neural TTS (Microsoft free tier)",
     "music": "procedurally synthesised (original, numpy)",
-    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
-    "third_party_assets": []
+    "visuals": "AI-generated illustrations + procedural motion (Ken Burns, particles, captions) composited with PIL + ffmpeg",
+    "third_party_assets": [],
+    "ai_art": [
+      {
+        "key": "7a053237caf8f3bb",
+        "prompt": "a colossal nebula in deep space, towering pillars of gas, stars, awe-inspiring wide shot, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1504896,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/7a053237caf8f3bb.jpg",
+        "sha256": "72a7f7e5f7dfaf81e9094f40e402a04b5af4df29cee75f654fd7f8cfd0ff01da",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "309603b0ccd15452",
+        "prompt": "a planet's rings seen from close orbit, sharp sunlight, detailed surface below, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1512815,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/309603b0ccd15452.jpg",
+        "sha256": "f1c8fa8d0ed75453c4944a7c33ee837eeeb6c037f4da5a00166ec0826b60311c",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "f3b6f18bdd99edb3",
+        "prompt": "countless galaxies scattered across the void, tiny foreground spacecraft for scale, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1528653,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/f3b6f18bdd99edb3.jpg",
+        "sha256": "5d0b1ed290ba3fcc51d0ca72f52d67a988ffcba0e96394ad528eef2edb8b92fe",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "4f57cf1edcc79c28",
+        "prompt": "a supernova blooming among the stars, brilliant expanding light, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1536572,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/4f57cf1edcc79c28.jpg",
+        "sha256": "31373ac9152ae7c77eed9b4db2e7e4ef1a93273eb611a1f91b18ea8ea914dbf8",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      }
+    ],
+    "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-14T15:46:13.070564+00:00"
+  "generated_at": "2026-10-15T09:38:53.326164+00:00"
 }

@@ -28,12 +28,12 @@
     {
       "check": "frame_start_not_black",
       "pass": true,
-      "detail": "YAVG=23.5"
+      "detail": "YAVG=47.5"
     },
     {
       "check": "frame_start_has_detail",
       "pass": true,
-      "detail": "std=28.9"
+      "detail": "std=38.9"
     },
     {
       "check": "frame_mid_not_black",
@@ -66,6 +66,16 @@
       "detail": "none declared"
     },
     {
+      "check": "ai_art_provenance",
+      "pass": true,
+      "detail": "4 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+    },
+    {
+      "check": "ai_art_license_flagged",
+      "pass": true,
+      "detail": "AI art flagged: model licence must be confirmed before monetised use"
+    },
+    {
       "check": "has_title",
       "pass": true,
       "detail": "Why Nothing Is Empty"
@@ -81,8 +91,8 @@
       "detail": "8 tags"
     }
   ],
-  "passed": 16,
-  "total": 16,
+  "passed": 18,
+  "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-14T15:46:18.555261+00:00"
+  "qc_at": "2026-10-15T09:38:56.522508+00:00"
 }

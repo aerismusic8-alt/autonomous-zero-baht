@@ -1,0 +1,19 @@
+{
+ "key": "f3b6f18bdd99edb3",
+ "path": "/workspace/project/content/assets/aiart/f3b6f18bdd99edb3.jpg",
+ "prompt": "countless galaxies scattered across the void, tiny foreground spacecraft for scale, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+ "base_prompt": "countless galaxies scattered across the void, tiny foreground spacecraft for scale",
+ "style": "3d",
+ "seed": 1528653,
+ "model": "flux",
+ "width": 1080,
+ "height": 1920,
+ "provider": "pollinations.ai",
+ "url": "https://image.pollinations.ai/prompt/countless%20galaxies%20scattered%20across%20the%20void%2C%20tiny%20foreground%20spacecraft%20for%20scale%2C%203d%20render%2C%20cinematic%20octane%20render%2C%20volumetric%20light%2C%20subsurface%20scattering%2C%20detailed%20materials%2C%20film%20still%2C%20no%20text%2C%20no%20watermark?width=1080&height=1920&seed=1528653&model=flux&nologo=true&nofeed=true&enhance=false",
+ "sha256": "5d0b1ed290ba3fcc51d0ca72f52d67a988ffcba0e96394ad528eef2edb8b92fe",
+ "bytes": 74229,
+ "attempts": 1,
+ "generated_at": "2026-10-15T09:34:23.786675+00:00",
+ "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use",
+ "cached": false
+}
