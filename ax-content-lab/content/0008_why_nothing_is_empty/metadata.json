@@ -60,6 +60,16 @@
         "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
       },
       {
+        "key": "9245113bfccd990f",
+        "prompt": "a black hole warping starlight, accretion disk, gravitational lensing, cinematic, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
+        "style": "3d",
+        "seed": 1520734,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/9245113bfccd990f.jpg",
+        "sha256": "216172cffd84378a34a84421dfbbdccc4f6b123bee52b6f5478d05fd3e981123",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
         "key": "f3b6f18bdd99edb3",
         "prompt": "countless galaxies scattered across the void, tiny foreground spacecraft for scale, 3d render, cinematic octane render, volumetric light, subsurface scattering, detailed materials, film still, no text, no watermark",
         "style": "3d",
@@ -82,5 +92,5 @@
     ],
     "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-15T09:38:53.326164+00:00"
+  "generated_at": "2026-10-15T11:06:36.582899+00:00"
 }

@@ -48,12 +48,12 @@
     {
       "check": "frame_end_not_black",
       "pass": true,
-      "detail": "YAVG=20.3"
+      "detail": "YAVG=52.8"
     },
     {
       "check": "frame_end_has_detail",
       "pass": true,
-      "detail": "std=36.1"
+      "detail": "std=52.2"
     },
     {
       "check": "narration_present",
@@ -68,7 +68,7 @@
     {
       "check": "ai_art_provenance",
       "pass": true,
-      "detail": "3 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+      "detail": "5 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
     },
     {
       "check": "ai_art_license_flagged",
@@ -94,5 +94,5 @@
   "passed": 18,
   "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-15T10:08:48.947288+00:00"
+  "qc_at": "2026-10-15T11:22:45.625447+00:00"
 }

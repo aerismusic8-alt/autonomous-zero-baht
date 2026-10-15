@@ -60,6 +60,16 @@
         "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
       },
       {
+        "key": "2eb365e7dbb31f2b",
+        "prompt": "an empty holographic star map with unmapped coordinates over darkness, ominous, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 1901866,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/2eb365e7dbb31f2b.jpg",
+        "sha256": "68e3c0a23f1317b6d19318b5e4039e0f612dd243e9d6db091ec0de286119c958",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
         "key": "f486ebc890779f90",
         "prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
         "style": "retro-sci",
@@ -92,5 +102,5 @@
     ],
     "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-15T10:01:04.023362+00:00"
+  "generated_at": "2026-10-15T11:17:42.948644+00:00"
 }

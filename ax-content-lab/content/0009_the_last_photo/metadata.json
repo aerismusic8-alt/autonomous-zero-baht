@@ -70,6 +70,16 @@
         "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
       },
       {
+        "key": "d4450be6564a9ae8",
+        "prompt": "a faded family photograph on a mantelpiece, one face scratched out, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
+        "style": "storybook",
+        "seed": 1771036,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/d4450be6564a9ae8.jpg",
+        "sha256": "ac13c508fc916771ceebb9b2ab5f13dcb9fe9b242998b3f09a50f071eee3f61f",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
         "key": "88a88bf4ce80693f",
         "prompt": "an empty car parked on a remote road at dusk, doors closed, unexplained, storybook illustration, gouache painting, textured brushwork, warm palette, cinematic composition, no text, no watermark",
         "style": "storybook",
@@ -82,5 +92,5 @@
     ],
     "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-15T09:46:51.390443+00:00"
+  "generated_at": "2026-10-15T11:10:38.637473+00:00"
 }

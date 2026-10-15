@@ -38,12 +38,12 @@
     {
       "check": "frame_mid_not_black",
       "pass": true,
-      "detail": "YAVG=30.7"
+      "detail": "YAVG=50.5"
     },
     {
       "check": "frame_mid_has_detail",
       "pass": true,
-      "detail": "std=40.7"
+      "detail": "std=49.8"
     },
     {
       "check": "frame_end_not_black",
@@ -68,7 +68,7 @@
     {
       "check": "ai_art_provenance",
       "pass": true,
-      "detail": "4 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+      "detail": "5 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
     },
     {
       "check": "ai_art_license_flagged",
@@ -94,5 +94,5 @@
   "passed": 18,
   "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-15T09:38:56.522508+00:00"
+  "qc_at": "2026-10-15T11:06:40.288812+00:00"
 }

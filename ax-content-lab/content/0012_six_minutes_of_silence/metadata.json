@@ -60,6 +60,16 @@
         "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
       },
       {
+        "key": "b6abd47e85018fa0",
+        "prompt": "a radio telescope dish under a vast starry night sky, faint signal glow, eerie, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 585883,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/b6abd47e85018fa0.jpg",
+        "sha256": "adb00b72e507996e9ff802b7f36b4d4ed0de03e73a64d2c7f5f55da063e4423c",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
         "key": "f0a31708e675dd57",
         "prompt": "an ageing launch facility at dawn, rocket on the pad, nostalgic haze, wide establishing shot, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
         "style": "retro-sci",
@@ -68,9 +78,19 @@
         "path": "/workspace/project/content/assets/aiart/f0a31708e675dd57.jpg",
         "sha256": "ad5ea882cd8fdfddcb828d6df80e2c25ec259544b7cdacab0f8b80200f6179b3",
         "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
+      },
+      {
+        "key": "30aa883c77eed972",
+        "prompt": "a silent probe silhouette against a vast nebula, stars, quiet and final, retro sci-fi illustration, 1970s airbrush poster art, nebula, film grain, dramatic scale, no text, no watermark",
+        "style": "retro-sci",
+        "seed": 601721,
+        "model": "flux",
+        "path": "/workspace/project/content/assets/aiart/30aa883c77eed972.jpg",
+        "sha256": "eb81e4c3eed81c103c8fdb18bfce663d2a2389caed60e4da934e2746f400bb19",
+        "license_note": "pollinations.ai public endpoint; platform MIT; model licence varies - review before monetised use"
       }
     ],
     "ai_art_provider": "pollinations.ai"
   },
-  "generated_at": "2026-10-15T10:08:45.685102+00:00"
+  "generated_at": "2026-10-15T11:22:41.485226+00:00"
 }

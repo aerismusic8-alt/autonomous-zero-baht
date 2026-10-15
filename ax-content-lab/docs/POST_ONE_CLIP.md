@@ -69,30 +69,42 @@ python3 pipeline/multipost.py --platform facebook --slug 0001_the_last_signal
 
 ---
 
-## 3. TikTok (10 min)
+## 3. TikTok (10 min) — account created, now the developer app
 
-1. https://developers.tiktok.com/ → sign in as aerismusic8@gmail.com
-2. **Manage apps → Connect an app** → add **Content Posting API**,
-   scope **video.upload** (+ `user.info.basic`)
-3. Save `secrets/tiktok_client.json`:
+**Having the TikTok account is not enough.** TikTok only allows API posting from
+a registered developer app; a login on its own cannot upload. (Its Content
+Posting API is also restricted to apps that TikTok has approved for the
+`video.upload` scope — a brand-new app may sit in review first.)
 
-```json
-{"client_key": "...", "client_secret": "..."}
+1. https://developers.tiktok.com/ → sign in as **aerismusic8@gmail.com**
+   (the account you just created)
+2. **Manage apps → Connect an app** → add the **Content Posting API** product
+3. Add scopes **video.upload** and **user.info.basic**; add the **Login Kit**
+   product and set the **Redirect URI** to `https://localhost/`
+4. Copy **Client key** + **Client secret** → hand them to AX:
+
+```
+python3 pipeline/connect.py tiktok --client '{"client_key":"...","client_secret":"..."}'
 ```
 
-4. One-time browser consent → save the returned token as
-   `secrets/tiktok_token.json`:
+AX prints the authorization URL. Open it, sign in as aerismusic8@gmail.com,
+approve, then copy the `code` from the address you land on
+(`https://localhost/?code=XXXX&state=axlab`) and hand it back:
 
-```json
-{"access_token": "...", "refresh_token": "...", "open_id": "..."}
 ```
+python3 pipeline/connect.py tiktok-code --code XXXX
+```
+
+AX exchanges it for a token, verifies it, and stores
+`secrets/tiktok_token.json` (mode 600, git-ignored). Then:
 
 ```
 python3 pipeline/multipost.py --platform tiktok --slug 0001_the_last_signal
 ```
 
 TikTok delivers uploads to the creator inbox for you to confirm — that is
-TikTok's own design, not a failure.
+TikTok's own design, not a failure. AX reports `PENDING VERIFICATION` until the
+post is actually visible.
 
 ---
 

@@ -23,7 +23,7 @@
     {
       "check": "audio_level_ok",
       "pass": true,
-      "detail": "mean=-15.6 dB"
+      "detail": "mean=-15.5 dB"
     },
     {
       "check": "frame_start_not_black",
@@ -68,7 +68,7 @@
     {
       "check": "ai_art_provenance",
       "pass": true,
-      "detail": "5 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
+      "detail": "6 AI assets, provider=pollinations.ai, all have seed+sha256+licence note"
     },
     {
       "check": "ai_art_license_flagged",
@@ -94,5 +94,5 @@
   "passed": 18,
   "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-15T10:01:08.202644+00:00"
+  "qc_at": "2026-10-15T11:17:47.422453+00:00"
 }

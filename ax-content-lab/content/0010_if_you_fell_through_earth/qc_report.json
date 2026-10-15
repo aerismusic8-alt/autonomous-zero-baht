@@ -23,7 +23,7 @@
     {
       "check": "audio_level_ok",
       "pass": true,
-      "detail": "mean=-15.3 dB"
+      "detail": "mean=-15.2 dB"
     },
     {
       "check": "frame_start_not_black",
@@ -94,5 +94,5 @@
   "passed": 18,
   "total": 18,
   "status": "PASS",
-  "qc_at": "2026-10-15T09:54:14.200872+00:00"
+  "qc_at": "2026-10-15T11:14:42.912385+00:00"
 }

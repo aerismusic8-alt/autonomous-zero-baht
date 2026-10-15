@@ -27,6 +27,12 @@ GH_PAT = os.path.join(SECRETS, "github_pat.txt")
 YT_CLIENT = os.path.join(SECRETS, "youtube_client_secret.json")
 YT_TOKEN = os.path.join(SECRETS, "youtube_token.json")
 PLATFORM_TOKENS = os.path.join(SECRETS, "platform_tokens.json")
+TT_CLIENT = os.path.join(SECRETS, "tiktok_client.json")
+TT_TOKEN = os.path.join(SECRETS, "tiktok_token.json")
+TT_REDIRECT = os.environ.get("AX_TT_REDIRECT", "https://localhost/")
+TT_AUTH = "https://www.tiktok.com/v2/auth/authorize/"
+TT_TOKEN_URL = "https://open.tiktokapis.com/v2/oauth/token/"
+TT_SCOPES = "video.upload,user.info.basic"
 
 
 def _ensure_secrets_dir():
@@ -213,14 +219,78 @@ def install_youtube_token(src: str, client_id: str = "", client_secret: str = ""
             "verified": True}
 
 
+def install_tiktok_client(src: str):
+    """Store the TikTok app credentials and print the authorization URL."""
+    if os.path.isfile(src):
+        data = json.loads(open(src).read())
+    else:
+        data = json.loads(src)
+    key = data.get("client_key") or data.get("client_id")
+    secret = data.get("client_secret")
+    if not (key and secret):
+        raise SystemExit("need client_key and client_secret")
+    _write_private(TT_CLIENT, json.dumps({"client_key": key, "client_secret": secret},
+                                         indent=2))
+    return {"stored": "secrets/tiktok_client.json",
+            "authorize_url": tiktok_auth_url()}
+
+
+def tiktok_auth_url() -> str:
+    import urllib.parse
+
+    cli = json.loads(open(TT_CLIENT).read())
+    params = {
+        "client_key": cli["client_key"],
+        "scope": TT_SCOPES,
+        "response_type": "code",
+        "redirect_uri": TT_REDIRECT,
+        "state": "axlab",
+    }
+    return TT_AUTH + "?" + urllib.parse.urlencode(params)
+
+
+def install_tiktok_token(code: str):
+    """Exchange a pasted authorization code for tokens and store them."""
+    import urllib.parse
+    import urllib.request
+
+    cli = json.loads(open(TT_CLIENT).read())
+    body = urllib.parse.urlencode({
+        "client_key": cli["client_key"],
+        "client_secret": cli["client_secret"],
+        "code": code,
+        "grant_type": "authorization_code",
+        "redirect_uri": TT_REDIRECT,
+    }).encode()
+    req = urllib.request.Request(TT_TOKEN_URL, data=body, headers={
+        "Content-Type": "application/x-www-form-urlencoded"})
+    try:
+        resp = json.loads(urllib.request.urlopen(req, timeout=30).read())
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"token exchange failed: {e.code} {e.read()[:300]}")
+    if resp.get("error") or not resp.get("access_token"):
+        raise SystemExit(f"token exchange returned no access_token: {resp}")
+    _write_private(TT_TOKEN, json.dumps({
+        "access_token": resp["access_token"],
+        "refresh_token": resp.get("refresh_token", ""),
+        "open_id": resp.get("open_id", ""),
+        "expires_in": resp.get("expires_in"),
+        "scope": resp.get("scope", TT_SCOPES),
+    }, indent=2))
+    return {"stored": "secrets/tiktok_token.json", "open_id": resp.get("open_id"),
+            "scope": resp.get("scope"), "verified": True}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("action", choices=["status", "check", "github", "youtube",
-                                       "youtube-token"])
+                                       "youtube-token", "tiktok", "tiktok-url",
+                                       "tiktok-code"])
     ap.add_argument("--token")
     ap.add_argument("--client")
     ap.add_argument("--client-id", default="")
     ap.add_argument("--client-secret", default="")
+    ap.add_argument("--code", default="")
     args = ap.parse_args()
 
     if args.action == "status":
@@ -243,6 +313,18 @@ def main() -> int:
         print(json.dumps(install_youtube_token(args.token or args.client,
                                                args.client_id, args.client_secret),
                          indent=2))
+    elif args.action == "tiktok":
+        if not args.client:
+            raise SystemExit("--client <path or JSON string with client_key+client_secret>")
+        print(json.dumps(install_tiktok_client(args.client), indent=2))
+    elif args.action == "tiktok-url":
+        if not os.path.isfile(TT_CLIENT):
+            raise SystemExit("no secrets/tiktok_client.json yet; run 'tiktok' first")
+        print(tiktok_auth_url())
+    elif args.action == "tiktok-code":
+        if not args.code:
+            raise SystemExit("--code <authorization code> required")
+        print(json.dumps(install_tiktok_token(args.code), indent=2))
     return 0
 
 
