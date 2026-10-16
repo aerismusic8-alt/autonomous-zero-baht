@@ -1,21 +1,21 @@
 [
   {
-    "path": "data/content/drafts/bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox.json",
-    "passed": true,
-    "errors": []
-  },
-  {
     "path": "data/content/drafts/what-i-self-host.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/thank-you-deno.json",
+    "path": "data/content/drafts/the-insider-trading-you-re-allowed-to-do.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/someone-on-torrent-sites-kept-fucking-with-my-sonarr.json",
+    "path": "data/content/drafts/the-folders-programming-language.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/thank-you-deno.json",
     "passed": true,
     "errors": []
   },

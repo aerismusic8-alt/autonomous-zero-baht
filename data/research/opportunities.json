@@ -1,94 +1,92 @@
 [
   {
-    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-    "url": "https://github.com/johnrash/bebox",
-    "summary": " Article URL:  https://github.com/johnrash/bebox  \n Comments URL:  https://news.ycombinator.com/item?id=50111742  \n Points: 35 \n # Comments: 9 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-16T04:37:09.049827+00:00"
-  },
-  {
     "title": "What I self-host",
     "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-    "summary": " Article URL:  https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/  \n Comments URL:  https://news.ycombinator.com/item?id=50109715  \n Points: 340 \n # Comments: 225 ",
+    "summary": " Article URL:  https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/  \n Comments URL:  https://news.ycombinator.com/item?id=50109715  \n Points: 512 \n # Comments: 325 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049833+00:00"
+    "researched_at": "2026-10-16T11:30:11.754018+00:00"
+  },
+  {
+    "title": "The insider trading you're allowed to do",
+    "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+    "summary": " Article URL:  https://coached.com/essays/the-insider-trading-youre-allowed-to-do/  \n Comments URL:  https://news.ycombinator.com/item?id=50115144  \n Points: 54 \n # Comments: 34 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-16T11:30:11.753991+00:00"
+  },
+  {
+    "title": "The Folders Programming Language",
+    "url": "https://danieltemkin.com/esolangs/folders",
+    "summary": " Article URL:  https://danieltemkin.com/esolangs/folders  \n Comments URL:  https://news.ycombinator.com/item?id=50114342  \n Points: 90 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-16T11:30:11.753995+00:00"
   },
   {
     "title": "Thank You, Deno",
     "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-    "summary": " Article URL:  https://www.vlt.io/blog/competition-keeps-javascript-moving  \n Comments URL:  https://news.ycombinator.com/item?id=50112331  \n Points: 33 \n # Comments: 3 ",
+    "summary": " Article URL:  https://www.vlt.io/blog/competition-keeps-javascript-moving  \n Comments URL:  https://news.ycombinator.com/item?id=50112331  \n Points: 94 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049807+00:00"
-  },
-  {
-    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-    "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-    "summary": " Article URL:  https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup  \n Comments URL:  https://news.ycombinator.com/item?id=50108872  \n Points: 271 \n # Comments: 128 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049846+00:00"
+    "researched_at": "2026-10-16T11:30:11.754004+00:00"
   },
   {
     "title": "RPKI now protects 70% of internet routes",
     "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-    "summary": " Article URL:  https://ipinfo.io/blog/rpki-protects-70-internet-routes  \n Comments URL:  https://news.ycombinator.com/item?id=50112330  \n Points: 78 \n # Comments: 23 ",
+    "summary": " Article URL:  https://ipinfo.io/blog/rpki-protects-70-internet-routes  \n Comments URL:  https://news.ycombinator.com/item?id=50112330  \n Points: 168 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049813+00:00"
+    "researched_at": "2026-10-16T11:30:11.754007+00:00"
   },
   {
     "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
     "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-    "summary": " Article URL:  https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts  \n Comments URL:  https://news.ycombinator.com/item?id=50109375  \n Points: 198 \n # Comments: 151 ",
+    "summary": " Article URL:  https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts  \n Comments URL:  https://news.ycombinator.com/item?id=50109375  \n Points: 313 \n # Comments: 201 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049840+00:00"
+    "researched_at": "2026-10-16T11:30:11.754021+00:00"
   },
   {
-    "title": "E Ink Kaleido 4",
-    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-    "summary": "  https://web.archive.org/web/20261015180401/https://www.eink....  \n \n Comments URL:  https://news.ycombinator.com/item?id=50108229  \n Points: 147 \n # Comments: 84 ",
+    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "summary": " Article URL:  https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/  \n Comments URL:  https://news.ycombinator.com/item?id=50111852  \n Points: 325 \n # Comments: 115 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049852+00:00"
+    "researched_at": "2026-10-16T11:30:11.754015+00:00"
+  },
+  {
+    "title": "Japanese people still aren't having sex. And nobody knows why",
+    "url": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
+    "summary": " Article URL:  https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience  \n Comments URL:  https://news.ycombinator.com/item?id=50116367  \n Points: 19 \n # Comments: 28 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-16T11:30:11.753983+00:00"
   },
   {
     "title": "Comparing Chromium Development at Google and Igalia",
     "url": "https://lwn.net/Articles/1094721/",
-    "summary": " Article URL:  https://lwn.net/Articles/1094721/  \n Comments URL:  https://news.ycombinator.com/item?id=50112887  \n Points: 14 \n # Comments: 0 ",
+    "summary": " Article URL:  https://lwn.net/Articles/1094721/  \n Comments URL:  https://news.ycombinator.com/item?id=50112887  \n Points: 56 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049785+00:00"
-  },
-  {
-    "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-    "summary": " Article URL:  https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/  \n Comments URL:  https://news.ycombinator.com/item?id=50111852  \n Points: 104 \n # Comments: 37 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049821+00:00"
+    "researched_at": "2026-10-16T11:30:11.753998+00:00"
   },
   {
     "title": "Any window from your Mac, on your iPhone and iPad",
     "url": "https://github.com/Saffsanity/sill",
-    "summary": " Article URL:  https://github.com/Saffsanity/sill  \n Comments URL:  https://news.ycombinator.com/item?id=50112739  \n Points: 62 \n # Comments: 9 ",
+    "summary": " Article URL:  https://github.com/Saffsanity/sill  \n Comments URL:  https://news.ycombinator.com/item?id=50112739  \n Points: 167 \n # Comments: 37 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T04:37:09.049799+00:00"
+    "researched_at": "2026-10-16T11:30:11.754001+00:00"
   }
 ]
