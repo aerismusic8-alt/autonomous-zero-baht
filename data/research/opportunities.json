@@ -1,100 +1,100 @@
 [
   {
-    "title": "What on Earth Is Dekton?",
-    "url": "https://www.worksinprogress.news/p/porcelain",
-    "summary": " Article URL:  https://www.worksinprogress.news/p/porcelain  \n Comments URL:  https://news.ycombinator.com/item?id=50118828  \n Points: 50 \n # Comments: 4 ",
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "summary": " Article URL:  https://alexwang.ai/posts/associative-memory/  \n Comments URL:  https://news.ycombinator.com/item?id=50122878  \n Points: 26 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T16:42:50.590908+00:00"
+    "researched_at": "2026-10-16T21:14:47.756405+00:00"
   },
   {
-    "title": "Show HN: rStation – A shared research lab for your AI agents",
-    "url": "https://rstation.ai/",
-    "summary": " Article URL:  https://rstation.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50118876  \n Points: 14 \n # Comments: 4 ",
+    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+    "url": "https://stoke.money",
+    "summary": " Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track my actual cash flow. These apps also have a huge focus on managing budgets, which has never been for me. My spending is rarely consistent month-to-month, so every month I'm comparing my fully justified spending against my budget, and tweaking my budget until I “pass”. So I built yet another finance tracking app. It has the usual components - accounts, transactions, categories - but the core is a cash flow projection engine, and everything else is built around it. Budgets are gone. Instead, each",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T16:42:50.590905+00:00"
+    "researched_at": "2026-10-16T21:14:47.756417+00:00"
   },
   {
-    "title": "Show HN: Gemini 4 Argon plays StarCraft",
-    "url": "https://starskirmish.com/bench/v0-2/",
-    "summary": " I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse \n \n Comments URL:  https://news.ycombinator.com/item?id=50118688  \n Points: 60 \n # Comments: 42 ",
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "url": "https://github.com/cobanov/PS5LM",
+    "summary": " Article URL:  https://github.com/cobanov/PS5LM  \n Comments URL:  https://news.ycombinator.com/item?id=50122431  \n Points: 98 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T16:42:50.590912+00:00"
+    "researched_at": "2026-10-16T21:14:47.756422+00:00"
   },
   {
-    "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-    "summary": " Article URL:  https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation  \n Comments URL:  https://news.ycombinator.com/item?id=50120010  \n Points: 16 \n # Comments: 5 ",
+    "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "summary": " Article URL:  https://bfl.ai/blog/flux-3-image-klein  \n Comments URL:  https://news.ycombinator.com/item?id=50123580  \n Points: 28 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T16:42:50.590878+00:00"
+    "researched_at": "2026-10-16T21:14:47.756396+00:00"
   },
   {
-    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-    "summary": " Article URL:  https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games  \n Comments URL:  https://news.ycombinator.com/item?id=50120101  \n Points: 21 \n # Comments: 5 ",
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "summary": " Article URL:  https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear  \n Comments URL:  https://news.ycombinator.com/item?id=50122034  \n Points: 101 \n # Comments: 80 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590874+00:00"
+    "researched_at": "2026-10-16T21:14:47.756425+00:00"
   },
   {
-    "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-    "url": "https://onedeploy.co",
-    "summary": " Article URL:  https://onedeploy.co  \n Comments URL:  https://news.ycombinator.com/item?id=50119752  \n Points: 9 \n # Comments: 3 ",
+    "title": "The Fatal Flaw of 911",
+    "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+    "summary": " Article URL:  https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health  \n Comments URL:  https://news.ycombinator.com/item?id=50123356  \n Points: 29 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590887+00:00"
+    "researched_at": "2026-10-16T21:14:47.756401+00:00"
   },
   {
-    "title": "Show HN: Grimoire for Biology",
-    "url": "https://grimoire.bio",
-    "summary": " Article URL:  https://grimoire.bio  \n Comments URL:  https://news.ycombinator.com/item?id=50118950  \n Points: 7 \n # Comments: 2 ",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "summary": " Article URL:  https://claude.dev/blog/solving-code-review-at-anthropic/  \n Comments URL:  https://news.ycombinator.com/item?id=50122951  \n Points: 101 \n # Comments: 92 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590900+00:00"
+    "researched_at": "2026-10-16T21:14:47.756403+00:00"
   },
   {
-    "title": "JPEG XL vs. AVIF for web use-cases",
-    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-    "summary": " Article URL:  https://jakearchibald.com/2026/jpeg-xl-vs-avif/  \n Comments URL:  https://news.ycombinator.com/item?id=50120224  \n Points: 3 \n # Comments: 0 ",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "summary": "  https://words.filippo.io/seeds-solved/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50122800  \n Points: 378 \n # Comments: 152 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590865+00:00"
+    "researched_at": "2026-10-16T21:14:47.756407+00:00"
   },
   {
-    "title": "Hello Toronto – Waymo Is En Route",
-    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-    "summary": " Article URL:  https://waymo.com/blog/2026/10/waymo-in-toronto/  \n Comments URL:  https://news.ycombinator.com/item?id=50118981  \n Points: 104 \n # Comments: 185 ",
+    "title": "C++26: The New Debugging Header",
+    "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+    "summary": " Article URL:  https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging  \n Comments URL:  https://news.ycombinator.com/item?id=50122736  \n Points: 27 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590893+00:00"
+    "researched_at": "2026-10-16T21:14:47.756420+00:00"
   },
   {
-    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-    "url": "https://calif.io/research/big-fish",
-    "summary": " Article URL:  https://calif.io/research/big-fish  \n Comments URL:  https://news.ycombinator.com/item?id=50118977  \n Points: 68 \n # Comments: 9 ",
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "summary": " Article URL:  https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d  \n Comments URL:  https://news.ycombinator.com/item?id=50122112  \n Points: 130 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T16:42:50.590897+00:00"
+    "researched_at": "2026-10-16T21:14:47.756423+00:00"
   }
 ]
