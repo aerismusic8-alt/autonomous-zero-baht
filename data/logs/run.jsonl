@@ -1050,3 +1050,22 @@
 {"timestamp": "2026-10-15T21:27:06.548275+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-15T21:27:06.548502+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-15T21:27:06.548869+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-16T04:37:08.288116+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-16T04:37:08.352330+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:08.353082+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-16T04:37:08.353880+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-16T04:37:08.494753+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-16T04:37:09.049544+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-16T04:37:09.051354+00:00", "event": "draft_created", "draft_id": "bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox", "path": "data/content/drafts/bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox.json"}
+{"timestamp": "2026-10-16T04:37:09.051907+00:00", "event": "draft_created", "draft_id": "what-i-self-host", "path": "data/content/drafts/what-i-self-host.json"}
+{"timestamp": "2026-10-16T04:37:09.052425+00:00", "event": "draft_created", "draft_id": "thank-you-deno", "path": "data/content/drafts/thank-you-deno.json"}
+{"timestamp": "2026-10-16T04:37:09.052968+00:00", "event": "draft_created", "draft_id": "someone-on-torrent-sites-kept-fucking-with-my-sonarr", "path": "data/content/drafts/someone-on-torrent-sites-kept-fucking-with-my-sonarr.json"}
+{"timestamp": "2026-10-16T04:37:09.053469+00:00", "event": "draft_created", "draft_id": "rpki-now-protects-70-of-internet-routes", "path": "data/content/drafts/rpki-now-protects-70-of-internet-routes.json"}
+{"timestamp": "2026-10-16T04:37:09.053729+00:00", "event": "draft_validation", "path": "data/content/drafts/bebox-is-a-haiku-application-that-emulates-be-inc-s-bebox.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:09.053952+00:00", "event": "draft_validation", "path": "data/content/drafts/what-i-self-host.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:09.054175+00:00", "event": "draft_validation", "path": "data/content/drafts/thank-you-deno.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:09.054431+00:00", "event": "draft_validation", "path": "data/content/drafts/someone-on-torrent-sites-kept-fucking-with-my-sonarr.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:09.054672+00:00", "event": "draft_validation", "path": "data/content/drafts/rpki-now-protects-70-of-internet-routes.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-16T04:37:09.055065+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-16T04:37:09.055407+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-16T04:37:09.055916+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
