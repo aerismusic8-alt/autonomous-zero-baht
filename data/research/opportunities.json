@@ -1,92 +1,100 @@
 [
   {
-    "title": "What I self-host",
-    "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-    "summary": " Article URL:  https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/  \n Comments URL:  https://news.ycombinator.com/item?id=50109715  \n Points: 512 \n # Comments: 325 ",
+    "title": "What on Earth Is Dekton?",
+    "url": "https://www.worksinprogress.news/p/porcelain",
+    "summary": " Article URL:  https://www.worksinprogress.news/p/porcelain  \n Comments URL:  https://news.ycombinator.com/item?id=50118828  \n Points: 50 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754018+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-16T16:42:50.590908+00:00"
   },
   {
-    "title": "The insider trading you're allowed to do",
-    "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-    "summary": " Article URL:  https://coached.com/essays/the-insider-trading-youre-allowed-to-do/  \n Comments URL:  https://news.ycombinator.com/item?id=50115144  \n Points: 54 \n # Comments: 34 ",
+    "title": "Show HN: rStation – A shared research lab for your AI agents",
+    "url": "https://rstation.ai/",
+    "summary": " Article URL:  https://rstation.ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50118876  \n Points: 14 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.753991+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-16T16:42:50.590905+00:00"
   },
   {
-    "title": "The Folders Programming Language",
-    "url": "https://danieltemkin.com/esolangs/folders",
-    "summary": " Article URL:  https://danieltemkin.com/esolangs/folders  \n Comments URL:  https://news.ycombinator.com/item?id=50114342  \n Points: 90 \n # Comments: 11 ",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "summary": " I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse \n \n Comments URL:  https://news.ycombinator.com/item?id=50118688  \n Points: 60 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.753995+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-16T16:42:50.590912+00:00"
   },
   {
-    "title": "Thank You, Deno",
-    "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-    "summary": " Article URL:  https://www.vlt.io/blog/competition-keeps-javascript-moving  \n Comments URL:  https://news.ycombinator.com/item?id=50112331  \n Points: 94 \n # Comments: 19 ",
+    "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+    "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+    "summary": " Article URL:  https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation  \n Comments URL:  https://news.ycombinator.com/item?id=50120010  \n Points: 16 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754004+00:00"
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-16T16:42:50.590878+00:00"
   },
   {
-    "title": "RPKI now protects 70% of internet routes",
-    "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-    "summary": " Article URL:  https://ipinfo.io/blog/rpki-protects-70-internet-routes  \n Comments URL:  https://news.ycombinator.com/item?id=50112330  \n Points: 168 \n # Comments: 59 ",
+    "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+    "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+    "summary": " Article URL:  https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games  \n Comments URL:  https://news.ycombinator.com/item?id=50120101  \n Points: 21 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754007+00:00"
+    "researched_at": "2026-10-16T16:42:50.590874+00:00"
   },
   {
-    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-    "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-    "summary": " Article URL:  https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts  \n Comments URL:  https://news.ycombinator.com/item?id=50109375  \n Points: 313 \n # Comments: 201 ",
+    "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+    "url": "https://onedeploy.co",
+    "summary": " Article URL:  https://onedeploy.co  \n Comments URL:  https://news.ycombinator.com/item?id=50119752  \n Points: 9 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754021+00:00"
+    "researched_at": "2026-10-16T16:42:50.590887+00:00"
   },
   {
-    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-    "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-    "summary": " Article URL:  https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/  \n Comments URL:  https://news.ycombinator.com/item?id=50111852  \n Points: 325 \n # Comments: 115 ",
+    "title": "Show HN: Grimoire for Biology",
+    "url": "https://grimoire.bio",
+    "summary": " Article URL:  https://grimoire.bio  \n Comments URL:  https://news.ycombinator.com/item?id=50118950  \n Points: 7 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754015+00:00"
+    "researched_at": "2026-10-16T16:42:50.590900+00:00"
   },
   {
-    "title": "Japanese people still aren't having sex. And nobody knows why",
-    "url": "https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience",
-    "summary": " Article URL:  https://www.sciencefocus.com/news/japanese-people-sex-inactivity-inexperience  \n Comments URL:  https://news.ycombinator.com/item?id=50116367  \n Points: 19 \n # Comments: 28 ",
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "summary": " Article URL:  https://jakearchibald.com/2026/jpeg-xl-vs-avif/  \n Comments URL:  https://news.ycombinator.com/item?id=50120224  \n Points: 3 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.753983+00:00"
+    "researched_at": "2026-10-16T16:42:50.590865+00:00"
   },
   {
-    "title": "Comparing Chromium Development at Google and Igalia",
-    "url": "https://lwn.net/Articles/1094721/",
-    "summary": " Article URL:  https://lwn.net/Articles/1094721/  \n Comments URL:  https://news.ycombinator.com/item?id=50112887  \n Points: 56 \n # Comments: 17 ",
+    "title": "Hello Toronto – Waymo Is En Route",
+    "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+    "summary": " Article URL:  https://waymo.com/blog/2026/10/waymo-in-toronto/  \n Comments URL:  https://news.ycombinator.com/item?id=50118981  \n Points: 104 \n # Comments: 185 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.753998+00:00"
+    "researched_at": "2026-10-16T16:42:50.590893+00:00"
   },
   {
-    "title": "Any window from your Mac, on your iPhone and iPad",
-    "url": "https://github.com/Saffsanity/sill",
-    "summary": " Article URL:  https://github.com/Saffsanity/sill  \n Comments URL:  https://news.ycombinator.com/item?id=50112739  \n Points: 167 \n # Comments: 37 ",
+    "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+    "url": "https://calif.io/research/big-fish",
+    "summary": " Article URL:  https://calif.io/research/big-fish  \n Comments URL:  https://news.ycombinator.com/item?id=50118977  \n Points: 68 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T11:30:11.754001+00:00"
+    "researched_at": "2026-10-16T16:42:50.590897+00:00"
   }
 ]
