@@ -2,99 +2,101 @@
   {
     "title": "You could have invented transformers from memory",
     "url": "https://alexwang.ai/posts/associative-memory/",
-    "summary": " Article URL:  https://alexwang.ai/posts/associative-memory/  \n Comments URL:  https://news.ycombinator.com/item?id=50122878  \n Points: 26 \n # Comments: 1 ",
+    "summary": " Article URL:  https://alexwang.ai/posts/associative-memory/  \n Comments URL:  https://news.ycombinator.com/item?id=50122878  \n Points: 185 \n # Comments: 55 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T21:14:47.756405+00:00"
+    "researched_at": "2026-10-17T04:33:19.585507+00:00"
   },
   {
-    "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-    "url": "https://stoke.money",
-    "summary": " Hi HN, I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs. All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track my actual cash flow. These apps also have a huge focus on managing budgets, which has never been for me. My spending is rarely consistent month-to-month, so every month I'm comparing my fully justified spending against my budget, and tweaking my budget until I “pass”. So I built yet another finance tracking app. It has the usual components - accounts, transactions, categories - but the core is a cash flow projection engine, and everything else is built around it. Budgets are gone. Instead, each",
+    "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+    "url": "https://fakeipedia.org",
+    "summary": " Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is. If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see. I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better. \n \n Comments URL:  https://news.ycombinator.com/i",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T21:14:47.756417+00:00"
+    "researched_at": "2026-10-17T04:33:19.585499+00:00"
+  },
+  {
+    "title": "Nine-Inch Snails",
+    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+    "summary": " Article URL:  https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/  \n Comments URL:  https://news.ycombinator.com/item?id=50125545  \n Points: 39 \n # Comments: 20 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-17T04:33:19.585501+00:00"
   },
   {
     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
     "url": "https://github.com/cobanov/PS5LM",
-    "summary": " Article URL:  https://github.com/cobanov/PS5LM  \n Comments URL:  https://news.ycombinator.com/item?id=50122431  \n Points: 98 \n # Comments: 26 ",
+    "summary": " Article URL:  https://github.com/cobanov/PS5LM  \n Comments URL:  https://news.ycombinator.com/item?id=50122431  \n Points: 228 \n # Comments: 62 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T21:14:47.756422+00:00"
+    "researched_at": "2026-10-17T04:33:19.585513+00:00"
   },
   {
-    "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+    "title": "FLUX 3 Image Klein",
     "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "summary": " Article URL:  https://bfl.ai/blog/flux-3-image-klein  \n Comments URL:  https://news.ycombinator.com/item?id=50123580  \n Points: 28 \n # Comments: 6 ",
+    "summary": " Article URL:  https://bfl.ai/blog/flux-3-image-klein  \n Comments URL:  https://news.ycombinator.com/item?id=50123580  \n Points: 132 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-16T21:14:47.756396+00:00"
-  },
-  {
-    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-    "summary": " Article URL:  https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear  \n Comments URL:  https://news.ycombinator.com/item?id=50122034  \n Points: 101 \n # Comments: 80 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756425+00:00"
-  },
-  {
-    "title": "The Fatal Flaw of 911",
-    "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
-    "summary": " Article URL:  https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health  \n Comments URL:  https://news.ycombinator.com/item?id=50123356  \n Points: 29 \n # Comments: 33 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756401+00:00"
+    "researched_at": "2026-10-17T04:33:19.585503+00:00"
   },
   {
     "title": "How the Claude Code team does code review",
     "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "summary": " Article URL:  https://claude.dev/blog/solving-code-review-at-anthropic/  \n Comments URL:  https://news.ycombinator.com/item?id=50122951  \n Points: 101 \n # Comments: 92 ",
+    "summary": " Article URL:  https://claude.dev/blog/solving-code-review-at-anthropic/  \n Comments URL:  https://news.ycombinator.com/item?id=50122951  \n Points: 275 \n # Comments: 255 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756403+00:00"
+    "researched_at": "2026-10-17T04:33:19.585506+00:00"
+  },
+  {
+    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+    "url": "https://www.flexport.com/company/careers/",
+    "summary": " Article URL:  https://www.flexport.com/company/careers/  \n Comments URL:  https://news.ycombinator.com/item?id=50126774  \n Points: 0 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-17T04:33:19.585486+00:00"
   },
   {
     "title": "Claude reveals ECDSA curve origins",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "summary": "  https://words.filippo.io/seeds-solved/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50122800  \n Points: 378 \n # Comments: 152 ",
+    "summary": "  https://words.filippo.io/seeds-solved/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50122800  \n Points: 750 \n # Comments: 293 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756407+00:00"
+    "researched_at": "2026-10-17T04:33:19.585509+00:00"
   },
   {
     "title": "C++26: The New Debugging Header",
     "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-    "summary": " Article URL:  https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging  \n Comments URL:  https://news.ycombinator.com/item?id=50122736  \n Points: 27 \n # Comments: 1 ",
+    "summary": " Article URL:  https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging  \n Comments URL:  https://news.ycombinator.com/item?id=50122736  \n Points: 81 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756420+00:00"
+    "researched_at": "2026-10-17T04:33:19.585511+00:00"
   },
   {
-    "title": "Anthropic assigned highest junk credit rating in June",
-    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-    "summary": " Article URL:  https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d  \n Comments URL:  https://news.ycombinator.com/item?id=50122112  \n Points: 130 \n # Comments: 41 ",
+    "title": "Butlerian Jihad",
+    "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+    "summary": " Article URL:  https://dune.fandom.com/wiki/Butlerian_Jihad  \n Comments URL:  https://news.ycombinator.com/item?id=50127274  \n Points: 116 \n # Comments: 55 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-16T21:14:47.756423+00:00"
+    "researched_at": "2026-10-17T04:33:19.585481+00:00"
   }
 ]

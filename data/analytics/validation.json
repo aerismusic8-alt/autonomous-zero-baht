@@ -5,7 +5,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/show-hn-stoke-money-personal-finance-app-built-around-a-cash-flow-forecast.json",
+    "path": "data/content/drafts/show-hn-fakeipedia-wikipedia-for-worlds-that-don-t-exist.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/nine-inch-snails.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +20,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/flux-3-image-klein-open-weights-5-6b-parameters.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/ebay-restricts-listings-of-radio-equipment-but-exempts-ham-band-only-gear.json",
+    "path": "data/content/drafts/flux-3-image-klein.json",
     "passed": true,
     "errors": []
   }

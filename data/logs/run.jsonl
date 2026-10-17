@@ -1126,3 +1126,22 @@
 {"timestamp": "2026-10-16T21:14:47.758055+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-16T21:14:47.758128+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-16T21:14:47.758283+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-17T04:33:19.176125+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-17T04:33:19.179154+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.179593+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-17T04:33:19.180070+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-17T04:33:19.303353+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-17T04:33:19.585305+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-17T04:33:19.586241+00:00", "event": "draft_created", "draft_id": "you-could-have-invented-transformers-from-memory", "path": "data/content/drafts/you-could-have-invented-transformers-from-memory.json"}
+{"timestamp": "2026-10-17T04:33:19.586459+00:00", "event": "draft_created", "draft_id": "show-hn-fakeipedia-wikipedia-for-worlds-that-don-t-exist", "path": "data/content/drafts/show-hn-fakeipedia-wikipedia-for-worlds-that-don-t-exist.json"}
+{"timestamp": "2026-10-17T04:33:19.586616+00:00", "event": "draft_created", "draft_id": "nine-inch-snails", "path": "data/content/drafts/nine-inch-snails.json"}
+{"timestamp": "2026-10-17T04:33:19.586762+00:00", "event": "draft_created", "draft_id": "llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console", "path": "data/content/drafts/llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console.json"}
+{"timestamp": "2026-10-17T04:33:19.586908+00:00", "event": "draft_created", "draft_id": "flux-3-image-klein", "path": "data/content/drafts/flux-3-image-klein.json"}
+{"timestamp": "2026-10-17T04:33:19.587005+00:00", "event": "draft_validation", "path": "data/content/drafts/you-could-have-invented-transformers-from-memory.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.587075+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-fakeipedia-wikipedia-for-worlds-that-don-t-exist.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.587133+00:00", "event": "draft_validation", "path": "data/content/drafts/nine-inch-snails.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.587187+00:00", "event": "draft_validation", "path": "data/content/drafts/llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.587239+00:00", "event": "draft_validation", "path": "data/content/drafts/flux-3-image-klein.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T04:33:19.587357+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-17T04:33:19.587434+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-17T04:33:19.587609+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
