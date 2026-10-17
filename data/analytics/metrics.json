@@ -1,38 +1,5 @@
 [
   {
-    "content_id": "show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-17T10:49:58.257120+00:00"
-  },
-  {
-    "content_id": "nine-inch-snails",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-17T10:49:58.257125+00:00"
-  },
-  {
-    "content_id": "flux-3-image-klein",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-17T10:49:58.257128+00:00"
-  },
-  {
     "content_id": "deepseek-deepseek-v4-1-flash-1017",
     "impressions": null,
     "clicks": null,
@@ -41,7 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T10:49:58.257130+00:00"
+    "recorded_at": "2026-10-17T15:39:35.925500+00:00"
   },
   {
     "content_id": "deepseek-v4-1-flash-1017",
@@ -52,6 +19,39 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T10:49:58.257132+00:00"
+    "recorded_at": "2026-10-17T15:39:35.925507+00:00"
+  },
+  {
+    "content_id": "us-federal-budget-deficit-jumps-12-in-one-year-to-nearly-2-trillion",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-17T15:39:35.925510+00:00"
+  },
+  {
+    "content_id": "the-future-of-programming-a-i-wasserman-and-s-gutz-1982",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-17T15:39:35.925512+00:00"
+  },
+  {
+    "content_id": "solar-surpasses-nuclear-power-globally-for-first-time-pv-magazine-global",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-17T15:39:35.925513+00:00"
   }
 ]
