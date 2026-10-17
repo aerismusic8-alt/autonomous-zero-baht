@@ -1,11 +1,6 @@
 [
   {
-    "path": "data/content/drafts/you-could-have-invented-transformers-from-memory.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-fakeipedia-wikipedia-for-worlds-that-don-t-exist.json",
+    "path": "data/content/drafts/show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/llama-cpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console.json",
+    "path": "data/content/drafts/flux-3-image-klein.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/flux-3-image-klein.json",
+    "path": "data/content/drafts/deepseek-deepseek-v4-1-flash-1017.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/deepseek-v4-1-flash-1017.json",
     "passed": true,
     "errors": []
   }

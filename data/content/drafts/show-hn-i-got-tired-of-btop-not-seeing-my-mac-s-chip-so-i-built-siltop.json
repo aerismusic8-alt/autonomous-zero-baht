@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop",
+  "created_at": "2026-10-17T10:49:58.254280+00:00",
+  "source_title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+  "source_url": "https://github.com/CLoaKY233/siltop",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "btop is beautiful. But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing? No watts, no GPU, no per-core clocks. So I built siltop: btop's calm, with eyes on the silicon. Real power, clocks and temps straight from the SMC and IOReport, no sudo, about 1.3% of one core (btop is ~2.5% on the same machine). It also tells you what's wrong in plain words (\"Busy: rustc using 9.1 cores\", \"Hot: fans at 80%\") before you read a single graph. 10-second try, no load needed:     brew install cloaky233/tap/siltop && siltop --demo\n  \nRust, MIT/Apache, no telemetry, no network unless you turn on update checks. Curious what your Mac shows. M1/M2 Ultra and M5 Max owners especially, I haven't seen yours yet. \n \n Comments URL:  https://news.ycombinator.com/item?id=50128654  \n Points: 6 \n # Comments: 4",
+      "source_url": "https://github.com/CLoaKY233/siltop"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/CLoaKY233/siltop",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/CLoaKY233/siltop",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

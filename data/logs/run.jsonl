@@ -1145,3 +1145,22 @@
 {"timestamp": "2026-10-17T04:33:19.587357+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-17T04:33:19.587434+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-17T04:33:19.587609+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-17T10:49:53.493228+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-17T10:49:53.497206+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:53.497851+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-17T10:49:53.498605+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-17T10:49:53.622304+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-17T10:49:57.890137+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-17T10:49:58.254561+00:00", "event": "draft_created", "draft_id": "show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop", "path": "data/content/drafts/show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop.json"}
+{"timestamp": "2026-10-17T10:49:58.254918+00:00", "event": "draft_created", "draft_id": "nine-inch-snails", "path": "data/content/drafts/nine-inch-snails.json"}
+{"timestamp": "2026-10-17T10:49:58.255230+00:00", "event": "draft_created", "draft_id": "flux-3-image-klein", "path": "data/content/drafts/flux-3-image-klein.json"}
+{"timestamp": "2026-10-17T10:49:58.255506+00:00", "event": "draft_created", "draft_id": "deepseek-deepseek-v4-1-flash-1017", "path": "data/content/drafts/deepseek-deepseek-v4-1-flash-1017.json"}
+{"timestamp": "2026-10-17T10:49:58.255887+00:00", "event": "draft_created", "draft_id": "deepseek-v4-1-flash-1017", "path": "data/content/drafts/deepseek-v4-1-flash-1017.json"}
+{"timestamp": "2026-10-17T10:49:58.256052+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-i-got-tired-of-btop-not-seeing-my-mac-s-chip-so-i-built-siltop.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:58.256196+00:00", "event": "draft_validation", "path": "data/content/drafts/nine-inch-snails.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:58.256330+00:00", "event": "draft_validation", "path": "data/content/drafts/flux-3-image-klein.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:58.256460+00:00", "event": "draft_validation", "path": "data/content/drafts/deepseek-deepseek-v4-1-flash-1017.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:58.256588+00:00", "event": "draft_validation", "path": "data/content/drafts/deepseek-v4-1-flash-1017.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-17T10:49:58.256845+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-17T10:49:58.257020+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-17T10:49:58.257301+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
