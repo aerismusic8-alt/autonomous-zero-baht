@@ -8,10 +8,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T20:39:40.568870+00:00"
+    "recorded_at": "2026-10-18T04:39:43.464692+00:00"
   },
   {
-    "content_id": "microsoft-and-cmu-team-up-to-train-early-career-software-engineers",
+    "content_id": "codex-desktop-continuously-generates-crashpad-pending-dumps",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,18 +19,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T20:39:40.568875+00:00"
-  },
-  {
-    "content_id": "tsc-ts-typescript-written-in-typescript",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-17T20:39:40.568877+00:00"
+    "recorded_at": "2026-10-18T04:39:43.464697+00:00"
   },
   {
     "content_id": "solar-surpasses-nuclear-power-globally-for-first-time",
@@ -41,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T20:39:40.568879+00:00"
+    "recorded_at": "2026-10-18T04:39:43.464700+00:00"
   },
   {
-    "content_id": "pattern-matching-beats-narrative-reasoning",
+    "content_id": "show-hn-esp32sim-run-esp32-firmware-in-the-browser",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -52,6 +41,17 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-17T20:39:40.568881+00:00"
+    "recorded_at": "2026-10-18T04:39:43.464702+00:00"
+  },
+  {
+    "content_id": "ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-18T04:39:43.464704+00:00"
   }
 ]

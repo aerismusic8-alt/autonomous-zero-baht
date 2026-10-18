@@ -5,12 +5,7 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/microsoft-and-cmu-team-up-to-train-early-career-software-engineers.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/tsc-ts-typescript-written-in-typescript.json",
+    "path": "data/content/drafts/codex-desktop-continuously-generates-crashpad-pending-dumps.json",
     "passed": true,
     "errors": []
   },
@@ -20,7 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/pattern-matching-beats-narrative-reasoning.json",
+    "path": "data/content/drafts/show-hn-esp32sim-run-esp32-firmware-in-the-browser.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/ny-announces-game-ownership-bill-requiring-ownership-rather-than-licensing.json",
     "passed": true,
     "errors": []
   }

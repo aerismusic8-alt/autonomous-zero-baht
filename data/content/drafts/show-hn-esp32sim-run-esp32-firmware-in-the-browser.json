@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-esp32sim-run-esp32-firmware-in-the-browser",
+  "created_at": "2026-10-18T04:39:43.462885+00:00",
+  "source_title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+  "source_url": "https://github.com/mikroverk/esp32sim",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 0,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source:\n https://github.com/mikroverk/esp32sim  I made a short video showing it in action:\n https://youtu.be/waoWFilTWEc  I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? \n \n Comments URL:  https://news.ycombinator.com/item?id=50131189  \n Points: 141 \n # Comments: 14",
+      "source_url": "https://github.com/mikroverk/esp32sim"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Esp32sim – Run ESP32 firmware in the browser\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/mikroverk/esp32sim",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Esp32sim – Run ESP32 firmware in the browser อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/mikroverk/esp32sim",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

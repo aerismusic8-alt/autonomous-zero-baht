@@ -2,87 +2,87 @@
   {
     "title": "Pele – Mermaid diagrams as themeable SVG",
     "url": "https://pele.run/",
-    "summary": " Article URL:  https://pele.run/  \n Comments URL:  https://news.ycombinator.com/item?id=50132193  \n Points: 76 \n # Comments: 11 ",
+    "summary": " Article URL:  https://pele.run/  \n Comments URL:  https://news.ycombinator.com/item?id=50132193  \n Points: 321 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T20:39:40.565571+00:00"
+    "researched_at": "2026-10-18T04:39:43.461065+00:00"
   },
   {
-    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-    "summary": " Article URL:  https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise  \n Comments URL:  https://news.ycombinator.com/item?id=50133830  \n Points: 10 \n # Comments: 4 ",
+    "title": "Codex Desktop continuously generates Crashpad pending dumps",
+    "url": "https://github.com/openai/codex/issues/25921",
+    "summary": " Article URL:  https://github.com/openai/codex/issues/25921  \n Comments URL:  https://news.ycombinator.com/item?id=50133231  \n Points: 108 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-17T20:39:40.565540+00:00"
-  },
-  {
-    "title": "Tsc-ts: TypeScript written in TypeScript",
-    "url": "https://github.com/vercel-labs/tsc-ts",
-    "summary": " Article URL:  https://github.com/vercel-labs/tsc-ts  \n Comments URL:  https://news.ycombinator.com/item?id=50132911  \n Points: 36 \n # Comments: 34 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565560+00:00"
+    "researched_at": "2026-10-18T04:39:43.461049+00:00"
   },
   {
     "title": "Solar surpasses nuclear power globally for first time",
     "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "summary": " Article URL:  https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/  \n Comments URL:  https://news.ycombinator.com/item?id=50131256  \n Points: 379 \n # Comments: 227 ",
+    "summary": " Article URL:  https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/  \n Comments URL:  https://news.ycombinator.com/item?id=50131256  \n Points: 521 \n # Comments: 326 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565574+00:00"
+    "researched_at": "2026-10-18T04:39:43.461068+00:00"
   },
   {
-    "title": "Pattern Matching Beats Narrative Reasoning",
-    "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-    "summary": " Article URL:  https://blog.scottstevenson.net/p/pattern-matching-beats-narrative  \n Comments URL:  https://news.ycombinator.com/item?id=50133736  \n Points: 14 \n # Comments: 3 ",
+    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "summary": " Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source:\n https://github.com/mikroverk/esp32sim  I made a short video showing it in action:\n https://youtu.be/waoWFilTWEc  I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? \n \n Comments URL:  https://news.ycombinator.com/item?id=50131189  \n Points: 141 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565548+00:00"
+    "researched_at": "2026-10-18T04:39:43.461082+00:00"
   },
   {
-    "title": "OpenCode Hacked: User credentials leaked",
-    "url": "https://twitter.com/opencode/status/2111516673953935833",
-    "summary": " Article URL:  https://twitter.com/opencode/status/2111516673953935833  \n Comments URL:  https://news.ycombinator.com/item?id=50133401  \n Points: 327 \n # Comments: 64 ",
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "summary": " Article URL:  https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends  \n Comments URL:  https://news.ycombinator.com/item?id=50136536  \n Points: 157 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565551+00:00"
+    "researched_at": "2026-10-18T04:39:43.461044+00:00"
+  },
+  {
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using  \n Comments URL:  https://news.ycombinator.com/item?id=50131213  \n Points: 277 \n # Comments: 68 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T04:39:43.461071+00:00"
   },
   {
     "title": "I Became a Citizen of Japan",
     "url": "https://www.derekwessman.com/blog-1/natural",
-    "summary": " Article URL:  https://www.derekwessman.com/blog-1/natural  \n Comments URL:  https://news.ycombinator.com/item?id=50133150  \n Points: 46 \n # Comments: 7 ",
+    "summary": " Article URL:  https://www.derekwessman.com/blog-1/natural  \n Comments URL:  https://news.ycombinator.com/item?id=50133150  \n Points: 183 \n # Comments: 89 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565555+00:00"
+    "researched_at": "2026-10-18T04:39:43.461052+00:00"
+  },
+  {
+    "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "summary": " Article URL:  https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything  \n Comments URL:  https://news.ycombinator.com/item?id=50137620  \n Points: 6 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-18T04:39:43.461036+00:00"
   },
   {
     "title": "Gold is now the top U.S. export",
     "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "summary": " Article URL:  https://www.numismaticnews.net/gold-now-top-u-s-export  \n Comments URL:  https://news.ycombinator.com/item?id=50132870  \n Points: 99 \n # Comments: 44 ",
+    "summary": " Article URL:  https://www.numismaticnews.net/gold-now-top-u-s-export  \n Comments URL:  https://news.ycombinator.com/item?id=50132870  \n Points: 279 \n # Comments: 149 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565563+00:00"
-  },
-  {
-    "title": "Development statistics for the 7.2 kernel",
-    "url": "https://lwn.net/Articles/1088776/",
-    "summary": " Article URL:  https://lwn.net/Articles/1088776/  \n Comments URL:  https://news.ycombinator.com/item?id=50132950  \n Points: 105 \n # Comments: 74 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565557+00:00"
+    "researched_at": "2026-10-18T04:39:43.461055+00:00"
   },
   {
     "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -91,6 +91,6 @@
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-17T20:39:40.565565+00:00"
+    "researched_at": "2026-10-18T04:39:43.461058+00:00"
   }
 ]
