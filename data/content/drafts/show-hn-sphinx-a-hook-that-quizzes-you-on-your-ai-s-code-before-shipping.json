@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-sphinx-a-hook-that-quizzes-you-on-your-ai-s-code-before-shipping",
+  "created_at": "2026-10-18T11:13:36.796398+00:00",
+  "source_title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+  "source_url": "https://sphinx-six-theta.vercel.app/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. \n \n Comments URL:  https://news.ycombinator.com/item?id=50137950  \n Points: 143 \n # Comments: 42",
+      "source_url": "https://sphinx-six-theta.vercel.app/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://sphinx-six-theta.vercel.app/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://sphinx-six-theta.vercel.app/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

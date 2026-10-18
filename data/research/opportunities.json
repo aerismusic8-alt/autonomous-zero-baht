@@ -1,96 +1,96 @@
 [
   {
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "url": "https://pele.run/",
-    "summary": " Article URL:  https://pele.run/  \n Comments URL:  https://news.ycombinator.com/item?id=50132193  \n Points: 321 \n # Comments: 29 ",
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "summary": " FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. \n \n Comments URL:  https://news.ycombinator.com/item?id=50137950  \n Points: 143 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T04:39:43.461065+00:00"
+    "researched_at": "2026-10-18T11:13:36.795836+00:00"
   },
   {
     "title": "Codex Desktop continuously generates Crashpad pending dumps",
     "url": "https://github.com/openai/codex/issues/25921",
-    "summary": " Article URL:  https://github.com/openai/codex/issues/25921  \n Comments URL:  https://news.ycombinator.com/item?id=50133231  \n Points: 108 \n # Comments: 35 ",
+    "summary": " Article URL:  https://github.com/openai/codex/issues/25921  \n Comments URL:  https://news.ycombinator.com/item?id=50133231  \n Points: 134 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-18T04:39:43.461049+00:00"
+    "researched_at": "2026-10-18T11:13:36.795846+00:00"
   },
   {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "summary": " Article URL:  https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/  \n Comments URL:  https://news.ycombinator.com/item?id=50131256  \n Points: 521 \n # Comments: 326 ",
+    "title": "Parser Combinators",
+    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "summary": " Article URL:  https://t3.at/blog/2026-10-17-parser-combinators/  \n Comments URL:  https://news.ycombinator.com/item?id=50139067  \n Points: 27 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461068+00:00"
+    "researched_at": "2026-10-18T11:13:36.795814+00:00"
   },
   {
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "url": "https://github.com/mikroverk/esp32sim",
-    "summary": " Hi HN, I’ve been working on esp32sim, an open-source ESP32 emulator that runs in the browser. The fun part of the demo is that there is no ESP32 involved — the firmware is executing in the emulator. The goal is to make ESP32 software easier to experiment with, test and simulate without always needing physical hardware connected. Source:\n https://github.com/mikroverk/esp32sim  I made a short video showing it in action:\n https://youtu.be/waoWFilTWEc  I’m particularly interested in feedback from embedded developers: what would an emulator like this need to support before you’d actually use it for development, testing or CI? \n \n Comments URL:  https://news.ycombinator.com/item?id=50131189  \n Points: 141 \n # Comments: 14 ",
+    "title": "Notes on the Complex Roots of Unity",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+    "summary": " Article URL:  https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/  \n Comments URL:  https://news.ycombinator.com/item?id=50138002  \n Points: 28 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461082+00:00"
+    "researched_at": "2026-10-18T11:13:36.795831+00:00"
   },
   {
     "title": "NY announces game ownership bill requiring ownership rather than licensing",
     "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-    "summary": " Article URL:  https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends  \n Comments URL:  https://news.ycombinator.com/item?id=50136536  \n Points: 157 \n # Comments: 40 ",
+    "summary": " Article URL:  https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends  \n Comments URL:  https://news.ycombinator.com/item?id=50136536  \n Points: 308 \n # Comments: 112 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461044+00:00"
+    "researched_at": "2026-10-18T11:13:36.795843+00:00"
   },
   {
-    "title": "Making chicken transparent using Dorito dust",
-    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using  \n Comments URL:  https://news.ycombinator.com/item?id=50131213  \n Points: 277 \n # Comments: 68 ",
+    "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+    "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+    "summary": " Article URL:  https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685  \n Comments URL:  https://news.ycombinator.com/item?id=50138087  \n Points: 103 \n # Comments: 83 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461071+00:00"
+    "researched_at": "2026-10-18T11:13:36.795825+00:00"
   },
   {
-    "title": "I Became a Citizen of Japan",
-    "url": "https://www.derekwessman.com/blog-1/natural",
-    "summary": " Article URL:  https://www.derekwessman.com/blog-1/natural  \n Comments URL:  https://news.ycombinator.com/item?id=50133150  \n Points: 183 \n # Comments: 89 ",
+    "title": "It's time to talk about TEEs",
+    "url": "https://alinush.github.io//tee",
+    "summary": " Article URL:  https://alinush.github.io//tee  \n Comments URL:  https://news.ycombinator.com/item?id=50139658  \n Points: 5 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461052+00:00"
+    "researched_at": "2026-10-18T11:13:36.795807+00:00"
   },
   {
-    "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
     "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-    "summary": " Article URL:  https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything  \n Comments URL:  https://news.ycombinator.com/item?id=50137620  \n Points: 6 \n # Comments: 0 ",
+    "summary": " Article URL:  https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything  \n Comments URL:  https://news.ycombinator.com/item?id=50137620  \n Points: 155 \n # Comments: 171 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461036+00:00"
+    "researched_at": "2026-10-18T11:13:36.795840+00:00"
   },
   {
-    "title": "Gold is now the top U.S. export",
-    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "summary": " Article URL:  https://www.numismaticnews.net/gold-now-top-u-s-export  \n Comments URL:  https://news.ycombinator.com/item?id=50132870  \n Points: 279 \n # Comments: 149 ",
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "summary": " Article URL:  https://api-docs.deepseek.com/guides/search/  \n Comments URL:  https://news.ycombinator.com/item?id=50138531  \n Points: 223 \n # Comments: 104 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461055+00:00"
+    "researched_at": "2026-10-18T11:13:36.795822+00:00"
   },
   {
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-    "url": "https://www.artie.com/careers",
-    "summary": " Article URL:  https://www.artie.com/careers  \n Comments URL:  https://news.ycombinator.com/item?id=50132839  \n Points: 0 \n # Comments: 0 ",
+    "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+    "summary": " Article URL:  https://www.propublica.org/article/ap3-oath-keepers-militia-mole  \n Comments URL:  https://news.ycombinator.com/item?id=50138044  \n Points: 95 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-18T04:39:43.461058+00:00"
+    "researched_at": "2026-10-18T11:13:36.795828+00:00"
   }
 ]
