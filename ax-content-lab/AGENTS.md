@@ -73,6 +73,10 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 - **Write token**: stored at `secrets/github_pat.txt` (mode 600, git-ignored).
   A fine-grained PAT does NOT report `x-oauth-scopes`; verify write ability with
   the real probe in `pipeline/connect.py check` (`can_push: true`).
+  **As of 2026-10-19 the token is valid and write-scoped**: `check` reports
+  `authenticated: true`, `login: aerismusic8-alt`, `can_push: true`. PERSIST is
+  no longer blocked. Do not trust the environment `$GITHUB_TOKEN` (still empty
+  here) — use the file, or embed it: `TOK=$(tr -d '\n\r' < secrets/github_pat.txt)`.
 - **Sync**: `bash pipeline/sync_repo.sh` — fast-forwards the remote branch, force-adds
   `final.mp4` and `brand/*.png` (they are gitignored but must stay tracked as evidence),
   never commits `secrets/`.
@@ -130,6 +134,12 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 - **`analyze.py` concatenates every snapshot**, not just the newest, despite the
   output filename `analysis_latest.md`. Expect one `## Snapshot:` block per
   `research/*.json` with a `queries` key.
+- **`publisher.py` needs `googleapiclient` installed, or the failure is a red
+  herring.** A fresh runtime reported `ok:false, error: ModuleNotFoundError: No
+  module named 'googleapiclient'` for all 40 pieces — that is a missing dep, not
+  the real blocker. Install `google-api-python-client google-auth-oauthlib`, then
+  re-run: the genuine message is the `BLOCKED: YouTube OAuth client secret not
+  found ...` one. Always fix deps before reporting a publish blocker.
 - **Verifying new work:** compare each new spec's keys against the newest existing
   spec (currently `spec_0035`) for exact top-level/scene/packaging parity; confirm
   `provenance.third_party_assets == []`; count QC PASS by reading every
@@ -142,16 +152,19 @@ Newest: specs 0036–0040 (one per series), all rendered and QC PASS.
 0 published (BLOCKED on credentials for all four platforms). Revenue ฿0.00.
 Reference research: 95 real high-view videos with links in `site/references.html`.
 
-Two blockers need K, both in `docs/SETUP_FOR_K.md`:
+**PERSIST is RESOLVED (2026-10-19).** K supplied a write-scoped fine-grained PAT;
+`connect.py check` reports `can_push: true` and `sync_repo.sh` pushed successfully.
+Remote branch tip verified via the GitHub API (`433dd5e`), remote tree carries all
+40 `final.mp4` + 40 specs, and `secrets/` is absent from the remote. Push the lab
+with `bash pipeline/sync_repo.sh` at the end of every loop.
 
-1. **Persist (GitHub push) is BLOCKED.** The environment `GITHUB_TOKEN` returns
-   401 Bad credentials and a direct push returns 403. Loop work is committed
-   locally but does not reach the public repo. K must provide a write-scoped
-   token (Contents: Read and write) — item 1 of `docs/SETUP_FOR_K.md` — e.g.
-   `python3 pipeline/connect.py github --token <PAT>`.
-2. **Publish is BLOCKED.** One OAuth/API credential per platform (YouTube OAuth
+One blocker still needs K (see `docs/SETUP_FOR_K.md` and `docs/K_ACTION_PLAN.md`):
+
+1. **Publish is BLOCKED.** One OAuth/API credential per platform (YouTube OAuth
    client; TikTok client + token; Meta token for FB/IG Reels). No anonymous
-   upload path exists and none is attempted.
+   upload path exists and none is attempted. Until a credential lands,
+   `publisher.py` prints `BLOCKED: YouTube OAuth client secret not found ...` and
+   every publication count stays 0.
 
 ## Status vocabulary
 
