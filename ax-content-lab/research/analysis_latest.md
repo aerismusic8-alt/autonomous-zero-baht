@@ -96,6 +96,30 @@ Top performers (view count):
 -    3,462,966 |  4327s | Horror Shorts Party | 10 TRUE SCARY HORROR STORIES ANIMATED COMPILATION
 -    3,394,723 | 11851s | Naked Science | 3 Hours Of Space Facts To Fall Asleep To: Physics Of Space
 
+## Snapshot: loop_20261019T182836Z.json
+Collected: 2026-10-19T18:27:45.223269+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 1,025,124 | 11,522,792 | 915 | 0/20 |
+| space facts shorts | 20 | 1,364,270 | 39,551,606 | 902 | 0/20 |
+| unsolved mystery shorts | 20 | 128,916 | 12,477,827 | 850 | 1/20 |
+| what if physics shorts | 20 | 795,768 | 9,594,881 | 405 | 1/20 |
+
+Top performers (view count):
+-   39,551,606 |   251s | National Geographic | Solar System 101 | National Geographic
+-   15,316,506 |   670s | Science Time | How Big is The Universe?
+-   12,496,927 |   681s | Kurzgesagt – In a Nutshell | The Paradox of an Infinite Universe
+-   12,477,827 |   489s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-   11,522,792 |   164s | Alexanderthetitan | Mama Agnes - Short Horror Film
+-    9,594,881 |   680s | Kurzgesagt – In a Nutshell | We Traveled Back in Time. Now Physicists Are Angry.
+-    9,161,888 |   209s | xkcd's What If? | Could you survive a nanosecond on the Sun?
+-    9,161,025 |   406s | Go Experimental | 7 AMAZING Physics Tricks That You Must See
+-    9,103,299 |   302s | Isabelle Kiser | "Double Vision" | Independent Horror Short Film
+-    5,828,466 |   726s | Grimoire Horror | MORA - Short Horror Film
+-    4,054,045 |   275s | ACMofficial | Hungry | Short Horror Film
+-    3,514,746 |  5064s | Mr. Nightmare | 10 Scariest TRUE Stories of 2025
+
 ## Snapshot: niche_scan_20261014T151544Z.json
 Collected: 2026-10-14T15:14:30.000706+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
 
