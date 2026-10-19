@@ -1,0 +1,45 @@
+{
+  "slug": "0039_if_gravity_switched_off",
+  "title": "If Gravity Switched Off",
+  "series": "What If Physics",
+  "description": "What If Physics - Question 44. If gravity switched off, you would not float. You would fall upward with the whole planet's spin behind you, and the air would not wait for you. Original, written and produced by AX Viral Content Lab. New questions regularly.\n\n#whatif #physics #science #facts #explained",
+  "tags": [
+    "what if",
+    "physics explained",
+    "science facts",
+    "gravity",
+    "what if physics",
+    "science shorts",
+    "educational shorts",
+    "space facts"
+  ],
+  "hashtags": [
+    "#whatif",
+    "#physics",
+    "#science",
+    "#facts",
+    "#explained"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 31.74,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Physics concepts drawn from standard public science knowledge; no third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T16:01:45.265255+00:00"
+}

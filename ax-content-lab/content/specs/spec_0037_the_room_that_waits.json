@@ -1,0 +1,101 @@
+{
+  "slug": "0037_the_room_that_waits",
+  "title": "The Room That Waits",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES - CASE 22",
+      "text": "The landlord said the spare room had not been opened in years.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "a narrow closed door at the end of a dim hallway, warm lamp light, quiet dread",
+      "art_style": "anime-horror",
+      "art_seed": 3700001
+    },
+    {
+      "kicker": "",
+      "text": "But every morning, the key was warm.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "a single brass key on a small table, faint heat haze, dark room, unsettling",
+      "art_style": "anime-horror",
+      "art_seed": 3707920
+    },
+    {
+      "kicker": "",
+      "text": "I pressed my ear to the wood and heard someone breathing in time with me.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "a person kneeling with an ear to a closed door, long shadows, tense",
+      "art_style": "anime-horror",
+      "art_seed": 3715839
+    },
+    {
+      "kicker": "",
+      "text": "So I stopped breathing, and listened for it to stop too.",
+      "style": "caption",
+      "theme": "abyss",
+      "particles": 82,
+      "art_prompt": "a still figure in a dark hallway holding its breath, candle glow, fear",
+      "art_style": "anime-horror",
+      "art_seed": 3723758
+    },
+    {
+      "kicker": "",
+      "text": "It did not stop.\nIt had been matching me so I would not notice it was always one breath ahead.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a door cracked slightly open with darkness beyond, warm light leaking, horror",
+      "art_style": "anime-horror",
+      "art_seed": 3731677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Quiet Horror Files for the next case.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "a dim empty hallway with one closed door, fading lamp light, quiet and final",
+      "art_style": "anime-horror",
+      "art_seed": 3739596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "ONE BREATH AHEAD",
+    "description": "Quiet Horror Files - Case 22. A spare room that has not been opened in years leaves its key warm every morning, and someone inside is breathing in time with me. Original fiction, written and produced by AX Viral Content Lab. New cases regularly.\n\n#horror #shortstory #creepy #microfiction #scarystories",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary stories",
+      "micro fiction",
+      "quiet horror files",
+      "short story animation",
+      "horror shorts",
+      "twist ending"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form horror narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}

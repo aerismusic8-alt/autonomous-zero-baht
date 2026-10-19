@@ -17,6 +17,8 @@ def load_all() -> list[dict]:
     for p in sorted(glob.glob(os.path.join(RESEARCH_DIR, "*.json"))):
         with open(p) as f:
             s = json.load(f)
+        if not isinstance(s, dict) or "queries" not in s:
+            continue  # skip snapshots with a different shape (e.g. references_*.json)
         s["_file"] = os.path.basename(p)
         snaps.append(s)
     return snaps

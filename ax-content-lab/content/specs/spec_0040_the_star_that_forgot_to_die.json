@@ -1,0 +1,101 @@
+{
+  "slug": "0040_the_star_that_forgot_to_die",
+  "title": "The Star That Forgot to Die",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS - WONDER 40",
+      "text": "A thousand light-years away, a star refused to die on schedule.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 46,
+      "art_prompt": "a glowing star against deep space, faint nebula, cinematic wonder",
+      "art_style": "3d",
+      "art_seed": 4000001
+    },
+    {
+      "kicker": "",
+      "text": "It should have collapsed into a neutron star. Instead it just kept burning.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 58,
+      "art_prompt": "a dense blue-white star core glowing, magnetic arcs, 3d render",
+      "art_style": "3d",
+      "art_seed": 4007920
+    },
+    {
+      "kicker": "",
+      "text": "Astronomers found its heartbeat was not a star's heartbeat at all.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 70,
+      "art_prompt": "a pulsing light curve on an observatory screen, dark room, wonder",
+      "art_style": "3d",
+      "art_seed": 4015839
+    },
+    {
+      "kicker": "",
+      "text": "The pulse matched the spin of the core it had been hiding.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 82,
+      "art_prompt": "a rapidly spinning stellar core with jets, dramatic 3d render",
+      "art_style": "3d",
+      "art_seed": 4023758
+    },
+    {
+      "kicker": "",
+      "text": "It had died long ago. Its light was a shell, a slow echo of a core that is still spinning in the dark.\nSome stars do not go out. They keep a promise of light long after the fire is gone.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a glowing shell of gas around a tiny spinning core, deep space, 3d render",
+      "art_style": "3d",
+      "art_seed": 4031677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for the next wonder.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 106,
+      "art_prompt": "a vast calm nebula with one bright point of light, wonder, quiet and final",
+      "art_style": "3d",
+      "art_seed": 4039596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT NEVER DIED",
+    "description": "Cosmic Wonders - Wonder 40. A star a thousand light-years away refused to die on schedule, and its heartbeat turned out not to be a star's at all. Original, written and produced by AX Viral Content Lab. New wonders regularly.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "astronomy",
+      "science facts",
+      "cosmic wonders",
+      "universe",
+      "science shorts",
+      "educational shorts",
+      "neutron star"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Astronomy concepts drawn from standard public science knowledge; no third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

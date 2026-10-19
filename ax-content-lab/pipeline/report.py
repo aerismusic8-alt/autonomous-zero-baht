@@ -123,9 +123,11 @@ def main() -> int:
     A("## Repository")
     A("")
     A("- GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab")
-    A("- Public — all code, QC reports, specs, research snapshots and the 30 finished")
+    A(f"- Public — all code, QC reports, specs, research snapshots and the {len(items)} finished")
     A("  MP4s are readable without authentication.")
     A("- Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).")
+    A("- Persist status: the environment write token is currently invalid (401/403), so")
+    A("  loop work is committed locally but may not yet be visible on GitHub.")
     A("")
 
     A("## Publishing channels")

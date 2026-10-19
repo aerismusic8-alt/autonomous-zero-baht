@@ -24,6 +24,54 @@ Top performers (view count):
 -    2,687,001 |  1394s | BRIGHT SIDE | 30+ Facts Made Me a Bit Scared of Space
 -    2,601,679 |  1963s | Crescendex | Space is Terrifying
 
+## Snapshot: loop_20261019T070405Z.json
+Collected: 2026-10-19T07:03:19.114053+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 1,190,019 | 11,517,931 | 754 | 0/20 |
+| space facts shorts | 20 | 1,362,604 | 15,308,118 | 1154 | 0/20 |
+| unsolved mystery shorts | 20 | 416,609 | 12,477,613 | 137 | 6/20 |
+| what if physics shorts | 20 | 205,558 | 9,160,949 | 693 | 0/20 |
+
+Top performers (view count):
+-   15,308,118 |   670s | Science Time | How Big is The Universe?
+-   12,477,613 |   488s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-   11,517,931 |   164s | Alexanderthetitan | Mama Agnes - Short Horror Film
+-    9,160,949 |   407s | Go Experimental | 7 AMAZING Physics Tricks That You Must See
+-    9,091,719 |   302s | Isabelle Kiser | "Double Vision" | Independent Horror Short Film
+-    8,350,369 |  2447s | SIRIUS | 6 Disturbing Unsolved Cases With Video Footage
+-    6,748,554 |   765s | Domain of Science | If You Don't Understand Quantum Physics, Try This!
+-    5,824,210 |   726s | Grimoire Horror | MORA - Short Horror Film
+-    5,184,304 |  1519s | BE AMAZED | Mind-Blowing Facts About Space
+-    4,869,254 |  1607s | MrBallen | He went on Unsolved Mysteries to solve his disappearance
+-    4,748,516 |  1729s | Bailey Sarian | Haunting In Georgia The Unsolved Mystery - The Wyrick Family | Mystery & Makeup 
+-    4,169,338 |  1179s | Cleo Abram | What If I Fell Into A Black Hole?
+
+## Snapshot: loop_20261019T154637Z.json
+Collected: 2026-10-19T15:45:46.513790+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 1,191,332 | 11,521,166 | 1078 | 0/20 |
+| space facts shorts | 20 | 872,842 | 15,313,301 | 1154 | 0/20 |
+| unsolved mystery shorts | 20 | 262,865 | 12,477,752 | 507 | 4/20 |
+| what if physics shorts | 20 | 258,578 | 9,160,999 | 670 | 0/20 |
+
+Top performers (view count):
+-   15,313,301 |   670s | Science Time | How Big is The Universe?
+-   12,477,752 |   488s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-   11,521,166 |   164s | Alexanderthetitan | Mama Agnes - Short Horror Film
+-    9,160,999 |   407s | Go Experimental | 7 AMAZING Physics Tricks That You Must See
+-    9,099,942 |   302s | Isabelle Kiser | "Double Vision" | Independent Horror Short Film
+-    8,354,256 |  2447s | SIRIUS | 6 Disturbing Unsolved Cases With Video Footage
+-    6,748,919 |   765s | Domain of Science | If You Don't Understand Quantum Physics, Try This!
+-    5,827,225 |   726s | Grimoire Horror | MORA - Short Horror Film
+-    5,693,095 |  1636s | Mysterious 5 | 5 Cold Cases that were SOLVED with Insane Twists
+-    5,184,385 |  1519s | BE AMAZED | Mind-Blowing Facts About Space
+-    4,869,480 |  1607s | MrBallen | He went on Unsolved Mysteries to solve his disappearance
+-    4,748,664 |  1729s | Bailey Sarian | Haunting In Georgia The Unsolved Mystery - The Wyrick Family | Mystery & Makeup 
+
 ## Snapshot: niche_scan_20261014T151544Z.json
 Collected: 2026-10-14T15:14:30.000706+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
 

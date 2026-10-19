@@ -1,0 +1,45 @@
+{
+  "slug": "0036_the_cartographers_debt",
+  "title": "The Cartographer's Debt",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs - Entry 4471. A salvage crew boards a seed-ship that has drifted empty for ninety years, and finds every pod full. Original fiction, written and produced by AX Viral Content Lab. New entries regularly.\n\n#scifi #shortstory #creepy #space #microfiction",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "short story animation",
+    "science fiction shorts",
+    "twist ending"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#shortstory",
+    "#space",
+    "#creepy",
+    "#fiction"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 33.37,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form sci-fi narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T15:59:38.267725+00:00"
+}

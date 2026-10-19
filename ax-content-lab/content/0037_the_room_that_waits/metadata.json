@@ -1,0 +1,45 @@
+{
+  "slug": "0037_the_room_that_waits",
+  "title": "The Room That Waits",
+  "series": "Quiet Horror Files",
+  "description": "Quiet Horror Files - Case 22. A spare room that has not been opened in years leaves its key warm every morning, and someone inside is breathing in time with me. Original fiction, written and produced by AX Viral Content Lab. New cases regularly.\n\n#horror #shortstory #creepy #microfiction #scarystories",
+  "tags": [
+    "horror short story",
+    "creepy stories",
+    "scary stories",
+    "micro fiction",
+    "quiet horror files",
+    "short story animation",
+    "horror shorts",
+    "twist ending"
+  ],
+  "hashtags": [
+    "#horror",
+    "#creepy",
+    "#shortstory",
+    "#scary",
+    "#twist"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 25.86,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form horror narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T15:59:07.410280+00:00"
+}

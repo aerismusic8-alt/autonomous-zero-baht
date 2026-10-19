@@ -1,0 +1,101 @@
+{
+  "slug": "0032_if_you_split_the_atom",
+  "title": "If You Split the Atom",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "What if you could split a single atom - with your bare hands?",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 50,
+      "art_prompt": "a glowing single atom rendered as a bright nucleus ringed by orbiting electrons, dramatic macro view",
+      "art_style": "3d",
+      "art_seed": 3200122
+    },
+    {
+      "kicker": "",
+      "text": "It would not feel like power. It would feel like nothing.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 62,
+      "art_prompt": "an open human palm holding a tiny point of white light, dark background, tense",
+      "art_style": "3d",
+      "art_seed": 3208041
+    },
+    {
+      "kicker": "",
+      "text": "Then the energy inside that one atom would arrive all at once.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 74,
+      "art_prompt": "a blinding sphere of light expanding outward in slow motion, energy waves, cinematic",
+      "art_style": "3d",
+      "art_seed": 3215960
+    },
+    {
+      "kicker": "",
+      "text": "Enough to level a street. From something smaller than a grain of dust.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 86,
+      "art_prompt": "a shockwave of dust and light rolling through an empty city street, physics illustration",
+      "art_style": "3d",
+      "art_seed": 3223879
+    },
+    {
+      "kicker": "",
+      "text": "That is why matter only looks solid.\nIt is almost entirely empty space, holding an enormous secret.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 98,
+      "art_prompt": "a cutaway diagram of an atom showing vast empty space around a dense core, science visual",
+      "art_style": "3d",
+      "art_seed": 3231798
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for more.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 110,
+      "art_prompt": "a calm view of a single atom glowing softly against deep space, resolved conclusion",
+      "art_style": "3d",
+      "art_seed": 3239717
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "ONE ATOM",
+    "description": "What If Physics - \"If You Split the Atom\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "science facts",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

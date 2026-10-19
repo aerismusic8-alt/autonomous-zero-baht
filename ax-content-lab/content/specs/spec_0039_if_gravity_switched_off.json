@@ -1,0 +1,101 @@
+{
+  "slug": "0039_if_gravity_switched_off",
+  "title": "If Gravity Switched Off",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS - QUESTION 44",
+      "text": "If gravity switched off right now, you would not float away.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 46,
+      "art_prompt": "a person standing calmly in a field as dust lifts off the ground, soft light",
+      "art_style": "3d",
+      "art_seed": 3900001
+    },
+    {
+      "kicker": "",
+      "text": "You would fall upward with the whole planet's spin behind you.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 58,
+      "art_prompt": "motion-blurred view of a horizon tilting as everything lifts, cinematic",
+      "art_style": "3d",
+      "art_seed": 3907920
+    },
+    {
+      "kicker": "",
+      "text": "Oceans, air, and buildings would leave at the same speed you did.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 70,
+      "art_prompt": "water and debris lifting from a coastline into the sky, dramatic 3d render",
+      "art_style": "3d",
+      "art_seed": 3915839
+    },
+    {
+      "kicker": "",
+      "text": "Earth's own pressure and spin would keep a thin skin of us near the ground.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 82,
+      "art_prompt": "a curved planet seen from above with everything peeling away, cosmic scale",
+      "art_style": "3d",
+      "art_seed": 3923758
+    },
+    {
+      "kicker": "",
+      "text": "Then the atmosphere would freeze and boil at once as the pressure vanished.\nWithout gravity, the air that keeps us warm and breathing would not stay for even one breath.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a silent blue planet with its atmosphere streaming away into space, 3d render",
+      "art_style": "3d",
+      "art_seed": 3931677
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for the next question.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 106,
+      "art_prompt": "a calm starfield above a quiet horizon, wonder, quiet and final",
+      "art_style": "3d",
+      "art_seed": 3939596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "UP, NOT DOWN",
+    "description": "What If Physics - Question 44. If gravity switched off, you would not float. You would fall upward with the whole planet's spin behind you, and the air would not wait for you. Original, written and produced by AX Viral Content Lab. New questions regularly.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science facts",
+      "gravity",
+      "what if physics",
+      "science shorts",
+      "educational shorts",
+      "space facts"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Physics concepts drawn from standard public science knowledge; no third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

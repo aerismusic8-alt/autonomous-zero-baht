@@ -1,0 +1,45 @@
+{
+  "slug": "0040_the_star_that_forgot_to_die",
+  "title": "The Star That Forgot to Die",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders - Wonder 40. A star a thousand light-years away refused to die on schedule, and its heartbeat turned out not to be a star's at all. Original, written and produced by AX Viral Content Lab. New wonders regularly.\n\n#space #science #facts #universe #astronomy",
+  "tags": [
+    "space facts",
+    "astronomy",
+    "science facts",
+    "cosmic wonders",
+    "universe",
+    "science shorts",
+    "educational shorts",
+    "neutron star"
+  ],
+  "hashtags": [
+    "#space",
+    "#science",
+    "#facts",
+    "#universe",
+    "#astronomy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 34.48,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Astronomy concepts drawn from standard public science knowledge; no third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T16:02:11.789021+00:00"
+}

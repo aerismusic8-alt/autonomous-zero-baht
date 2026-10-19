@@ -1,0 +1,101 @@
+{
+  "slug": "0038_the_alibi_of_the_clock",
+  "title": "The Alibi of the Clock",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 118",
+      "text": "For forty years, the only witness in the Bellweather case was a hallway clock.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 46,
+      "art_prompt": "an old wall clock in a dim hallway of a 1970s house, faded photograph tone",
+      "art_style": "storybook",
+      "art_seed": 3800001
+    },
+    {
+      "kicker": "",
+      "text": "It stopped at 2:13. The suspect swore he was home by two.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 58,
+      "art_prompt": "a stopped clock face close up, hands frozen, dust, sepia archival look",
+      "art_style": "storybook",
+      "art_seed": 3807920
+    },
+    {
+      "kicker": "",
+      "text": "Detectives built the whole timeline on those thirteen minutes.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "case notes and photographs spread on a desk, old lamp, sepia tones",
+      "art_style": "storybook",
+      "art_seed": 3815839
+    },
+    {
+      "kicker": "",
+      "text": "Last year, a restorer opened the clock to repair it and found the truth inside.",
+      "style": "caption",
+      "theme": "abyss",
+      "particles": 82,
+      "art_prompt": "hands opening the back of an antique clock with small tools, dust, sepia",
+      "art_style": "storybook",
+      "art_seed": 3823758
+    },
+    {
+      "kicker": "",
+      "text": "Someone had bent the minute hand by hand. The clock never stopped on its own.\nIt was stopped for him, by the one person who needed those thirteen minutes.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a bent clock hand held under a magnifier, sepia archive light, tense",
+      "art_style": "storybook",
+      "art_seed": 3831677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 106,
+      "art_prompt": "an empty hallway with a single clock on the wall, sepia light, quiet and final",
+      "art_style": "storybook",
+      "art_seed": 3839596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "2:13",
+    "description": "Unsolved Archive - File 118. For forty years a hallway clock was the only witness in the Bellweather case, until a restorer opened it and found who had stopped it. Original fiction, written and produced by AX Viral Content Lab. New files regularly.\n\n#unsolved #mystery #documentary #casefile #truestory",
+    "tags": [
+      "unsolved mystery",
+      "true crime stories",
+      "mystery documentary",
+      "case files",
+      "unsolved archive",
+      "short story animation",
+      "mystery shorts",
+      "twist ending"
+    ],
+    "hashtags": [
+      "#unsolved",
+      "#mystery",
+      "#truestory",
+      "#documentary",
+      "#casefile"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form mystery narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "storybook"
+}

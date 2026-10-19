@@ -1,0 +1,101 @@
+{
+  "slug": "0035_the_quiet_fleet",
+  "title": "The Quiet Fleet",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 5102",
+      "text": "For six years, the deep relay heard nothing from the colony.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 50,
+      "art_prompt": "a remote deep-space relay station drifting in darkness, faint antenna dish, stars, cinematic",
+      "art_style": "retro-sci",
+      "art_seed": 3500125
+    },
+    {
+      "kicker": "",
+      "text": "Then, one night, its beacon returned.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 62,
+      "art_prompt": "a single blinking beacon light on a distant planet surface seen from orbit, eerie",
+      "art_style": "retro-sci",
+      "art_seed": 3508044
+    },
+    {
+      "kicker": "",
+      "text": "The colony had one beacon. It was built for one.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 74,
+      "art_prompt": "a small automated beacon module on an empty alien plain, one light, quiet isolation",
+      "art_style": "retro-sci",
+      "art_seed": 3515963
+    },
+    {
+      "kicker": "",
+      "text": "Eleven of them answered.",
+      "style": "caption",
+      "theme": "abyss",
+      "particles": 86,
+      "art_prompt": "a cluster of identical beacon lights scattered across a dark plain, unnatural, ominous",
+      "art_style": "retro-sci",
+      "art_seed": 3523882
+    },
+    {
+      "kicker": "",
+      "text": "Every log was dated the night the colony went silent.\nThey had been calling out the whole time. The relay just could not hear them.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 98,
+      "art_prompt": "rows of recorded transmission waveforms glowing on an old console, deep space control room",
+      "art_style": "retro-sci",
+      "art_seed": 3531801
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 110,
+      "art_prompt": "a silent deep-space relay against a vast nebula, stars, quiet and final",
+      "art_style": "retro-sci",
+      "art_seed": 3539720
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "11 BEACONS",
+    "description": "Deep Space Logs - Entry 5102. A deep relay hears nothing from a colony for six years, then eleven beacons answer at once. Original fiction, written and produced by AX Viral Content Lab. New entries regularly.\n\n#scifi #shortstory #creepy #space #microfiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "short story animation",
+      "science fiction shorts",
+      "twist ending"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form sci-fi narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "retro-sci"
+}

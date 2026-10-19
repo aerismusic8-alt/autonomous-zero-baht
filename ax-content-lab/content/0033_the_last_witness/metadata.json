@@ -1,0 +1,45 @@
+{
+  "slug": "0033_the_last_witness",
+  "title": "The Last Witness",
+  "series": "Unsolved Archive",
+  "description": "Unsolved Archive - Case 118, \"The Last Witness\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#unsolved #mystery #truestory #documentary #casefile",
+  "tags": [
+    "unsolved mysteries",
+    "mystery shorts",
+    "true crime",
+    "case files",
+    "documentary",
+    "unexplained",
+    "cold case",
+    "storytime"
+  ],
+  "hashtags": [
+    "#unsolved",
+    "#mystery",
+    "#truestory",
+    "#documentary",
+    "#casefile"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 29.9,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Structure informed by public market research in research/*.json. No real persons or events are depicted.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T07:09:43.244241+00:00"
+}

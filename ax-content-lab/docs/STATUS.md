@@ -1,11 +1,11 @@
 # AX Viral Content Lab — Status
 
-Generated: 2026-10-14T23:51:25.636674+00:00  |  commit: `8d2e32c`
+Generated: 2026-10-19T16:04:11.586611+00:00  |  commit: `9befde9`
 
 ## Headline numbers (all evidence-backed)
 
-- Videos produced: **30**
-- Videos passing full QC: **30** (30/30)
+- Videos produced: **40**
+- Videos passing full QC: **40** (40/40)
 - Videos published: **0**
 - Verified audience metrics captured: **0**
 - Verified revenue: **฿0.00** (no payout channel is active yet)
@@ -14,18 +14,18 @@ Generated: 2026-10-14T23:51:25.636674+00:00  |  commit: `8d2e32c`
 
 | Slug | Series | Title | Duration | QC | QC status | Size |
 |---|---|---|---|---|---|---|
-| 0001_the_last_signal | Deep Space Logs | The Last Signal | 23.5s | 16/16 | PASS | 3.0 MB |
-| 0002_the_lighthouse_log | Quiet Horror Files | The Lighthouse Log | 27.54s | 16/16 | PASS | 3.4 MB |
-| 0003_voyagers_silence | Deep Space Logs | Voyager's Silence | 24.29s | 16/16 | PASS | 3.0 MB |
-| 0004_the_map_that_shouldnt_exist | Unsolved Archive | The Map That Shouldn't Exist | 22.49s | 16/16 | PASS | 3.2 MB |
-| 0005_if_the_sun_blinked | What If Physics | If the Sun Blinked | 22.13s | 16/16 | PASS | 2.9 MB |
-| 0006_the_second_guest | Quiet Horror Files | The Second Guest | 22.6s | 16/16 | PASS | 2.8 MB |
-| 0007_signal_from_kepler | Deep Space Logs | Signal from Kepler | 25.16s | 16/16 | PASS | 3.1 MB |
-| 0008_why_nothing_is_empty | Cosmic Wonders | Why Nothing Is Empty | 22.54s | 16/16 | PASS | 3.1 MB |
-| 0009_the_last_photo | Unsolved Archive | The Last Photo | 21.4s | 16/16 | PASS | 3.0 MB |
-| 0010_if_you_fell_through_earth | What If Physics | If You Fell Through Earth | 22.92s | 16/16 | PASS | 3.0 MB |
-| 0011_the_probe_that_came_back | Deep Space Logs | The Probe That Came Back | 25.08s | 16/16 | PASS | 3.2 MB |
-| 0012_six_minutes_of_silence | Deep Space Logs | Six Minutes of Silence | 22.3s | 16/16 | PASS | 2.8 MB |
+| 0001_the_last_signal | Deep Space Logs | The Last Signal | 23.5s | 18/18 | PASS | 7.7 MB |
+| 0002_the_lighthouse_log | Quiet Horror Files | The Lighthouse Log | 27.54s | 18/18 | PASS | 8.5 MB |
+| 0003_voyagers_silence | Deep Space Logs | Voyager's Silence | 24.29s | 18/18 | PASS | 7.5 MB |
+| 0004_the_map_that_shouldnt_exist | Unsolved Archive | The Map That Shouldn't Exist | 22.49s | 18/18 | PASS | 7.6 MB |
+| 0005_if_the_sun_blinked | What If Physics | If the Sun Blinked | 22.13s | 18/18 | PASS | 6.8 MB |
+| 0006_the_second_guest | Quiet Horror Files | The Second Guest | 22.6s | 18/18 | PASS | 7.3 MB |
+| 0007_signal_from_kepler | Deep Space Logs | Signal from Kepler | 25.16s | 18/18 | PASS | 8.2 MB |
+| 0008_why_nothing_is_empty | Cosmic Wonders | Why Nothing Is Empty | 22.54s | 18/18 | PASS | 6.7 MB |
+| 0009_the_last_photo | Unsolved Archive | The Last Photo | 21.4s | 18/18 | PASS | 6.7 MB |
+| 0010_if_you_fell_through_earth | What If Physics | If You Fell Through Earth | 22.92s | 18/18 | PASS | 6.0 MB |
+| 0011_the_probe_that_came_back | Deep Space Logs | The Probe That Came Back | 25.08s | 18/18 | PASS | 7.8 MB |
+| 0012_six_minutes_of_silence | Deep Space Logs | Six Minutes of Silence | 22.3s | 18/18 | PASS | 6.7 MB |
 | 0013_the_long_orbit | Deep Space Logs | The Long Orbit | 24.74s | 16/16 | PASS | 3.1 MB |
 | 0014_duplicate_transmission | Deep Space Logs | Duplicate Transmission | 22.48s | 16/16 | PASS | 2.8 MB |
 | 0015_the_house_that_counts | Quiet Horror Files | The House That Counts | 25.09s | 16/16 | PASS | 3.2 MB |
@@ -44,6 +44,16 @@ Generated: 2026-10-14T23:51:25.636674+00:00  |  commit: `8d2e32c`
 | 0028_if_light_was_slow | What If Physics | If Light Was Slow | 22.11s | 16/16 | PASS | 2.9 MB |
 | 0029_if_the_ocean_drained | What If Physics | If the Ocean Drained | 21.85s | 16/16 | PASS | 2.8 MB |
 | 0030_if_you_could_see_radio | What If Physics | If You Could See Radio | 24.55s | 16/16 | PASS | 3.2 MB |
+| 0031_the_weight_of_a_name | Quiet Horror Files | The Weight of a Name | 24.58s | 16/16 | PASS | 3.1 MB |
+| 0032_if_you_split_the_atom | What If Physics | If You Split the Atom | 29.18s | 16/16 | PASS | 3.7 MB |
+| 0033_the_last_witness | Unsolved Archive | The Last Witness | 29.9s | 16/16 | PASS | 4.2 MB |
+| 0034_the_slowest_light | Cosmic Wonders | The Slowest Light | 26.64s | 16/16 | PASS | 3.6 MB |
+| 0035_the_quiet_fleet | Deep Space Logs | The Quiet Fleet | 26.92s | 16/16 | PASS | 3.5 MB |
+| 0036_the_cartographers_debt | Deep Space Logs | The Cartographer's Debt | 33.37s | 16/16 | PASS | 4.2 MB |
+| 0037_the_room_that_waits | Quiet Horror Files | The Room That Waits | 25.86s | 16/16 | PASS | 3.3 MB |
+| 0038_the_alibi_of_the_clock | Unsolved Archive | The Alibi of the Clock | 33.54s | 16/16 | PASS | 4.4 MB |
+| 0039_if_gravity_switched_off | What If Physics | If Gravity Switched Off | 31.74s | 16/16 | PASS | 4.2 MB |
+| 0040_the_star_that_forgot_to_die | Cosmic Wonders | The Star That Forgot to Die | 34.48s | 16/16 | PASS | 4.5 MB |
 
 ## Publication status
 
@@ -66,6 +76,8 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 ## Research evidence
 
 - `research/loop_20261014T155507Z.json`
+- `research/loop_20261019T070405Z.json`
+- `research/loop_20261019T154637Z.json`
 - `research/niche_scan_20261014T151544Z.json`
 - `research/references_20261014T183329Z.json`
 - `research/references_20261014T183519Z.json`
@@ -75,9 +87,11 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 ## Repository
 
 - GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab
-- Public — all code, QC reports, specs, research snapshots and the 30 finished
+- Public — all code, QC reports, specs, research snapshots and the 40 finished
   MP4s are readable without authentication.
 - Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).
+- Persist status: the environment write token is currently invalid (401/403), so
+  loop work is committed locally but may not yet be visible on GitHub.
 
 ## Publishing channels
 
@@ -109,8 +123,8 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 2. Collected real public market data and stored raw evidence (`research/*.json`).
 3. Analysed it and selected niches with documented rationale (`docs/MARKET_RESEARCH.md`).
 4. Built an end-to-end original production pipeline (research → script → assets → voice/music → edit → QC → package).
-5. Produced 30 original videos, all with original writing, original procedural music, and original procedural visuals — zero third-party assets.
-6. Quality-checked every one: 30/30 passed 16/16 checks including real frame analysis, silence detection and loudness measurement.
+5. Produced 40 original videos, all with original writing, original procedural music, and original procedural visuals — zero third-party assets.
+6. Quality-checked every one: 40/40 passed 16/16 checks including real frame analysis, silence detection and loudness measurement.
 7. Built the publishing, analytics and state layers and a free continuous scheduler.
 
 ## BLOCKED / needs K

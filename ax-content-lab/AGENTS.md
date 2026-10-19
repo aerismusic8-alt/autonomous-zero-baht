@@ -108,15 +108,50 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
   force-adds it. Do not `rm` the videos from disk — that stages a deletion.
 - YouTube upload quota ≈ 10,000 units/day ≈ 6 uploads/day. Keep ≤6/day.
 - Secrets are injected into a command only when the secret key name appears in the
-  command text. Reference `$GITHUB_TOKEN` explicitly when you need it.
+  command text. Reference `$GITHUB_TOKEN` explicitly when you need it. (Not
+  guaranteed in every runtime — see "Loop operations" below.)
+
+## Loop operations (agent gotchas — learned the hard way)
+
+- **Long renders must run in the background.** This runtime caps foreground
+  commands (~1080 s) and idle-cleans at ~1200 s, so a `--timeout 3100` batch is
+  refused. Run `nohup python3 pipeline/batch.py --workers 3 > /tmp/batch.log 2>&1 &`
+  and poll the log with short sleeps. A backgrounded command must be the *whole*
+  command string — do not chain a second command after `&`; use `;`/`&&`.
+- **Exit codes lie.** `publisher.py`, `multipost.py`, `analytics.py`, `store.py`,
+  `report.py` all exit 0 even when the result is `BLOCKED`/`ok:false`. Judge
+  success from the printed JSON payload (`ok`, `blocked`, `status`), never the
+  exit code alone.
+- **Token availability varies per runtime.** AGENTS.md says secrets inject when
+  the key name appears in the command, but in this sandbox both `$GITHUB_TOKEN`
+  and `$github_token` were empty (length 0) and the credential embedded in the
+  clone remote was stale (REST 401, push prompts for a password). Treat PERSIST
+  as BLOCKED unless `pipeline/connect.py check` reports `can_push: true`.
+- **`analyze.py` concatenates every snapshot**, not just the newest, despite the
+  output filename `analysis_latest.md`. Expect one `## Snapshot:` block per
+  `research/*.json` with a `queries` key.
+- **Verifying new work:** compare each new spec's keys against the newest existing
+  spec (currently `spec_0035`) for exact top-level/scene/packaging parity; confirm
+  `provenance.third_party_assets == []`; count QC PASS by reading every
+  `content/*/qc_report.json` directly rather than trusting `batch_summary.json`.
 
 ## Current status
 
-30 videos produced, 30/30 QC PASS (independently re-verified spec-compliant),
-pushed to the public repo. 0 published (BLOCKED on credentials for all four
-platforms). Revenue ฿0.00. The one action needed from K: an OAuth/API credential
-per platform → see `docs/SETUP_FOR_K.md`. Reference research: 95 real high-view
-videos with links in `site/references.html`.
+40 videos produced, 40/40 QC PASS (independently re-verified spec-compliant).
+Newest: specs 0036–0040 (one per series), all rendered and QC PASS.
+0 published (BLOCKED on credentials for all four platforms). Revenue ฿0.00.
+Reference research: 95 real high-view videos with links in `site/references.html`.
+
+Two blockers need K, both in `docs/SETUP_FOR_K.md`:
+
+1. **Persist (GitHub push) is BLOCKED.** The environment `GITHUB_TOKEN` returns
+   401 Bad credentials and a direct push returns 403. Loop work is committed
+   locally but does not reach the public repo. K must provide a write-scoped
+   token (Contents: Read and write) — item 1 of `docs/SETUP_FOR_K.md` — e.g.
+   `python3 pipeline/connect.py github --token <PAT>`.
+2. **Publish is BLOCKED.** One OAuth/API credential per platform (YouTube OAuth
+   client; TikTok client + token; Meta token for FB/IG Reels). No anonymous
+   upload path exists and none is attempted.
 
 ## Status vocabulary
 

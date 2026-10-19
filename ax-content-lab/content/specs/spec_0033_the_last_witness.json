@@ -1,0 +1,101 @@
+{
+  "slug": "0033_the_last_witness",
+  "title": "The Last Witness",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - CASE 118",
+      "text": "In 1974, a train left with forty-one passengers.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 50,
+      "art_prompt": "a vintage steam train departing an empty rural platform at dawn, sepia tone, archival feel",
+      "art_style": "storybook",
+      "art_seed": 3300123
+    },
+    {
+      "kicker": "",
+      "text": "It arrived empty. Every seat, still warm.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 62,
+      "art_prompt": "the interior of an old train carriage, empty seats, weak morning light, eerie stillness",
+      "art_style": "storybook",
+      "art_seed": 3308042
+    },
+    {
+      "kicker": "",
+      "text": "One witness filed a report the next day.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 74,
+      "art_prompt": "a typewritten police report on a cluttered desk, single lamp, 1970s office, sepia",
+      "art_style": "storybook",
+      "art_seed": 3315961
+    },
+    {
+      "kicker": "",
+      "text": "He described a man who never boarded. Who simply was already inside.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 86,
+      "art_prompt": "a shadowy figure reflected in a train window, not present on the platform outside",
+      "art_style": "storybook",
+      "art_seed": 3323880
+    },
+    {
+      "kicker": "",
+      "text": "When investigators followed up, they found no record of the witness either.\nOnly his signature, dated 1974.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 98,
+      "art_prompt": "an old case file open to a blank identification page, one handwritten signature, dim archive room",
+      "art_style": "storybook",
+      "art_seed": 3331799
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for more cases.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 110,
+      "art_prompt": "rows of old archive boxes receding into shadow, single overhead light, final and unresolved",
+      "art_style": "storybook",
+      "art_seed": 3339718
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "STILL WARM",
+    "description": "Unsolved Archive - Case 118, \"The Last Witness\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#unsolved #mystery #truestory #documentary #casefile",
+    "tags": [
+      "unsolved mysteries",
+      "mystery shorts",
+      "true crime",
+      "case files",
+      "documentary",
+      "unexplained",
+      "cold case",
+      "storytime"
+    ],
+    "hashtags": [
+      "#unsolved",
+      "#mystery",
+      "#truestory",
+      "#documentary",
+      "#casefile"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Structure informed by public market research in research/*.json. No real persons or events are depicted.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "storybook"
+}

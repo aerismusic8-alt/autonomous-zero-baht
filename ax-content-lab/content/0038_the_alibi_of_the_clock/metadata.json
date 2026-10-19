@@ -1,0 +1,45 @@
+{
+  "slug": "0038_the_alibi_of_the_clock",
+  "title": "The Alibi of the Clock",
+  "series": "Unsolved Archive",
+  "description": "Unsolved Archive - File 118. For forty years a hallway clock was the only witness in the Bellweather case, until a restorer opened it and found who had stopped it. Original fiction, written and produced by AX Viral Content Lab. New files regularly.\n\n#unsolved #mystery #documentary #casefile #truestory",
+  "tags": [
+    "unsolved mystery",
+    "true crime stories",
+    "mystery documentary",
+    "case files",
+    "unsolved archive",
+    "short story animation",
+    "mystery shorts",
+    "twist ending"
+  ],
+  "hashtags": [
+    "#unsolved",
+    "#mystery",
+    "#truestory",
+    "#documentary",
+    "#casefile"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 33.54,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original fiction. Concept informed by recurring short-form mystery narrative structures observed in market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T15:59:49.575060+00:00"
+}

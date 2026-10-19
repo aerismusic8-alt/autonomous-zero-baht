@@ -5,14 +5,34 @@ few minutes. Do them once; after that the system runs unattended.
 
 Account to use for everything: **aerismusic8@gmail.com**
 
-Status: **GitHub is connected** (write verified). Remaining: the four channels.
+> **Looking for step-by-step links?** See `docs/K_ACTION_PLAN.md` — the same
+> steps with every URL ready to click, plus verification commands and a
+> troubleshooting table.
+
+Status: **GitHub write access is currently BLOCKED** (the token in this
+environment returns 401 Bad credentials / 403 on push). Remaining: a valid
+write token + the four channel credentials.
 
 ---
 
-## 0. GitHub write access — DONE
+## 0. GitHub write access — NEEDS A NEW TOKEN
 
-The fine-grained PAT is installed and verified (`can_push: true`). Code and
-evidence push automatically via `bash pipeline/sync_repo.sh`. Nothing to do here.
+**Problem AX hit:** `bash pipeline/sync_repo.sh` cannot push. The environment
+`GITHUB_TOKEN` returns `401 Bad credentials` on `GET /user`, and a direct
+`git push` returns `403 Permission to aerismusic8-alt/autonomous-zero-baht.git
+denied`. Loop work is committed locally but does not reach the public repo.
+
+**Fix:** create a fine-grained PAT with **Contents: Read and write** on
+`aerismusic8-alt/autonomous-zero-baht` and install it, either by pasting it at
+`/connect` or with:
+
+```bash
+python3 pipeline/connect.py github --token <PAT>
+```
+
+Verify with `python3 pipeline/connect.py check` — it must report
+`can_push: true`. A fine-grained PAT does not report `x-oauth-scopes`; trust
+only the real probe.
 
 ---
 

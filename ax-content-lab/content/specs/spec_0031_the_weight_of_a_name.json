@@ -1,0 +1,101 @@
+{
+  "slug": "0031_the_weight_of_a_name",
+  "title": "The Weight of a Name",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "In this town, no one says their own name after dark.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 50,
+      "art_prompt": "a narrow foggy street of old houses at night, one warm window lit, long shadows, unsettling calm",
+      "art_style": "anime-horror",
+      "art_seed": 3100121
+    },
+    {
+      "kicker": "",
+      "text": "They write it on paper instead, and keep the paper close.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 62,
+      "art_prompt": "a handwritten note resting on a dark wooden table, single candle, deep shadows",
+      "art_style": "anime-horror",
+      "art_seed": 3108040
+    },
+    {
+      "kicker": "",
+      "text": "One morning, every note in the house was blank.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 74,
+      "art_prompt": "an open drawer full of blank slips of paper, dim bedroom light, quiet dread",
+      "art_style": "anime-horror",
+      "art_seed": 3115959
+    },
+    {
+      "kicker": "",
+      "text": "Except one, folded small, in her own handwriting.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 86,
+      "art_prompt": "a single folded paper held in a trembling hand, faint moonlight, tense atmosphere",
+      "art_style": "anime-horror",
+      "art_seed": 3123878
+    },
+    {
+      "kicker": "",
+      "text": "It wasn't her name on it.\nIt was the name of the thing that answered.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 98,
+      "art_prompt": "a dark hallway where a doorway stands slightly ajar, a shape hinted in the black beyond",
+      "art_style": "anime-horror",
+      "art_seed": 3131797
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 110,
+      "art_prompt": "an old house at the end of a fog-filled street, all lights out, final quiet dread",
+      "art_style": "anime-horror",
+      "art_seed": 3139716
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NEVER SAY IT",
+    "description": "Quiet Horror Files - \"The Weight of a Name\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}
