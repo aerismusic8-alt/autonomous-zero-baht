@@ -12,7 +12,7 @@ Environment: Debian 13 (trixie), 4 vCPU, 15 GB RAM, 25 GB disk, Docker available
 | **ffmpeg 7.1.5** | Encode, mux, loudness, silence detection, frame extraction | LGPL/GPL, free | Rendered and probed real MP4s | CPU-bound | system `apt` ffmpeg only |
 | **ffprobe** | Media inspection for QC | free | Used in every QC run | — | — |
 | **yt-dlp 2026.08.19** | Market research (public metadata only) | Unlicense, free | Pulled real view counts/titles | Can break when platforms change; rate limits | HTML/API scraping fallbacks |
-| **edge-tts** | Neural narration (TTS) | Free Microsoft Edge voices | Generated real MP3s, all 30 videos | Needs network; not for commercial resale of the voice service | `espeak-ng`, `piper` (offline) |
+| **edge-tts** | Neural narration (TTS) | Free Microsoft Edge voices | Generated real MP3s, all 40 videos | Needs network; not for commercial resale of the voice service | `espeak-ng`, `piper` (offline) |
 | **Pillow 12.3.0** | Procedural scene rendering | MIT, free | Every video frame is drawn with it | CPU-bound | `cairo`/`PIL` alternatives |
 | **NumPy 2.5.4** | Procedural music synthesis | BSD, free | Generated real music WAVs | — | pure-Python (slow) |
 | **ImageMagick 7.1.1** | Contact sheets / inspection | Apache-ish, free | Used for frame montage | — | PIL |

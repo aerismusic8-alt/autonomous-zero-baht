@@ -83,7 +83,10 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 - **PR creation is blocked**: the PAT lacks "Pull requests: write"
   (`Resource not accessible by personal access token`). The branch itself is public
   and readable, which is enough. To open PRs, add that permission to the PAT.
-- **YouTube upload**: still BLOCKED — no OAuth client. Needs K.
+- **YouTube upload**: BLOCKED — no OAuth token. This sandbox has no browser, so
+  K must mint a token via Google OAuth Playground and hand it over with
+  `connect.py youtube-token` (see `docs/SETUP_FOR_K.md`). Then
+  `publisher.py --all --privacy private` works.
 - **Multi-platform posting**: `pipeline/platforms.py` reads credential files on disk and
   reports per-platform readiness. `multipost.py` uploads; `schedule.py --tick` posts one
   queued item per ready platform at 09/13/18/21 local (UTC+7). A publication row is
@@ -128,9 +131,24 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
   exit code alone.
 - **Token availability varies per runtime.** AGENTS.md says secrets inject when
   the key name appears in the command, but in this sandbox both `$GITHUB_TOKEN`
-  and `$github_token` were empty (length 0) and the credential embedded in the
-  clone remote was stale (REST 401, push prompts for a password). Treat PERSIST
-  as BLOCKED unless `pipeline/connect.py check` reports `can_push: true`.
+  and the auto-injected secret can be stale/empty; the file at
+  `secrets/github_pat.txt` is the one that works. Never hardcode the runtime
+  hostname (it changes every session) — `serve.py` derives it from
+  `PUBLIC_URL`/`RUNTIME_URL`, so docs must say "use the URL serve.py prints",
+  not paste a literal URL.
+- **`publisher.py` needs a browser** (`flow.run_local_server`). This sandbox has
+  none, so the working path is Google OAuth Playground → `connect.py
+  youtube-token`. Do not tell K to just run `publisher.py --all` here and expect
+  consent to complete.
+- **Docs drift fast.** After changing credential state, grep all of `docs/` and
+  `AGENTS.md` for the old status (`grep -rn "BLOCKED" docs/ AGENTS.md`) — three
+  docs disagreed about whether PERSIST was blocked, which confused K. Keep
+  `SETUP_FOR_K.md`, `K_ACTION_PLAN.md`, `POST_ONE_CLIP.md` and `AGENTS.md`
+  consistent; prefer pointing to one canonical walkthrough over duplicating it.
+- **Missing deps masquerade as credential blockers.** `publisher.py` raised
+  `ModuleNotFoundError: googleapiclient` for all 40 items; only after installing
+  `google-api-python-client` did the real "OAuth client not found" appear. Fix
+  the dependency before reporting a publish blocker.
 - **`analyze.py` concatenates every snapshot**, not just the newest, despite the
   output filename `analysis_latest.md`. Expect one `## Snapshot:` block per
   `research/*.json` with a `queries` key.

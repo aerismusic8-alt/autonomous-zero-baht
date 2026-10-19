@@ -33,14 +33,29 @@ client secret that only the account holder can create.
    secrets/youtube_client_secret.json
    ```
 
-6. Then run:
+6. Mint the token with **Google OAuth Playground** (this sandbox has no browser,
+   and `publisher.py` opens one via `flow.run_local_server`). Full click-by-click
+   steps live in **`docs/K_ACTION_PLAN.md` §1** — do not duplicate them here.
+   Then hand AX the token JSON:
+
+   ```bash
+   python3 pipeline/connect.py youtube-token --token <path-to-json>
+   ```
+
+   AX verifies the `youtube.upload` scope against Google before saving
+   `secrets/youtube_token.json`. Verify with `connect.py status`
+   (`youtube_token: true`), then upload:
 
    ```bash
    python3 pipeline/publisher.py --slug 0001_the_last_signal --privacy private
    ```
 
-   A browser opens once for consent; the token is cached at
-   `secrets/youtube_token.json`. All later uploads are fully automatic.
+> **Canonical setup doc:** `docs/K_ACTION_PLAN.md` is the single source of truth
+> for credential steps (URLs + verification). `docs/SETUP_FOR_K.md` is the short
+> summary; `docs/POST_ONE_CLIP.md` is the fastest path for one test clip. If they
+> ever disagree, `K_ACTION_PLAN.md` wins.
+
+---
 
 **Cost: ฿0.** The YouTube Data API upload quota (10,000 units/day) allows roughly
 6 uploads/day, which matches the production target.

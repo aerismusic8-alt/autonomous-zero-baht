@@ -1,0 +1,101 @@
+{
+  "slug": "0041_the_signal_that_arrived_early",
+  "title": "The Signal That Arrived Early",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 5688",
+      "text": "The relay station caught a distress call from a ship that had not launched yet.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 46,
+      "art_prompt": "a lone relay station floating in deep space, antenna dishes, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4100001
+    },
+    {
+      "kicker": "",
+      "text": "The voice was calm. It gave coordinates and a hull number still on the drawing board.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 58,
+      "art_prompt": "a console glowing with an incoming transmission, dim cockpit, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4107920
+    },
+    {
+      "kicker": "",
+      "text": "Engineers checked the timestamp. The message had been sent thirty years from now.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 70,
+      "art_prompt": "a printed timestamp on a control panel, cold light, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4115839
+    },
+    {
+      "kicker": "",
+      "text": "They followed the coordinates anyway, and arrived at the station they were already standing in.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 82,
+      "art_prompt": "a crew following coordinates on a star map, tense, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4123758
+    },
+    {
+      "kicker": "",
+      "text": "The call had come from this room, this console, this crew.\nWe were not receiving a distress signal. We were sending one.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "an empty console room lit by one screen, quiet and final, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4131677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 106,
+      "art_prompt": "a distant relay antenna against the stars, calm and final, retro sci-fi",
+      "art_style": "retro-sci",
+      "art_seed": 4139596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "SENT FROM 30 YEARS AHEAD",
+    "description": "Deep Space Logs - Entry 5688. A relay station catches a distress call from a ship that has not launched yet, and the timestamp says it was sent thirty years from now. Original, written and produced by AX Viral Content Lab. New logs regularly.\n\n#scifi #space #horror #story #creepy",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "scary story",
+      "science fiction shorts",
+      "space story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#space",
+      "#horror",
+      "#story",
+      "#creepy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. No third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "retro-sci"
+}

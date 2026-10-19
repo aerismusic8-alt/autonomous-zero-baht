@@ -1,0 +1,45 @@
+{
+  "slug": "0042_the_hallway_that_grew",
+  "title": "The Hallway That Grew",
+  "series": "Quiet Horror Files",
+  "description": "Quiet Horror Files - Case 23. A woman counts the tiles in her hallway every night, and the hallway starts counting back. Original, written and produced by AX Viral Content Lab. New cases regularly.\n\n#horror #creepy #scary #story #creepypasta",
+  "tags": [
+    "horror short story",
+    "creepy stories",
+    "scary story",
+    "micro horror",
+    "quiet horror files",
+    "creepypasta",
+    "ghost story",
+    "horror shorts"
+  ],
+  "hashtags": [
+    "#horror",
+    "#creepy",
+    "#scary",
+    "#story",
+    "#creepypasta"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 33.42,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. No third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T18:20:50.654185+00:00"
+}

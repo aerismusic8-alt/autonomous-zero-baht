@@ -9,30 +9,28 @@ Account to use for everything: **aerismusic8@gmail.com**
 > steps with every URL ready to click, plus verification commands and a
 > troubleshooting table.
 
-Status: **GitHub write access is currently BLOCKED** (the token in this
-environment returns 401 Bad credentials / 403 on push). Remaining: a valid
-write token + the four channel credentials.
+Status (verified 2026-10-19 from `python3 pipeline/connect.py check`):
+
+| Item | State |
+|---|---|
+| GitHub write access (PERSIST) | **DONE** — `can_push: true`, login `aerismusic8-alt` |
+| YouTube upload | BLOCKED — needs `secrets/youtube_token.json` |
+| TikTok / Facebook / Instagram | BLOCKED — needs their tokens |
+
+Remaining: **one credential per platform.** Only item 1 (YouTube) is needed to
+start publishing; items 2–3 are optional extras.
 
 ---
 
-## 0. GitHub write access — NEEDS A NEW TOKEN
+## 0. GitHub write access — DONE (no action needed)
 
-**Problem AX hit:** `bash pipeline/sync_repo.sh` cannot push. The environment
-`GITHUB_TOKEN` returns `401 Bad credentials` on `GET /user`, and a direct
-`git push` returns `403 Permission to aerismusic8-alt/autonomous-zero-baht.git
-denied`. Loop work is committed locally but does not reach the public repo.
+K's fine-grained PAT is installed at `secrets/github_pat.txt` (mode 600,
+git-ignored). `connect.py check` reports `authenticated: true`, `can_push: true`
+via a real write probe, and `bash pipeline/sync_repo.sh` pushes successfully.
+Nothing to do here unless the token is later revoked.
 
-**Fix:** create a fine-grained PAT with **Contents: Read and write** on
-`aerismusic8-alt/autonomous-zero-baht` and install it, either by pasting it at
-`/connect` or with:
-
-```bash
-python3 pipeline/connect.py github --token <PAT>
-```
-
-Verify with `python3 pipeline/connect.py check` — it must report
-`can_push: true`. A fine-grained PAT does not report `x-oauth-scopes`; trust
-only the real probe.
+*Optional:* the PAT lacks "Pull requests: write", so AX cannot open PRs. Add
+that permission if you want PRs; the branch itself is public and readable.
 
 ---
 
@@ -42,21 +40,35 @@ only the real probe.
 account. No platform offers a legitimate anonymous upload path, and AX will not
 use credential-evasion tools (project rule 5).
 
-**Fix:**
+**Important:** `publisher.py` opens a local browser for consent, and this
+sandbox has no browser. So use **Google's OAuth Playground** (from your own PC)
+to mint the token, then hand it to AX. The full click-by-click walkthrough with
+every URL is in **`docs/K_ACTION_PLAN.md`** and `docs/POST_ONE_CLIP.md`.
 
-1. https://console.cloud.google.com/ → create a project (free), name it
-   `ax-content-lab`
-2. **APIs & Services → Library** → search **YouTube Data API v3** → **Enable**
-3. **APIs & Services → OAuth consent screen** → **External** → app name
-   `AX Content Lab`, your email → Save. Under **Test users**, add
-   `aerismusic8@gmail.com`
-4. **APIs & Services → Credentials → Create credentials → OAuth client ID**
-   → Application type **Desktop app** → Create → **Download JSON**
-5. Paste the JSON at
-   https://work-1-vrswmageirdabiwu.prod-runtime.all-hands.dev/connect
-   (or drop it in `secrets/youtube_client_secret.json`)
+Short version:
 
-A browser opens once for consent (cached afterwards). **Cost: ฿0.**
+1. https://console.cloud.google.com/projectcreate → project `ax-content-lab`
+2. https://console.cloud.google.com/apis/library/youtube.googleapis.com →
+   **Enable** YouTube Data API v3
+3. https://console.cloud.google.com/apis/credentials/consent → **External**,
+   app name `AX Content Lab`; under **Test users** add `aerismusic8@gmail.com`
+4. https://console.cloud.google.com/apis/credentials → **Create credentials →
+   OAuth client ID → Desktop app** → note the **Client ID** + **Client secret**
+5. https://developers.google.com/oauthplayground/ → gear icon → tick **Use your
+   own OAuth credentials** → paste the Client ID + secret → pick
+   `https://www.googleapis.com/auth/youtube.upload` → **Authorize APIs** →
+   **Exchange authorization code for tokens**
+6. Give AX the resulting JSON (it must contain `access_token`, `refresh_token`,
+   `client_id`, `client_secret`):
+   ```bash
+   python3 pipeline/connect.py youtube-token --token <path-to-json>
+   ```
+   AX verifies the token really carries `youtube.upload` against Google before
+   saving `secrets/youtube_token.json` (mode 600, git-ignored).
+
+Verify with `python3 pipeline/connect.py status` — `youtube_token` must be
+`true` (and `ready_to_publish_youtube: true`). `connect.py check` only reports
+`client_present`, so it is not the right probe for the token. **Cost: ฿0.**
 Quota: 10,000 units/day ≈ **6 uploads/day**; the scheduler uses 4.
 
 ---
@@ -156,7 +168,7 @@ working, make a free client_id (rclone.org/drive) and re-authorise.
 
 ## What AX already did so K does not have to
 
-- Built the whole pipeline and verified it (30 videos targeted, all QC PASS).
+- Built the whole pipeline and verified it (40 videos produced, 40/40 QC PASS).
 - Generated all channel branding (`brand/`).
 - Wrote the YouTube, TikTok, Facebook and Instagram uploaders, the analytics
   puller, and the time-based scheduler.

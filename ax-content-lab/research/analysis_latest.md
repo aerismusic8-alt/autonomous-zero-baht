@@ -72,6 +72,30 @@ Top performers (view count):
 -    4,869,480 |  1607s | MrBallen | He went on Unsolved Mysteries to solve his disappearance
 -    4,748,664 |  1729s | Bailey Sarian | Haunting In Georgia The Unsolved Mystery - The Wyrick Family | Mystery & Makeup 
 
+## Snapshot: loop_20261019T181442Z.json
+Collected: 2026-10-19T18:13:48.533368+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 729,631 | 4,072,096 | 1957 | 1/20 |
+| space facts shorts | 20 | 613,699 | 5,184,385 | 3514 | 0/20 |
+| unsolved mystery shorts | 20 | 416,724 | 12,477,846 | 653 | 4/20 |
+| what if physics shorts | 20 | 318,925 | 6,749,044 | 722 | 0/20 |
+
+Top performers (view count):
+-   12,477,846 |   488s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-    8,355,801 |  2447s | SIRIUS | 6 Disturbing Unsolved Cases With Video Footage
+-    6,749,044 |   765s | Domain of Science | If You Don't Understand Quantum Physics, Try This!
+-    5,694,408 |  1636s | Mysterious 5 | 5 Cold Cases that were SOLVED with Insane Twists
+-    5,524,808 |   600s | GetsetflySCIENCE by Gaurav Thakur | ENTIRE PHYSICS in 10 Minutes
+-    5,184,385 |  1519s | BE AMAZED | Mind-Blowing Facts About Space
+-    4,869,514 |  1607s | MrBallen | He went on Unsolved Mysteries to solve his disappearance
+-    4,748,725 |  1729s | Bailey Sarian | Haunting In Georgia The Unsolved Mystery - The Wyrick Family | Mystery & Makeup 
+-    4,172,068 |  1179s | Cleo Abram | What If I Fell Into A Black Hole?
+-    4,072,096 | 10113s | Horror Shorts Party | 22 TRUE HORROR STORIES ANIMATED COMPILATION
+-    3,462,966 |  4327s | Horror Shorts Party | 10 TRUE SCARY HORROR STORIES ANIMATED COMPILATION
+-    3,394,723 | 11851s | Naked Science | 3 Hours Of Space Facts To Fall Asleep To: Physics Of Space
+
 ## Snapshot: niche_scan_20261014T151544Z.json
 Collected: 2026-10-14T15:14:30.000706+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
 

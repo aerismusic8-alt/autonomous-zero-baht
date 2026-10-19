@@ -1,0 +1,45 @@
+{
+  "slug": "0045_the_planet_that_whispers",
+  "title": "The Planet That Whispers",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders - Wonder 41. A planet two hundred light-years away hums one steady note, and astronomers traced it to a bell that never stopped ringing. Original, written and produced by AX Viral Content Lab. New wonders regularly.\n\n#space #science #facts #universe #astronomy",
+  "tags": [
+    "space facts",
+    "astronomy",
+    "science facts",
+    "cosmic wonders",
+    "universe",
+    "science shorts",
+    "educational shorts",
+    "exoplanet"
+  ],
+  "hashtags": [
+    "#space",
+    "#science",
+    "#facts",
+    "#universe",
+    "#astronomy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 28.0,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Astronomy concepts drawn from standard public science knowledge; no third-party script or footage reused. Structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T18:23:01.704995+00:00"
+}

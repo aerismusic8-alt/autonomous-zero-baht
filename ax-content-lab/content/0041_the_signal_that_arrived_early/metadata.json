@@ -1,0 +1,45 @@
+{
+  "slug": "0041_the_signal_that_arrived_early",
+  "title": "The Signal That Arrived Early",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs - Entry 5688. A relay station catches a distress call from a ship that has not launched yet, and the timestamp says it was sent thirty years from now. Original, written and produced by AX Viral Content Lab. New logs regularly.\n\n#scifi #space #horror #story #creepy",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "scary story",
+    "science fiction shorts",
+    "space story"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#space",
+    "#horror",
+    "#story",
+    "#creepy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 34.45,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. No third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T18:20:46.625293+00:00"
+}

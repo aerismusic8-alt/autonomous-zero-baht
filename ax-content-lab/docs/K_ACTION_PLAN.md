@@ -31,8 +31,8 @@
 
 | รายการ | สถานะ | ไฟล์ที่ต้องมี |
 |---|---|---|
-| GitHub push (PERSIST) | 🔴 BLOCKED | `secrets/github_pat.txt` |
-| YouTube upload | 🔴 BLOCKED | `secrets/youtube_client_secret.json` + `youtube_token.json` |
+| GitHub push (PERSIST) | 🟢 DONE | `secrets/github_pat.txt` (can_push: true) |
+| YouTube upload | 🔴 BLOCKED | `secrets/youtube_token.json` |
 | TikTok | 🔴 BLOCKED | `secrets/tiktok_client.json` + `tiktok_token.json` |
 | Facebook / Instagram | 🔴 BLOCKED | `secrets/meta_token.json` |
 | Google Drive backup | 🟢 CONNECTED | `secrets/drive_token.json` |
@@ -73,18 +73,14 @@
    จะเห็นครั้งเดียว)
 
 4. ส่ง token ให้ AX — เลือกวิธีใดวิธีหนึ่ง:
-   - **วิธี A (ปลอดภัยสุด, แนะนำ):** วางที่หน้า `/connect` ของ runtime
-     (ค่าจะถูกเขียนลง `secrets/github_pat.txt` แบบ mode 600 ไม่เข้า chat log)
-
-     ⚠️ หน้า `/connect` จะเปิดได้เฉพาะเมื่อ AX รัน `python3 pipeline/serve.py`
-     อยู่ในเซสชันนั้น URL คือ `PUBLIC_URL` (ค่าเริ่มต้น
-     `https://work-1-vrswmageirdabiwu.prod-runtime.all-hands.dev/connect`)
-     ถ้าเปิดแล้วขึ้น 404 แปลว่า server ยังไม่รัน — บอก AX ให้รัน `serve.py`
-     แล้วใช้ URL ที่ AX พิมพ์ออกมา (บรรทัด `[serve] intake : ...`)
    - **วิธี B (ผ่าน command line, ไม่ต้องพึ่ง server):**
      ```bash
      python3 pipeline/connect.py github --token github_pat_XXXX
      ```
+   - **วิธี A (วางที่หน้า `/connect`):** หน้า intake เปิดได้เฉพาะตอน AX รัน
+     `python3 pipeline/serve.py` อยู่ — AX จะพิมพ์ URL จริงออกมาเป็นบรรทัด
+     `[serve] intake : <URL>/connect` ให้ใช้ URL นั้นตรง ๆ
+     (hostname ของ runtime เปลี่ยนทุกเซสชัน อย่าใช้ URL ที่ค้างในเอกสารเก่า)
 
 5. **ตรวจสอบว่าปลดล็อกจริง:**
    ```bash
@@ -128,26 +124,38 @@
    → **Create credentials → OAuth client ID**
    → Application type: **Desktop app**
    → Name: `AX Content Lab Desktop` → Create
-   → กด **Download JSON**
+   → จด **Client ID** และ **Client secret** ไว้
 
-5. **ส่งไฟล์ JSON ให้ AX:**
-   - วางที่หน้า `/connect` → ช่อง YouTube → Save
-     (เขียนลง `secrets/youtube_client_secret.json`)
-   - หรือ: `python3 pipeline/connect.py youtube --client <path-to-json>`
+5. **ขอ token ผ่าน OAuth Playground** (sandbox ไม่มี browser จึงใช้วิธีนี้):
+   **https://developers.google.com/oauthplayground/**
+   - กดไอคอน ⚙️ มุมขวาบน → ติ๊ก **Use your own OAuth credentials**
+     → ใส่ Client ID + Client secret จากข้อ 4
+   - ช่องซ้าย เลือก **YouTube Data API v3** →
+     `https://www.googleapis.com/auth/youtube.upload` → **Authorize APIs**
+   - ล็อกอิน `aerismusic8@gmail.com` → เจอหน้า "Google hasn't verified this app"
+     → **Advanced → Go to AX Content Lab (unsafe)** (ปลอดภัย เป็นแอปของ K เอง)
+   - กด **Exchange authorization code for tokens**
+   - ก๊อป JSON ทั้งก้อน (ต้องมี `access_token`, `refresh_token`, `client_id`,
+     `client_secret`) → เก็บเป็นไฟล์
 
-6. **Consent ครั้งแรก** (เปิด browser ครั้งเดียว):
+6. **ส่ง token ให้ AX:**
    ```bash
-   python3 pipeline/publisher.py --all --privacy private
+   python3 pipeline/connect.py youtube-token --token <path-to-json>
    ```
-   จะเปิด browser ให้ล็อกอินและกด Allow → token ถูก cache ที่
-   `secrets/youtube_token.json` (ครั้งต่อไปไม่ต้อง consent อีก)
+   AX จะยิง `tokeninfo` ตรวจกับ Google จริงว่า token มี scope `youtube.upload`
+   ก่อนบันทึกเป็น `secrets/youtube_token.json` (mode 600, git-ignored)
 
 7. **ตรวจสอบ:**
    ```bash
-   python3 pipeline/connect.py check
+   python3 pipeline/connect.py status   # ต้องเห็น "youtube_token": true
    python3 pipeline/multipost.py --status
    ```
-   `youtube.ready` ต้องเป็น `true`
+   (`connect.py check` รายงานแค่ `client_present` — ไม่ใช่ตัวตรวจ token)
+
+**หมายเหตุ:** `publisher.py` ใช้ `flow.run_local_server()` ซึ่งต้องมี browser
+บนเครื่องที่รัน — sandbox นี้ไม่มี จึงต้องใช้ Playground (ข้อ 5) แทน
+ถ้า K รัน AX บนเครื่องตัวเองที่มี browser ใช้ `connect.py youtube --client <json>`
+แล้วรัน `publisher.py --all --privacy private` ได้เลย
 
 **โควตา:** 10,000 units/วัน ≈ **6 uploads/วัน** (scheduler ใช้ 4)
 **ค่าใช้จ่าย: ฿0**

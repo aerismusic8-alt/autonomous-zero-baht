@@ -1,0 +1,45 @@
+{
+  "slug": "0044_if_the_sky_had_a_floor",
+  "title": "If the Sky Had a Floor",
+  "series": "What If Physics",
+  "description": "What If Physics - Question 45. If the atmosphere had a hard floor you could stand on, you would walk across the sky like a ceiling - and air already holds you against one. Original, written and produced by AX Viral Content Lab. New questions regularly.\n\n#whatif #physics #science #space #facts",
+  "tags": [
+    "what if",
+    "physics explained",
+    "science shorts",
+    "hypothetical",
+    "what if physics",
+    "educational shorts",
+    "science facts",
+    "atmosphere"
+  ],
+  "hashtags": [
+    "#whatif",
+    "#physics",
+    "#science",
+    "#space",
+    "#facts"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 30.48,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Physics concepts drawn from standard public science knowledge; no third-party script or footage reused. Structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T18:23:14.442166+00:00"
+}

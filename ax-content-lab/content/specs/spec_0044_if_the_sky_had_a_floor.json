@@ -1,0 +1,101 @@
+{
+  "slug": "0044_if_the_sky_had_a_floor",
+  "title": "If the Sky Had a Floor",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS - QUESTION 45",
+      "text": "What if the atmosphere had a floor, a hard lid you could stand on?",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 46,
+      "art_prompt": "a person climbing toward a solid layer of clouds, 3d render",
+      "art_style": "3d",
+      "art_seed": 4400001
+    },
+    {
+      "kicker": "",
+      "text": "You would climb until your weight faded, then walk across the sky like a ceiling.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 58,
+      "art_prompt": "walking upside down on a ceiling of cloud, 3d render",
+      "art_style": "3d",
+      "art_seed": 4407920
+    },
+    {
+      "kicker": "",
+      "text": "Storms would pool beneath you. The ocean would look like a map you could fold.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 70,
+      "art_prompt": "storms pooling beneath a glassy sky, 3d render",
+      "art_style": "3d",
+      "art_seed": 4415839
+    },
+    {
+      "kicker": "",
+      "text": "But air already has a floor. It is called pressure, and it holds you against the world.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 82,
+      "art_prompt": "the curve of the ocean seen from high above, 3d render",
+      "art_style": "3d",
+      "art_seed": 4423758
+    },
+    {
+      "kicker": "",
+      "text": "You are standing on the sky right now.\nYou just call it the ground.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a vast calm sky with one horizon line, wonder, 3d render",
+      "art_style": "3d",
+      "art_seed": 4431677
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for the next question.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 106,
+      "art_prompt": "a wide sky at dusk, calm and final, 3d render",
+      "art_style": "3d",
+      "art_seed": 4439596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "THE SKY HAS A FLOOR",
+    "description": "What If Physics - Question 45. If the atmosphere had a hard floor you could stand on, you would walk across the sky like a ceiling - and air already holds you against one. Original, written and produced by AX Viral Content Lab. New questions regularly.\n\n#whatif #physics #science #space #facts",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "what if physics",
+      "educational shorts",
+      "science facts",
+      "atmosphere"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#space",
+      "#facts"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Physics concepts drawn from standard public science knowledge; no third-party script or footage reused. Structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

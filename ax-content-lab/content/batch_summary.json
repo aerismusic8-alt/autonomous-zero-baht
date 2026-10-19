@@ -1,6 +1,6 @@
 {
-  "produced": 40,
-  "qc_pass": 40,
+  "produced": 45,
+  "qc_pass": 45,
   "failed": [],
   "results": [
     {
@@ -359,8 +359,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 33.37,
-      "seconds": 187.5,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -369,8 +369,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 25.86,
-      "seconds": 155.2,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -379,8 +379,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 33.54,
-      "seconds": 197.9,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -389,8 +389,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 31.74,
-      "seconds": 157.1,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -399,10 +399,60 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 34.48,
-      "seconds": 150.1,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0041_the_signal_that_arrived_early.json",
+      "slug": "0041_the_signal_that_arrived_early",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 34.45,
+      "seconds": 196.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0042_the_hallway_that_grew.json",
+      "slug": "0042_the_hallway_that_grew",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 33.42,
+      "seconds": 198.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0043_the_passenger_who_never_boarded.json",
+      "slug": "0043_the_passenger_who_never_boarded",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 37.47,
+      "seconds": 215.2,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0044_if_the_sky_had_a_floor.json",
+      "slug": "0044_if_the_sky_had_a_floor",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 30.48,
+      "seconds": 143.1,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0045_the_planet_that_whispers.json",
+      "slug": "0045_the_planet_that_whispers",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 28.0,
+      "seconds": 128.8,
       "skipped": false,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-19T16:02:15Z"
+  "generated_at": "2026-10-19T18:23:17Z"
 }

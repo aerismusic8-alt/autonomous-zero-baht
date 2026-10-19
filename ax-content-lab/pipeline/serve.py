@@ -218,8 +218,10 @@ class Server(socketserver.ThreadingTCPServer):
 
 def main() -> int:
     port = int(os.environ.get("PORT", "12000"))
-    public = os.environ.get(
-        "PUBLIC_URL", "https://work-1-vrswmageirdabiwu.prod-runtime.all-hands.dev")
+    # The runtime hostname changes between sessions, so never hardcode it.
+    public = (os.environ.get("PUBLIC_URL")
+              or os.environ.get("RUNTIME_URL")
+              or f"http://localhost:{port}")
     os.makedirs(SECRETS, exist_ok=True)
     try:
         os.chmod(SECRETS, 0o700)

@@ -1,0 +1,101 @@
+{
+  "slug": "0042_the_hallway_that_grew",
+  "title": "The Hallway That Grew",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES - CASE 23",
+      "text": "Every night she counted the tiles in her hallway before bed. Eight.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "a dim apartment hallway at night, warm lamp light, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4200001
+    },
+    {
+      "kicker": "",
+      "text": "On Tuesday there were nine. On Wednesday, ten. The doors at each end had not moved.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "a long hallway with tiled floor receding into shadow, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4207920
+    },
+    {
+      "kicker": "",
+      "text": "She laid a tape measure along the floor and marked the wall in pencil.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 70,
+      "art_prompt": "a tape measure and pencil mark on a wall, dim light, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4215839
+    },
+    {
+      "kicker": "",
+      "text": "The hallway had never changed. Her reflection at the far end was standing one tile closer each night.",
+      "style": "caption",
+      "theme": "void",
+      "particles": 82,
+      "art_prompt": "a corridor with a faint reflection at the far end, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4223758
+    },
+    {
+      "kicker": "",
+      "text": "She stopped counting.\nThe hallway had been counting her.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "an empty hallway at dawn, one cold lamp, quiet and final, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4231677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Quiet Horror Files for the next case.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "a closed door at the end of a dark hallway, calm and final, anime horror",
+      "art_style": "anime-horror",
+      "art_seed": 4239596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT WAS COUNTING HER",
+    "description": "Quiet Horror Files - Case 23. A woman counts the tiles in her hallway every night, and the hallway starts counting back. Original, written and produced by AX Viral Content Lab. New cases regularly.\n\n#horror #creepy #scary #story #creepypasta",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "quiet horror files",
+      "creepypasta",
+      "ghost story",
+      "horror shorts"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#scary",
+      "#story",
+      "#creepypasta"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. No third-party script or footage reused. Narrative structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}

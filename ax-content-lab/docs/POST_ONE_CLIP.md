@@ -5,6 +5,10 @@ each platform ties an upload to a real account, so only K can grant them.
 
 Test clip: **0001_the_last_signal** (Deep Space Logs, 23.5s, 1080×1920, QC 18/18).
 
+> **Canonical setup doc:** `docs/K_ACTION_PLAN.md` — full URLs + verification.
+> This page is the shortest path to one test clip; if the two disagree,
+> `K_ACTION_PLAN.md` wins.
+
 Preview exactly what will be posted, no credentials needed:
 
 ```

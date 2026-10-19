@@ -1,0 +1,101 @@
+{
+  "slug": "0043_the_passenger_who_never_boarded",
+  "title": "The Passenger Who Never Boarded",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 121",
+      "text": "A 1938 flight manifest lists eleven passengers. Only ten walked onto the plane.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 46,
+      "art_prompt": "a vintage 1938 flight manifest on a desk, sepia light, storybook",
+      "art_style": "storybook",
+      "art_seed": 4300001
+    },
+    {
+      "kicker": "",
+      "text": "The eleventh name was written in the same ink, in the same hand, in the same order.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 58,
+      "art_prompt": "an old handwritten passenger list, close up, storybook",
+      "art_style": "storybook",
+      "art_seed": 4307920
+    },
+    {
+      "kicker": "",
+      "text": "The plane landed safely. No one on board recognised the extra name.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "a propeller plane on a runway in the 1930s, storybook",
+      "art_style": "storybook",
+      "art_seed": 4315839
+    },
+    {
+      "kicker": "",
+      "text": "Investigators traced it to a records clerk two towns over. The clerk had never flown.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 82,
+      "art_prompt": "a dusty records office with filing cabinets, storybook",
+      "art_style": "storybook",
+      "art_seed": 4323758
+    },
+    {
+      "kicker": "",
+      "text": "The clerk's own name was the twelfth entry, filed forty years later, on the day he died.\nSome records are written before their subjects are born.",
+      "style": "quote",
+      "theme": "void",
+      "particles": 94,
+      "art_prompt": "a single typewritten report under a lamp, quiet and final, storybook",
+      "art_style": "storybook",
+      "art_seed": 4331677
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 106,
+      "art_prompt": "an archive folder closing, sepia tone, calm and final, storybook",
+      "art_style": "storybook",
+      "art_seed": 4339596
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "ONE EXTRA NAME",
+    "description": "Unsolved Archive - File 121. A 1938 flight manifest lists one more passenger than boarded, and the name traces to a clerk who filed the report decades later. Original, written and produced by AX Viral Content Lab. New files regularly.\n\n#mystery #unsolved #truestory #detective #history",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "unsolved archive",
+      "historical mystery",
+      "cold case",
+      "mystery story"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#history"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original fiction framed as an archive file. Not a real historical event; no third-party script or footage reused. Structure informed by market research (see research/*.json).",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "storybook"
+}
