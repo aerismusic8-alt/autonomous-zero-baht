@@ -120,6 +120,30 @@ Top performers (view count):
 -    4,054,045 |   275s | ACMofficial | Hungry | Short Horror Film
 -    3,514,746 |  5064s | Mr. Nightmare | 10 Scariest TRUE Stories of 2025
 
+## Snapshot: loop_20261019T191314Z.json
+Collected: 2026-10-19T19:12:21.153587+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 955,682 | 11,523,269 | 1082 | 0/20 |
+| space facts shorts | 20 | 873,082 | 15,317,501 | 1154 | 0/20 |
+| unsolved mystery shorts | 20 | 197,747 | 12,477,846 | 300 | 5/20 |
+| what if physics shorts | 20 | 378,122 | 6,749,084 | 677 | 1/20 |
+
+Top performers (view count):
+-   15,317,501 |   670s | Science Time | How Big is The Universe?
+-   12,477,846 |   488s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-   11,523,269 |   164s | Alexanderthetitan | Mama Agnes - Short Horror Film
+-    9,104,386 |   302s | Isabelle Kiser | "Double Vision" | Independent Horror Short Film
+-    8,356,441 |  2447s | SIRIUS | 6 Disturbing Unsolved Cases With Video Footage
+-    6,749,084 |   765s | Domain of Science | If You Don't Understand Quantum Physics, Try This!
+-    5,694,892 |  1636s | Mysterious 5 | 5 Cold Cases that were SOLVED with Insane Twists
+-    5,184,421 |  1519s | BE AMAZED | Mind-Blowing Facts About Space
+-    4,869,580 |  1607s | MrBallen | He went on Unsolved Mysteries to solve his disappearance
+-    4,748,725 |  1729s | Bailey Sarian | Haunting In Georgia The Unsolved Mystery - The Wyrick Family | Mystery & Makeup 
+-    4,172,409 |  1179s | Cleo Abram | What If I Fell Into A Black Hole?
+-    4,054,209 |   275s | ACMofficial | Hungry | Short Horror Film
+
 ## Snapshot: niche_scan_20261014T151544Z.json
 Collected: 2026-10-14T15:14:30.000706+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
 

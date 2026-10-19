@@ -3,10 +3,13 @@
 
 Creates `site/` containing:
     index.html              - gallery with inline players, status, docs
-    media/<slug>/final.mp4  - the produced videos
-    media/<slug>/thumb.png  - thumbnails
     docs/*.md               - documentation
     code.zip                - the full pipeline source
+
+Players stream the videos straight from the public repository (raw URLs) instead
+of duplicating ~200 MB of media into the deployable artifact. That keeps the
+site small enough for GitHub Pages at any catalogue size, and the same rendered
+files are already public evidence in `content/<slug>/`.
 
 NEVER copies secrets/. Only original work produced by this project.
 """
@@ -64,7 +67,7 @@ footer{margin-top:60px;color:var(--dim);font-size:12px;border-top:1px solid var(
 def build() -> dict:
     if os.path.exists(SITE):
         shutil.rmtree(SITE)
-    os.makedirs(os.path.join(SITE, "media"), exist_ok=True)
+    os.makedirs(SITE, exist_ok=True)
     os.makedirs(os.path.join(SITE, "docs"), exist_ok=True)
 
     items = []
@@ -78,11 +81,6 @@ def build() -> dict:
         meta = json.load(open(mp))
         qc = json.load(open(qp)) if os.path.isfile(qp) else {}
         slug = meta["slug"]
-        md = os.path.join(SITE, "media", slug)
-        os.makedirs(md, exist_ok=True)
-        shutil.copyfile(vp, os.path.join(md, "final.mp4"))
-        if os.path.isfile(tp):
-            shutil.copyfile(tp, os.path.join(md, "thumb.png"))
         items.append({
             "slug": slug,
             "title": meta.get("title", slug),
@@ -125,26 +123,29 @@ def build() -> dict:
     cards = []
     gh = ("https://github.com/aerismusic8-alt/autonomous-zero-baht/blob/"
           "ax-content-lab/ax-content-lab/content")
-    ghraw = ("https://raw.githubusercontent.com/aerismusic8-alt/autonomous-zero-baht/"
-             "ax-content-lab/ax-content-lab/content")
+    # jsDelivr serves the tracked mp4/png with the correct MIME type (raw
+    # githubusercontent returns application/octet-stream, which browsers refuse
+    # to play inline under `nosniff`). Same files, public, no media duplicated
+    # into the Pages artifact.
+    cdn = ("https://cdn.jsdelivr.net/gh/aerismusic8-alt/autonomous-zero-baht@"
+           "ax-content-lab/ax-content-lab/content")
     for i in items:
         badge = (f'<span class="badge ok">QC {i["qc"]} PASS</span>'
                  if i["qc_status"] == "PASS" else
                  f'<span class="badge warn">QC {i["qc"]} {i["qc_status"]}</span>')
         cards.append(f"""
       <article class="card">
-        <video controls preload="metadata" playsinline poster="media/{i['slug']}/thumb.png">
-          <source src="media/{i['slug']}/final.mp4" type="video/mp4">
-          <source src="{ghraw}/{i['slug']}/final.mp4" type="video/mp4">
+        <video controls preload="metadata" playsinline poster="{cdn}/{i['slug']}/thumbnail.png">
+          <source src="{cdn}/{i['slug']}/final.mp4" type="video/mp4">
         </video>
         <div class="body">
           <h3>{html.escape(i['title'])}</h3>
           <div class="meta">{html.escape(i['series'])} &middot; {i['duration']}s &middot; {i['resolution']} &middot; {i['size_mb']} MB</div>
           {badge}
           <div class="links">
-            <a class="btn" href="media/{i['slug']}/final.mp4" download>Download MP4</a>
+            <a class="btn" href="{cdn}/{i['slug']}/final.mp4" download>Download MP4</a>
             <a class="btn" href="{gh}/{i['slug']}/final.mp4" target="_blank">GitHub</a>
-            <a class="btn" href="media/{i['slug']}/thumb.png" target="_blank">Thumbnail</a>
+            <a class="btn" href="{cdn}/{i['slug']}/thumbnail.png" target="_blank">Thumbnail</a>
           </div>
         </div>
       </article>""")
@@ -178,14 +179,17 @@ def build() -> dict:
 <section>
   <h2>Status and what is blocked</h2>
   <div class="box">
-    <p><strong>Published: 0.</strong> Publishing is blocked because every platform requires an
-    OAuth token bound to the account holder's identity. No platform offers a legitimate anonymous
-    upload path, and this project will not use credential-evasion tools.</p>
-    <p>AX has already written and tested the YouTube uploader end to end
-    (<code>pipeline/publisher.py</code>). It stops exactly at the auth boundary.</p>
+    <p><strong>Platform publishing: 0.</strong> Uploading to YouTube, TikTok, Facebook or Instagram
+    requires an OAuth token bound to the account holder's identity. No platform offers a legitimate
+    anonymous upload path, and this project will not use credential-evasion tools. The uploaders are
+    written and tested end to end (<code>pipeline/publisher.py</code>, <code>pipeline/multipost.py</code>);
+    they stop exactly at the auth boundary.</p>
+    <p><strong>Public distribution: live.</strong> This gallery is deployed automatically by the
+    lab's own workflow and streams every QC-passed piece from a public CDN. That is real, verifiable
+    distribution &mdash; it is not a platform post, and it is not counted as one.</p>
     <p><strong>Revenue: &#3647;0.00.</strong> No monetisation channel is active. Prerequisites
     (1,000 subscribers + 4,000 watch-hours or 10M Shorts views) cannot be assessed before
-    publishing starts.</p>
+    platform publishing starts.</p>
   </div>
 </section>
 
@@ -193,14 +197,14 @@ def build() -> dict:
   <h2>What K needs to do (~10 minutes, all free)</h2>
   <div class="box">
     <ol>
-      <li><strong>GitHub write token</strong> &mdash; create a fine-grained PAT
-      (Contents + Workflows: Read and write), then run
-      <code>python3 pipeline/connect.py github --token github_pat_XXXX</code></li>
       <li><strong>YouTube OAuth client</strong> &mdash; create it in Google Cloud Console, then run
       <code>python3 pipeline/connect.py youtube --client &lt;path&gt;</code></li>
-      <li><strong>Create the channel</strong> &mdash; branding assets are ready in <code>brand/</code></li>
+      <li><strong>Install the upload token</strong> &mdash; run
+      <code>python3 pipeline/connect.py youtube-token --token &lt;playground.json&gt;</code></li>
+      <li><strong>Optional</strong> &mdash; same pattern for TikTok / Meta to widen reach.</li>
     </ol>
-    <p>Full steps: <a href="docs/SETUP_FOR_K.md">docs/SETUP_FOR_K.md</a></p>
+    <p>The GitHub write token and the public gallery need nothing from K; they are already live.
+    Full steps: <a href="docs/SETUP_FOR_K.md">docs/SETUP_FOR_K.md</a></p>
   </div>
 </section>
 
@@ -215,7 +219,6 @@ def build() -> dict:
       <a class="btn" href="docs/TOOLS.md">Tools inventory</a>
       <a class="btn" href="docs/PUBLISHING.md">Publishing</a>
       <a class="btn" href="docs/SETUP_FOR_K.md">Setup for K</a>
-      <a class="btn" href="docs/PUBLISHING.md">Publishing</a>
       <a class="btn" href="docs/README.md">README</a>
     </div>
     <p style="margin-top:14px">All narrative text is original writing. All music is synthesised

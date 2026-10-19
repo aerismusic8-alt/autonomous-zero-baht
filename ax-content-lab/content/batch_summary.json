@@ -1,6 +1,6 @@
 {
-  "produced": 45,
-  "qc_pass": 45,
+  "produced": 50,
+  "qc_pass": 50,
   "failed": [],
   "results": [
     {
@@ -409,8 +409,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 34.45,
-      "seconds": 196.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -419,8 +419,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 33.42,
-      "seconds": 198.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -429,8 +429,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 37.47,
-      "seconds": 215.2,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -439,8 +439,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 30.48,
-      "seconds": 143.1,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -449,10 +449,60 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 28.0,
-      "seconds": 128.8,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0046_the_countdown_that_repeats.json",
+      "slug": "0046_the_countdown_that_repeats",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 31.43,
+      "seconds": 180.6,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0047_the_tenant_below.json",
+      "slug": "0047_the_tenant_below",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 31.29,
+      "seconds": 182.6,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0048_the_galaxy_that_holds_itself.json",
+      "slug": "0048_the_galaxy_that_holds_itself",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 30.34,
+      "seconds": 174.3,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0049_the_face_in_eleven_windows.json",
+      "slug": "0049_the_face_in_eleven_windows",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 28.32,
+      "seconds": 131.9,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0050_if_you_could_walk_through_walls.json",
+      "slug": "0050_if_you_could_walk_through_walls",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 30.73,
+      "seconds": 138.1,
       "skipped": false,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-19T18:23:17Z"
+  "generated_at": "2026-10-19T19:23:52Z"
 }

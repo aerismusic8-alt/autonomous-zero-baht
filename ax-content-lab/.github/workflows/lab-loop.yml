@@ -1,37 +1,55 @@
-name: AX Viral Content Lab — production loop
+name: AX Viral Content Lab
 
-# Free scheduler. Runs the full pipeline and persists evidence.
-# Publishing only happens if the YouTube OAuth secrets are configured;
-# otherwise the run produces + QC-checks and stops honestly.
+# CANONICAL workflow for the lab. `pipeline/sync_repo.sh` installs this file at
+# the repository root as `.github/workflows/ax-lab-loop.yml`, because GitHub
+# Actions only reads `.github/workflows/` at the root of a repository. The copy
+# kept here under `ax-content-lab/` is the source of truth that the sync copies
+# out; on its own, a workflow nested in a subdirectory is never scheduled or
+# dispatched, which is why the lab previously never ran in CI.
+#
+# What runs with zero human action:
+#   * the full loop: research -> specs -> produce -> QC -> state -> report
+#   * the public gallery, deployed to GitHub Pages
+#
+# What never runs without K: platform uploads. They need K's own OAuth token
+# (docs/SETUP_FOR_K.md). The lab never records a post without a real platform id.
 
 on:
   workflow_dispatch:
     inputs:
       publish:
-        description: "Upload QC-passed items to YouTube (requires OAuth secrets)"
+        description: "Upload QC-passed items to every ready platform (needs OAuth secrets)"
         type: boolean
         default: false
+  push:
+    branches: [ax-content-lab]
+    paths:
+      - "ax-content-lab/**"
+      - ".github/workflows/ax-lab-loop.yml"
   schedule:
-    - cron: "23 6 * * *"   # daily 06:23 UTC - full production loop
-    - cron: "23 18 * * *"  # daily 18:23 UTC - full production loop
-    # Posting slots, local UTC+7 -> UTC. One item per platform per slot.
-    - cron: "0 2 * * *"    # 09:00 local
-    - cron: "0 6 * * *"    # 13:00 local
-    - cron: "0 11 * * *"   # 18:00 local
-    - cron: "0 14 * * *"   # 21:00 local
+    # Schedules only fire for workflows on the DEFAULT branch. The default branch
+    # is `main`, which does not contain this file, so these crons are inert until
+    # the default branch is changed. The push trigger above is the active,
+    # autonomous trigger: every lab sync starts a run.
+    - cron: "23 6 * * *"
+    - cron: "23 18 * * *"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: ax-lab
   cancel-in-progress: false
 
+# Every step runs inside the lab subdirectory.
+defaults:
+  run:
+    working-directory: ax-content-lab
+
 jobs:
   produce:
-    # Full production loop: manual runs + the two daily crons. The four posting
-    # slots are handled by the `post` job below.
-    if: github.event_name != 'schedule' || startsWith(github.event.schedule, '23 ')
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -60,15 +78,16 @@ jobs:
             --queries "scary stories shorts" "space facts shorts" \
                       "unsolved mystery shorts" "what if physics shorts" || true
           python pipeline/analyze.py > research/analysis_latest.md || true
+          python pipeline/references.py --per-query 4 >/dev/null 2>&1 || true
 
       - name: Produce + QC all specs
-        run: python pipeline/batch.py --workers 2 --art
+        run: python pipeline/batch.py --workers 2
 
       - name: Sync state store
         run: python pipeline/store.py sync
 
       - name: Publish to every ready platform
-        if: ${{ github.event.inputs.publish == 'true' }}
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.publish == 'true' }}
         continue-on-error: true
         env:
           AX_PUBLIC_BASE: ${{ vars.AX_PUBLIC_BASE }}
@@ -87,7 +106,7 @@ jobs:
           [ -n "$META_CLIENT_JSON" ] && printf '%s' "$META_CLIENT_JSON" > secrets/meta_client.json || true
           [ -n "$META_TOKEN_JSON" ] && printf '%s' "$META_TOKEN_JSON" > secrets/meta_token.json || true
           python pipeline/multipost.py --status
-          python pipeline/multipost.py --all
+          python pipeline/multipost.py --all || true
 
       - name: Analytics
         continue-on-error: true
@@ -96,56 +115,34 @@ jobs:
       - name: Build status report
         run: python pipeline/report.py
 
+      - name: Build public gallery
+        run: python pipeline/build_site.py
+
       - name: Persist evidence
         run: |
           git config user.name "ax-lab-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A research data content/*/metadata.json content/*/qc_report.json \
-                     content/*/thumbnail.png content/batch_summary.json docs/STATUS.md
-          git diff --cached --quiet || git commit -m "chore: ax-lab loop evidence $(date -u +%FT%TZ)"
-          git push
+          git add research data docs content/specs content/batch_summary.json AGENTS.md
+          git add content/*/metadata.json content/*/qc_report.json content/*/thumbnail.png 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore(ax-lab): loop evidence $(date -u +%FT%TZ)"
+          git push || true
 
-  # Time-based poster. Runs at the four slots and posts one queued item per
-  # ready platform. No-op (honest BLOCKED report) until credentials exist.
-  post:
-    if: github.event_name == 'schedule' && !startsWith(github.event.schedule, '23 ')
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
         with:
-          python-version: "3.12"
+          enablement: true
 
-      - name: Install dependencies
-        run: pip install --quiet requests google-api-python-client google-auth-oauthlib google-auth-httplib2
+      - name: Upload gallery artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ax-content-lab/site
 
-      - name: Post the due slot
-        continue-on-error: true
-        env:
-          AX_PUBLIC_BASE: ${{ vars.AX_PUBLIC_BASE }}
-          YT_CLIENT_SECRET_JSON: ${{ secrets.YT_CLIENT_SECRET_JSON }}
-          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
-          TIKTOK_CLIENT_JSON: ${{ secrets.TIKTOK_CLIENT_JSON }}
-          TIKTOK_TOKEN_JSON: ${{ secrets.TIKTOK_TOKEN_JSON }}
-          META_CLIENT_JSON: ${{ secrets.META_CLIENT_JSON }}
-          META_TOKEN_JSON: ${{ secrets.META_TOKEN_JSON }}
-        run: |
-          mkdir -p secrets
-          [ -n "$YT_CLIENT_SECRET_JSON" ] && printf '%s' "$YT_CLIENT_SECRET_JSON" > secrets/youtube_client_secret.json || true
-          [ -n "$YT_TOKEN_JSON" ] && printf '%s' "$YT_TOKEN_JSON" > secrets/youtube_token.json || true
-          [ -n "$TIKTOK_CLIENT_JSON" ] && printf '%s' "$TIKTOK_CLIENT_JSON" > secrets/tiktok_client.json || true
-          [ -n "$TIKTOK_TOKEN_JSON" ] && printf '%s' "$TIKTOK_TOKEN_JSON" > secrets/tiktok_token.json || true
-          [ -n "$META_CLIENT_JSON" ] && printf '%s' "$META_CLIENT_JSON" > secrets/meta_client.json || true
-          [ -n "$META_TOKEN_JSON" ] && printf '%s' "$META_TOKEN_JSON" > secrets/meta_token.json || true
-          python pipeline/schedule.py --tick
-
-      - name: Persist publication evidence
-        run: |
-          git config user.name "ax-lab-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data docs/STATUS.md
-          git diff --cached --quiet || git commit -m "chore: posting evidence $(date -u +%FT%TZ)"
-          git push
-
+  deploy:
+    needs: produce
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,101 @@
+{
+  "slug": "0048_the_galaxy_that_holds_itself",
+  "title": "The Galaxy That Holds Itself",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS - WONDER 46",
+      "text": "One galaxy spins far too fast for everything we can see inside it.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 46,
+      "art_prompt": "the galaxy that holds itself - scene 1, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4600625
+    },
+    {
+      "kicker": "",
+      "text": "By the math, its stars should have drifted apart billions of years ago.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 58,
+      "art_prompt": "the galaxy that holds itself - scene 2, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4608544
+    },
+    {
+      "kicker": "",
+      "text": "Something invisible is holding it together. We call it dark matter.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 70,
+      "art_prompt": "the galaxy that holds itself - scene 3, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4616463
+    },
+    {
+      "kicker": "",
+      "text": "We have never seen it. We have only ever measured its shadow.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 82,
+      "art_prompt": "the galaxy that holds itself - scene 4, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4624382
+    },
+    {
+      "kicker": "",
+      "text": "We named the missing weight long before we understood the scale.\nMost of the universe is the part that never answers.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 94,
+      "art_prompt": "the galaxy that holds itself - scene 5, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4632301
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for the next wonder.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 106,
+      "art_prompt": "the galaxy that holds itself - scene 6, cinematic, 3d",
+      "art_style": "3d",
+      "art_seed": 4640220
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "TOO FAST TO HOLD",
+    "description": "Cosmic Wonders. The Galaxy That Holds Itself. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

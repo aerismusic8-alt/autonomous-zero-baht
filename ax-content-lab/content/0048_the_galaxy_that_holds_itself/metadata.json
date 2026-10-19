@@ -1,0 +1,45 @@
+{
+  "slug": "0048_the_galaxy_that_holds_itself",
+  "title": "The Galaxy That Holds Itself",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders. The Galaxy That Holds Itself. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #science #facts #universe #astronomy",
+  "tags": [
+    "space facts",
+    "science facts",
+    "astronomy",
+    "universe facts",
+    "space documentary",
+    "mind blowing facts",
+    "science shorts",
+    "cosmos"
+  ],
+  "hashtags": [
+    "#space",
+    "#science",
+    "#facts",
+    "#universe",
+    "#astronomy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 30.34,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T19:21:21.193713+00:00"
+}

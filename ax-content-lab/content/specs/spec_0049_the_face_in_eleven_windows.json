@@ -1,0 +1,101 @@
+{
+  "slug": "0049_the_face_in_eleven_windows",
+  "title": "The Face in Eleven Windows",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE - FILE 46",
+      "text": "In 1901, a family posed for a portrait in a small town.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 46,
+      "art_prompt": "the face in eleven windows - scene 1, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4600638
+    },
+    {
+      "kicker": "",
+      "text": "Behind them, in the window, stood someone the family did not know.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 58,
+      "art_prompt": "the face in eleven windows - scene 2, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4608557
+    },
+    {
+      "kicker": "",
+      "text": "The photographer swore the street outside had been empty.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 70,
+      "art_prompt": "the face in eleven windows - scene 3, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4616476
+    },
+    {
+      "kicker": "",
+      "text": "Archivists later matched that face to ten other photographs.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 82,
+      "art_prompt": "the face in eleven windows - scene 4, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4624395
+    },
+    {
+      "kicker": "",
+      "text": "Eleven towns. Sixty years. Always in the window.\nAlways the same age.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 94,
+      "art_prompt": "the face in eleven windows - scene 5, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4632314
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 106,
+      "art_prompt": "the face in eleven windows - scene 6, cinematic, storybook",
+      "art_style": "storybook",
+      "art_seed": 4640233
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IN THE WINDOW",
+    "description": "Unsolved Archive. The Face in Eleven Windows. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "storybook"
+}

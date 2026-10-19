@@ -1,0 +1,101 @@
+{
+  "slug": "0046_the_countdown_that_repeats",
+  "title": "The Countdown That Repeats",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "tense",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS - ENTRY 46",
+      "text": "A salvage crew found a derelict ship, still broadcasting.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 46,
+      "art_prompt": "the countdown that repeats - scene 1, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4600599
+    },
+    {
+      "kicker": "",
+      "text": "One number, counting down. It had been counting for four hundred years.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 58,
+      "art_prompt": "the countdown that repeats - scene 2, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4608518
+    },
+    {
+      "kicker": "",
+      "text": "They waited for zero. They braced for a blast that never came.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 70,
+      "art_prompt": "the countdown that repeats - scene 3, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4616437
+    },
+    {
+      "kicker": "",
+      "text": "At zero, the number reset. It began again from the top, without a pause.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 82,
+      "art_prompt": "the countdown that repeats - scene 4, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4624356
+    },
+    {
+      "kicker": "",
+      "text": "It was never a countdown.\nIt is a reply - sent once per orbit, to a question we stopped asking.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 94,
+      "art_prompt": "the countdown that repeats - scene 5, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4632275
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next entry.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 106,
+      "art_prompt": "the countdown that repeats - scene 6, cinematic, retro-sci",
+      "art_style": "retro-sci",
+      "art_seed": 4640194
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "STILL COUNTING",
+    "description": "Deep Space Logs. The Countdown That Repeats. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#scifi #shortstory #space #creepy #fiction",
+    "tags": [
+      "sci fi short story",
+      "creepy stories",
+      "space horror",
+      "micro fiction",
+      "deep space logs",
+      "science fiction shorts",
+      "twist ending",
+      "short story"
+    ],
+    "hashtags": [
+      "#scifi",
+      "#shortstory",
+      "#space",
+      "#creepy",
+      "#fiction"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "retro-sci"
+}

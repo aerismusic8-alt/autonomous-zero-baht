@@ -1,0 +1,45 @@
+{
+  "slug": "0046_the_countdown_that_repeats",
+  "title": "The Countdown That Repeats",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs. The Countdown That Repeats. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#scifi #shortstory #space #creepy #fiction",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "science fiction shorts",
+    "twist ending",
+    "short story"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#shortstory",
+    "#space",
+    "#creepy",
+    "#fiction"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 31.43,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-19T19:21:29.357009+00:00"
+}

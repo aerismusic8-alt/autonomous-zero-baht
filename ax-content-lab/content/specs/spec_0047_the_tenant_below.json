@@ -1,0 +1,101 @@
+{
+  "slug": "0047_the_tenant_below",
+  "title": "The Tenant Below",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The apartment below mine has been empty for a year.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "the tenant below - scene 1, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4600612
+    },
+    {
+      "kicker": "",
+      "text": "Last night, someone moved furniture down there. Slowly. All night.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "the tenant below - scene 2, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4608531
+    },
+    {
+      "kicker": "",
+      "text": "I knocked on the floor. The knocking came back - from under the floor.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 70,
+      "art_prompt": "the tenant below - scene 3, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4616450
+    },
+    {
+      "kicker": "",
+      "text": "I called the building manager. He checked the plans twice.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 82,
+      "art_prompt": "the tenant below - scene 4, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4624369
+    },
+    {
+      "kicker": "",
+      "text": "There is no apartment below mine.\nThe building stops at my floor. It always has.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 94,
+      "art_prompt": "the tenant below - scene 5, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4632288
+    },
+    {
+      "kicker": "",
+      "text": "Follow for more Quiet Horror Files.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "the tenant below - scene 6, cinematic, anime-horror",
+      "art_style": "anime-horror",
+      "art_seed": 4640207
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NOBODY MOVED IN",
+    "description": "Quiet Horror Files. The Tenant Below. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}

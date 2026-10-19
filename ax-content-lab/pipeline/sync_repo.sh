@@ -43,10 +43,16 @@ fi
 
 mkdir -p "$SUBDIR"
 # copy code + evidence, never secrets
-for item in pipeline content research docs brand .github README.md AGENTS.md run_loop.sh .gitignore; do
+for item in pipeline content research docs brand .github README.md AGENTS.md run_loop.sh .gitignore site; do
   [ -e "$LAB_DIR/$item" ] && cp -r "$LAB_DIR/$item" "$SUBDIR/"
 done
 rm -rf "$SUBDIR/secrets" "$SUBDIR"/content/*/assets
+
+# GitHub Actions only reads `.github/workflows/` at the REPOSITORY ROOT. The lab
+# keeps its canonical workflow inside `$SUBDIR/.github/workflows/`, which GitHub
+# would otherwise ignore. Install it at the root so the loop actually runs.
+mkdir -p .github/workflows
+cp "$LAB_DIR/.github/workflows/lab-loop.yml" .github/workflows/ax-lab-loop.yml
 
 # Videos are gitignored in the lab, so they need a one-time force-add. Once they
 # are tracked in the repo they stay tracked; never delete them from disk (that
@@ -68,9 +74,40 @@ else
 fi
 
 echo "[sync] pushing to $BRANCH"
-if git push --quiet origin "$BRANCH" 2>&1; then
+PUSH_OUT="$(git push --quiet origin "$BRANCH" 2>&1)"
+if [ $? -eq 0 ]; then
   echo "[sync] OK -> https://github.com/${REPO}/tree/${BRANCH}/${SUBDIR}"
-else
+  exit 0
+fi
+echo "$PUSH_OUT"
+
+# A token without the fine-grained "Workflows" permission cannot create or update
+# any file under .github/workflows/. That rejects the WHOLE push, which would also
+# lose the code and evidence. Retry without the workflow changes so the rest
+# persists, and report the workflow blocker separately.
+if printf '%s' "$PUSH_OUT" | grep -qi 'workflow'; then
+  echo "[sync] NOTE: token cannot write .github/workflows/ (needs fine-grained 'Workflows: Read and write')."
+  echo "[sync]       Retrying without workflow changes so code + evidence still persist."
+  git rm --quiet --cached .github/workflows/ax-lab-loop.yml 2>/dev/null || true
+  rm -f .github/workflows/ax-lab-loop.yml
+  git reset --quiet HEAD -- .github/workflows 2>/dev/null || true
+  git checkout --quiet HEAD -- "$SUBDIR/.github/workflows" 2>/dev/null || true
+  git add -A
+  if git diff --cached --quiet; then
+    echo "[sync] nothing left to commit"
+    exit 0
+  fi
+  git -c user.name="ax-lab-bot" -c user.email="openhands@all-hands.dev" \
+      commit --quiet --amend -m "chore(ax-lab): sync loop evidence $(date -u +%FT%TZ)"
+  if git push --quiet origin "$BRANCH" 2>&1; then
+    echo "[sync] OK (code + evidence) -> https://github.com/${REPO}/tree/${BRANCH}/${SUBDIR}"
+    echo "[sync] BLOCKED: CI workflow not updated - K must grant the PAT the"
+    echo "[sync]          fine-grained 'Workflows: Read and write' permission."
+    exit 0
+  fi
   echo "[sync] BLOCKED: push rejected (token lacks Contents: Read and write)"
   exit 4
 fi
+
+echo "[sync] BLOCKED: push rejected (token lacks Contents: Read and write)"
+exit 4
