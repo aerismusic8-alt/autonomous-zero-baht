@@ -1,26 +1,26 @@
 [
   {
+    "path": "data/content/drafts/show-hn-whatsapp-mcp-running-free-on-cloudflare.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/namecheap-just-seized-and-disabled-all-my-domains.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science.json",
+    "path": "data/content/drafts/william-gibson-and-the-trademarking-of-cyberspace.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/tiny-brutalism-thanks-to-hn-it-s-on-steam.json",
+    "path": "data/content/drafts/superlite-a-faster-alternatie-to-superpowers.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/the-intel-8087-chip-floating-point-addition-and-subtraction.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/someone-behind-the-software.json",
+    "path": "data/content/drafts/palmos-lemmings.json",
     "passed": true,
     "errors": []
   }

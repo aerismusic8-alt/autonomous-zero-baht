@@ -1278,3 +1278,22 @@
 {"timestamp": "2026-10-18T20:48:48.527429+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-18T20:48:48.527602+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-18T20:48:48.527943+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-19T04:46:38.550039+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-19T04:46:38.553675+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:38.554274+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-19T04:46:38.554948+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-19T04:46:38.675961+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-19T04:46:39.897705+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-19T04:46:39.898928+00:00", "event": "draft_created", "draft_id": "show-hn-whatsapp-mcp-running-free-on-cloudflare", "path": "data/content/drafts/show-hn-whatsapp-mcp-running-free-on-cloudflare.json"}
+{"timestamp": "2026-10-19T04:46:39.899261+00:00", "event": "draft_created", "draft_id": "namecheap-just-seized-and-disabled-all-my-domains", "path": "data/content/drafts/namecheap-just-seized-and-disabled-all-my-domains.json"}
+{"timestamp": "2026-10-19T04:46:39.899587+00:00", "event": "draft_created", "draft_id": "william-gibson-and-the-trademarking-of-cyberspace", "path": "data/content/drafts/william-gibson-and-the-trademarking-of-cyberspace.json"}
+{"timestamp": "2026-10-19T04:46:39.899908+00:00", "event": "draft_created", "draft_id": "superlite-a-faster-alternatie-to-superpowers", "path": "data/content/drafts/superlite-a-faster-alternatie-to-superpowers.json"}
+{"timestamp": "2026-10-19T04:46:39.900192+00:00", "event": "draft_created", "draft_id": "palmos-lemmings", "path": "data/content/drafts/palmos-lemmings.json"}
+{"timestamp": "2026-10-19T04:46:39.900351+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-whatsapp-mcp-running-free-on-cloudflare.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:39.900498+00:00", "event": "draft_validation", "path": "data/content/drafts/namecheap-just-seized-and-disabled-all-my-domains.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:39.900636+00:00", "event": "draft_validation", "path": "data/content/drafts/william-gibson-and-the-trademarking-of-cyberspace.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:39.900780+00:00", "event": "draft_validation", "path": "data/content/drafts/superlite-a-faster-alternatie-to-superpowers.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:39.900966+00:00", "event": "draft_validation", "path": "data/content/drafts/palmos-lemmings.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-19T04:46:39.901207+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-19T04:46:39.901386+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-19T04:46:39.901673+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
