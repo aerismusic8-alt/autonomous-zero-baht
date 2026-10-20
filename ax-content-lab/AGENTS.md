@@ -165,8 +165,8 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 
 ## Current status
 
-50 videos produced, 50/50 QC PASS (independently re-verified spec-compliant).
-Newest: specs 0046–0050 (one per series), all rendered and QC PASS.
+55 videos produced, 55/55 QC PASS (independently re-verified spec-compliant).
+Newest: specs 0051–0055 (one per series), all rendered and QC PASS.
 0 published (BLOCKED on credentials for all four platforms). Revenue ฿0.00.
 Reference research: 94 real high-view videos with links in `site/references.html`.
 
