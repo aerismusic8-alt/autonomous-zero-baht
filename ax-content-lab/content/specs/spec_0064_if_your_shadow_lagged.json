@@ -1,0 +1,95 @@
+{
+  "slug": "0064_if_your_shadow_lagged",
+  "title": "If Your Shadow Lagged",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "Your shadow is not attached to you. It is just light failing to reach the ground where you stand.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 46,
+      "art_prompt": "a long shadow of a person stretching across sunlit pavement, crisp",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Suppose light took a full second to cross a room. Your shadow would move a second behind you.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 58,
+      "art_prompt": "a person walking while their shadow trails behind at an impossible delay, surreal",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Reach for a cup and the shadow reaches after. Turn off a lamp and the darkness arrives late.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "a hand reaching for a cup with its shadow arriving late, physics illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "At the real speed of light, that delay is about a billionth of a second. You would never see it.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 82,
+      "art_prompt": "a clock face and a beam of light racing across a room, clean diagram",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The world looks instant only because light is fast. Slow it down and every glance becomes a replay.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 94,
+      "art_prompt": "a person and their shadow in a sunlit room, quietly resolved",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for the next question.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 106,
+      "art_prompt": "a bright empty street with long afternoon shadows, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "LAGGING SHADOW",
+    "description": "What If Physics. If Your Shadow Lagged. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "speed of light",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

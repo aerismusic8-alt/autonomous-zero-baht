@@ -1,0 +1,45 @@
+{
+  "slug": "0063_the_key_that_was_never_cut",
+  "title": "The Key That Was Never Cut",
+  "series": "Unsolved Archive",
+  "description": "Unsolved Archive. The Key That Was Never Cut. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#unsolved #mystery #archive #history #shorts",
+  "tags": [
+    "unsolved mystery",
+    "true mystery",
+    "archive",
+    "historical mystery",
+    "cold case",
+    "mystery shorts",
+    "documentary",
+    "shorts"
+  ],
+  "hashtags": [
+    "#unsolved",
+    "#mystery",
+    "#archive",
+    "#history",
+    "#shorts"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 34.26,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T17:40:49.073717+00:00"
+}

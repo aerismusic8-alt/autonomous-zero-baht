@@ -1,0 +1,45 @@
+{
+  "slug": "0062_the_flat_above_the_stairs",
+  "title": "The Flat Above the Stairs",
+  "series": "Quiet Horror Files",
+  "description": "Quiet Horror Files. The Flat Above the Stairs. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#horror #creepy #mystery #scary #shorts",
+  "tags": [
+    "horror shorts",
+    "creepy stories",
+    "scary stories",
+    "quiet horror",
+    "ghost story",
+    "short horror",
+    "mystery",
+    "shorts"
+  ],
+  "hashtags": [
+    "#horror",
+    "#creepy",
+    "#mystery",
+    "#scary",
+    "#shorts"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 35.15,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T17:40:53.377871+00:00"
+}

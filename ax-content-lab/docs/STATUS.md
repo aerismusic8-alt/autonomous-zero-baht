@@ -1,11 +1,11 @@
 # AX Viral Content Lab — Status
 
-Generated: 2026-10-20T16:43:39.824207+00:00  |  commit: `2c024e1`
+Generated: 2026-10-20T17:44:54.330894+00:00  |  commit: `2c024e1`
 
 ## Headline numbers (all evidence-backed)
 
-- Videos produced: **60**
-- Videos passing full QC: **60** (60/60)
+- Videos produced: **65**
+- Videos passing full QC: **65** (65/65)
 - Videos published: **0**
 - Verified audience metrics captured: **0**
 - Verified revenue: **฿0.00** (no payout channel is active yet)
@@ -74,6 +74,11 @@ Generated: 2026-10-20T16:43:39.824207+00:00  |  commit: `2c024e1`
 | 0058_the_apartment_that_breathes | Quiet Horror Files | The Apartment That Breathes | 30.81s | 16/16 | PASS | 3.8 MB |
 | 0059_the_name_in_the_register | Unsolved Archive | The Name in the Register | 33.97s | 16/16 | PASS | 4.7 MB |
 | 0060_if_the_sea_stood_still | What If Physics | If the Sea Stood Still | 35.83s | 16/16 | PASS | 4.4 MB |
+| 0061_the_archive_that_answered | Deep Space Logs | The Archive That Answered | 36.35s | 16/16 | PASS | 4.4 MB |
+| 0062_the_flat_above_the_stairs | Quiet Horror Files | The Flat Above the Stairs | 35.15s | 16/16 | PASS | 4.3 MB |
+| 0063_the_key_that_was_never_cut | Unsolved Archive | The Key That Was Never Cut | 34.26s | 16/16 | PASS | 4.6 MB |
+| 0064_if_your_shadow_lagged | What If Physics | If Your Shadow Lagged | 37.77s | 16/16 | PASS | 4.7 MB |
+| 0065_the_star_that_sang_alone | Cosmic Wonders | The Star That Sang Alone | 34.94s | 16/16 | PASS | 4.6 MB |
 
 ## Publication status
 
@@ -103,6 +108,7 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 - `research/loop_20261019T191314Z.json`
 - `research/loop_20261020T015547Z.json`
 - `research/loop_20261020T163150Z.json`
+- `research/loop_20261020T173441Z.json`
 - `research/niche_scan_20261014T151544Z.json`
 - `research/references_20261014T183329Z.json`
 - `research/references_20261014T183519Z.json`
@@ -113,7 +119,7 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 ## Repository
 
 - GitHub: https://github.com/aerismusic8-alt/autonomous-zero-baht/tree/ax-content-lab/ax-content-lab
-- Public — all code, QC reports, specs, research snapshots and the 60 finished
+- Public — all code, QC reports, specs, research snapshots and the 65 finished
   MP4s are readable without authentication.
 - Sync with `bash pipeline/sync_repo.sh` (reads `secrets/github_pat.txt`).
 - Persist status: the environment write token is currently invalid (401/403), so
@@ -149,8 +155,8 @@ No revenue stage is claimed beyond REPORTED=0 because no monetisation channel is
 2. Collected real public market data and stored raw evidence (`research/*.json`).
 3. Analysed it and selected niches with documented rationale (`docs/MARKET_RESEARCH.md`).
 4. Built an end-to-end original production pipeline (research → script → assets → voice/music → edit → QC → package).
-5. Produced 60 original videos, all with original writing, original procedural music, and original procedural visuals — zero third-party assets.
-6. Quality-checked every one: 60/60 passed 16/16 checks including real frame analysis, silence detection and loudness measurement.
+5. Produced 65 original videos, all with original writing, original procedural music, and original procedural visuals — zero third-party assets.
+6. Quality-checked every one: 65/65 passed 16/16 checks including real frame analysis, silence detection and loudness measurement.
 7. Built the publishing, analytics and state layers and a free continuous scheduler.
 
 ## BLOCKED / needs K

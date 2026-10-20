@@ -1,0 +1,45 @@
+{
+  "slug": "0064_if_your_shadow_lagged",
+  "title": "If Your Shadow Lagged",
+  "series": "What If Physics",
+  "description": "What If Physics. If Your Shadow Lagged. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#whatif #physics #science #facts #explained",
+  "tags": [
+    "what if",
+    "physics explained",
+    "science shorts",
+    "hypothetical",
+    "thought experiment",
+    "speed of light",
+    "educational shorts",
+    "physics"
+  ],
+  "hashtags": [
+    "#whatif",
+    "#physics",
+    "#science",
+    "#facts",
+    "#explained"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 37.77,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T17:43:46.334053+00:00"
+}

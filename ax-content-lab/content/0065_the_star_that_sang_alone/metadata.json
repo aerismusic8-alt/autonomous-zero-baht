@@ -1,0 +1,45 @@
+{
+  "slug": "0065_the_star_that_sang_alone",
+  "title": "The Star That Sang Alone",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders. The Star That Sang Alone. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #astronomy #cosmos #science #shorts",
+  "tags": [
+    "cosmic wonders",
+    "astronomy",
+    "space facts",
+    "stars",
+    "space mystery",
+    "science shorts",
+    "universe",
+    "shorts"
+  ],
+  "hashtags": [
+    "#space",
+    "#astronomy",
+    "#cosmos",
+    "#science",
+    "#shorts"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 34.94,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T17:43:32.021429+00:00"
+}

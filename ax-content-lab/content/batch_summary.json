@@ -1,6 +1,6 @@
 {
-  "produced": 60,
-  "qc_pass": 60,
+  "produced": 65,
+  "qc_pass": 65,
   "failed": [],
   "results": [
     {
@@ -559,8 +559,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 27.96,
-      "seconds": 165.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -569,8 +569,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 30.99,
-      "seconds": 175.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -579,8 +579,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 30.81,
-      "seconds": 176.4,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -589,8 +589,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 33.97,
-      "seconds": 156.8,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -599,10 +599,60 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 35.83,
-      "seconds": 158.8,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0061_the_archive_that_answered.json",
+      "slug": "0061_the_archive_that_answered",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 36.35,
+      "seconds": 207.8,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0062_the_flat_above_the_stairs.json",
+      "slug": "0062_the_flat_above_the_stairs",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 35.15,
+      "seconds": 207.7,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0063_the_key_that_was_never_cut.json",
+      "slug": "0063_the_key_that_was_never_cut",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 34.26,
+      "seconds": 204.6,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0064_if_your_shadow_lagged.json",
+      "slug": "0064_if_your_shadow_lagged",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 37.77,
+      "seconds": 172.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0065_the_star_that_sang_alone.json",
+      "slug": "0065_the_star_that_sang_alone",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 34.94,
+      "seconds": 155.8,
       "skipped": false,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-20T16:42:44Z"
+  "generated_at": "2026-10-20T17:43:50Z"
 }

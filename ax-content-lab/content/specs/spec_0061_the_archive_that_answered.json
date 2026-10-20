@@ -1,0 +1,95 @@
+{
+  "slug": "0061_the_archive_that_answered",
+  "title": "The Archive That Answered",
+  "series": "Deep Space Logs",
+  "orientation": "vertical",
+  "theme": "signal",
+  "mood": "wonder",
+  "voice": "male_documentary",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "DEEP SPACE LOGS",
+      "text": "We sent the archive out as a gift. A record of who we were, drifting toward anyone.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 46,
+      "art_prompt": "a golden disc drifting alone in deep black space with faint stars, cinematic",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "For forty years, nothing. Then one night the dish picked up a carrier wave on our own frequency.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 58,
+      "art_prompt": "a giant radio dish turned toward a starry sky, faint signal rings in the air",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The signal carried the archive back. Every photograph, every greeting, every voice.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 70,
+      "art_prompt": "streams of glowing data returning toward a blue planet, long light trails",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "But the order had changed. The last message on the record was now the first one sent back.",
+      "style": "caption",
+      "theme": "signal",
+      "particles": 82,
+      "art_prompt": "rows of holographic image frames reversing order in the dark, eerie",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "We had sent a hello. Something out there read it to the end, then started over from the last line.",
+      "style": "quote",
+      "theme": "signal",
+      "particles": 94,
+      "art_prompt": "a lone listening station under a vast star field, quiet and unresolved",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Deep Space Logs for the next transmission.",
+      "style": "endcard",
+      "theme": "signal",
+      "particles": 106,
+      "art_prompt": "a distant dish silhouetted against the Milky Way, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT ANSWERED",
+    "description": "Deep Space Logs. The Archive That Answered. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #scifi #mystery #science #shorts",
+    "tags": [
+      "deep space",
+      "space mystery",
+      "sci fi shorts",
+      "space stories",
+      "first contact",
+      "science fiction",
+      "space facts",
+      "shorts"
+    ],
+    "hashtags": [
+      "#space",
+      "#scifi",
+      "#mystery",
+      "#science",
+      "#shorts"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "0062_the_flat_above_the_stairs",
+  "title": "The Flat Above the Stairs",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dread",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "The landlord said the flat above mine had been empty for eleven years.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "a dim apartment stairwell with one warm light left on, unsettling",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Every night at 2:14, I heard a chair slide back. One scrape, then nothing.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "a single wooden chair lit by a bare bulb in an empty room, long shadow",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "I asked the neighbour across the hall. She went quiet, then asked which stairs I used.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 70,
+      "art_prompt": "a narrow hallway with numbered doors fading into darkness, uneasy",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "There are no stairs above my floor. The building is four storeys. I live on the top.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 82,
+      "art_prompt": "an exterior of a four storey building at night, one window lit above the roofline",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "That night the scraping came from my own ceiling. Closer than a ceiling should be.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 94,
+      "art_prompt": "a bedroom ceiling with a faint crack of light above it, tense",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Quiet Horror Files for the next one.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "a dark empty apartment building under a cold moon, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NO STAIRS",
+    "description": "Quiet Horror Files. The Flat Above the Stairs. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#horror #creepy #mystery #scary #shorts",
+    "tags": [
+      "horror shorts",
+      "creepy stories",
+      "scary stories",
+      "quiet horror",
+      "ghost story",
+      "short horror",
+      "mystery",
+      "shorts"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#mystery",
+      "#scary",
+      "#shorts"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

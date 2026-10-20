@@ -1,0 +1,95 @@
+{
+  "slug": "0063_the_key_that_was_never_cut",
+  "title": "The Key That Was Never Cut",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "intrigue",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE",
+      "text": "When the house was cleared in 1974, one drawer was still locked.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 46,
+      "art_prompt": "an old wooden desk with a single locked drawer in dusty light, archival",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The family had lived there for sixty years. No one knew where the key had gone.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 58,
+      "art_prompt": "sepia family photographs on a wall in a dim parlour, aged paper",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "A locksmith opened it in nine minutes. Inside was a single brass key, unlabelled.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 70,
+      "art_prompt": "a brass key resting on faded newspaper inside an open drawer, close up",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "It did not fit any door in the house. Investigators tested all forty-one of them.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 82,
+      "art_prompt": "a row of old interior doors along a long corridor, one key in hand",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The key was filed under evidence and never claimed. The drawer, they noted, had been locked from the inside.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 94,
+      "art_prompt": "an evidence box on a shelf under cold light, quiet and unresolved",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for the next file.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 106,
+      "art_prompt": "a closed archive room with tall shelves and one lamp, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NEVER CUT",
+    "description": "Unsolved Archive. The Key That Was Never Cut. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#unsolved #mystery #archive #history #shorts",
+    "tags": [
+      "unsolved mystery",
+      "true mystery",
+      "archive",
+      "historical mystery",
+      "cold case",
+      "mystery shorts",
+      "documentary",
+      "shorts"
+    ],
+    "hashtags": [
+      "#unsolved",
+      "#mystery",
+      "#archive",
+      "#history",
+      "#shorts"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}
