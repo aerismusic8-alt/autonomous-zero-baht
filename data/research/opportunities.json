@@ -2,95 +2,97 @@
   {
     "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
     "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "summary": " Article URL:  https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions  \n Comments URL:  https://news.ycombinator.com/item?id=50159341  \n Points: 133 \n # Comments: 21 ",
+    "summary": " Article URL:  https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions  \n Comments URL:  https://news.ycombinator.com/item?id=50159341  \n Points: 492 \n # Comments: 146 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-20T04:56:05.699381+00:00"
+    "researched_at": "2026-10-20T11:44:24.386094+00:00"
   },
   {
     "title": "Go will reject certificate chains containing eight distrusted SPKIs",
     "url": "https://github.com/golang/go/issues/82345",
-    "summary": " Article URL:  https://github.com/golang/go/issues/82345  \n Comments URL:  https://news.ycombinator.com/item?id=50160877  \n Points: 28 \n # Comments: 6 ",
+    "summary": " Article URL:  https://github.com/golang/go/issues/82345  \n Comments URL:  https://news.ycombinator.com/item?id=50160877  \n Points: 109 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-20T04:56:05.699359+00:00"
+    "researched_at": "2026-10-20T11:44:24.386085+00:00"
   },
   {
-    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-    "url": "https://josie.lol/blog/linux-rtx-spark",
-    "summary": " Article URL:  https://josie.lol/blog/linux-rtx-spark  \n Comments URL:  https://news.ycombinator.com/item?id=50158100  \n Points: 206 \n # Comments: 97 ",
+    "title": "DeepSeek just open-sourced its inference engine",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "summary": " Article URL:  https://github.com/deepseek-ai/DeepInfer  \n Comments URL:  https://news.ycombinator.com/item?id=50163277  \n Points: 495 \n # Comments: 173 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-20T11:44:24.386075+00:00"
+  },
+  {
+    "title": "There is no official XScreenSaver GitHub repository",
+    "url": "https://github.com/xscreensaver-official/xscreensaver",
+    "summary": " Article URL:  https://github.com/xscreensaver-official/xscreensaver  \n Comments URL:  https://news.ycombinator.com/item?id=50163142  \n Points: 43 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699418+00:00"
+    "researched_at": "2026-10-20T11:44:24.386079+00:00"
   },
   {
-    "title": "OpenBSD 8.0: released Oct 20, 2026",
-    "url": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
-    "summary": " Article URL:  https://marc.info/?l=openbsd-misc&m=179245849770356&w=2  \n Comments URL:  https://news.ycombinator.com/item?id=50160419  \n Points: 21 \n # Comments: 2 ",
+    "title": "Revolut down as users report app not working",
+    "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+    "summary": " Article URL:  https://www.bbc.com/news/articles/cxdd8mm6qy4mo  \n Comments URL:  https://news.ycombinator.com/item?id=50163625  \n Points: 57 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699371+00:00"
-  },
-  {
-    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-    "url": "https://bsd.network/@brynet/117407035545900963",
-    "summary": " Article URL:  https://bsd.network/@brynet/117407035545900963  \n Comments URL:  https://news.ycombinator.com/item?id=50158138  \n Points: 123 \n # Comments: 28 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699387+00:00"
+    "researched_at": "2026-10-20T11:44:24.386071+00:00"
   },
   {
     "title": "OpenBSD 8.0",
     "url": "https://www.openbsd.org/80.html",
-    "summary": " Article URL:  https://www.openbsd.org/80.html  \n Comments URL:  https://news.ycombinator.com/item?id=50160494  \n Points: 79 \n # Comments: 21 ",
+    "summary": " Article URL:  https://www.openbsd.org/80.html  \n Comments URL:  https://news.ycombinator.com/item?id=50160494  \n Points: 329 \n # Comments: 106 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699367+00:00"
+    "researched_at": "2026-10-20T11:44:24.386088+00:00"
   },
   {
-    "title": "One Hash Bloom Filters",
-    "url": "https://calabro.io/ohbf",
-    "summary": " Article URL:  https://calabro.io/ohbf  \n Comments URL:  https://news.ycombinator.com/item?id=50157865  \n Points: 73 \n # Comments: 10 ",
+    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+    "url": "https://github.com/microg/GmsCore/wiki",
+    "summary": " Article URL:  https://github.com/microg/GmsCore/wiki  \n Comments URL:  https://news.ycombinator.com/item?id=50162177  \n Points: 97 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699421+00:00"
+    "researched_at": "2026-10-20T11:44:24.386082+00:00"
+  },
+  {
+    "title": "How abliterated models can get you pwned",
+    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "summary": " Article URL:  https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned  \n Comments URL:  https://news.ycombinator.com/item?id=50159245  \n Points: 151 \n # Comments: 86 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-20T11:44:24.386097+00:00"
+  },
+  {
+    "title": "Google cloud outage takes down banks",
+    "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+    "summary": " Article URL:  https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/  \n Comments URL:  https://news.ycombinator.com/item?id=50163961  \n Points: 40 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-20T11:44:24.386063+00:00"
   },
   {
     "title": "France's supermarket fridges were vulnerable online for months",
     "url": "https://ipinfo.io/blog/france-fridges-hack",
-    "summary": " Article URL:  https://ipinfo.io/blog/france-fridges-hack  \n Comments URL:  https://news.ycombinator.com/item?id=50159616  \n Points: 81 \n # Comments: 66 ",
+    "summary": " Related:  Hackers activate automatic defrosting in supermarket fridges across Europe  -  https://news.ycombinator.com/item?id=50055304  - Oct 2026 (1007 comments) \n \n Comments URL:  https://news.ycombinator.com/item?id=50159616  \n Points: 183 \n # Comments: 165 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699378+00:00"
-  },
-  {
-    "title": "Developing Taste",
-    "url": "https://emilkowal.ski/ui/developing-taste",
-    "summary": " Article URL:  https://emilkowal.ski/ui/developing-taste  \n Comments URL:  https://news.ycombinator.com/item?id=50160135  \n Points: 21 \n # Comments: 14 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699374+00:00"
-  },
-  {
-    "title": "An ad-free Android TV",
-    "url": "https://cretezy.com/2026/ad-free-android-tv",
-    "summary": " Article URL:  https://cretezy.com/2026/ad-free-android-tv  \n Comments URL:  https://news.ycombinator.com/item?id=50158942  \n Points: 80 \n # Comments: 27 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-20T04:56:05.699384+00:00"
+    "researched_at": "2026-10-20T11:44:24.386091+00:00"
   }
 ]
