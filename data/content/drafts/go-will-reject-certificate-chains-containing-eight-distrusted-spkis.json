@@ -1,0 +1,27 @@
+{
+  "id": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis",
+  "created_at": "2026-10-20T04:56:05.700537+00:00",
+  "source_title": "Go will reject certificate chains containing eight distrusted SPKIs",
+  "source_url": "https://github.com/golang/go/issues/82345",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Article URL:  https://github.com/golang/go/issues/82345  \n Comments URL:  https://news.ycombinator.com/item?id=50160877  \n Points: 28 \n # Comments: 6",
+      "source_url": "https://github.com/golang/go/issues/82345"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Go will reject certificate chains containing eight distrusted SPKIs\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/golang/go/issues/82345",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Go will reject certificate chains containing eight distrusted SPKIs อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/golang/go/issues/82345",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

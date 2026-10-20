@@ -1,96 +1,96 @@
 [
   {
-    "title": "Mercury 3: Diffusion at scale",
-    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "summary": " Article URL:  https://www.inceptionlabs.ai/blog/introducing-mercury-3  \n Comments URL:  https://news.ycombinator.com/item?id=50155245  \n Points: 202 \n # Comments: 79 ",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "summary": " Article URL:  https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions  \n Comments URL:  https://news.ycombinator.com/item?id=50159341  \n Points: 133 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-19T22:23:50.282734+00:00"
+    "researched_at": "2026-10-20T04:56:05.699381+00:00"
   },
   {
-    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-    "url": "https://news.ycombinator.com/item?id=50154029",
-    "summary": " Hi HN, we’re Robert and Din from Laminar ( https://laminar.sh ). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark ( https://laminar.sh/blog/flow-1 ), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling. Here’s a one-minute walkthrough:  https://youtu.be/KJa3h6ZJNLQ  We also put together a post with example traces and analyses from flow-1 and other models:  https://laminar.sh/blog/flow-1-in-action  Agent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles. Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and un",
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "url": "https://github.com/golang/go/issues/82345",
+    "summary": " Article URL:  https://github.com/golang/go/issues/82345  \n Comments URL:  https://news.ycombinator.com/item?id=50160877  \n Points: 28 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-19T22:23:50.282762+00:00"
+    "researched_at": "2026-10-20T04:56:05.699359+00:00"
   },
   {
-    "title": "The reverts will continue until morale improves",
-    "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-    "summary": " Article URL:  http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves  \n Comments URL:  https://news.ycombinator.com/item?id=50156206  \n Points: 140 \n # Comments: 20 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282730+00:00"
-  },
-  {
-    "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
+    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
     "url": "https://josie.lol/blog/linux-rtx-spark",
-    "summary": " Article URL:  https://josie.lol/blog/linux-rtx-spark  \n Comments URL:  https://news.ycombinator.com/item?id=50158100  \n Points: 95 \n # Comments: 36 ",
+    "summary": " Article URL:  https://josie.lol/blog/linux-rtx-spark  \n Comments URL:  https://news.ycombinator.com/item?id=50158100  \n Points: 206 \n # Comments: 97 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282726+00:00"
+    "researched_at": "2026-10-20T04:56:05.699418+00:00"
+  },
+  {
+    "title": "OpenBSD 8.0: released Oct 20, 2026",
+    "url": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
+    "summary": " Article URL:  https://marc.info/?l=openbsd-misc&m=179245849770356&w=2  \n Comments URL:  https://news.ycombinator.com/item?id=50160419  \n Points: 21 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-20T04:56:05.699371+00:00"
   },
   {
     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
     "url": "https://bsd.network/@brynet/117407035545900963",
-    "summary": " Article URL:  https://bsd.network/@brynet/117407035545900963  \n Comments URL:  https://news.ycombinator.com/item?id=50158138  \n Points: 29 \n # Comments: 3 ",
+    "summary": " Article URL:  https://bsd.network/@brynet/117407035545900963  \n Comments URL:  https://news.ycombinator.com/item?id=50158138  \n Points: 123 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282711+00:00"
+    "researched_at": "2026-10-20T04:56:05.699387+00:00"
   },
   {
-    "title": "MiniMax M3.1 Flash",
-    "url": "https://www.minimax.io/blog/minimax-m31f",
-    "summary": " Article URL:  https://www.minimax.io/blog/minimax-m31f  \n Comments URL:  https://news.ycombinator.com/item?id=50154540  \n Points: 308 \n # Comments: 127 ",
+    "title": "OpenBSD 8.0",
+    "url": "https://www.openbsd.org/80.html",
+    "summary": " Article URL:  https://www.openbsd.org/80.html  \n Comments URL:  https://news.ycombinator.com/item?id=50160494  \n Points: 79 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282742+00:00"
+    "researched_at": "2026-10-20T04:56:05.699367+00:00"
   },
   {
-    "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-    "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-    "summary": " Article URL:  https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository  \n Comments URL:  https://news.ycombinator.com/item?id=50154518  \n Points: 386 \n # Comments: 363 ",
+    "title": "One Hash Bloom Filters",
+    "url": "https://calabro.io/ohbf",
+    "summary": " Article URL:  https://calabro.io/ohbf  \n Comments URL:  https://news.ycombinator.com/item?id=50157865  \n Points: 73 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282746+00:00"
+    "researched_at": "2026-10-20T04:56:05.699421+00:00"
   },
   {
-    "title": "Evidence (YC S21) Is Hiring Software Engineers",
-    "url": "https://evidence.dev/jobs",
-    "summary": " Article URL:  https://evidence.dev/jobs  \n Comments URL:  https://news.ycombinator.com/item?id=50155172  \n Points: 0 \n # Comments: 0 ",
+    "title": "France's supermarket fridges were vulnerable online for months",
+    "url": "https://ipinfo.io/blog/france-fridges-hack",
+    "summary": " Article URL:  https://ipinfo.io/blog/france-fridges-hack  \n Comments URL:  https://news.ycombinator.com/item?id=50159616  \n Points: 81 \n # Comments: 66 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282737+00:00"
+    "researched_at": "2026-10-20T04:56:05.699378+00:00"
   },
   {
-    "title": "Diablo 2 Survivors",
-    "url": "https://d2survivors.lol/",
-    "summary": " Article URL:  https://d2survivors.lol/  \n Comments URL:  https://news.ycombinator.com/item?id=50158131  \n Points: 12 \n # Comments: 1 ",
+    "title": "Developing Taste",
+    "url": "https://emilkowal.ski/ui/developing-taste",
+    "summary": " Article URL:  https://emilkowal.ski/ui/developing-taste  \n Comments URL:  https://news.ycombinator.com/item?id=50160135  \n Points: 21 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282722+00:00"
+    "researched_at": "2026-10-20T04:56:05.699374+00:00"
   },
   {
-    "title": "Android apps running native on macOS",
-    "url": "https://github.com/kksimp/Mac.apk",
-    "summary": " Article URL:  https://github.com/kksimp/Mac.apk  \n Comments URL:  https://news.ycombinator.com/item?id=50154624  \n Points: 209 \n # Comments: 89 ",
+    "title": "An ad-free Android TV",
+    "url": "https://cretezy.com/2026/ad-free-android-tv",
+    "summary": " Article URL:  https://cretezy.com/2026/ad-free-android-tv  \n Comments URL:  https://news.ycombinator.com/item?id=50158942  \n Points: 80 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-19T22:23:50.282740+00:00"
+    "researched_at": "2026-10-20T04:56:05.699384+00:00"
   }
 ]
