@@ -1,0 +1,45 @@
+{
+  "slug": "0056_the_star_that_never_ends",
+  "title": "The Star That Never Ends",
+  "series": "Cosmic Wonders",
+  "description": "Cosmic Wonders. The Star That Never Ends. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #science #facts #universe #astronomy",
+  "tags": [
+    "space facts",
+    "science facts",
+    "astronomy",
+    "universe facts",
+    "space documentary",
+    "mind blowing facts",
+    "science shorts",
+    "cosmos"
+  ],
+  "hashtags": [
+    "#space",
+    "#science",
+    "#facts",
+    "#universe",
+    "#astronomy"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 27.96,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T16:39:49.692427+00:00"
+}

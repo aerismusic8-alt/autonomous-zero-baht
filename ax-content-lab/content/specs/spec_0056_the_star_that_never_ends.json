@@ -1,0 +1,95 @@
+{
+  "slug": "0056_the_star_that_never_ends",
+  "title": "The Star That Never Ends",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS",
+      "text": "There is a star that should have burned out four billion years ago.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 46,
+      "art_prompt": "a single small blue-white star alone in a vast dark field of stars, cinematic",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "It is too small, too old, and far too quiet to still be burning.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 58,
+      "art_prompt": "a cutaway of a star's core, thin fuel layers glowing faintly, physics illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Astronomers watched it for decades. It never dimmed, not once.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 70,
+      "art_prompt": "a telescope dome under a night sky with one unusually steady bright star",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Then they found a second light beside it - too faint to see on its own.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 82,
+      "art_prompt": "two stars locked in a close orbit, one bright, one pale, exchanging glowing streams",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "It was never one star.\nIt is a pair, quietly feeding each other, refusing to go out.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 94,
+      "art_prompt": "two entwined stars glowing together in deep space, calm and resolved",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for more.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 106,
+      "art_prompt": "a wide field of stars with one warm double point of light, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "STILL BURNING",
+    "description": "Cosmic Wonders. The Star That Never Ends. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

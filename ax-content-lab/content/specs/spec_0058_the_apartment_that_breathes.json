@@ -1,0 +1,95 @@
+{
+  "slug": "0058_the_apartment_that_breathes",
+  "title": "The Apartment That Breathes",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "Every night at 3:12, my bedroom wall rises, then falls.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "a dim bedroom at night, one wall lit faintly by a streetlamp, anime-horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "Just a few centimetres. Slow. Like something behind it is breathing.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "a close view of a wall with faint hairline cracks, cold light, anime-horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "I measured it with tape. The wall is now two fingers closer than last month.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 70,
+      "art_prompt": "a measuring tape pressed to a wall, pencil marks, dim room, anime-horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "The landlord said the building has no room behind that wall.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 82,
+      "art_prompt": "an old building floor plan on a desk under a lamp, one wall circled, anime-horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "It is not moving toward me.\nThe whole room is shrinking, and it has been for years.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 94,
+      "art_prompt": "a small room with walls visibly leaning inward, one lamp, unsettling, anime-horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Quiet Horror Files for more.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "a closed bedroom door at the end of a dark hallway, final wide shot, anime-horror",
+      "art_style": "anime-horror"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT IS SHRINKING",
+    "description": "Quiet Horror Files. The Apartment That Breathes. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}

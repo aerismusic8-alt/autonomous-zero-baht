@@ -1,0 +1,45 @@
+{
+  "slug": "0057_the_log_that_wrote_itself",
+  "title": "The Log That Wrote Itself",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs. The Log That Wrote Itself. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#scifi #shortstory #space #creepy #fiction",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "science fiction shorts",
+    "twist ending",
+    "short story"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#shortstory",
+    "#space",
+    "#creepy",
+    "#fiction"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 30.99,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T16:40:00.721069+00:00"
+}

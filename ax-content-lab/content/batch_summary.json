@@ -1,6 +1,6 @@
 {
-  "produced": 55,
-  "qc_pass": 55,
+  "produced": 60,
+  "qc_pass": 60,
   "failed": [],
   "results": [
     {
@@ -509,8 +509,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 32.73,
-      "seconds": 191.2,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -519,8 +519,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 31.68,
-      "seconds": 190.2,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -529,8 +529,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 32.53,
-      "seconds": 190.9,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -539,8 +539,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 34.72,
-      "seconds": 158.0,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -549,10 +549,60 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 32.99,
-      "seconds": 152.1,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0056_the_star_that_never_ends.json",
+      "slug": "0056_the_star_that_never_ends",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 27.96,
+      "seconds": 165.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0057_the_log_that_wrote_itself.json",
+      "slug": "0057_the_log_that_wrote_itself",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 30.99,
+      "seconds": 175.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0058_the_apartment_that_breathes.json",
+      "slug": "0058_the_apartment_that_breathes",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 30.81,
+      "seconds": 176.4,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0059_the_name_in_the_register.json",
+      "slug": "0059_the_name_in_the_register",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 33.97,
+      "seconds": 156.8,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0060_if_the_sea_stood_still.json",
+      "slug": "0060_if_the_sea_stood_still",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 35.83,
+      "seconds": 158.8,
       "skipped": false,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-20T02:05:13Z"
+  "generated_at": "2026-10-20T16:42:44Z"
 }

@@ -1,0 +1,95 @@
+{
+  "slug": "0060_if_the_sea_stood_still",
+  "title": "If the Sea Stood Still",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "The ocean is always moving. Not just at the surface - all the way down.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 46,
+      "art_prompt": "a vast ocean surface at golden hour with long rolling swells, cinematic",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Suppose every wave stopped at once. Every current, every tide, every swirl.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 58,
+      "art_prompt": "a frozen wave held mid-curl, water unnaturally still and glassy, surreal",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The water would not stay clear for long. Still water stops carrying its heat.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "a cross-section of ocean layers with warm and cold bands, physics illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The tropics would boil in place. The poles would ice over, and both would stay put.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 82,
+      "art_prompt": "a world map with frozen blue poles and glowing red tropics, dramatic",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The sea does not just move around us.\nIt is the machine that moves the heat that keeps us alive.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 94,
+      "art_prompt": "a calm globe wrapped in faint flowing ocean currents, resolved conclusion",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for the next question.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 106,
+      "art_prompt": "a quiet blue planet with slow glowing currents, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "FROZEN OCEAN",
+    "description": "What If Physics. If the Sea Stood Still. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "science facts",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

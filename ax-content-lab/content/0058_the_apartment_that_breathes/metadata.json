@@ -1,0 +1,45 @@
+{
+  "slug": "0058_the_apartment_that_breathes",
+  "title": "The Apartment That Breathes",
+  "series": "Quiet Horror Files",
+  "description": "Quiet Horror Files. The Apartment That Breathes. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#horror #creepy #shortstory #scary #twist",
+  "tags": [
+    "horror short story",
+    "creepy stories",
+    "scary story",
+    "micro horror",
+    "twist ending",
+    "short horror",
+    "creepypasta",
+    "bedtime horror"
+  ],
+  "hashtags": [
+    "#horror",
+    "#creepy",
+    "#shortstory",
+    "#scary",
+    "#twist"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 30.81,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T16:40:02.576833+00:00"
+}

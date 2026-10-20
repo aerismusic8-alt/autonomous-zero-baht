@@ -1,0 +1,45 @@
+{
+  "slug": "0059_the_name_in_the_register",
+  "title": "The Name in the Register",
+  "series": "Unsolved Archive",
+  "description": "Unsolved Archive. The Name in the Register. Original short-form piece written and produced by AX Viral Content Lab. New pieces regularly.\n\n#mystery #unsolved #truestory #detective #archive",
+  "tags": [
+    "unsolved mystery",
+    "true story",
+    "mystery shorts",
+    "detective",
+    "cold case",
+    "unexplained",
+    "mystery story",
+    "investigation"
+  ],
+  "hashtags": [
+    "#mystery",
+    "#unsolved",
+    "#truestory",
+    "#detective",
+    "#archive"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 33.97,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by market research (see research/*.json); no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T16:42:28.157773+00:00"
+}
