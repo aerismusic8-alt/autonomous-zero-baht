@@ -1,0 +1,95 @@
+{
+  "slug": "0052_the_houseguest_who_left_early",
+  "title": "The Houseguest Who Left Early",
+  "series": "Quiet Horror Files",
+  "orientation": "vertical",
+  "theme": "ember",
+  "mood": "dark",
+  "voice": "male_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "QUIET HORROR FILES",
+      "text": "She let the stranger sleep on the couch for one night, out of the rain.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 46,
+      "art_prompt": "a small front room at night lit by one lamp, rain on the window, an empty couch, uneasy",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "At three in the morning she heard the front door open and close. He was gone.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 58,
+      "art_prompt": "an open front door onto a dark wet street, streetlight glow, unsettling calm",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "She locked it. The next night, the door opened again at three.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 70,
+      "art_prompt": "a dark hallway with a closed front door, deadbolt turned, faint shadow underneath",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "No one came in. No one went out. The bolt stayed thrown.",
+      "style": "caption",
+      "theme": "ember",
+      "particles": 82,
+      "art_prompt": "a close-up of a deadbolt still locked, a thin line of light under the door",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "She checked the couch each morning.\nThe cushion still held the shape of someone sitting there all night.",
+      "style": "quote",
+      "theme": "ember",
+      "particles": 94,
+      "art_prompt": "a couch cushion with a deep impression in the dark, single lamp, horror",
+      "art_style": "anime-horror"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Quiet Horror Files for more.",
+      "style": "endcard",
+      "theme": "ember",
+      "particles": 106,
+      "art_prompt": "a dark house seen from the street at 3 a.m., one window lit, final dread",
+      "art_style": "anime-horror"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "3:00 AM",
+    "description": "Quiet Horror Files - \"The Houseguest Who Left Early\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+    "tags": [
+      "horror short story",
+      "creepy stories",
+      "scary story",
+      "micro horror",
+      "twist ending",
+      "short horror",
+      "creepypasta",
+      "bedtime horror"
+    ],
+    "hashtags": [
+      "#horror",
+      "#creepy",
+      "#shortstory",
+      "#scary",
+      "#twist"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "anime-horror"
+}

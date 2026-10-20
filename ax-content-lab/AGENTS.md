@@ -165,16 +165,28 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 
 ## Current status
 
-45 videos produced, 45/45 QC PASS (independently re-verified spec-compliant).
-Newest: specs 0041–0045 (one per series), all rendered and QC PASS.
+50 videos produced, 50/50 QC PASS (independently re-verified spec-compliant).
+Newest: specs 0046–0050 (one per series), all rendered and QC PASS.
 0 published (BLOCKED on credentials for all four platforms). Revenue ฿0.00.
-Reference research: 95 real high-view videos with links in `site/references.html`.
+Reference research: 94 real high-view videos with links in `site/references.html`.
 
-**PERSIST is RESOLVED (2026-10-19).** K supplied a write-scoped fine-grained PAT;
-`connect.py check` reports `can_push: true` and `sync_repo.sh` pushed successfully.
-Remote branch tip verified via the GitHub API (`433dd5e`), remote tree carries all
-40 `final.mp4` + 40 specs, and `secrets/` is absent from the remote. Push the lab
-with `bash pipeline/sync_repo.sh` at the end of every loop.
+**PERSIST is PARTIALLY RESOLVED (2026-10-19).** K supplied a fine-grained PAT with
+Contents write, so `sync_repo.sh` pushes code + evidence. It does NOT have the
+fine-grained **Workflows** permission, so GitHub rejects any push that touches
+`.github/workflows/` — and that rejection is atomic, it would also drop the code.
+`sync_repo.sh` now detects that, retries without workflow changes, and reports the
+workflow blocker separately. As a result the CI workflow at the repo root is still
+NOT installed, so the lab does not yet run in Actions. To fix: grant the PAT
+`Workflows: Read and write` (docs/SETUP_FOR_K.md item 1), then re-run the sync.
+Push the lab with `bash pipeline/sync_repo.sh` at the end of every loop.
+
+**CI blocker (2026-10-19).** GitHub Actions only reads `.github/workflows/` at the
+REPOSITORY ROOT, so `ax-content-lab/.github/workflows/lab-loop.yml` never runs.
+`sync_repo.sh` installs the canonical workflow at the root, but the token's missing
+Workflows permission blocks that file from being pushed. The scheduled crons in that
+workflow are additionally inert until the default branch contains it (schedules only
+fire for workflows on the default branch, which is `main`). The active autonomous
+trigger will be the `push` event on `ax-content-lab` once the workflow lands.
 
 One blocker still needs K (see `docs/SETUP_FOR_K.md` and `docs/K_ACTION_PLAN.md`):
 

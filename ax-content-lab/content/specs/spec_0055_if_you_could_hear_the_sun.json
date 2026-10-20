@@ -1,0 +1,95 @@
+{
+  "slug": "0055_if_you_could_hear_the_sun",
+  "title": "If You Could Hear the Sun",
+  "series": "What If Physics",
+  "orientation": "vertical",
+  "theme": "forest",
+  "mood": "wonder",
+  "voice": "male_warm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "WHAT IF PHYSICS",
+      "text": "The Sun is not silent. It is just too loud for the air between us to carry.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 46,
+      "art_prompt": "a sun like an enormous glowing sphere beside a tiny Earth for scale, dramatic",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "If space were filled with air, the Sun would roar at you every second of your life.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 58,
+      "art_prompt": "sound waves radiating from a star through glowing atmosphere, physics illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "It would be roughly a hundred decibels - a chainsaw that never stops, day or night.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 70,
+      "art_prompt": "a city skyline under a blazing sun, invisible waves pressing on the windows",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "You would never hear a conversation, a car, or a friend again.",
+      "style": "caption",
+      "theme": "forest",
+      "particles": 82,
+      "art_prompt": "a person on a quiet street under a too-bright sky, hands over ears, surreal",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The silence of space is not peace.\nIt is the only thing standing between us and a star that never stops shouting.",
+      "style": "quote",
+      "theme": "forest",
+      "particles": 94,
+      "art_prompt": "a calm Earth from orbit with a subtle glowing field around it, resolved conclusion",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow What If Physics for the next question.",
+      "style": "endcard",
+      "theme": "forest",
+      "particles": 106,
+      "art_prompt": "a quiet blue Earth against a vast dark cosmos, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "DEAFENING",
+    "description": "What If Physics - \"If You Could Hear the Sun\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#whatif #physics #science #facts #explained",
+    "tags": [
+      "what if",
+      "physics explained",
+      "science shorts",
+      "hypothetical",
+      "thought experiment",
+      "science facts",
+      "educational shorts",
+      "physics"
+    ],
+    "hashtags": [
+      "#whatif",
+      "#physics",
+      "#science",
+      "#facts",
+      "#explained"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

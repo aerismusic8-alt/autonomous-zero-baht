@@ -1,0 +1,95 @@
+{
+  "slug": "0053_the_moon_that_rang_twice",
+  "title": "The Moon That Rang Twice",
+  "series": "Cosmic Wonders",
+  "orientation": "vertical",
+  "theme": "aurora",
+  "mood": "wonder",
+  "voice": "female_calm",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "COSMIC WONDERS",
+      "text": "In 1969, astronauts left a seismometer on the Moon and struck it like a bell.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 46,
+      "art_prompt": "the Moon's grey surface with a small scientific instrument, Earth small in the black sky",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The Moon rang for nearly an hour. A dry, cracked world should not ring at all.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 58,
+      "art_prompt": "seismic waves rippling across a lunar plain, glowing rings on grey dust, illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Scientists called it a miracle of dry rock. It made the Moon sound hollow.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 70,
+      "art_prompt": "a cutaway of the Moon glowing faintly from within, surreal physics illustration",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Then the records were re-read, decades later, by people with better tools.",
+      "style": "caption",
+      "theme": "aurora",
+      "particles": 82,
+      "art_prompt": "an old reel of seismic tape under a single desk lamp, dust in the light",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "The Moon did not ring once.\nIt rang twice - and the second ring started before the first one hit.",
+      "style": "quote",
+      "theme": "aurora",
+      "particles": 94,
+      "art_prompt": "a calm Moon from orbit with a faint second echo of light around it, quiet conclusion",
+      "art_style": "3d"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Cosmic Wonders for more.",
+      "style": "endcard",
+      "theme": "aurora",
+      "particles": 106,
+      "art_prompt": "Earth rising over the lunar horizon, vast and quiet, final wide shot",
+      "art_style": "3d"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "IT RANG TWICE",
+    "description": "Cosmic Wonders - \"The Moon That Rang Twice\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#space #science #facts #universe #astronomy",
+    "tags": [
+      "space facts",
+      "science facts",
+      "astronomy",
+      "universe facts",
+      "space documentary",
+      "mind blowing facts",
+      "science shorts",
+      "cosmos"
+    ],
+    "hashtags": [
+      "#space",
+      "#science",
+      "#facts",
+      "#universe",
+      "#astronomy"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "3d"
+}

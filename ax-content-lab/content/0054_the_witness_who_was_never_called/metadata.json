@@ -1,0 +1,45 @@
+{
+  "slug": "0054_the_witness_who_was_never_called",
+  "title": "The Witness Who Was Never Called",
+  "series": "Unsolved Archive",
+  "description": "Unsolved Archive - \"The Witness Who Was Never Called\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+  "tags": [
+    "unsolved mystery",
+    "true story",
+    "mystery shorts",
+    "detective",
+    "cold case",
+    "unexplained",
+    "mystery story",
+    "investigation"
+  ],
+  "hashtags": [
+    "#mystery",
+    "#unsolved",
+    "#truestory",
+    "#detective",
+    "#archive"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 34.72,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T02:05:10.202371+00:00"
+}

@@ -1,0 +1,88 @@
+{
+  "checks": [
+    {
+      "check": "duration_reasonable",
+      "pass": true,
+      "detail": "34.72s"
+    },
+    {
+      "check": "has_audio",
+      "pass": true,
+      "detail": "aac"
+    },
+    {
+      "check": "vertical_or_expected",
+      "pass": true,
+      "detail": "1080x1920"
+    },
+    {
+      "check": "no_long_silence",
+      "pass": true,
+      "detail": "0 silent gap(s) > 1.2s at -40dB"
+    },
+    {
+      "check": "audio_level_ok",
+      "pass": true,
+      "detail": "mean=-14.5 dB"
+    },
+    {
+      "check": "frame_start_not_black",
+      "pass": true,
+      "detail": "YAVG=33.4"
+    },
+    {
+      "check": "frame_start_has_detail",
+      "pass": true,
+      "detail": "std=36.1"
+    },
+    {
+      "check": "frame_mid_not_black",
+      "pass": true,
+      "detail": "YAVG=38.0"
+    },
+    {
+      "check": "frame_mid_has_detail",
+      "pass": true,
+      "detail": "std=41.1"
+    },
+    {
+      "check": "frame_end_not_black",
+      "pass": true,
+      "detail": "YAVG=33.1"
+    },
+    {
+      "check": "frame_end_has_detail",
+      "pass": true,
+      "detail": "std=32.2"
+    },
+    {
+      "check": "narration_present",
+      "pass": true,
+      "detail": "6 scenes"
+    },
+    {
+      "check": "no_third_party_assets",
+      "pass": true,
+      "detail": "none declared"
+    },
+    {
+      "check": "has_title",
+      "pass": true,
+      "detail": "The Witness Who Was Never Called"
+    },
+    {
+      "check": "has_description",
+      "pass": true,
+      "detail": "300 chars"
+    },
+    {
+      "check": "has_tags",
+      "pass": true,
+      "detail": "8 tags"
+    }
+  ],
+  "passed": 16,
+  "total": 16,
+  "status": "PASS",
+  "qc_at": "2026-10-20T02:05:13.975524+00:00"
+}

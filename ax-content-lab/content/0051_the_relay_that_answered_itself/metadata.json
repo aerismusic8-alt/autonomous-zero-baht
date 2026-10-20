@@ -1,0 +1,45 @@
+{
+  "slug": "0051_the_relay_that_answered_itself",
+  "title": "The Relay That Answered Itself",
+  "series": "Deep Space Logs",
+  "description": "Deep Space Logs - \"The Relay That Answered Itself\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#scifi #shortstory #space #creepy #fiction",
+  "tags": [
+    "sci fi short story",
+    "creepy stories",
+    "space horror",
+    "micro fiction",
+    "deep space logs",
+    "science fiction shorts",
+    "twist ending",
+    "short story"
+  ],
+  "hashtags": [
+    "#scifi",
+    "#shortstory",
+    "#space",
+    "#creepy",
+    "#fiction"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 32.73,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T02:02:27.998722+00:00"
+}

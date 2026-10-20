@@ -144,6 +144,30 @@ Top performers (view count):
 -    4,172,409 |  1179s | Cleo Abram | What If I Fell Into A Black Hole?
 -    4,054,209 |   275s | ACMofficial | Hungry | Short Horror Film
 
+## Snapshot: loop_20261020T015547Z.json
+Collected: 2026-10-20T01:54:55.713798+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
+
+| Query | N | Median views | Max views | Median dur(s) | Shorts(<60s) |
+|---|---|---|---|---|---|
+| scary stories shorts | 20 | 1,192,953 | 11,526,631 | 671 | 0/20 |
+| space facts shorts | 20 | 873,540 | 15,322,266 | 1154 | 0/20 |
+| unsolved mystery shorts | 20 | 677,822 | 12,478,054 | 634 | 4/20 |
+| what if physics shorts | 20 | 385,926 | 11,593,954 | 615 | 0/20 |
+
+Top performers (view count):
+-   15,322,266 |   670s | Science Time | How Big is The Universe?
+-   12,478,054 |   488s | BuzzFeed Unsolved Network | The Chilling Mystery Of The Black Dahlia
+-   11,593,954 |   860s | Wacky Science | ALL OF PHYSICS explained in 14 Minutes
+-   11,526,631 |   164s | Alexanderthetitan | Mama Agnes - Short Horror Film
+-    9,161,092 |   407s | Go Experimental | 7 AMAZING Physics Tricks That You Must See
+-    9,111,281 |   302s | Isabelle Kiser | "Double Vision" | Independent Horror Short Film
+-    8,360,180 |  2447s | SIRIUS | 6 Disturbing Unsolved Cases With Video Footage
+-    6,749,343 |   765s | Domain of Science | If You Don't Understand Quantum Physics, Try This!
+-    6,480,156 |  2023s | Bailey Sarian | The Mysterious Black Dahlia Unsolved Case - Who May Have Done It?! Mystery & Mak
+-    5,831,416 |   726s | Grimoire Horror | MORA - Short Horror Film
+-    5,697,752 |  1636s | Mysterious 5 | 5 Cold Cases that were SOLVED with Insane Twists
+-    5,184,468 |  1519s | BE AMAZED | Mind-Blowing Facts About Space
+
 ## Snapshot: niche_scan_20261014T151544Z.json
 Collected: 2026-10-14T15:14:30.000706+00:00  |  Method: yt-dlp search + metadata (public YouTube data, read-only)
 

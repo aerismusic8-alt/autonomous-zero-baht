@@ -1,0 +1,95 @@
+{
+  "slug": "0054_the_witness_who_was_never_called",
+  "title": "The Witness Who Was Never Called",
+  "series": "Unsolved Archive",
+  "orientation": "vertical",
+  "theme": "sepia",
+  "mood": "mystery",
+  "voice": "female_news",
+  "rate": "+2%",
+  "scene_hold": 0.3,
+  "scenes": [
+    {
+      "kicker": "UNSOLVED ARCHIVE",
+      "text": "A 1974 warehouse fire took four lives. The file closed with one witness never called.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 46,
+      "art_prompt": "a rain-soaked city street at night in the 1970s, wet asphalt, lone streetlight",
+      "art_style": "storybook"
+    },
+    {
+      "kicker": "",
+      "text": "Her statement sat in the folder for fifty years. It was never signed.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 58,
+      "art_prompt": "a cluttered detective's desk, photographs and folders under a green desk lamp",
+      "art_style": "storybook"
+    },
+    {
+      "kicker": "",
+      "text": "The arson investigator retired. The case went cold. The folder went to the archive.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 70,
+      "art_prompt": "an old archive room lined with dusty files, narrow aisle, single bulb",
+      "art_style": "storybook"
+    },
+    {
+      "kicker": "",
+      "text": "A researcher pulled the folder last spring and read the statement to the end.",
+      "style": "caption",
+      "theme": "sepia",
+      "particles": 82,
+      "art_prompt": "faded carbon-copy pages spread on a table, typewritten, one line underlined",
+      "art_style": "storybook"
+    },
+    {
+      "kicker": "",
+      "text": "The witness described the fire from inside the building.\nThe name on the statement was the investigator's own.",
+      "style": "quote",
+      "theme": "sepia",
+      "particles": 94,
+      "art_prompt": "a faded photograph on a mantelpiece, one face scratched out, cold light",
+      "art_style": "storybook"
+    },
+    {
+      "kicker": "",
+      "text": "Follow Unsolved Archive for more.",
+      "style": "endcard",
+      "theme": "sepia",
+      "particles": 106,
+      "art_prompt": "an empty car parked on a remote road at dusk, doors closed, unexplained",
+      "art_style": "storybook"
+    }
+  ],
+  "packaging": {
+    "thumbnail_text": "NEVER CALLED",
+    "description": "Unsolved Archive - \"The Witness Who Was Never Called\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#mystery #unsolved #truestory #detective #archive",
+    "tags": [
+      "unsolved mystery",
+      "true story",
+      "mystery shorts",
+      "detective",
+      "cold case",
+      "unexplained",
+      "mystery story",
+      "investigation"
+    ],
+    "hashtags": [
+      "#mystery",
+      "#unsolved",
+      "#truestory",
+      "#detective",
+      "#archive"
+    ]
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "art_style": "storybook"
+}

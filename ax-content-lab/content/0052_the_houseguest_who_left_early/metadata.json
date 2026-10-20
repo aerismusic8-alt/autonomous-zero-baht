@@ -1,0 +1,45 @@
+{
+  "slug": "0052_the_houseguest_who_left_early",
+  "title": "The Houseguest Who Left Early",
+  "series": "Quiet Horror Files",
+  "description": "Quiet Horror Files - \"The Houseguest Who Left Early\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#horror #creepy #shortstory #scary #twist",
+  "tags": [
+    "horror short story",
+    "creepy stories",
+    "scary story",
+    "micro horror",
+    "twist ending",
+    "short horror",
+    "creepypasta",
+    "bedtime horror"
+  ],
+  "hashtags": [
+    "#horror",
+    "#creepy",
+    "#shortstory",
+    "#scary",
+    "#twist"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 31.68,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T02:02:27.449527+00:00"
+}

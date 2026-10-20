@@ -1,0 +1,45 @@
+{
+  "slug": "0055_if_you_could_hear_the_sun",
+  "title": "If You Could Hear the Sun",
+  "series": "What If Physics",
+  "description": "What If Physics - \"If You Could Hear the Sun\". Original fiction / original writing produced by AX Viral Content Lab. Written, narrated and rendered in-house with free and open-source tools. No third-party footage, music, or scripts are used.\n\n#whatif #physics #science #facts #explained",
+  "tags": [
+    "what if",
+    "physics explained",
+    "science shorts",
+    "hypothetical",
+    "thought experiment",
+    "science facts",
+    "educational shorts",
+    "physics"
+  ],
+  "hashtags": [
+    "#whatif",
+    "#physics",
+    "#science",
+    "#facts",
+    "#explained"
+  ],
+  "orientation": "vertical",
+  "resolution": "1080x1920",
+  "duration_seconds": 32.99,
+  "files": {
+    "video": "final.mp4",
+    "thumbnail": "thumbnail.png"
+  },
+  "sources": [
+    {
+      "note": "Original writing. Structure informed by public market research in research/*.json; no third-party plot, script, lyric or footage reused.",
+      "no_reused_material": true
+    }
+  ],
+  "provenance": {
+    "narration": "edge-tts neural TTS (Microsoft free tier)",
+    "music": "procedurally synthesised (original, numpy)",
+    "visuals": "procedurally rendered (original, PIL + ffmpeg)",
+    "third_party_assets": [],
+    "ai_art": [],
+    "ai_art_provider": null
+  },
+  "generated_at": "2026-10-20T02:05:03.369517+00:00"
+}

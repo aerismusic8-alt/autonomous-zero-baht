@@ -1,6 +1,6 @@
 {
-  "produced": 50,
-  "qc_pass": 50,
+  "produced": 55,
+  "qc_pass": 55,
   "failed": [],
   "results": [
     {
@@ -459,8 +459,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 31.43,
-      "seconds": 180.6,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -469,8 +469,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 31.29,
-      "seconds": 182.6,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -479,8 +479,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 30.34,
-      "seconds": 174.3,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -489,8 +489,8 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 28.32,
-      "seconds": 131.9,
-      "skipped": false,
+      "seconds": 0.0,
+      "skipped": true,
       "ok": true
     },
     {
@@ -499,10 +499,60 @@
       "qc_status": "PASS",
       "qc": "16/16",
       "duration": 30.73,
-      "seconds": 138.1,
+      "seconds": 0.0,
+      "skipped": true,
+      "ok": true
+    },
+    {
+      "spec": "spec_0051_the_relay_that_answered_itself.json",
+      "slug": "0051_the_relay_that_answered_itself",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 32.73,
+      "seconds": 191.2,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0052_the_houseguest_who_left_early.json",
+      "slug": "0052_the_houseguest_who_left_early",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 31.68,
+      "seconds": 190.2,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0053_the_moon_that_rang_twice.json",
+      "slug": "0053_the_moon_that_rang_twice",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 32.53,
+      "seconds": 190.9,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0054_the_witness_who_was_never_called.json",
+      "slug": "0054_the_witness_who_was_never_called",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 34.72,
+      "seconds": 158.0,
+      "skipped": false,
+      "ok": true
+    },
+    {
+      "spec": "spec_0055_if_you_could_hear_the_sun.json",
+      "slug": "0055_if_you_could_hear_the_sun",
+      "qc_status": "PASS",
+      "qc": "16/16",
+      "duration": 32.99,
+      "seconds": 152.1,
       "skipped": false,
       "ok": true
     }
   ],
-  "generated_at": "2026-10-19T19:23:52Z"
+  "generated_at": "2026-10-20T02:05:13Z"
 }
