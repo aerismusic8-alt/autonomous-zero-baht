@@ -39,6 +39,9 @@ def run_one(spec_path: str, force: bool = False, art: bool = False,
 
 
 def main() -> int:
+    import halted
+    if not halted.guard("batch production"):
+        return 0
     ap = argparse.ArgumentParser()
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--pattern", default="spec_*.json")

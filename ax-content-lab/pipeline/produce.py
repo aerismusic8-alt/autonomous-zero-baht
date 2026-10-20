@@ -353,6 +353,9 @@ def run_qc(video_path: str, meta: dict, audio_stream: dict, spec: dict) -> dict:
 
 
 def main() -> int:
+    import halted
+    if not halted.guard("single-piece production"):
+        return 0
     ap = argparse.ArgumentParser()
     ap.add_argument("spec")
     ap.add_argument("--out", default=None)

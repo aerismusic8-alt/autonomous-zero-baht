@@ -165,10 +165,30 @@ Do not lower QC thresholds to hit a count — report produced vs. passed separat
 
 ## Current status
 
-60 videos produced, 60/60 QC PASS (independently re-verified spec-compliant).
-Newest: specs 0056–0060 (one per series), all rendered and QC PASS.
+**PROJECT STOPPED BY OPERATOR (2026-10-19).** K requested the lab be closed down.
+A kill switch is in place: the file `STOP` at the lab root makes every production
+entrypoint (`run_loop.sh`, `pipeline/batch.py`, `pipeline/produce.py`,
+`pipeline/gen_specs.py`) exit immediately without writing anything. Delete `STOP`
+to resume. No new content is being produced. The 65 finished pieces remain on disk
+and in the public repo as evidence.
+
+65 videos produced, 65/65 QC PASS (independently re-verified spec-compliant).
+Newest: specs 0061–0065 (one per series), all rendered and QC PASS.
 0 published (BLOCKED on credentials for all four platforms). Revenue ฿0.00.
 Reference research: real high-view videos with links in `site/references.html`.
+
+**Still needs K to fully close down:**
+
+1. **The OpenHands automation that drives this loop is still scheduled.** The loop
+   iteration is started by an OpenHands automation (env `AUTOMATION_SESSION_URL`),
+   not by GitHub Actions. With `STOP` in place a run now does nothing, but the
+   automation keeps firing. K should disable/delete that automation in OpenHands.
+2. **The `Zero-Baht Foundation` GitHub Actions workflow is still scheduled** (cron
+   every 6 h on `main`; 71 runs so far). The supplied PAT lacks the Actions
+   permission, so it cannot be disabled via the API (`403 Resource not accessible`).
+   K must disable it in the repo's Actions tab, or remove the workflow file.
+3. **Publishing was never enabled and is now moot** — one OAuth/API credential per
+   platform was required; none was ever supplied, so 0 videos were published.
 
 **PERSIST is PARTIALLY RESOLVED (2026-10-19).** K supplied a fine-grained PAT with
 Contents write, so `sync_repo.sh` pushes code + evidence. It does NOT have the

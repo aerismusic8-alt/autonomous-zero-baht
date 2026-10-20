@@ -8,6 +8,12 @@ export PATH="$HOME/.local/bin:$PATH"
 STAMP="$(date -u +%FT%TZ)"
 echo "[ax-lab] loop start $STAMP"
 
+# Kill switch: if STOP exists at the lab root, do nothing. Delete STOP to resume.
+if [ -f STOP ]; then
+  echo "[ax-lab] HALTED: STOP file present; no content will be produced."
+  exit 0
+fi
+
 step() { echo "[ax-lab] -> $1"; }
 
 step "research (public metadata only)"

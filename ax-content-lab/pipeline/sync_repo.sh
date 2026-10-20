@@ -43,7 +43,7 @@ fi
 
 mkdir -p "$SUBDIR"
 # copy code + evidence, never secrets
-for item in pipeline content research docs brand .github README.md AGENTS.md run_loop.sh .gitignore site; do
+for item in pipeline content research docs brand .github README.md AGENTS.md run_loop.sh .gitignore site STOP; do
   [ -e "$LAB_DIR/$item" ] && cp -r "$LAB_DIR/$item" "$SUBDIR/"
 done
 rm -rf "$SUBDIR/secrets" "$SUBDIR"/content/*/assets
@@ -51,8 +51,13 @@ rm -rf "$SUBDIR/secrets" "$SUBDIR"/content/*/assets
 # GitHub Actions only reads `.github/workflows/` at the REPOSITORY ROOT. The lab
 # keeps its canonical workflow inside `$SUBDIR/.github/workflows/`, which GitHub
 # would otherwise ignore. Install it at the root so the loop actually runs.
-mkdir -p .github/workflows
-cp "$LAB_DIR/.github/workflows/lab-loop.yml" .github/workflows/ax-lab-loop.yml
+# When the kill switch is active, do NOT install a scheduled runner.
+if [ -f "$LAB_DIR/STOP" ]; then
+  echo "[sync] STOP present: not installing the CI loop workflow."
+else
+  mkdir -p .github/workflows
+  cp "$LAB_DIR/.github/workflows/lab-loop.yml" .github/workflows/ax-lab-loop.yml
+fi
 
 # Videos are gitignored in the lab, so they need a one-time force-add. Once they
 # are tracked in the repo they stay tracked; never delete them from disk (that

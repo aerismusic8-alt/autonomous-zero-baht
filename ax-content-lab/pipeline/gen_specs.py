@@ -283,6 +283,9 @@ PIECES = [
 
 
 def main() -> int:
+    import halted
+    if not halted.guard("spec generation"):
+        return 0
     os.makedirs(SPEC_DIR, exist_ok=True)
     written = []
     for slug, series, title, thumb, scenes in PIECES:
