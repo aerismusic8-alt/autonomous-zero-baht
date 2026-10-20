@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-quiz",
+  "created_at": "2026-10-20T17:13:43.068351+00:00",
+  "source_title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+  "source_url": "https://jevcards.com",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second. I've always loved quiz games and thought this would be a fun way to see what it can do and how fast it is. I made the cards from scratch, and Jev gets exactly the picture you see. More cards will come over time. Play against Jev on your own (there's a leaderboard for each mode), or start a live match and challenge your friends, with Jev as one more player. The code is open source, so feel free to build your own game or make more cards that I can publish. Play:  https://jevcards.com \nCode:  https://github.com/Jose-Sabater/jevcards  (the newest cards stay private for a while) Disclaimer: I ran Jev through both TypeSafe and Opper, and made the cards through Opper's vision models and Claude Code. I work at Opper, but jevcards is open source and free to play. \n \n Comments URL:  https://news.ycombinato",
+      "source_url": "https://jevcards.com"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Jev Cards, Can you beat a vision model at a picture quiz?\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://jevcards.com",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Jev Cards, Can you beat a vision model at a picture quiz? อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://jevcards.com",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

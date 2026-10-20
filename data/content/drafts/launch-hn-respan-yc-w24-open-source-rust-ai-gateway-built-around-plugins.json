@@ -1,0 +1,27 @@
+{
+  "id": "launch-hn-respan-yc-w24-open-source-rust-ai-gateway-built-around-plugins",
+  "created_at": "2026-10-20T17:13:43.068697+00:00",
+  "source_title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+  "source_url": "https://news.ycombinator.com/item?id=50167583",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core. Here’s a video demo:  https://www.youtube.com/watch?v=pVv2ibXiTXM  There are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem. We've been building our gateway based on",
+      "source_url": "https://news.ycombinator.com/item?id=50167583"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50167583",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50167583",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
