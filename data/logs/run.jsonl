@@ -1458,3 +1458,22 @@
 {"timestamp": "2026-10-21T17:16:16.001157+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-21T17:16:16.001329+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-21T17:16:16.001578+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-21T21:46:12.971256+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-21T21:46:12.975089+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:12.975784+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-21T21:46:12.976705+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-21T21:46:13.110150+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-21T21:46:13.206144+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-21T21:46:13.207407+00:00", "event": "draft_created", "draft_id": "mistral-large-4", "path": "data/content/drafts/mistral-large-4.json"}
+{"timestamp": "2026-10-21T21:46:13.207754+00:00", "event": "draft_created", "draft_id": "potential-third-critical-php-cve", "path": "data/content/drafts/potential-third-critical-php-cve.json"}
+{"timestamp": "2026-10-21T21:46:13.208053+00:00", "event": "draft_created", "draft_id": "meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case", "path": "data/content/drafts/meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.json"}
+{"timestamp": "2026-10-21T21:46:13.208380+00:00", "event": "draft_created", "draft_id": "google-s-rust-style-guide", "path": "data/content/drafts/google-s-rust-style-guide.json"}
+{"timestamp": "2026-10-21T21:46:13.208668+00:00", "event": "draft_created", "draft_id": "gitlab-critical-patch-release", "path": "data/content/drafts/gitlab-critical-patch-release.json"}
+{"timestamp": "2026-10-21T21:46:13.208825+00:00", "event": "draft_validation", "path": "data/content/drafts/mistral-large-4.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:13.208978+00:00", "event": "draft_validation", "path": "data/content/drafts/potential-third-critical-php-cve.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:13.209152+00:00", "event": "draft_validation", "path": "data/content/drafts/meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:13.209305+00:00", "event": "draft_validation", "path": "data/content/drafts/google-s-rust-style-guide.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:13.209443+00:00", "event": "draft_validation", "path": "data/content/drafts/gitlab-critical-patch-release.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T21:46:13.209685+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-21T21:46:13.209881+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-21T21:46:13.210221+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

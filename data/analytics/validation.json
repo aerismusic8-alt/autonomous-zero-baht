@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/rust-off-rails-the-opinionated-web-stack-for-the-ai-era.json",
+    "path": "data/content/drafts/mistral-large-4.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/cloudflare-deploys-protections-against-php2shell-vulnerability.json",
+    "path": "data/content/drafts/potential-third-critical-php-cve.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/ai-agent-fixed-the-bug-but-what-else-did-it-change.json",
+    "path": "data/content/drafts/meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/your-mcu-likely-escaped-the-emudhra-intermediate-ca-compromise.json",
+    "path": "data/content/drafts/google-s-rust-style-guide.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/what-i-learned-from-six-months-of-being-stupid-on-purpose.json",
+    "path": "data/content/drafts/gitlab-critical-patch-release.json",
     "passed": true,
     "errors": []
   }

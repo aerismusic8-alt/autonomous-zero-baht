@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "rust-off-rails-the-opinionated-web-stack-for-the-ai-era",
+    "content_id": "mistral-large-4",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,10 +8,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-21T17:16:16.001409+00:00"
+    "recorded_at": "2026-10-21T21:46:13.209996+00:00"
   },
   {
-    "content_id": "cloudflare-deploys-protections-against-php2shell-vulnerability",
+    "content_id": "potential-third-critical-php-cve",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,10 +19,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-21T17:16:16.001416+00:00"
+    "recorded_at": "2026-10-21T21:46:13.210002+00:00"
   },
   {
-    "content_id": "ai-agent-fixed-the-bug-but-what-else-did-it-change",
+    "content_id": "meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -30,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-21T17:16:16.001418+00:00"
+    "recorded_at": "2026-10-21T21:46:13.210004+00:00"
   },
   {
-    "content_id": "your-mcu-likely-escaped-the-emudhra-intermediate-ca-compromise",
+    "content_id": "google-s-rust-style-guide",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -41,10 +41,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-21T17:16:16.001420+00:00"
+    "recorded_at": "2026-10-21T21:46:13.210007+00:00"
   },
   {
-    "content_id": "what-i-learned-from-six-months-of-being-stupid-on-purpose",
+    "content_id": "gitlab-critical-patch-release",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -52,6 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-21T17:16:16.001422+00:00"
+    "recorded_at": "2026-10-21T21:46:13.210008+00:00"
   }
 ]
