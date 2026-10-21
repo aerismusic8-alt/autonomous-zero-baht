@@ -1420,3 +1420,22 @@
 {"timestamp": "2026-10-21T04:55:17.591056+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-21T04:55:17.591209+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-21T04:55:17.591398+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-21T11:56:10.139912+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-21T11:56:10.154546+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:10.154999+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-21T11:56:10.155488+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-21T11:56:10.479441+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-21T11:56:17.868689+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-21T11:56:17.869555+00:00", "event": "draft_created", "draft_id": "show-hn-linkit-ai-bookmark-manager-100-free-and-open-source", "path": "data/content/drafts/show-hn-linkit-ai-bookmark-manager-100-free-and-open-source.json"}
+{"timestamp": "2026-10-21T11:56:17.869744+00:00", "event": "draft_created", "draft_id": "good-type-against-all-odds", "path": "data/content/drafts/good-type-against-all-odds.json"}
+{"timestamp": "2026-10-21T11:56:17.869900+00:00", "event": "draft_created", "draft_id": "whatever-happened-to-fire-escapes", "path": "data/content/drafts/whatever-happened-to-fire-escapes.json"}
+{"timestamp": "2026-10-21T11:56:17.870032+00:00", "event": "draft_created", "draft_id": "using-claude-to-reduce-the-attack-surface-of-code", "path": "data/content/drafts/using-claude-to-reduce-the-attack-surface-of-code.json"}
+{"timestamp": "2026-10-21T11:56:17.870154+00:00", "event": "draft_created", "draft_id": "the-future-of-css", "path": "data/content/drafts/the-future-of-css.json"}
+{"timestamp": "2026-10-21T11:56:17.870244+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-linkit-ai-bookmark-manager-100-free-and-open-source.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:17.870308+00:00", "event": "draft_validation", "path": "data/content/drafts/good-type-against-all-odds.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:17.870365+00:00", "event": "draft_validation", "path": "data/content/drafts/whatever-happened-to-fire-escapes.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:17.870419+00:00", "event": "draft_validation", "path": "data/content/drafts/using-claude-to-reduce-the-attack-surface-of-code.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:17.870472+00:00", "event": "draft_validation", "path": "data/content/drafts/the-future-of-css.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-21T11:56:17.870592+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-21T11:56:17.870668+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-21T11:56:17.870830+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
