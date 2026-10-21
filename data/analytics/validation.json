@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "path": "data/content/drafts/show-hn-simcity-but-with-permits.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/good-type-against-all-odds.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/advanced-coding-in-low-resource-programming-languages.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/upcoming-critical-php-security-release.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-other-epidemic-trying-to-get-off-benzodiazepines.json",
+    "passed": true,
+    "errors": []
+  }
+]

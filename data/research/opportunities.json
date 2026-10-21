@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "title": "Show HN: SimCity, but with Permits",
+    "url": "https://permit.petercai.com/",
+    "summary": " Article URL:  https://permit.petercai.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50170593  \n Points: 657 \n # Comments: 341 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-21T04:55:17.588889+00:00"
+  },
+  {
+    "title": "Good type against all odds",
+    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "summary": " Article URL:  https://unsung.aresluna.org/good-type-against-all-odds/  \n Comments URL:  https://news.ycombinator.com/item?id=50175059  \n Points: 52 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-21T04:55:17.588874+00:00"
+  },
+  {
+    "title": "Advanced coding in low-resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages/",
+    "summary": " Article URL:  https://openai.com/index/low-resource-programming-languages/  \n Comments URL:  https://news.ycombinator.com/item?id=50169955  \n Points: 52 \n # Comments: 65 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-21T04:55:17.588892+00:00"
+  },
+  {
+    "title": "Upcoming critical PHP security release",
+    "url": "https://news-web.php.net/php.announce/509",
+    "summary": " Article URL:  https://news-web.php.net/php.announce/509  \n Comments URL:  https://news.ycombinator.com/item?id=50172041  \n Points: 276 \n # Comments: 89 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588887+00:00"
+  },
+  {
+    "title": "The Other Epidemic: Trying to get off benzodiazepines",
+    "url": "https://www.thebeliever.net/the-other-epidemic/",
+    "summary": "  https://web.archive.org/web/20261020230542/https://www.thebe...   https://archive.ph/Tb1SZ  \n \n Comments URL:  https://news.ycombinator.com/item?id=50173891  \n Points: 116 \n # Comments: 78 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588880+00:00"
+  },
+  {
+    "title": "The Future of CSS",
+    "url": "https://www.joshwcomeau.com/css/interop-2027/",
+    "summary": " Article URL:  https://www.joshwcomeau.com/css/interop-2027/  \n Comments URL:  https://news.ycombinator.com/item?id=50175070  \n Points: 115 \n # Comments: 36 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588871+00:00"
+  },
+  {
+    "title": "PingCap TiDB Leaks",
+    "url": "https://fulcrumsec.vg/pingcap/",
+    "summary": " Article URL:  https://fulcrumsec.vg/pingcap/  \n Comments URL:  https://news.ycombinator.com/item?id=50173716  \n Points: 68 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588882+00:00"
+  },
+  {
+    "title": "Muse exposes users' personal and business secrets when they share conversations",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "summary": " Article URL:  https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/  \n Comments URL:  https://news.ycombinator.com/item?id=50174687  \n Points: 29 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588877+00:00"
+  },
+  {
+    "title": "In Hilbert space, all things are quantumly possible",
+    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+    "summary": " Article URL:  https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/  \n Comments URL:  https://news.ycombinator.com/item?id=50175185  \n Points: 41 \n # Comments: 17 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588865+00:00"
+  },
+  {
+    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+    "summary": " Article URL:  https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/  \n Comments URL:  https://news.ycombinator.com/item?id=50173487  \n Points: 139 \n # Comments: 55 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-21T04:55:17.588885+00:00"
+  }
+]
