@@ -1,96 +1,98 @@
 [
   {
-    "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
-    "url": "https://github.com/blue-idea/linkit",
-    "summary": " Article URL:  https://github.com/blue-idea/linkit  \n Comments URL:  https://news.ycombinator.com/item?id=50178218  \n Points: 7 \n # Comments: 1 ",
+    "title": "Rust off Rails: The opinionated web stack for the AI era",
+    "url": "https://rustoffrails.org/",
+    "summary": " Article URL:  https://rustoffrails.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50183727  \n Points: 14 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T11:56:17.868861+00:00"
+    "researched_at": "2026-10-21T17:16:15.998340+00:00"
   },
   {
-    "title": "Good type against all odds",
-    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-    "summary": " Article URL:  https://unsung.aresluna.org/good-type-against-all-odds/  \n Comments URL:  https://news.ycombinator.com/item?id=50175059  \n Points: 139 \n # Comments: 12 ",
+    "title": "Cloudflare deploys protections against php2shell vulnerability",
+    "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "summary": " Article URL:  https://blog.cloudflare.com/php-vulnerabilities-waf-protection/  \n Comments URL:  https://news.ycombinator.com/item?id=50181326  \n Points: 66 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T11:56:17.868881+00:00"
+    "researched_at": "2026-10-21T17:16:15.998371+00:00"
   },
   {
-    "title": "Whatever Happened to Fire Escapes",
-    "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-    "summary": " Article URL:  https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes  \n Comments URL:  https://news.ycombinator.com/item?id=50178455  \n Points: 28 \n # Comments: 7 ",
+    "title": "AI agent fixed the bug, but what else did it change?",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "summary": " Article URL:  https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/  \n Comments URL:  https://news.ycombinator.com/item?id=50183253  \n Points: 14 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-21T17:16:15.998360+00:00"
+  },
+  {
+    "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+    "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+    "summary": " Article URL:  https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/  \n Comments URL:  https://news.ycombinator.com/item?id=50183280  \n Points: 12 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868852+00:00"
+    "researched_at": "2026-10-21T17:16:15.998357+00:00"
   },
   {
-    "title": "Using Claude to reduce the attack surface of code",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "summary": " Article URL:  https://www.anthropic.com/research/attack-surface-reduction  \n Comments URL:  https://news.ycombinator.com/item?id=50175779  \n Points: 62 \n # Comments: 28 ",
+    "title": "What I learned from six months of being stupid on purpose",
+    "url": "https://wvez.org/blog/learning-to-be-stupid/",
+    "summary": " Article URL:  https://wvez.org/blog/learning-to-be-stupid/  \n Comments URL:  https://news.ycombinator.com/item?id=50183311  \n Points: 24 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868873+00:00"
+    "researched_at": "2026-10-21T17:16:15.998354+00:00"
   },
   {
-    "title": "The Future of CSS",
-    "url": "https://www.joshwcomeau.com/css/interop-2027/",
-    "summary": " Article URL:  https://www.joshwcomeau.com/css/interop-2027/  \n Comments URL:  https://news.ycombinator.com/item?id=50175070  \n Points: 411 \n # Comments: 167 ",
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "summary": " Article URL:  https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/  \n Comments URL:  https://news.ycombinator.com/item?id=50182987  \n Points: 154 \n # Comments: 73 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868879+00:00"
+    "researched_at": "2026-10-21T17:16:15.998364+00:00"
   },
   {
-    "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-    "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-    "summary": " Article URL:  https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/  \n Comments URL:  https://news.ycombinator.com/item?id=50177911  \n Points: 324 \n # Comments: 347 ",
+    "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+    "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+    "summary": " Article URL:  https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/  \n Comments URL:  https://news.ycombinator.com/item?id=50181137  \n Points: 390 \n # Comments: 316 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868868+00:00"
+    "researched_at": "2026-10-21T17:16:15.998378+00:00"
   },
   {
-    "title": "In Hilbert space, all things are quantumly possible",
-    "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-    "summary": " Article URL:  https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/  \n Comments URL:  https://news.ycombinator.com/item?id=50175185  \n Points: 102 \n # Comments: 58 ",
+    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+    "summary": "  https://patchtheplanet.org/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50181175  \n Points: 138 \n # Comments: 74 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868877+00:00"
+    "researched_at": "2026-10-21T17:16:15.998374+00:00"
   },
   {
-    "title": "Finland Buying a Million Landmines",
-    "url": "https://yle.fi/a/74-20252139",
-    "summary": " Article URL:  https://yle.fi/a/74-20252139  \n Comments URL:  https://news.ycombinator.com/item?id=50177734  \n Points: 9 \n # Comments: 2 ",
+    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+    "summary": " Article URL:  https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488  \n Comments URL:  https://news.ycombinator.com/item?id=50182526  \n Points: 67 \n # Comments: 38 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868871+00:00"
+    "researched_at": "2026-10-21T17:16:15.998368+00:00"
   },
   {
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-    "summary": " Article URL:  https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/  \n Comments URL:  https://news.ycombinator.com/item?id=50177916  \n Points: 210 \n # Comments: 88 ",
+    "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+    "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+    "summary": " Article URL:  https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs  \n Comments URL:  https://news.ycombinator.com/item?id=50183512  \n Points: 3 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868864+00:00"
-  },
-  {
-    "title": "C# now beats Rust on WASM size",
-    "url": "https://github.com/zion-sati/NetWasm",
-    "summary": " Article URL:  https://github.com/zion-sati/NetWasm  \n Comments URL:  https://news.ycombinator.com/item?id=50175510  \n Points: 90 \n # Comments: 32 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T11:56:17.868875+00:00"
+    "researched_at": "2026-10-21T17:16:15.998350+00:00"
   }
 ]
