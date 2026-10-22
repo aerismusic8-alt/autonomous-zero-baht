@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/mistral-large-4.json",
+    "path": "data/content/drafts/security-disclosure.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/potential-third-critical-php-cve.json",
+    "path": "data/content/drafts/mitmproxy-adds-emudhra-option.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/meta-ordered-to-pay-25b-penalty-in-new-mexico-cambridge-analytica-case.json",
+    "path": "data/content/drafts/there-isn-t-an-easy-exploit-for-this-php-vulnerability.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/google-s-rust-style-guide.json",
+    "path": "data/content/drafts/the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/gitlab-critical-patch-release.json",
+    "path": "data/content/drafts/rust-style-guide.json",
     "passed": true,
     "errors": []
   }

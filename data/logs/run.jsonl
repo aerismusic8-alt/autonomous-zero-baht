@@ -1477,3 +1477,22 @@
 {"timestamp": "2026-10-21T21:46:13.209685+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-21T21:46:13.209881+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-21T21:46:13.210221+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-22T04:55:19.693829+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-22T04:55:19.706434+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:19.707104+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-22T04:55:19.707837+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-22T04:55:19.992364+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-22T04:55:21.655154+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-22T04:55:21.656367+00:00", "event": "draft_created", "draft_id": "security-disclosure", "path": "data/content/drafts/security-disclosure.json"}
+{"timestamp": "2026-10-22T04:55:21.656688+00:00", "event": "draft_created", "draft_id": "mitmproxy-adds-emudhra-option", "path": "data/content/drafts/mitmproxy-adds-emudhra-option.json"}
+{"timestamp": "2026-10-22T04:55:21.656970+00:00", "event": "draft_created", "draft_id": "there-isn-t-an-easy-exploit-for-this-php-vulnerability", "path": "data/content/drafts/there-isn-t-an-easy-exploit-for-this-php-vulnerability.json"}
+{"timestamp": "2026-10-22T04:55:21.657300+00:00", "event": "draft_created", "draft_id": "the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf", "path": "data/content/drafts/the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.json"}
+{"timestamp": "2026-10-22T04:55:21.657581+00:00", "event": "draft_created", "draft_id": "rust-style-guide", "path": "data/content/drafts/rust-style-guide.json"}
+{"timestamp": "2026-10-22T04:55:21.657760+00:00", "event": "draft_validation", "path": "data/content/drafts/security-disclosure.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:21.657907+00:00", "event": "draft_validation", "path": "data/content/drafts/mitmproxy-adds-emudhra-option.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:21.658046+00:00", "event": "draft_validation", "path": "data/content/drafts/there-isn-t-an-easy-exploit-for-this-php-vulnerability.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:21.658189+00:00", "event": "draft_validation", "path": "data/content/drafts/the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:21.658321+00:00", "event": "draft_validation", "path": "data/content/drafts/rust-style-guide.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T04:55:21.658557+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-22T04:55:21.658816+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-22T04:55:21.659100+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

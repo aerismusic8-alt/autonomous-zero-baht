@@ -1,94 +1,94 @@
 [
   {
-    "title": "Mistral Large 4",
-    "url": "https://mistral.ai/news/mistral-large-4/",
-    "summary": "  https://docs.mistral.ai/models/mistral-large-4-0  \n \n Comments URL:  https://news.ycombinator.com/item?id=50186129  \n Points: 308 \n # Comments: 89 ",
+    "title": "Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "summary": " Article URL:  https://blog.railway.com/p/security-disclosure-wednesday-october-21st  \n Comments URL:  https://news.ycombinator.com/item?id=50188228  \n Points: 377 \n # Comments: 216 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-21T21:46:13.206317+00:00"
+    "researched_at": "2026-10-22T04:55:21.655334+00:00"
   },
   {
-    "title": "Potential third critical PHP CVE",
-    "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-    "summary": " Article URL:  https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027  \n Comments URL:  https://news.ycombinator.com/item?id=50185814  \n Points: 40 \n # Comments: 13 ",
+    "title": "mitmproxy adds --emudhra option",
+    "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+    "summary": " Article URL:  https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b  \n Comments URL:  https://news.ycombinator.com/item?id=50189232  \n Points: 347 \n # Comments: 94 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206329+00:00"
+    "researched_at": "2026-10-22T04:55:21.655325+00:00"
   },
   {
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "summary": "  https://nmdoj.gov/press-release/the-new-mexico-department-of...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50184820  \n Points: 205 \n # Comments: 116 ",
+    "title": "There isn't an easy exploit for this PHP vulnerability",
+    "url": "https://eliastaylor.com/noexploit/",
+    "summary": " Article URL:  https://eliastaylor.com/noexploit/  \n Comments URL:  https://news.ycombinator.com/item?id=50188948  \n Points: 301 \n # Comments: 144 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206336+00:00"
+    "researched_at": "2026-10-22T04:55:21.655328+00:00"
   },
   {
-    "title": "Google's Rust Style Guide",
+    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+    "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+    "summary": " Article URL:  https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50190455  \n Points: 65 \n # Comments: 28 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T04:55:21.655314+00:00"
+  },
+  {
+    "title": "Rust Style Guide",
     "url": "https://google.github.io/styleguide/rustguide.html",
-    "summary": " Article URL:  https://google.github.io/styleguide/rustguide.html  \n Comments URL:  https://news.ycombinator.com/item?id=50186010  \n Points: 104 \n # Comments: 75 ",
+    "summary": " Article URL:  https://google.github.io/styleguide/rustguide.html  \n Comments URL:  https://news.ycombinator.com/item?id=50186010  \n Points: 255 \n # Comments: 138 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206323+00:00"
+    "researched_at": "2026-10-22T04:55:21.655337+00:00"
   },
   {
-    "title": "GitLab Critical Patch Release",
+    "title": "Postgres recovery_prefetch can cause outages",
+    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+    "summary": " Article URL:  https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/  \n Comments URL:  https://news.ycombinator.com/item?id=50188614  \n Points: 11 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T04:55:21.655331+00:00"
+  },
+  {
+    "title": "LLM agents play Pokemon showdown",
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "summary": " Article URL:  https://olivergrabner.com/research/pokemon/  \n Comments URL:  https://news.ycombinator.com/item?id=50190334  \n Points: 21 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T04:55:21.655318+00:00"
+  },
+  {
+    "title": "I can't believe PowerShell is good",
+    "url": "https://www.spacebar.news/powershell-is-actually-good/",
+    "summary": " Article URL:  https://www.spacebar.news/powershell-is-actually-good/  \n Comments URL:  https://news.ycombinator.com/item?id=50190959  \n Points: 10 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-22T04:55:21.655306+00:00"
+  },
+  {
+    "title": "GitLab critical patch release",
     "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "summary": " Article URL:  https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/  \n Comments URL:  https://news.ycombinator.com/item?id=50185869  \n Points: 126 \n # Comments: 27 ",
+    "summary": " Article URL:  https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/  \n Comments URL:  https://news.ycombinator.com/item?id=50185869  \n Points: 282 \n # Comments: 70 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206326+00:00"
+    "researched_at": "2026-10-22T04:55:21.655339+00:00"
   },
   {
-    "title": "EA is shutting down BioWare",
-    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-    "summary": " Article URL:  https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware  \n Comments URL:  https://news.ycombinator.com/item?id=50184586  \n Points: 399 \n # Comments: 245 ",
+    "title": "Epic Games Inc v Apple Inc",
+    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+    "summary": " Article URL:  https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552  \n Comments URL:  https://news.ycombinator.com/item?id=50190168  \n Points: 125 \n # Comments: 83 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206338+00:00"
-  },
-  {
-    "title": "Claude Duet",
-    "url": "https://claude.com/resources/articles/claude-duet",
-    "summary": " Article URL:  https://claude.com/resources/articles/claude-duet  \n Comments URL:  https://news.ycombinator.com/item?id=50186455  \n Points: 24 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206312+00:00"
-  },
-  {
-    "title": "Claude Duet",
-    "url": "https://claude.com/product/claude-duet",
-    "summary": " Article URL:  https://claude.com/product/claude-duet  \n Comments URL:  https://news.ycombinator.com/item?id=50186037  \n Points: 196 \n # Comments: 172 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206320+00:00"
-  },
-  {
-    "title": "Canary Tokens",
-    "url": "https://canarytokens.org/",
-    "summary": "  https://docs.canarytokens.org/guide/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50185630  \n Points: 86 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206333+00:00"
-  },
-  {
-    "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
-    "url": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
-    "summary": " Article URL:  https://github.com/amazonlinux/amazon-linux-2023/issues/1148  \n Comments URL:  https://news.ycombinator.com/item?id=50187708  \n Points: 12 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-21T21:46:13.206304+00:00"
+    "researched_at": "2026-10-22T04:55:21.655322+00:00"
   }
 ]
