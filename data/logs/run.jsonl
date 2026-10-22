@@ -1515,3 +1515,22 @@
 {"timestamp": "2026-10-22T11:58:36.703935+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-22T11:58:36.704104+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-22T11:58:36.704424+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-22T17:14:42.116628+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-22T17:14:42.133865+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.134768+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-22T17:14:42.135488+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-22T17:14:42.271626+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-22T17:14:42.600204+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-22T17:14:42.601429+00:00", "event": "draft_created", "draft_id": "every-ai-model-has-the-same-controversial-take-on-humans", "path": "data/content/drafts/every-ai-model-has-the-same-controversial-take-on-humans.json"}
+{"timestamp": "2026-10-22T17:14:42.601765+00:00", "event": "draft_created", "draft_id": "emudhra-to-exit-global-ssl-tls-certificate-business", "path": "data/content/drafts/emudhra-to-exit-global-ssl-tls-certificate-business.json"}
+{"timestamp": "2026-10-22T17:14:42.602052+00:00", "event": "draft_created", "draft_id": "what-s-getting-pwned", "path": "data/content/drafts/what-s-getting-pwned.json"}
+{"timestamp": "2026-10-22T17:14:42.602329+00:00", "event": "draft_created", "draft_id": "show-hn-run-full-ios-16-5-firmware-on-android-devices", "path": "data/content/drafts/show-hn-run-full-ios-16-5-firmware-on-android-devices.json"}
+{"timestamp": "2026-10-22T17:14:42.602599+00:00", "event": "draft_created", "draft_id": "quad9-dns-resolver-to-exit-france", "path": "data/content/drafts/quad9-dns-resolver-to-exit-france.json"}
+{"timestamp": "2026-10-22T17:14:42.602780+00:00", "event": "draft_validation", "path": "data/content/drafts/every-ai-model-has-the-same-controversial-take-on-humans.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.602929+00:00", "event": "draft_validation", "path": "data/content/drafts/emudhra-to-exit-global-ssl-tls-certificate-business.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.603066+00:00", "event": "draft_validation", "path": "data/content/drafts/what-s-getting-pwned.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.603201+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-run-full-ios-16-5-firmware-on-android-devices.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.603334+00:00", "event": "draft_validation", "path": "data/content/drafts/quad9-dns-resolver-to-exit-france.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-22T17:14:42.603568+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-22T17:14:42.603802+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-22T17:14:42.604091+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
