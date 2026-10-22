@@ -1,26 +1,26 @@
 [
   {
+    "path": "data/content/drafts/worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/security-disclosure.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/mitmproxy-adds-emudhra-option.json",
+    "path": "data/content/drafts/openai-cli.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/there-isn-t-an-easy-exploit-for-this-php-vulnerability.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/rust-style-guide.json",
+    "path": "data/content/drafts/jailbreaking-the-switch-2.json",
     "passed": true,
     "errors": []
   }

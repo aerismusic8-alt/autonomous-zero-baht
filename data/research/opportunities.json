@@ -1,94 +1,104 @@
 [
   {
-    "title": "Security Disclosure",
-    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "summary": " Article URL:  https://blog.railway.com/p/security-disclosure-wednesday-october-21st  \n Comments URL:  https://news.ycombinator.com/item?id=50188228  \n Points: 377 \n # Comments: 216 ",
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "summary": " Article URL:  https://simedw.com/2026/10/21/world-model-terminal/  \n Comments URL:  https://news.ycombinator.com/item?id=50190363  \n Points: 276 \n # Comments: 88 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-22T04:55:21.655334+00:00"
+    "researched_at": "2026-10-22T11:58:36.700844+00:00"
+  },
+  {
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "summary": " Article URL:  https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities  \n Comments URL:  https://news.ycombinator.com/item?id=50193804  \n Points: 36 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T11:58:36.700820+00:00"
+  },
+  {
+    "title": "Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "summary": " Article URL:  https://blog.railway.com/p/security-disclosure-wednesday-october-21st  \n Comments URL:  https://news.ycombinator.com/item?id=50188228  \n Points: 490 \n # Comments: 285 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T11:58:36.700853+00:00"
+  },
+  {
+    "title": "OpenAI CLI",
+    "url": "https://github.com/openai/openai-cli",
+    "summary": " Article URL:  https://github.com/openai/openai-cli  \n Comments URL:  https://news.ycombinator.com/item?id=50191507  \n Points: 145 \n # Comments: 79 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T11:58:36.700838+00:00"
+  },
+  {
+    "title": "Jailbreaking the Switch 2",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "summary": " Article URL:  https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/  \n Comments URL:  https://news.ycombinator.com/item?id=50192536  \n Points: 75 \n # Comments: 17 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T11:58:36.700835+00:00"
+  },
+  {
+    "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+    "summary": " Article URL:  https://nvd.nist.gov/vuln/detail/cve-2026-111943  \n Comments URL:  https://news.ycombinator.com/item?id=50192900  \n Points: 169 \n # Comments: 42 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-22T11:58:36.700832+00:00"
   },
   {
     "title": "mitmproxy adds --emudhra option",
     "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "summary": " Article URL:  https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b  \n Comments URL:  https://news.ycombinator.com/item?id=50189232  \n Points: 347 \n # Comments: 94 ",
+    "summary": " Article URL:  https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b  \n Comments URL:  https://news.ycombinator.com/item?id=50189232  \n Points: 515 \n # Comments: 122 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655325+00:00"
+    "researched_at": "2026-10-22T11:58:36.700847+00:00"
   },
   {
     "title": "There isn't an easy exploit for this PHP vulnerability",
     "url": "https://eliastaylor.com/noexploit/",
-    "summary": " Article URL:  https://eliastaylor.com/noexploit/  \n Comments URL:  https://news.ycombinator.com/item?id=50188948  \n Points: 301 \n # Comments: 144 ",
+    "summary": " Article URL:  https://eliastaylor.com/noexploit/  \n Comments URL:  https://news.ycombinator.com/item?id=50188948  \n Points: 556 \n # Comments: 339 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655328+00:00"
+    "researched_at": "2026-10-22T11:58:36.700850+00:00"
   },
   {
     "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
     "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "summary": " Article URL:  https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50190455  \n Points: 65 \n # Comments: 28 ",
+    "summary": " Article URL:  https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50190455  \n Points: 220 \n # Comments: 160 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655314+00:00"
+    "researched_at": "2026-10-22T11:58:36.700841+00:00"
   },
   {
-    "title": "Rust Style Guide",
-    "url": "https://google.github.io/styleguide/rustguide.html",
-    "summary": " Article URL:  https://google.github.io/styleguide/rustguide.html  \n Comments URL:  https://news.ycombinator.com/item?id=50186010  \n Points: 255 \n # Comments: 138 ",
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "summary": " Article URL:  https://globus.software/blog/2026/10/16/cutting-map-polygons/  \n Comments URL:  https://news.ycombinator.com/item?id=50193170  \n Points: 57 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655337+00:00"
-  },
-  {
-    "title": "Postgres recovery_prefetch can cause outages",
-    "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-    "summary": " Article URL:  https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/  \n Comments URL:  https://news.ycombinator.com/item?id=50188614  \n Points: 11 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655331+00:00"
-  },
-  {
-    "title": "LLM agents play Pokemon showdown",
-    "url": "https://olivergrabner.com/research/pokemon/",
-    "summary": " Article URL:  https://olivergrabner.com/research/pokemon/  \n Comments URL:  https://news.ycombinator.com/item?id=50190334  \n Points: 21 \n # Comments: 11 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655318+00:00"
-  },
-  {
-    "title": "I can't believe PowerShell is good",
-    "url": "https://www.spacebar.news/powershell-is-actually-good/",
-    "summary": " Article URL:  https://www.spacebar.news/powershell-is-actually-good/  \n Comments URL:  https://news.ycombinator.com/item?id=50190959  \n Points: 10 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655306+00:00"
-  },
-  {
-    "title": "GitLab critical patch release",
-    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "summary": " Article URL:  https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/  \n Comments URL:  https://news.ycombinator.com/item?id=50185869  \n Points: 282 \n # Comments: 70 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655339+00:00"
-  },
-  {
-    "title": "Epic Games Inc v Apple Inc",
-    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-    "summary": " Article URL:  https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552  \n Comments URL:  https://news.ycombinator.com/item?id=50190168  \n Points: 125 \n # Comments: 83 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-22T04:55:21.655322+00:00"
+    "researched_at": "2026-10-22T11:58:36.700828+00:00"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "content_id": "worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-22T11:58:36.704228+00:00"
+  },
+  {
+    "content_id": "several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-22T11:58:36.704234+00:00"
+  },
+  {
     "content_id": "security-disclosure",
     "impressions": null,
     "clicks": null,
@@ -8,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T04:55:21.658916+00:00"
+    "recorded_at": "2026-10-22T11:58:36.704236+00:00"
   },
   {
-    "content_id": "mitmproxy-adds-emudhra-option",
+    "content_id": "openai-cli",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,10 +41,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T04:55:21.658921+00:00"
+    "recorded_at": "2026-10-22T11:58:36.704238+00:00"
   },
   {
-    "content_id": "there-isn-t-an-easy-exploit-for-this-php-vulnerability",
+    "content_id": "jailbreaking-the-switch-2",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -30,28 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T04:55:21.658924+00:00"
-  },
-  {
-    "content_id": "the-recently-proposed-o-n-log-n-integer-multiplication-algorithm-pdf",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-22T04:55:21.658926+00:00"
-  },
-  {
-    "content_id": "rust-style-guide",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-22T04:55:21.658928+00:00"
+    "recorded_at": "2026-10-22T11:58:36.704240+00:00"
   }
 ]
