@@ -1,98 +1,92 @@
 [
   {
-    "title": "Railpass",
-    "url": "https://train.samismith.com/",
-    "summary": " Article URL:  https://train.samismith.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50201414  \n Points: 71 \n # Comments: 22 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-23T04:57:04.015952+00:00"
-  },
-  {
-    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-    "summary": " Article URL:  https://github.com/maxilevi/project-hedra/tree/pre-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50199389  \n Points: 166 \n # Comments: 31 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-23T04:57:04.015954+00:00"
-  },
-  {
-    "title": "AI compute is the new oil–and needs a new market",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-    "summary": " Article URL:  https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market  \n Comments URL:  https://news.ycombinator.com/item?id=50202671  \n Points: 36 \n # Comments: 29 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-23T04:57:04.015947+00:00"
-  },
-  {
-    "title": "This I Believe",
+    "title": "This I Believe (1952)",
     "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-    "summary": " Article URL:  https://www.awakin.org/v2/read/view.php?tid=468  \n Comments URL:  https://news.ycombinator.com/item?id=50203759  \n Points: 14 \n # Comments: 1 ",
+    "summary": " Article URL:  https://www.awakin.org/v2/read/view.php?tid=468  \n Comments URL:  https://news.ycombinator.com/item?id=50203759  \n Points: 99 \n # Comments: 37 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015927+00:00"
+    "researched_at": "2026-10-23T11:44:34.304198+00:00"
   },
   {
     "title": "The foolishness of \"natural language programming\" (1978)",
     "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-    "summary": " Article URL:  https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html  \n Comments URL:  https://news.ycombinator.com/item?id=50203161  \n Points: 70 \n # Comments: 57 ",
+    "summary": " Article URL:  https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html  \n Comments URL:  https://news.ycombinator.com/item?id=50203161  \n Points: 207 \n # Comments: 121 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015931+00:00"
+    "researched_at": "2026-10-23T11:44:34.304200+00:00"
   },
   {
-    "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-    "url": "https://news.ycombinator.com/item?id=50204125",
-    "summary": " The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days.  https://www.saashub.com/product-graveyard  That's a huge drop. And, it matches my \"human\" observations. A lot of products are being vibe coded, released, and soon after that abandoned. It's become too cheap to produce software. So, a lot of people have been experimenting for 'free' with their ideas - only to find out that they weren't viable... or that they couldn't bring customers in. Distribution and marketing have become much more important than before - within the context that everyone can build \"features\" for free. Anyhow, I expect this trend of shortening product lifespan to continue even further down. Or maybe, at some point people will realised that there are no users for their products as every user can \"build\" their own and custom produ",
+    "title": "The Rise and Fall of Jev",
+    "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+    "summary": " Article URL:  https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm  \n Comments URL:  https://news.ycombinator.com/item?id=50206361  \n Points: 51 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015921+00:00"
+    "researched_at": "2026-10-23T11:44:34.304194+00:00"
   },
   {
-    "title": "Mapping the Northern Sky",
-    "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-    "summary": " Article URL:  https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/  \n Comments URL:  https://news.ycombinator.com/item?id=50202766  \n Points: 23 \n # Comments: 10 ",
+    "title": "Show HN: Making a smart TV dumb and then smart",
+    "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+    "summary": " A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working. My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home. While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience. It was liberating to finally free the TV of bloatware and make it truly personalized! \n \n Comments URL:  https://news.ycombinator.com/item?id=50202865  \n Points: 32 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015934+00:00"
+    "researched_at": "2026-10-23T11:44:34.304204+00:00"
   },
   {
-    "title": "LLMs are making formal software verification feasible at a much larger scale",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "summary": " Article URL:  https://www.anthropic.com/research/formal-verification  \n Comments URL:  https://news.ycombinator.com/item?id=50202217  \n Points: 212 \n # Comments: 118 ",
+    "title": "Remove pgrust: the entry is cheating",
+    "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+    "summary": " Article URL:  https://github.com/ClickHouse/ClickBench/pull/2165  \n Comments URL:  https://news.ycombinator.com/item?id=50205816  \n Points: 23 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015949+00:00"
+    "researched_at": "2026-10-23T11:44:34.304196+00:00"
+  },
+  {
+    "title": "Job Loss and Cortisone Mania",
+    "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+    "summary": " Article URL:  https://tilschuenemann.de/job-loss-cortisone-mania  \n Comments URL:  https://news.ycombinator.com/item?id=50206840  \n Points: 6 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-23T11:44:34.304191+00:00"
   },
   {
     "title": "Jank – The native Clojure dialect with seamless C++ interop",
     "url": "https://jank-lang.org/",
-    "summary": " Article URL:  https://jank-lang.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50202762  \n Points: 45 \n # Comments: 2 ",
+    "summary": " Article URL:  https://jank-lang.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50202762  \n Points: 112 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015940+00:00"
+    "researched_at": "2026-10-23T11:44:34.304210+00:00"
+  },
+  {
+    "title": "Is this the new cyber normal?",
+    "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+    "summary": " Article URL:  https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/  \n Comments URL:  https://news.ycombinator.com/item?id=50207115  \n Points: 14 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-23T11:44:34.304183+00:00"
+  },
+  {
+    "title": "Dutch government had hacked into Jared Kushner's phone",
+    "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+    "summary": " Article URL:  https://twitter.com/jaredkushner/status/2113376217415958767  \n Comments URL:  https://news.ycombinator.com/item?id=50206914  \n Points: 53 \n # Comments: 15 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-23T11:44:34.304188+00:00"
   },
   {
     "title": "Docker is weird",
     "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-    "summary": " Article URL:  https://codeandcake.dev/posts/2026-10-22-docker-is-weird  \n Comments URL:  https://news.ycombinator.com/item?id=50202681  \n Points: 253 \n # Comments: 130 ",
+    "summary": " Article URL:  https://codeandcake.dev/posts/2026-10-22-docker-is-weird  \n Comments URL:  https://news.ycombinator.com/item?id=50202681  \n Points: 552 \n # Comments: 238 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T04:57:04.015942+00:00"
+    "researched_at": "2026-10-23T11:44:34.304213+00:00"
   }
 ]

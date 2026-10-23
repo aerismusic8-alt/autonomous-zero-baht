@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/railpass.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/ai-compute-is-the-new-oil-and-needs-a-new-market.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/this-i-believe.json",
+    "path": "data/content/drafts/this-i-believe-1952.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-rise-and-fall-of-jev.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/show-hn-making-a-smart-tv-dumb-and-then-smart.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/remove-pgrust-the-entry-is-cheating.json",
     "passed": true,
     "errors": []
   }

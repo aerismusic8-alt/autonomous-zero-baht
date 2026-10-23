@@ -1572,3 +1572,22 @@
 {"timestamp": "2026-10-23T04:57:04.018225+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-23T04:57:04.018351+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-23T04:57:04.018559+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-23T11:44:33.718126+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-23T11:44:33.728562+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:33.729014+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-23T11:44:33.729523+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-23T11:44:34.018817+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-23T11:44:34.304028+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-23T11:44:34.304924+00:00", "event": "draft_created", "draft_id": "this-i-believe-1952", "path": "data/content/drafts/this-i-believe-1952.json"}
+{"timestamp": "2026-10-23T11:44:34.305110+00:00", "event": "draft_created", "draft_id": "the-foolishness-of-natural-language-programming-1978", "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json"}
+{"timestamp": "2026-10-23T11:44:34.305280+00:00", "event": "draft_created", "draft_id": "the-rise-and-fall-of-jev", "path": "data/content/drafts/the-rise-and-fall-of-jev.json"}
+{"timestamp": "2026-10-23T11:44:34.305423+00:00", "event": "draft_created", "draft_id": "show-hn-making-a-smart-tv-dumb-and-then-smart", "path": "data/content/drafts/show-hn-making-a-smart-tv-dumb-and-then-smart.json"}
+{"timestamp": "2026-10-23T11:44:34.305556+00:00", "event": "draft_created", "draft_id": "remove-pgrust-the-entry-is-cheating", "path": "data/content/drafts/remove-pgrust-the-entry-is-cheating.json"}
+{"timestamp": "2026-10-23T11:44:34.305648+00:00", "event": "draft_validation", "path": "data/content/drafts/this-i-believe-1952.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:34.305717+00:00", "event": "draft_validation", "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:34.305777+00:00", "event": "draft_validation", "path": "data/content/drafts/the-rise-and-fall-of-jev.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:34.305835+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-making-a-smart-tv-dumb-and-then-smart.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:34.305889+00:00", "event": "draft_validation", "path": "data/content/drafts/remove-pgrust-the-entry-is-cheating.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T11:44:34.306012+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-23T11:44:34.306092+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-23T11:44:34.306258+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
