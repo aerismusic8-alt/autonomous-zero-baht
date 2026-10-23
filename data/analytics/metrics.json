@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "show-hn-ui-micro-interactions-prompts-for-ai",
+    "content_id": "railpass",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,18 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T21:40:14.036948+00:00"
-  },
-  {
-    "content_id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-22T21:40:14.036952+00:00"
+    "recorded_at": "2026-10-23T04:57:04.018419+00:00"
   },
   {
     "content_id": "hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool",
@@ -30,10 +19,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T21:40:14.036954+00:00"
+    "recorded_at": "2026-10-23T04:57:04.018423+00:00"
   },
   {
-    "content_id": "ai-and-the-enclosure-of-the-scientific-commons",
+    "content_id": "ai-compute-is-the-new-oil-and-needs-a-new-market",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -41,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T21:40:14.036956+00:00"
+    "recorded_at": "2026-10-23T04:57:04.018425+00:00"
   },
   {
-    "content_id": "ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary-inflammation",
+    "content_id": "this-i-believe",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -52,6 +41,17 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-22T21:40:14.036957+00:00"
+    "recorded_at": "2026-10-23T04:57:04.018426+00:00"
+  },
+  {
+    "content_id": "the-foolishness-of-natural-language-programming-1978",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-23T04:57:04.018427+00:00"
   }
 ]

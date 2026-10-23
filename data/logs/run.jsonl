@@ -1553,3 +1553,22 @@
 {"timestamp": "2026-10-22T21:40:14.036730+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-22T21:40:14.036873+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-22T21:40:14.037084+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-23T04:57:01.200819+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-23T04:57:01.211350+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:01.211862+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-23T04:57:01.212408+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-23T04:57:01.461869+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-23T04:57:04.015758+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-23T04:57:04.016733+00:00", "event": "draft_created", "draft_id": "railpass", "path": "data/content/drafts/railpass.json"}
+{"timestamp": "2026-10-23T04:57:04.016961+00:00", "event": "draft_created", "draft_id": "hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool", "path": "data/content/drafts/hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool.json"}
+{"timestamp": "2026-10-23T04:57:04.017181+00:00", "event": "draft_created", "draft_id": "ai-compute-is-the-new-oil-and-needs-a-new-market", "path": "data/content/drafts/ai-compute-is-the-new-oil-and-needs-a-new-market.json"}
+{"timestamp": "2026-10-23T04:57:04.017404+00:00", "event": "draft_created", "draft_id": "this-i-believe", "path": "data/content/drafts/this-i-believe.json"}
+{"timestamp": "2026-10-23T04:57:04.017610+00:00", "event": "draft_created", "draft_id": "the-foolishness-of-natural-language-programming-1978", "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json"}
+{"timestamp": "2026-10-23T04:57:04.017721+00:00", "event": "draft_validation", "path": "data/content/drafts/railpass.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:04.017819+00:00", "event": "draft_validation", "path": "data/content/drafts/hedra-is-a-3d-open-world-game-i-wrote-from-scratch-while-in-highschool.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:04.017908+00:00", "event": "draft_validation", "path": "data/content/drafts/ai-compute-is-the-new-oil-and-needs-a-new-market.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:04.017991+00:00", "event": "draft_validation", "path": "data/content/drafts/this-i-believe.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:04.018073+00:00", "event": "draft_validation", "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-23T04:57:04.018225+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-23T04:57:04.018351+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-23T04:57:04.018559+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

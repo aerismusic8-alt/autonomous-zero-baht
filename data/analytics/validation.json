@@ -1,11 +1,6 @@
 [
   {
-    "path": "data/content/drafts/show-hn-ui-micro-interactions-prompts-for-ai.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents.json",
+    "path": "data/content/drafts/railpass.json",
     "passed": true,
     "errors": []
   },
@@ -15,12 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/ai-and-the-enclosure-of-the-scientific-commons.json",
+    "path": "data/content/drafts/ai-compute-is-the-new-oil-and-needs-a-new-market.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/ai-analysis-of-ct-scans-finds-42-9-of-patients-have-coronary-inflammation.json",
+    "path": "data/content/drafts/this-i-believe.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-foolishness-of-natural-language-programming-1978.json",
     "passed": true,
     "errors": []
   }
