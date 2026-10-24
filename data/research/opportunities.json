@@ -1,102 +1,96 @@
 [
   {
-    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "url": "https://corgi.computer/",
-    "summary": " Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience:\n- Links can be copied with a click, so no need to drag-select over many lines\n- cmd+v just pastes images (even on SSH)\n- images have a thumbnail preview.\n- Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc).\nIt just reuses the agents to organize things for you: what is this http link? what is t",
+    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+    "summary": " Article URL:  https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497  \n Comments URL:  https://news.ycombinator.com/item?id=50219177  \n Points: 12 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T04:42:05.843331+00:00"
+    "researched_at": "2026-10-24T11:07:59.916854+00:00"
   },
   {
-    "title": "Securing our frontier model training environment",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-    "summary": " Article URL:  https://openai.com/index/securing-our-frontier-model-training-environment/  \n Comments URL:  https://news.ycombinator.com/item?id=50214416  \n Points: 92 \n # Comments: 99 ",
+    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "summary": " Article URL:  https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/  \n Comments URL:  https://news.ycombinator.com/item?id=50218633  \n Points: 169 \n # Comments: 38 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T04:42:05.843325+00:00"
-  },
-  {
-    "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-    "summary": " Article URL:  https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8  \n Comments URL:  https://news.ycombinator.com/item?id=50216791  \n Points: 123 \n # Comments: 68 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T04:42:05.843310+00:00"
-  },
-  {
-    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "summary": " Article URL:  https://www.sciencedaily.com/releases/2026/10/261018084421.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50217683  \n Points: 45 \n # Comments: 12 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T04:42:05.843295+00:00"
-  },
-  {
-    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-    "summary": " Article URL:  https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/  \n Comments URL:  https://news.ycombinator.com/item?id=50214983  \n Points: 36 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T04:42:05.843322+00:00"
+    "researched_at": "2026-10-24T11:07:59.916858+00:00"
   },
   {
     "title": "Twelve years of distributed SQLite",
     "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "summary": " Article URL:  https://philipotoole.com/twelve-years-of-distributed-sqlite/  \n Comments URL:  https://news.ycombinator.com/item?id=50217500  \n Points: 72 \n # Comments: 7 ",
+    "summary": " Article URL:  https://philipotoole.com/twelve-years-of-distributed-sqlite/  \n Comments URL:  https://news.ycombinator.com/item?id=50217500  \n Points: 216 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T04:42:05.843304+00:00"
-  },
-  {
-    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-    "url": "https://rune.build/blog/rune-1-3-release",
-    "summary": " Article URL:  https://rune.build/blog/rune-1-3-release  \n Comments URL:  https://news.ycombinator.com/item?id=50214325  \n Points: 42 \n # Comments: 9 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T04:42:05.843334+00:00"
+    "researched_at": "2026-10-24T11:07:59.916870+00:00"
   },
   {
     "title": "One Man's Pan Am 747 Replica [video]",
     "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=vAFwHGGfPz4  \n Comments URL:  https://news.ycombinator.com/item?id=50215828  \n Points: 7 \n # Comments: 0 ",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=vAFwHGGfPz4  \n Comments URL:  https://news.ycombinator.com/item?id=50215828  \n Points: 38 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T04:42:05.843313+00:00"
+    "researched_at": "2026-10-24T11:07:59.916875+00:00"
   },
   {
-    "title": "No Source Code? No Problem",
-    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-    "summary": " Article URL:  https://queue.acm.org/doi/10.1145/945131.945155  \n Comments URL:  https://news.ycombinator.com/item?id=50214994  \n Points: 45 \n # Comments: 32 ",
+    "title": "OBS Studio 33",
+    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+    "summary": " Article URL:  https://github.com/obsproject/obs-studio/releases/tag/33.0.0  \n Comments URL:  https://news.ycombinator.com/item?id=50218430  \n Points: 170 \n # Comments: 52 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T04:42:05.843319+00:00"
+    "researched_at": "2026-10-24T11:07:59.916860+00:00"
   },
   {
-    "title": "CVE Tracker",
-    "url": "https://cve.0xosprey.com/",
-    "summary": " Article URL:  https://cve.0xosprey.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50215530  \n Points: 133 \n # Comments: 54 ",
+    "title": "I Don't Understand Quantum Physics",
+    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+    "summary": " Article URL:  https://www.southampton.ac.uk/~doug/quantum_physics/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=50219666  \n Points: 64 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T04:42:05.843316+00:00"
+    "researched_at": "2026-10-24T11:07:59.916848+00:00"
+  },
+  {
+    "title": "How close can pure functional programming get to C?",
+    "url": "https://rtfeldman.com/fp-vs-c",
+    "summary": " Article URL:  https://rtfeldman.com/fp-vs-c  \n Comments URL:  https://news.ycombinator.com/item?id=50218195  \n Points: 132 \n # Comments: 19 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-24T11:07:59.916863+00:00"
+  },
+  {
+    "title": "How Block Blast harvests its players for ad money",
+    "url": "https://ayoships.com/breakdowns/block-blast",
+    "summary": " Article URL:  https://ayoships.com/breakdowns/block-blast  \n Comments URL:  https://news.ycombinator.com/item?id=50217946  \n Points: 56 \n # Comments: 21 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-24T11:07:59.916865+00:00"
+  },
+  {
+    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+    "summary": " Article URL:  https://grapheneos.social/@GrapheneOS/117492375462459244  \n Comments URL:  https://news.ycombinator.com/item?id=50217495  \n Points: 125 \n # Comments: 20 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-24T11:07:59.916873+00:00"
+  },
+  {
+    "title": "Apple Security Research Device",
+    "url": "https://security.apple.com/research-device/",
+    "summary": " Article URL:  https://security.apple.com/research-device/  \n Comments URL:  https://news.ycombinator.com/item?id=50217903  \n Points: 74 \n # Comments: 26 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-24T11:07:59.916868+00:00"
   }
 ]
