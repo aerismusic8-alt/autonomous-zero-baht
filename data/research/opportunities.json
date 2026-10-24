@@ -1,96 +1,102 @@
 [
   {
-    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-    "summary": " Article URL:  https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update  \n Comments URL:  https://news.ycombinator.com/item?id=50214218  \n Points: 43 \n # Comments: 12 ",
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "url": "https://corgi.computer/",
+    "summary": " Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc. Many small quality of life improvements to the terminal experience:\n- Links can be copied with a click, so no need to drag-select over many lines\n- cmd+v just pastes images (even on SSH)\n- images have a thumbnail preview.\n- Built-in CPU/Memory/GPU usage tracking, broken down by workspace I assume you have access to cheap inference (Luna/Haiku/etc).\nIt just reuses the agents to organize things for you: what is this http link? what is t",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-23T21:27:28.854365+00:00"
+    "researched_at": "2026-10-24T04:42:05.843331+00:00"
   },
   {
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "summary": "  https://www.kimi.com/code/docs/en/kimi-code/models.html   https://artificialanalysis.ai/models/kimi-k3-1-pro   https://www.modelcompare.ai/blog/china-open-source-ai  \n \n Comments URL:  https://news.ycombinator.com/item?id=50212065  \n Points: 513 \n # Comments: 313 ",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+    "summary": " Article URL:  https://openai.com/index/securing-our-frontier-model-training-environment/  \n Comments URL:  https://news.ycombinator.com/item?id=50214416  \n Points: 92 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-23T21:27:28.854386+00:00"
+    "researched_at": "2026-10-24T04:42:05.843325+00:00"
   },
   {
-    "title": "We are all living inside of an obscure sci-fi film from 1970",
-    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-    "summary": " Article URL:  https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/  \n Comments URL:  https://news.ycombinator.com/item?id=50214323  \n Points: 21 \n # Comments: 7 ",
+    "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+    "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+    "summary": " Article URL:  https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8  \n Comments URL:  https://news.ycombinator.com/item?id=50216791  \n Points: 123 \n # Comments: 68 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-24T04:42:05.843310+00:00"
+  },
+  {
+    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "summary": " Article URL:  https://www.sciencedaily.com/releases/2026/10/261018084421.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50217683  \n Points: 45 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-24T04:42:05.843295+00:00"
+  },
+  {
+    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+    "summary": " Article URL:  https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/  \n Comments URL:  https://news.ycombinator.com/item?id=50214983  \n Points: 36 \n # Comments: 7 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-24T04:42:05.843322+00:00"
+  },
+  {
+    "title": "Twelve years of distributed SQLite",
+    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+    "summary": " Article URL:  https://philipotoole.com/twelve-years-of-distributed-sqlite/  \n Comments URL:  https://news.ycombinator.com/item?id=50217500  \n Points: 72 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854361+00:00"
+    "researched_at": "2026-10-24T04:42:05.843304+00:00"
   },
   {
-    "title": "Time Nuts (2005)",
-    "url": "http://leapsecond.com/time-nuts.htm",
-    "summary": " Article URL:  http://leapsecond.com/time-nuts.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50212281  \n Points: 23 \n # Comments: 21 ",
+    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+    "url": "https://rune.build/blog/rune-1-3-release",
+    "summary": " Article URL:  https://rune.build/blog/rune-1-3-release  \n Comments URL:  https://news.ycombinator.com/item?id=50214325  \n Points: 42 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854380+00:00"
+    "researched_at": "2026-10-24T04:42:05.843334+00:00"
   },
   {
-    "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-    "url": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-    "summary": " Article URL:  https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left  \n Comments URL:  https://news.ycombinator.com/item?id=50214447  \n Points: 15 \n # Comments: 5 ",
+    "title": "One Man's Pan Am 747 Replica [video]",
+    "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=vAFwHGGfPz4  \n Comments URL:  https://news.ycombinator.com/item?id=50215828  \n Points: 7 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854352+00:00"
+    "researched_at": "2026-10-24T04:42:05.843313+00:00"
   },
   {
-    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-    "summary": " Article URL:  https://twitter.com/robbietilton/status/2111936458923851923  \n Comments URL:  https://news.ycombinator.com/item?id=50212668  \n Points: 47 \n # Comments: 12 ",
+    "title": "No Source Code? No Problem",
+    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+    "summary": " Article URL:  https://queue.acm.org/doi/10.1145/945131.945155  \n Comments URL:  https://news.ycombinator.com/item?id=50214994  \n Points: 45 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854375+00:00"
+    "researched_at": "2026-10-24T04:42:05.843319+00:00"
   },
   {
-    "title": "Florida officer found dead man, impersonated him for years, renovated his home",
-    "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
-    "summary": " Article URL:  https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844  \n Comments URL:  https://news.ycombinator.com/item?id=50213826  \n Points: 31 \n # Comments: 11 ",
+    "title": "CVE Tracker",
+    "url": "https://cve.0xosprey.com/",
+    "summary": " Article URL:  https://cve.0xosprey.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50215530  \n Points: 133 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854372+00:00"
-  },
-  {
-    "title": "Dessa: the most authentic full-duplex speech model ever built",
-    "url": "https://block.xyz/dessa",
-    "summary": " Article URL:  https://block.xyz/dessa  \n Comments URL:  https://news.ycombinator.com/item?id=50213925  \n Points: 63 \n # Comments: 13 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854369+00:00"
-  },
-  {
-    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-    "summary": " Article URL:  https://david.lequin.dev/blog/bi-software-is-dead/  \n Comments URL:  https://news.ycombinator.com/item?id=50212320  \n Points: 89 \n # Comments: 55 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854378+00:00"
-  },
-  {
-    "title": "Animations for System Builders",
-    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-    "summary": " Article URL:  https://brooker.co.za/blog/2026/10/23/animations.html  \n Comments URL:  https://news.ycombinator.com/item?id=50212124  \n Points: 20 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-23T21:27:28.854383+00:00"
+    "researched_at": "2026-10-24T04:42:05.843316+00:00"
   }
 ]
