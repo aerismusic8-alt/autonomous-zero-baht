@@ -1,6 +1,6 @@
 {
   "id": "node2shell-evolves-to-http2shell-blast-radius-affects-many-http-libs-and-apps",
-  "created_at": "2026-10-24T11:07:59.917420+00:00",
+  "created_at": "2026-10-24T16:00:33.292461+00:00",
   "source_title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
   "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
   "source_feed": "https://hnrss.org/frontpage",
@@ -15,7 +15,7 @@
         "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
         "สรุปและขั้นตอนถัดไป"
       ],
-      "source_summary_for_editor": "Article URL:  https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497  \n Comments URL:  https://news.ycombinator.com/item?id=50219177  \n Points: 12 \n # Comments: 2",
+      "source_summary_for_editor": "Article URL:  https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497  \n Comments URL:  https://news.ycombinator.com/item?id=50219177  \n Points: 138 \n # Comments: 69",
       "source_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
     },
     "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",

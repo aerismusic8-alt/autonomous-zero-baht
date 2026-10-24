@@ -2,95 +2,99 @@
   {
     "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
     "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "summary": " Article URL:  https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497  \n Comments URL:  https://news.ycombinator.com/item?id=50219177  \n Points: 12 \n # Comments: 2 ",
+    "summary": " Article URL:  https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497  \n Comments URL:  https://news.ycombinator.com/item?id=50219177  \n Points: 138 \n # Comments: 69 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T11:07:59.916854+00:00"
+    "researched_at": "2026-10-24T16:00:33.291608+00:00"
   },
   {
     "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
     "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-    "summary": " Article URL:  https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/  \n Comments URL:  https://news.ycombinator.com/item?id=50218633  \n Points: 169 \n # Comments: 38 ",
+    "summary": " Article URL:  https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/  \n Comments URL:  https://news.ycombinator.com/item?id=50218633  \n Points: 386 \n # Comments: 134 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T11:07:59.916858+00:00"
+    "researched_at": "2026-10-24T16:00:33.291612+00:00"
   },
   {
-    "title": "Twelve years of distributed SQLite",
-    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-    "summary": " Article URL:  https://philipotoole.com/twelve-years-of-distributed-sqlite/  \n Comments URL:  https://news.ycombinator.com/item?id=50217500  \n Points: 216 \n # Comments: 32 ",
+    "title": "FreeDNS",
+    "url": "https://freedns.afraid.org/",
+    "summary": " Article URL:  https://freedns.afraid.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50222133  \n Points: 12 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-24T16:00:33.291574+00:00"
+  },
+  {
+    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+    "summary": " Article URL:  https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/  \n Comments URL:  https://news.ycombinator.com/item?id=50220204  \n Points: 71 \n # Comments: 26 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-24T16:00:33.291591+00:00"
+  },
+  {
+    "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+    "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+    "summary": " Article URL:  https://gitlab.com/c4psu13/mali-pagecache-root  \n Comments URL:  https://news.ycombinator.com/item?id=50220042  \n Points: 22 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916870+00:00"
-  },
-  {
-    "title": "One Man's Pan Am 747 Replica [video]",
-    "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=vAFwHGGfPz4  \n Comments URL:  https://news.ycombinator.com/item?id=50215828  \n Points: 38 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916875+00:00"
+    "researched_at": "2026-10-24T16:00:33.291595+00:00"
   },
   {
     "title": "OBS Studio 33",
     "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-    "summary": " Article URL:  https://github.com/obsproject/obs-studio/releases/tag/33.0.0  \n Comments URL:  https://news.ycombinator.com/item?id=50218430  \n Points: 170 \n # Comments: 52 ",
+    "summary": " Article URL:  https://github.com/obsproject/obs-studio/releases/tag/33.0.0  \n Comments URL:  https://news.ycombinator.com/item?id=50218430  \n Points: 333 \n # Comments: 107 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916860+00:00"
+    "researched_at": "2026-10-24T16:00:33.291616+00:00"
   },
   {
-    "title": "I Don't Understand Quantum Physics",
+    "title": "I Don't Understand Quantum Physics (2018)",
     "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-    "summary": " Article URL:  https://www.southampton.ac.uk/~doug/quantum_physics/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=50219666  \n Points: 64 \n # Comments: 27 ",
+    "summary": " Article URL:  https://www.southampton.ac.uk/~doug/quantum_physics/index.html  \n Comments URL:  https://news.ycombinator.com/item?id=50219666  \n Points: 189 \n # Comments: 131 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916848+00:00"
+    "researched_at": "2026-10-24T16:00:33.291604+00:00"
   },
   {
     "title": "How close can pure functional programming get to C?",
     "url": "https://rtfeldman.com/fp-vs-c",
-    "summary": " Article URL:  https://rtfeldman.com/fp-vs-c  \n Comments URL:  https://news.ycombinator.com/item?id=50218195  \n Points: 132 \n # Comments: 19 ",
+    "summary": " Article URL:  https://rtfeldman.com/fp-vs-c  \n Comments URL:  https://news.ycombinator.com/item?id=50218195  \n Points: 192 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916863+00:00"
+    "researched_at": "2026-10-24T16:00:33.291620+00:00"
   },
   {
-    "title": "How Block Blast harvests its players for ad money",
-    "url": "https://ayoships.com/breakdowns/block-blast",
-    "summary": " Article URL:  https://ayoships.com/breakdowns/block-blast  \n Comments URL:  https://news.ycombinator.com/item?id=50217946  \n Points: 56 \n # Comments: 21 ",
+    "title": "Google illegally cut down 250K trees in Finland for data center",
+    "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+    "summary": " Article URL:  https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/  \n Comments URL:  https://news.ycombinator.com/item?id=50221676  \n Points: 206 \n # Comments: 111 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916865+00:00"
+    "researched_at": "2026-10-24T16:00:33.291585+00:00"
   },
   {
-    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-    "summary": " Article URL:  https://grapheneos.social/@GrapheneOS/117492375462459244  \n Comments URL:  https://news.ycombinator.com/item?id=50217495  \n Points: 125 \n # Comments: 20 ",
+    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "summary": " Article URL:  https://github.com/Zagitta/gpu-unlock  \n Comments URL:  https://news.ycombinator.com/item?id=50219700  \n Points: 36 \n # Comments: 23 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916873+00:00"
-  },
-  {
-    "title": "Apple Security Research Device",
-    "url": "https://security.apple.com/research-device/",
-    "summary": " Article URL:  https://security.apple.com/research-device/  \n Comments URL:  https://news.ycombinator.com/item?id=50217903  \n Points: 74 \n # Comments: 26 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-24T11:07:59.916868+00:00"
+    "researched_at": "2026-10-24T16:00:33.291600+00:00"
   }
 ]
