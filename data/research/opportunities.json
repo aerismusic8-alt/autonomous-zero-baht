@@ -1,98 +1,94 @@
 [
   {
-    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "summary": " Article URL:  https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html  \n Comments URL:  https://news.ycombinator.com/item?id=50229827  \n Points: 88 \n # Comments: 23 ",
+    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+    "summary": " Article URL:  https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles  \n Comments URL:  https://news.ycombinator.com/item?id=50235010  \n Points: 8 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-25T16:27:55.033468+00:00"
+    "researched_at": "2026-10-25T20:54:37.922562+00:00"
   },
   {
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "summary": " Article URL:  https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras  \n Comments URL:  https://news.ycombinator.com/item?id=50227356  \n Points: 277 \n # Comments: 95 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-25T16:27:55.033470+00:00"
-  },
-  {
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "summary": " Article URL:  https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class  \n Comments URL:  https://news.ycombinator.com/item?id=50226419  \n Points: 446 \n # Comments: 468 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-25T16:27:55.033473+00:00"
-  },
-  {
-    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-    "url": "https://github.com/ihhub/fheroes2",
-    "summary": " Article URL:  https://github.com/ihhub/fheroes2  \n Comments URL:  https://news.ycombinator.com/item?id=50230384  \n Points: 127 \n # Comments: 42 ",
+    "title": "Why I Am a Programmer",
+    "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+    "summary": " Article URL:  https://www.alfie.wtf/programming/why-i-am-a-programmer.html  \n Comments URL:  https://news.ycombinator.com/item?id=50235017  \n Points: 18 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033463+00:00"
+    "researched_at": "2026-10-25T20:54:37.922559+00:00"
   },
   {
-    "title": "Tool book of a Nuremberg knight from 1505",
-    "url": "https://loeffelholz-codex.org/en/",
-    "summary": " Article URL:  https://loeffelholz-codex.org/en/  \n Comments URL:  https://news.ycombinator.com/item?id=50230917  \n Points: 126 \n # Comments: 66 ",
+    "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+    "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+    "summary": " Article URL:  https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass  \n Comments URL:  https://news.ycombinator.com/item?id=50233828  \n Points: 32 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033460+00:00"
+    "researched_at": "2026-10-25T20:54:37.922587+00:00"
   },
   {
-    "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-    "url": "https://bigwhalehunting.com/workforce/",
-    "summary": " Article URL:  https://bigwhalehunting.com/workforce/  \n Comments URL:  https://news.ycombinator.com/item?id=50232312  \n Points: 65 \n # Comments: 16 ",
+    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+    "summary": " Article URL:  https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/  \n Comments URL:  https://news.ycombinator.com/item?id=50234232  \n Points: 213 \n # Comments: 51 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033441+00:00"
+    "researched_at": "2026-10-25T20:54:37.922580+00:00"
   },
   {
-    "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-    "url": "https://github.com/winnin/farol",
-    "summary": " Article URL:  https://github.com/winnin/farol  \n Comments URL:  https://news.ycombinator.com/item?id=50231349  \n Points: 43 \n # Comments: 25 ",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+    "summary": " Article URL:  https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/  \n Comments URL:  https://news.ycombinator.com/item?id=50235217  \n Points: 58 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033454+00:00"
+    "researched_at": "2026-10-25T20:54:37.922555+00:00"
   },
   {
-    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-    "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-    "summary": " Article URL:  https://twitter.com/mike64_t/status/2114150399406202896  \n Comments URL:  https://news.ycombinator.com/item?id=50230181  \n Points: 247 \n # Comments: 155 ",
+    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+    "url": "https://talkweb.eu/openweb/4558/",
+    "summary": " Article URL:  https://talkweb.eu/openweb/4558/  \n Comments URL:  https://news.ycombinator.com/item?id=50233929  \n Points: 257 \n # Comments: 126 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033465+00:00"
+    "researched_at": "2026-10-25T20:54:37.922583+00:00"
   },
   {
-    "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-    "url": "https://twitter.com/freddier/status/2114042326758867453",
-    "summary": " Article URL:  https://twitter.com/freddier/status/2114042326758867453  \n Comments URL:  https://news.ycombinator.com/item?id=50231189  \n Points: 68 \n # Comments: 19 ",
+    "title": "Eunice is almost here (William Gibson, Agency)",
+    "url": "https://armincat.com/articles/eunice-is-almost-here",
+    "summary": " Article URL:  https://armincat.com/articles/eunice-is-almost-here  \n Comments URL:  https://news.ycombinator.com/item?id=50235316  \n Points: 20 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033457+00:00"
+    "researched_at": "2026-10-25T20:54:37.922548+00:00"
   },
   {
-    "title": "A few thoughts on intensity",
-    "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
-    "summary": " Article URL:  https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/  \n Comments URL:  https://news.ycombinator.com/item?id=50232035  \n Points: 24 \n # Comments: 8 ",
+    "title": "Dolly Parton's Imagination Library",
+    "url": "https://imaginationlibrary.com/",
+    "summary": " With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.” \n \n Comments URL:  https://news.ycombinator.com/item?id=50234474  \n Points: 180 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-25T16:27:55.033447+00:00"
+    "researched_at": "2026-10-25T20:54:37.922574+00:00"
+  },
+  {
+    "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+    "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+    "summary": " Article URL:  https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics  \n Comments URL:  https://news.ycombinator.com/item?id=50234329  \n Points: 40 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-25T20:54:37.922577+00:00"
+  },
+  {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "summary": " Article URL:  https://lynchlab.net/llm-skin-cancer  \n Comments URL:  https://news.ycombinator.com/item?id=50233779  \n Points: 272 \n # Comments: 133 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-25T20:54:37.922589+00:00"
   }
 ]
