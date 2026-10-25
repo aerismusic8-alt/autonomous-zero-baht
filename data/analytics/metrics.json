@@ -1,5 +1,16 @@
 [
   {
+    "content_id": "nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-25T11:37:44.174100+00:00"
+  },
+  {
     "content_id": "cerebras-deploys-trillion-parameter-ai-models",
     "impressions": null,
     "clicks": null,
@@ -8,7 +19,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-25T04:47:52.850832+00:00"
+    "recorded_at": "2026-10-25T11:37:44.174103+00:00"
   },
   {
     "content_id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai",
@@ -19,18 +30,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-25T04:47:52.850837+00:00"
-  },
-  {
-    "content_id": "xbox-turns-down-netflix-500m-offer",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-10-25T04:47:52.850840+00:00"
+    "recorded_at": "2026-10-25T11:37:44.174104+00:00"
   },
   {
     "content_id": "why-gopher-in-2026",
@@ -41,7 +41,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-25T04:47:52.850842+00:00"
+    "recorded_at": "2026-10-25T11:37:44.174105+00:00"
   },
   {
     "content_id": "we-should-be-more-ambitious-with-the-software-we-build",
@@ -52,6 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-10-25T04:47:52.850843+00:00"
+    "recorded_at": "2026-10-25T11:37:44.174107+00:00"
   }
 ]

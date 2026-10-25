@@ -1,16 +1,16 @@
 [
   {
+    "path": "data/content/drafts/nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/cerebras-deploys-trillion-parameter-ai-models.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/xbox-turns-down-netflix-500m-offer.json",
     "passed": true,
     "errors": []
   },
