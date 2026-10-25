@@ -1,98 +1,96 @@
 [
   {
-    "title": "Why is AI generated language so hard to understand?",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "summary": " Article URL:  https://arxiv.org/abs/2610.29162  \n Comments URL:  https://news.ycombinator.com/item?id=50223647  \n Points: 87 \n # Comments: 74 ",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "summary": " Article URL:  https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras  \n Comments URL:  https://news.ycombinator.com/item?id=50227356  \n Points: 44 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T20:53:28.153713+00:00"
+    "researched_at": "2026-10-25T04:47:52.847306+00:00"
   },
   {
-    "title": "No Signs of AI Payoff Outside the Tech Sector",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "summary": " Article URL:  https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector  \n Comments URL:  https://news.ycombinator.com/item?id=50224463  \n Points: 147 \n # Comments: 104 ",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "summary": " Article URL:  https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class  \n Comments URL:  https://news.ycombinator.com/item?id=50226419  \n Points: 242 \n # Comments: 251 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-24T20:53:28.153691+00:00"
+    "researched_at": "2026-10-25T04:47:52.847316+00:00"
   },
   {
-    "title": "Dream-1",
-    "url": "https://dreamlabs.ai/research/dream-1/",
-    "summary": " Article URL:  https://dreamlabs.ai/research/dream-1/  \n Comments URL:  https://news.ycombinator.com/item?id=50223785  \n Points: 93 \n # Comments: 54 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-24T20:53:28.153711+00:00"
-  },
-  {
-    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-    "url": "https://de.numista.com/9866",
-    "summary": " Article URL:  https://de.numista.com/9866  \n Comments URL:  https://news.ycombinator.com/item?id=50222927  \n Points: 68 \n # Comments: 14 ",
+    "title": "Xbox Turns Down Netflix $500M Offer",
+    "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+    "summary": " Article URL:  https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/  \n Comments URL:  https://news.ycombinator.com/item?id=50227892  \n Points: 59 \n # Comments: 60 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153715+00:00"
+    "researched_at": "2026-10-25T04:47:52.847289+00:00"
   },
   {
-    "title": "The Goose Programming Language",
-    "url": "https://aardappel.github.io/goose/",
-    "summary": " Article URL:  https://aardappel.github.io/goose/  \n Comments URL:  https://news.ycombinator.com/item?id=50224300  \n Points: 68 \n # Comments: 22 ",
+    "title": "Why Gopher in 2026?",
+    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+    "summary": " Article URL:  https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt  \n Comments URL:  https://news.ycombinator.com/item?id=50226577  \n Points: 44 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153700+00:00"
+    "researched_at": "2026-10-25T04:47:52.847313+00:00"
   },
   {
-    "title": "Roku developer repositories moved from GitHub to GitLab",
-    "url": "https://blog.roku.com/developer/gitlab-move",
-    "summary": " Article URL:  https://blog.roku.com/developer/gitlab-move  \n Comments URL:  https://news.ycombinator.com/item?id=50222622  \n Points: 200 \n # Comments: 136 ",
+    "title": "We should be more ambitious with the software we build",
+    "url": "https://danluu.com/ambitious/",
+    "summary": " Article URL:  https://danluu.com/ambitious/  \n Comments URL:  https://news.ycombinator.com/item?id=50225695  \n Points: 268 \n # Comments: 229 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153718+00:00"
+    "researched_at": "2026-10-25T04:47:52.847319+00:00"
   },
   {
-    "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-    "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-    "summary": " Article URL:  https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/  \n Comments URL:  https://news.ycombinator.com/item?id=50224074  \n Points: 73 \n # Comments: 27 ",
+    "title": "Small Programs and Languages",
+    "url": "https://ratfactor.com/cards/pl-small",
+    "summary": " Article URL:  https://ratfactor.com/cards/pl-small  \n Comments URL:  https://news.ycombinator.com/item?id=50225674  \n Points: 65 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153706+00:00"
+    "researched_at": "2026-10-25T04:47:52.847321+00:00"
   },
   {
-    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-    "url": "https://missileer.watch",
-    "summary": " Article URL:  https://missileer.watch  \n Comments URL:  https://news.ycombinator.com/item?id=50224422  \n Points: 34 \n # Comments: 16 ",
+    "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+    "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+    "summary": " Article URL:  https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report  \n Comments URL:  https://news.ycombinator.com/item?id=50227639  \n Points: 61 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153697+00:00"
+    "researched_at": "2026-10-25T04:47:52.847303+00:00"
   },
   {
-    "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-    "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-    "summary": " Article URL:  https://twitter.com/ID_AA_Carmack/status/2113704269274636568  \n Comments URL:  https://news.ycombinator.com/item?id=50224100  \n Points: 68 \n # Comments: 29 ",
+    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "url": "https://github.com/slee-persis/GVS5H",
+    "summary": " Article URL:  https://github.com/slee-persis/GVS5H  \n Comments URL:  https://news.ycombinator.com/item?id=50228167  \n Points: 28 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153703+00:00"
+    "researched_at": "2026-10-25T04:47:52.847281+00:00"
   },
   {
-    "title": "Danish Government silently drops plan to dump MS Office",
-    "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-    "summary": " Article URL:  https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft  \n Comments URL:  https://news.ycombinator.com/item?id=50223844  \n Points: 111 \n # Comments: 53 ",
+    "title": "FindMyWeb: Apple Find My, reverse enginiered",
+    "url": "https://codeberg.org/Misom/FindMyWeb",
+    "summary": " Article URL:  https://codeberg.org/Misom/FindMyWeb  \n Comments URL:  https://news.ycombinator.com/item?id=50226646  \n Points: 38 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-24T20:53:28.153708+00:00"
+    "researched_at": "2026-10-25T04:47:52.847310+00:00"
+  },
+  {
+    "title": "Attention people who think UB is fine",
+    "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+    "summary": " Article URL:  https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html  \n Comments URL:  https://news.ycombinator.com/item?id=50227814  \n Points: 4 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-25T04:47:52.847294+00:00"
   }
 ]

@@ -1705,3 +1705,22 @@
 {"timestamp": "2026-10-24T20:53:28.155873+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-24T20:53:28.155990+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-24T20:53:28.156190+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-25T04:47:52.318958+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-25T04:47:52.331567+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.332227+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-25T04:47:52.332969+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-25T04:47:52.458935+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-25T04:47:52.847139+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-25T04:47:52.848371+00:00", "event": "draft_created", "draft_id": "cerebras-deploys-trillion-parameter-ai-models", "path": "data/content/drafts/cerebras-deploys-trillion-parameter-ai-models.json"}
+{"timestamp": "2026-10-25T04:47:52.848682+00:00", "event": "draft_created", "draft_id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai", "path": "data/content/drafts/america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.json"}
+{"timestamp": "2026-10-25T04:47:52.848964+00:00", "event": "draft_created", "draft_id": "xbox-turns-down-netflix-500m-offer", "path": "data/content/drafts/xbox-turns-down-netflix-500m-offer.json"}
+{"timestamp": "2026-10-25T04:47:52.849278+00:00", "event": "draft_created", "draft_id": "why-gopher-in-2026", "path": "data/content/drafts/why-gopher-in-2026.json"}
+{"timestamp": "2026-10-25T04:47:52.849554+00:00", "event": "draft_created", "draft_id": "we-should-be-more-ambitious-with-the-software-we-build", "path": "data/content/drafts/we-should-be-more-ambitious-with-the-software-we-build.json"}
+{"timestamp": "2026-10-25T04:47:52.849709+00:00", "event": "draft_validation", "path": "data/content/drafts/cerebras-deploys-trillion-parameter-ai-models.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.849855+00:00", "event": "draft_validation", "path": "data/content/drafts/america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.849991+00:00", "event": "draft_validation", "path": "data/content/drafts/xbox-turns-down-netflix-500m-offer.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.850170+00:00", "event": "draft_validation", "path": "data/content/drafts/why-gopher-in-2026.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.850303+00:00", "event": "draft_validation", "path": "data/content/drafts/we-should-be-more-ambitious-with-the-software-we-build.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-25T04:47:52.850537+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-25T04:47:52.850733+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-25T04:47:52.851044+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
