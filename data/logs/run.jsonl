@@ -1781,3 +1781,22 @@
 {"timestamp": "2026-10-25T20:54:37.925480+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-25T20:54:37.925623+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-25T20:54:37.925867+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-26T04:53:17.261980+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T04:53:17.265627+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.266159+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-26T04:53:17.266679+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-26T04:53:17.358563+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-26T04:53:17.945234+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-26T04:53:17.946125+00:00", "event": "draft_created", "draft_id": "microsoft-decision-1-9b-qwen-model-launch-explained", "path": "data/content/drafts/microsoft-decision-1-9b-qwen-model-launch-explained.json"}
+{"timestamp": "2026-10-26T04:53:17.946286+00:00", "event": "draft_created", "draft_id": "if-ai-displaces-human-workers-they-will-lose-more-than-just-pay", "path": "data/content/drafts/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay.json"}
+{"timestamp": "2026-10-26T04:53:17.946422+00:00", "event": "draft_created", "draft_id": "iphone-duo-teardown", "path": "data/content/drafts/iphone-duo-teardown.json"}
+{"timestamp": "2026-10-26T04:53:17.946542+00:00", "event": "draft_created", "draft_id": "us-wages-share-of-gdi-at-75-year-low", "path": "data/content/drafts/us-wages-share-of-gdi-at-75-year-low.json"}
+{"timestamp": "2026-10-26T04:53:17.946704+00:00", "event": "draft_created", "draft_id": "show-hn-titleart-make-text-like-it-s-1997", "path": "data/content/drafts/show-hn-titleart-make-text-like-it-s-1997.json"}
+{"timestamp": "2026-10-26T04:53:17.946808+00:00", "event": "draft_validation", "path": "data/content/drafts/microsoft-decision-1-9b-qwen-model-launch-explained.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.946874+00:00", "event": "draft_validation", "path": "data/content/drafts/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.946930+00:00", "event": "draft_validation", "path": "data/content/drafts/iphone-duo-teardown.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.946982+00:00", "event": "draft_validation", "path": "data/content/drafts/us-wages-share-of-gdi-at-75-year-low.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.947034+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-titleart-make-text-like-it-s-1997.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T04:53:17.947156+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T04:53:17.947231+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-26T04:53:17.947399+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
