@@ -1819,3 +1819,22 @@
 {"timestamp": "2026-10-26T13:10:23.490925+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-26T13:10:23.491009+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-26T13:10:23.491150+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-26T22:42:56.881479+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T22:42:56.885145+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:56.885642+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-26T22:42:56.886292+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-26T22:42:57.069092+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-26T22:42:57.398881+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-26T22:42:57.400151+00:00", "event": "draft_created", "draft_id": "working-with-academic-communities-to-build-scientific-understanding", "path": "data/content/drafts/working-with-academic-communities-to-build-scientific-understanding.json"}
+{"timestamp": "2026-10-26T22:42:57.400467+00:00", "event": "draft_created", "draft_id": "type-server-protocol", "path": "data/content/drafts/type-server-protocol.json"}
+{"timestamp": "2026-10-26T22:42:57.400738+00:00", "event": "draft_created", "draft_id": "gpt-6-1-terra", "path": "data/content/drafts/gpt-6-1-terra.json"}
+{"timestamp": "2026-10-26T22:42:57.400988+00:00", "event": "draft_created", "draft_id": "us-designates-helium-as-a-critical-material", "path": "data/content/drafts/us-designates-helium-as-a-critical-material.json"}
+{"timestamp": "2026-10-26T22:42:57.401227+00:00", "event": "draft_created", "draft_id": "the-epa-is-quietly-killing-its-web-archive", "path": "data/content/drafts/the-epa-is-quietly-killing-its-web-archive.json"}
+{"timestamp": "2026-10-26T22:42:57.401374+00:00", "event": "draft_validation", "path": "data/content/drafts/working-with-academic-communities-to-build-scientific-understanding.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:57.401531+00:00", "event": "draft_validation", "path": "data/content/drafts/type-server-protocol.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:57.401646+00:00", "event": "draft_validation", "path": "data/content/drafts/gpt-6-1-terra.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:57.401758+00:00", "event": "draft_validation", "path": "data/content/drafts/us-designates-helium-as-a-critical-material.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:57.401869+00:00", "event": "draft_validation", "path": "data/content/drafts/the-epa-is-quietly-killing-its-web-archive.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T22:42:57.402075+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T22:42:57.402248+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-26T22:42:57.402532+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

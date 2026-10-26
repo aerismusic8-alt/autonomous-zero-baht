@@ -1,94 +1,98 @@
 [
   {
-    "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
-    "url": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
-    "summary": " Article URL:  https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html  \n Comments URL:  https://news.ycombinator.com/item?id=50242734  \n Points: 16 \n # Comments: 1 ",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "summary": " Article URL:  https://openai.com/index/building-scientific-understanding-with-academic-communities/  \n Comments URL:  https://news.ycombinator.com/item?id=50251344  \n Points: 121 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T13:10:23.488986+00:00"
+    "researched_at": "2026-10-26T22:42:57.399051+00:00"
   },
   {
-    "title": "Writing Is Closer to Thought Than Code",
-    "url": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
-    "summary": " Article URL:  https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code  \n Comments URL:  https://news.ycombinator.com/item?id=50242555  \n Points: 5 \n # Comments: 1 ",
+    "title": "Type Server Protocol",
+    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+    "summary": " Article URL:  https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md  \n Comments URL:  https://news.ycombinator.com/item?id=50248371  \n Points: 166 \n # Comments: 124 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-26T22:42:57.399072+00:00"
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "summary": " Article URL:  https://openai.com/index/introducing-gpt-6-1-terra/  \n Comments URL:  https://news.ycombinator.com/item?id=50248124  \n Points: 431 \n # Comments: 272 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-26T22:42:57.399075+00:00"
+  },
+  {
+    "title": "US designates helium as a critical material",
+    "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+    "summary": " Article URL:  https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c  \n Comments URL:  https://news.ycombinator.com/item?id=50248665  \n Points: 144 \n # Comments: 77 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.488990+00:00"
+    "researched_at": "2026-10-26T22:42:57.399068+00:00"
   },
   {
-    "title": "Websites Should Be Printable",
-    "url": "https://brennenputh.me/blog/printable-websites/",
-    "summary": " Article URL:  https://brennenputh.me/blog/printable-websites/  \n Comments URL:  https://news.ycombinator.com/item?id=50241664  \n Points: 71 \n # Comments: 59 ",
+    "title": "The EPA Is Quietly Killing Its Web Archive",
+    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+    "summary": " Article URL:  https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/  \n Comments URL:  https://news.ycombinator.com/item?id=50249275  \n Points: 178 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.488995+00:00"
+    "researched_at": "2026-10-26T22:42:57.399064+00:00"
   },
   {
-    "title": "Tasks as Code: Move Your Tickets into the Repository",
-    "url": "https://typemill.net/knowledge-hub/tasks-as-code",
-    "summary": " Article URL:  https://typemill.net/knowledge-hub/tasks-as-code  \n Comments URL:  https://news.ycombinator.com/item?id=50241924  \n Points: 14 \n # Comments: 13 ",
+    "title": "Oldest GUI application that still runs on Windows 11",
+    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+    "summary": " Article URL:  https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/  \n Comments URL:  https://news.ycombinator.com/item?id=50248055  \n Points: 210 \n # Comments: 120 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.488993+00:00"
+    "researched_at": "2026-10-26T22:42:57.399079+00:00"
   },
   {
-    "title": "Switzerland. Block by block. At 1:1 scale",
-    "url": "https://blocks.manifold3d.ch/",
-    "summary": " Article URL:  https://blocks.manifold3d.ch/  \n Comments URL:  https://news.ycombinator.com/item?id=50240922  \n Points: 255 \n # Comments: 107 ",
+    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+    "summary": " Article URL:  https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/  \n Comments URL:  https://news.ycombinator.com/item?id=50248005  \n Points: 217 \n # Comments: 130 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.488998+00:00"
+    "researched_at": "2026-10-26T22:42:57.399083+00:00"
   },
   {
-    "title": "Show HN: TitleArt – Make text like it's 1997",
-    "url": "https://titleart.dvy.io/",
-    "summary": " Article URL:  https://titleart.dvy.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50238708  \n Points: 289 \n # Comments: 51 ",
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "summary": " Article URL:  https://corridorkey.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50251127  \n Points: 70 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.489010+00:00"
+    "researched_at": "2026-10-26T22:42:57.399059+00:00"
   },
   {
-    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-    "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "summary": " Article URL:  https://github.com/KrushnaVardhanReddy/PaperPilot  \n Comments URL:  https://news.ycombinator.com/item?id=50238739  \n Points: 178 \n # Comments: 66 ",
+    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "summary": " Article URL:  https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/  \n Comments URL:  https://news.ycombinator.com/item?id=50247630  \n Points: 193 \n # Comments: 74 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.489006+00:00"
+    "researched_at": "2026-10-26T22:42:57.399090+00:00"
   },
   {
-    "title": "IBM CEO says open weight models are now good and cheap on-prem",
-    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "summary": " Article URL:  https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640  \n Comments URL:  https://news.ycombinator.com/item?id=50238088  \n Points: 330 \n # Comments: 237 ",
+    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+    "summary": " Article URL:  http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html  \n Comments URL:  https://news.ycombinator.com/item?id=50247928  \n Points: 87 \n # Comments: 42 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.489013+00:00"
-  },
-  {
-    "title": "Behind the scenes at the NeXT Computer office",
-    "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-    "summary": " Article URL:  https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry  \n Comments URL:  https://news.ycombinator.com/item?id=50238763  \n Points: 164 \n # Comments: 86 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.489001+00:00"
-  },
-  {
-    "title": "Anthropic S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "summary": " Article URL:  https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50242939  \n Points: 16 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T13:10:23.488980+00:00"
+    "researched_at": "2026-10-26T22:42:57.399086+00:00"
   }
 ]
