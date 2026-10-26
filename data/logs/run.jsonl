@@ -1800,3 +1800,22 @@
 {"timestamp": "2026-10-26T04:53:17.947156+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-26T04:53:17.947231+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-26T04:53:17.947399+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-26T13:10:15.523663+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T13:10:15.526787+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:15.527149+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-26T13:10:15.527614+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-26T13:10:15.626389+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-26T13:10:23.488830+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-26T13:10:23.489773+00:00", "event": "draft_created", "draft_id": "peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist", "path": "data/content/drafts/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.json"}
+{"timestamp": "2026-10-26T13:10:23.489953+00:00", "event": "draft_created", "draft_id": "writing-is-closer-to-thought-than-code", "path": "data/content/drafts/writing-is-closer-to-thought-than-code.json"}
+{"timestamp": "2026-10-26T13:10:23.490102+00:00", "event": "draft_created", "draft_id": "websites-should-be-printable", "path": "data/content/drafts/websites-should-be-printable.json"}
+{"timestamp": "2026-10-26T13:10:23.490244+00:00", "event": "draft_created", "draft_id": "tasks-as-code-move-your-tickets-into-the-repository", "path": "data/content/drafts/tasks-as-code-move-your-tickets-into-the-repository.json"}
+{"timestamp": "2026-10-26T13:10:23.490383+00:00", "event": "draft_created", "draft_id": "switzerland-block-by-block-at-1-1-scale", "path": "data/content/drafts/switzerland-block-by-block-at-1-1-scale.json"}
+{"timestamp": "2026-10-26T13:10:23.490517+00:00", "event": "draft_validation", "path": "data/content/drafts/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:23.490603+00:00", "event": "draft_validation", "path": "data/content/drafts/writing-is-closer-to-thought-than-code.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:23.490672+00:00", "event": "draft_validation", "path": "data/content/drafts/websites-should-be-printable.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:23.490736+00:00", "event": "draft_validation", "path": "data/content/drafts/tasks-as-code-move-your-tickets-into-the-repository.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:23.490797+00:00", "event": "draft_validation", "path": "data/content/drafts/switzerland-block-by-block-at-1-1-scale.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-26T13:10:23.490925+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-26T13:10:23.491009+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-26T13:10:23.491150+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

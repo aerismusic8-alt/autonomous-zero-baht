@@ -1,96 +1,94 @@
 [
   {
-    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-    "summary": " Article URL:  https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50238620  \n Points: 4 \n # Comments: 0 ",
+    "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+    "url": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+    "summary": " Article URL:  https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html  \n Comments URL:  https://news.ycombinator.com/item?id=50242734  \n Points: 16 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T04:53:17.945417+00:00"
+    "researched_at": "2026-10-26T13:10:23.488986+00:00"
   },
   {
-    "title": "If AI displaces human workers, they will lose more than just pay",
-    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-    "summary": " Article URL:  https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay  \n Comments URL:  https://news.ycombinator.com/item?id=50238351  \n Points: 19 \n # Comments: 24 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-26T04:53:17.945422+00:00"
-  },
-  {
-    "title": "iPhone Duo Teardown",
-    "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-    "summary": " Article URL:  https://www.ifixit.com/News/119895/iphone-duo-teardown  \n Comments URL:  https://news.ycombinator.com/item?id=50237896  \n Points: 76 \n # Comments: 40 ",
+    "title": "Writing Is Closer to Thought Than Code",
+    "url": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+    "summary": " Article URL:  https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code  \n Comments URL:  https://news.ycombinator.com/item?id=50242555  \n Points: 5 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945426+00:00"
+    "researched_at": "2026-10-26T13:10:23.488990+00:00"
   },
   {
-    "title": "US Wages Share of GDI at 75 Year Low",
-    "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
-    "summary": " Article URL:  https://fred.stlouisfed.org/series/W270RE1A156NBEA  \n Comments URL:  https://news.ycombinator.com/item?id=50238884  \n Points: 9 \n # Comments: 2 ",
+    "title": "Websites Should Be Printable",
+    "url": "https://brennenputh.me/blog/printable-websites/",
+    "summary": " Article URL:  https://brennenputh.me/blog/printable-websites/  \n Comments URL:  https://news.ycombinator.com/item?id=50241664  \n Points: 71 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945399+00:00"
+    "researched_at": "2026-10-26T13:10:23.488995+00:00"
+  },
+  {
+    "title": "Tasks as Code: Move Your Tickets into the Repository",
+    "url": "https://typemill.net/knowledge-hub/tasks-as-code",
+    "summary": " Article URL:  https://typemill.net/knowledge-hub/tasks-as-code  \n Comments URL:  https://news.ycombinator.com/item?id=50241924  \n Points: 14 \n # Comments: 13 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-26T13:10:23.488993+00:00"
+  },
+  {
+    "title": "Switzerland. Block by block. At 1:1 scale",
+    "url": "https://blocks.manifold3d.ch/",
+    "summary": " Article URL:  https://blocks.manifold3d.ch/  \n Comments URL:  https://news.ycombinator.com/item?id=50240922  \n Points: 255 \n # Comments: 107 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-26T13:10:23.488998+00:00"
   },
   {
     "title": "Show HN: TitleArt – Make text like it's 1997",
     "url": "https://titleart.dvy.io/",
-    "summary": " Article URL:  https://titleart.dvy.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50238708  \n Points: 37 \n # Comments: 8 ",
+    "summary": " Article URL:  https://titleart.dvy.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50238708  \n Points: 289 \n # Comments: 51 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945414+00:00"
-  },
-  {
-    "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-    "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-    "summary": " Article URL:  https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category  \n Comments URL:  https://news.ycombinator.com/item?id=50237712  \n Points: 82 \n # Comments: 36 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945428+00:00"
+    "researched_at": "2026-10-26T13:10:23.489010+00:00"
   },
   {
     "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
     "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-    "summary": " Article URL:  https://github.com/KrushnaVardhanReddy/PaperPilot  \n Comments URL:  https://news.ycombinator.com/item?id=50238739  \n Points: 21 \n # Comments: 1 ",
+    "summary": " Article URL:  https://github.com/KrushnaVardhanReddy/PaperPilot  \n Comments URL:  https://news.ycombinator.com/item?id=50238739  \n Points: 178 \n # Comments: 66 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945411+00:00"
+    "researched_at": "2026-10-26T13:10:23.489006+00:00"
   },
   {
-    "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+    "title": "IBM CEO says open weight models are now good and cheap on-prem",
     "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "summary": " Article URL:  https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640  \n Comments URL:  https://news.ycombinator.com/item?id=50238088  \n Points: 98 \n # Comments: 54 ",
+    "summary": " Article URL:  https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640  \n Comments URL:  https://news.ycombinator.com/item?id=50238088  \n Points: 330 \n # Comments: 237 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945424+00:00"
-  },
-  {
-    "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
-    "url": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
-    "summary": " Article URL:  https://www.bbc.com/news/articles/cmvg7p001qj9o  \n Comments URL:  https://news.ycombinator.com/item?id=50238557  \n Points: 67 \n # Comments: 7 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945420+00:00"
+    "researched_at": "2026-10-26T13:10:23.489013+00:00"
   },
   {
     "title": "Behind the scenes at the NeXT Computer office",
     "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-    "summary": " Article URL:  https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry  \n Comments URL:  https://news.ycombinator.com/item?id=50238763  \n Points: 17 \n # Comments: 5 ",
+    "summary": " Article URL:  https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry  \n Comments URL:  https://news.ycombinator.com/item?id=50238763  \n Points: 164 \n # Comments: 86 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T04:53:17.945404+00:00"
+    "researched_at": "2026-10-26T13:10:23.489001+00:00"
+  },
+  {
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "summary": " Article URL:  https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm  \n Comments URL:  https://news.ycombinator.com/item?id=50242939  \n Points: 16 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-26T13:10:23.488980+00:00"
   }
 ]
