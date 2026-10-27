@@ -1,98 +1,96 @@
 [
   {
-    "title": "Type Server Protocol",
-    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "summary": " Article URL:  https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md  \n Comments URL:  https://news.ycombinator.com/item?id=50248371  \n Points: 215 \n # Comments: 145 ",
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "summary": " Article URL:  https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup  \n Comments URL:  https://news.ycombinator.com/item?id=50257326  \n Points: 33 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T05:11:34.741495+00:00"
+    "researched_at": "2026-10-27T12:18:28.741407+00:00"
   },
   {
-    "title": "GPT-6.1 Terra",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "summary": "  https://developers.openai.com/api/docs/models/gpt-6.1-terra  \n \n Comments URL:  https://news.ycombinator.com/item?id=50248124  \n Points: 553 \n # Comments: 347 ",
+    "title": "The Mythical Man-Month in the Age of AI",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "summary": " Article URL:  https://j11g.com/the-mythical-man-month-in-the-age-of-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50255298  \n Points: 220 \n # Comments: 156 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T05:11:34.741497+00:00"
+    "researched_at": "2026-10-27T12:18:28.741415+00:00"
   },
   {
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "summary": " Article URL:  https://blog.cloudflare.com/kv-cache-exposure-remediation/  \n Comments URL:  https://news.ycombinator.com/item?id=50252159  \n Points: 101 \n # Comments: 33 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-27T05:11:34.741484+00:00"
-  },
-  {
-    "title": "Three new discoveries in mathematics, computer science, and physics",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "summary": " Related:  The Exponential Time Hypothesis Is False [pdf]  -  https://news.ycombinator.com/item?id=50251661  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251344  \n Points: 660 \n # Comments: 284 ",
+    "title": "Writing about pratt parsing so I remember it",
+    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+    "summary": " Article URL:  https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html  \n Comments URL:  https://news.ycombinator.com/item?id=50255177  \n Points: 47 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741493+00:00"
+    "researched_at": "2026-10-27T12:18:28.741417+00:00"
   },
   {
-    "title": "The Exponential Time Hypothesis Is False [pdf]",
-    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-    "summary": " See also:  Announcing three new discoveries in mathematics, computer science, and physics  -  https://news.ycombinator.com/item?id=50251344  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251661  \n Points: 450 \n # Comments: 170 ",
+    "title": "Software may be getting worse, but it used to be horrible",
+    "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+    "summary": " Article URL:  https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/  \n Comments URL:  https://news.ycombinator.com/item?id=50257548  \n Points: 42 \n # Comments: 15 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741490+00:00"
+    "researched_at": "2026-10-27T12:18:28.741399+00:00"
   },
   {
-    "title": "Oldest GUI application that still runs on Windows 11",
-    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "summary": " Article URL:  https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/  \n Comments URL:  https://news.ycombinator.com/item?id=50248055  \n Points: 349 \n # Comments: 208 ",
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "summary": " Article URL:  https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/  \n Comments URL:  https://news.ycombinator.com/item?id=50256985  \n Points: 143 \n # Comments: 105 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741499+00:00"
+    "researched_at": "2026-10-27T12:18:28.741409+00:00"
   },
   {
-    "title": "Nietzschian Debugger",
-    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-    "summary": " Article URL:  https://github.com/DilawarShafiq/nietzschian-debugger  \n Comments URL:  https://news.ycombinator.com/item?id=50247493  \n Points: 149 \n # Comments: 50 ",
+    "title": "Python's experimental JIT to be removed",
+    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+    "summary": " Article URL:  https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/  \n Comments URL:  https://news.ycombinator.com/item?id=50257419  \n Points: 21 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741504+00:00"
+    "researched_at": "2026-10-27T12:18:28.741404+00:00"
   },
   {
-    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-    "summary": " Article URL:  https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it  \n Comments URL:  https://news.ycombinator.com/item?id=50252008  \n Points: 34 \n # Comments: 28 ",
+    "title": "I will no longer upload to NEW",
+    "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+    "summary": " Article URL:  https://lists.debian.org/debian-devel/2026/10/msg00263.html  \n Comments URL:  https://news.ycombinator.com/item?id=50256738  \n Points: 123 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741488+00:00"
+    "researched_at": "2026-10-27T12:18:28.741413+00:00"
   },
   {
-    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "summary": " Article URL:  http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html  \n Comments URL:  https://news.ycombinator.com/item?id=50247928  \n Points: 147 \n # Comments: 71 ",
+    "title": "I still teach OpenGL ES 3.0",
+    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+    "summary": " Article URL:  https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html  \n Comments URL:  https://news.ycombinator.com/item?id=50253939  \n Points: 82 \n # Comments: 49 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741502+00:00"
+    "researched_at": "2026-10-27T12:18:28.741420+00:00"
+  },
+  {
+    "title": "Gforth 1.0",
+    "url": "https://gforth.org/manual/1.0/NEWS.html",
+    "summary": " Article URL:  https://gforth.org/manual/1.0/NEWS.html  \n Comments URL:  https://news.ycombinator.com/item?id=50256952  \n Points: 27 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-27T12:18:28.741411+00:00"
   },
   {
     "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
     "url": "https://github.com/otya128/winevdm",
-    "summary": " Article URL:  https://github.com/otya128/winevdm  \n Comments URL:  https://news.ycombinator.com/item?id=50253529  \n Points: 51 \n # Comments: 3 ",
+    "summary": " Article URL:  https://github.com/otya128/winevdm  \n Comments URL:  https://news.ycombinator.com/item?id=50253529  \n Points: 102 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T05:11:34.741479+00:00"
+    "researched_at": "2026-10-27T12:18:28.741422+00:00"
   }
 ]
