@@ -1,96 +1,102 @@
 [
   {
-    "title": "Wikipedia's Cleanup of AI-Generated Content",
-    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-    "summary": " Article URL:  https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup  \n Comments URL:  https://news.ycombinator.com/item?id=50257326  \n Points: 33 \n # Comments: 12 ",
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "summary": " Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 120 \n # Comments: 65 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T12:18:28.741407+00:00"
+    "researched_at": "2026-10-27T22:18:37.005189+00:00"
   },
   {
-    "title": "The Mythical Man-Month in the Age of AI",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "summary": " Article URL:  https://j11g.com/the-mythical-man-month-in-the-age-of-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50255298  \n Points: 220 \n # Comments: 156 ",
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "url": "https://www.brangus.io/survival-llm",
+    "summary": " Article URL:  https://www.brangus.io/survival-llm  \n Comments URL:  https://news.ycombinator.com/item?id=50264853  \n Points: 98 \n # Comments: 64 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T12:18:28.741415+00:00"
+    "researched_at": "2026-10-27T22:18:37.005192+00:00"
   },
   {
-    "title": "Writing about pratt parsing so I remember it",
-    "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
-    "summary": " Article URL:  https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html  \n Comments URL:  https://news.ycombinator.com/item?id=50255177  \n Points: 47 \n # Comments: 6 ",
+    "title": "One year of Dioxus fullstack in production: the good, the painful",
+    "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+    "summary": " Article URL:  https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful  \n Comments URL:  https://news.ycombinator.com/item?id=50265960  \n Points: 12 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-27T22:18:37.005167+00:00"
+  },
+  {
+    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "summary": " Article URL:  https://www.liquid.ai/blog/lfm3  \n Comments URL:  https://news.ycombinator.com/item?id=50262229  \n Points: 90 \n # Comments: 33 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-27T22:18:37.005201+00:00"
+  },
+  {
+    "title": "Hex Raises $100M",
+    "url": "https://hex.tech/blog/hex-new-era/",
+    "summary": " Article URL:  https://hex.tech/blog/hex-new-era/  \n Comments URL:  https://news.ycombinator.com/item?id=50265413  \n Points: 11 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-27T22:18:37.005182+00:00"
+  },
+  {
+    "title": "Three TLS Bugs in GoAhead",
+    "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+    "summary": " Article URL:  https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead  \n Comments URL:  https://news.ycombinator.com/item?id=50263701  \n Points: 38 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741417+00:00"
+    "researched_at": "2026-10-27T22:18:37.005198+00:00"
   },
   {
-    "title": "Software may be getting worse, but it used to be horrible",
-    "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-    "summary": " Article URL:  https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/  \n Comments URL:  https://news.ycombinator.com/item?id=50257548  \n Points: 42 \n # Comments: 15 ",
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 34 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741399+00:00"
+    "researched_at": "2026-10-27T22:18:37.005179+00:00"
   },
   {
-    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-    "summary": " Article URL:  https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/  \n Comments URL:  https://news.ycombinator.com/item?id=50256985  \n Points: 143 \n # Comments: 105 ",
+    "title": "Four Months of Zig",
+    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 30 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741409+00:00"
+    "researched_at": "2026-10-27T22:18:37.005186+00:00"
   },
   {
-    "title": "Python's experimental JIT to be removed",
-    "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-    "summary": " Article URL:  https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/  \n Comments URL:  https://news.ycombinator.com/item?id=50257419  \n Points: 21 \n # Comments: 0 ",
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 49 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741404+00:00"
+    "researched_at": "2026-10-27T22:18:37.005175+00:00"
   },
   {
-    "title": "I will no longer upload to NEW",
-    "url": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
-    "summary": " Article URL:  https://lists.debian.org/debian-devel/2026/10/msg00263.html  \n Comments URL:  https://news.ycombinator.com/item?id=50256738  \n Points: 123 \n # Comments: 50 ",
+    "title": "Discord will soon let anyone find public server messages through Google",
+    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+    "summary": " Article URL:  https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover  \n Comments URL:  https://news.ycombinator.com/item?id=50263854  \n Points: 157 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741413+00:00"
-  },
-  {
-    "title": "I still teach OpenGL ES 3.0",
-    "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
-    "summary": " Article URL:  https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html  \n Comments URL:  https://news.ycombinator.com/item?id=50253939  \n Points: 82 \n # Comments: 49 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741420+00:00"
-  },
-  {
-    "title": "Gforth 1.0",
-    "url": "https://gforth.org/manual/1.0/NEWS.html",
-    "summary": " Article URL:  https://gforth.org/manual/1.0/NEWS.html  \n Comments URL:  https://news.ycombinator.com/item?id=50256952  \n Points: 27 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741411+00:00"
-  },
-  {
-    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-    "url": "https://github.com/otya128/winevdm",
-    "summary": " Article URL:  https://github.com/otya128/winevdm  \n Comments URL:  https://news.ycombinator.com/item?id=50253529  \n Points: 102 \n # Comments: 27 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-27T12:18:28.741422+00:00"
+    "researched_at": "2026-10-27T22:18:37.005195+00:00"
   }
 ]
