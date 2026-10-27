@@ -1,98 +1,98 @@
 [
   {
-    "title": "Working with academic communities to build scientific understanding",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-    "summary": " Article URL:  https://openai.com/index/building-scientific-understanding-with-academic-communities/  \n Comments URL:  https://news.ycombinator.com/item?id=50251344  \n Points: 121 \n # Comments: 22 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-26T22:42:57.399051+00:00"
-  },
-  {
     "title": "Type Server Protocol",
     "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-    "summary": " Article URL:  https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md  \n Comments URL:  https://news.ycombinator.com/item?id=50248371  \n Points: 166 \n # Comments: 124 ",
+    "summary": " Article URL:  https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md  \n Comments URL:  https://news.ycombinator.com/item?id=50248371  \n Points: 215 \n # Comments: 145 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T22:42:57.399072+00:00"
+    "researched_at": "2026-10-27T05:11:34.741495+00:00"
   },
   {
     "title": "GPT-6.1 Terra",
     "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "summary": " Article URL:  https://openai.com/index/introducing-gpt-6-1-terra/  \n Comments URL:  https://news.ycombinator.com/item?id=50248124  \n Points: 431 \n # Comments: 272 ",
+    "summary": "  https://developers.openai.com/api/docs/models/gpt-6.1-terra  \n \n Comments URL:  https://news.ycombinator.com/item?id=50248124  \n Points: 553 \n # Comments: 347 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-26T22:42:57.399075+00:00"
+    "researched_at": "2026-10-27T05:11:34.741497+00:00"
   },
   {
-    "title": "US designates helium as a critical material",
-    "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-    "summary": " Article URL:  https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c  \n Comments URL:  https://news.ycombinator.com/item?id=50248665  \n Points: 144 \n # Comments: 77 ",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "summary": " Article URL:  https://blog.cloudflare.com/kv-cache-exposure-remediation/  \n Comments URL:  https://news.ycombinator.com/item?id=50252159  \n Points: 101 \n # Comments: 33 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-27T05:11:34.741484+00:00"
+  },
+  {
+    "title": "Three new discoveries in mathematics, computer science, and physics",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "summary": " Related:  The Exponential Time Hypothesis Is False [pdf]  -  https://news.ycombinator.com/item?id=50251661  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251344  \n Points: 660 \n # Comments: 284 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399068+00:00"
+    "researched_at": "2026-10-27T05:11:34.741493+00:00"
   },
   {
-    "title": "The EPA Is Quietly Killing Its Web Archive",
-    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-    "summary": " Article URL:  https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/  \n Comments URL:  https://news.ycombinator.com/item?id=50249275  \n Points: 178 \n # Comments: 28 ",
+    "title": "The Exponential Time Hypothesis Is False [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+    "summary": " See also:  Announcing three new discoveries in mathematics, computer science, and physics  -  https://news.ycombinator.com/item?id=50251344  \n \n Comments URL:  https://news.ycombinator.com/item?id=50251661  \n Points: 450 \n # Comments: 170 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399064+00:00"
+    "researched_at": "2026-10-27T05:11:34.741490+00:00"
   },
   {
     "title": "Oldest GUI application that still runs on Windows 11",
     "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-    "summary": " Article URL:  https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/  \n Comments URL:  https://news.ycombinator.com/item?id=50248055  \n Points: 210 \n # Comments: 120 ",
+    "summary": " Article URL:  https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/  \n Comments URL:  https://news.ycombinator.com/item?id=50248055  \n Points: 349 \n # Comments: 208 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399079+00:00"
+    "researched_at": "2026-10-27T05:11:34.741499+00:00"
   },
   {
-    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-    "summary": " Article URL:  https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/  \n Comments URL:  https://news.ycombinator.com/item?id=50248005  \n Points: 217 \n # Comments: 130 ",
+    "title": "Nietzschian Debugger",
+    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "summary": " Article URL:  https://github.com/DilawarShafiq/nietzschian-debugger  \n Comments URL:  https://news.ycombinator.com/item?id=50247493  \n Points: 149 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399083+00:00"
+    "researched_at": "2026-10-27T05:11:34.741504+00:00"
   },
   {
-    "title": "CorridorKey 2.0",
-    "url": "https://corridorkey.com/",
-    "summary": " Article URL:  https://corridorkey.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50251127  \n Points: 70 \n # Comments: 7 ",
+    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+    "summary": " Article URL:  https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it  \n Comments URL:  https://news.ycombinator.com/item?id=50252008  \n Points: 34 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399059+00:00"
-  },
-  {
-    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
-    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
-    "summary": " Article URL:  https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/  \n Comments URL:  https://news.ycombinator.com/item?id=50247630  \n Points: 193 \n # Comments: 74 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399090+00:00"
+    "researched_at": "2026-10-27T05:11:34.741488+00:00"
   },
   {
     "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
     "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-    "summary": " Article URL:  http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html  \n Comments URL:  https://news.ycombinator.com/item?id=50247928  \n Points: 87 \n # Comments: 42 ",
+    "summary": " Article URL:  http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html  \n Comments URL:  https://news.ycombinator.com/item?id=50247928  \n Points: 147 \n # Comments: 71 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-26T22:42:57.399086+00:00"
+    "researched_at": "2026-10-27T05:11:34.741502+00:00"
+  },
+  {
+    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+    "url": "https://github.com/otya128/winevdm",
+    "summary": " Article URL:  https://github.com/otya128/winevdm  \n Comments URL:  https://news.ycombinator.com/item?id=50253529  \n Points: 51 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-27T05:11:34.741479+00:00"
   }
 ]
