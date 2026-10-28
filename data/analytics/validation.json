@@ -1,16 +1,11 @@
 [
   {
-    "path": "data/content/drafts/tailscale-ssh-investigation-and-remediation-update.json",
+    "path": "data/content/drafts/two-high-speed-trains-collide-near-toledo-spain.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/reviewers-rarely-talk-about-reliability-owners-bring-it-up-twice-as-often.json",
+    "path": "data/content/drafts/ten-days-later-git-on-macos-still-trusts-the-compromised-emudhra-certificates.json",
     "passed": true,
     "errors": []
   },
@@ -21,6 +16,11 @@
   },
   {
     "path": "data/content/drafts/moxnox-1-0-nt-like-posix-compatible-os-running-atop-btrfs.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/git-for-the-us-code.json",
     "passed": true,
     "errors": []
   }

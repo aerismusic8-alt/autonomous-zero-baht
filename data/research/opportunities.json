@@ -1,98 +1,94 @@
 [
   {
-    "title": "Tailscale SSH: Investigation and remediation update",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "summary": " Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 248 \n # Comments: 124 ",
+    "title": "Two high-speed trains collide near Toledo, Spain",
+    "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+    "summary": " Article URL:  https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash  \n Comments URL:  https://news.ycombinator.com/item?id=50272596  \n Points: 5 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-28T05:48:09.217135+00:00"
+    "researched_at": "2026-10-28T13:01:41.486874+00:00"
   },
   {
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "url": "https://www.brangus.io/survival-llm",
-    "summary": " Article URL:  https://www.brangus.io/survival-llm  \n Comments URL:  https://news.ycombinator.com/item?id=50264853  \n Points: 268 \n # Comments: 120 ",
+    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+    "url": "https://emudhra.we-have-a-problem.com/apple.html",
+    "summary": " Article URL:  https://emudhra.we-have-a-problem.com/apple.html  \n Comments URL:  https://news.ycombinator.com/item?id=50271640  \n Points: 167 \n # Comments: 64 ",
     "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-28T05:48:09.217136+00:00"
-  },
-  {
-    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-    "summary": " Article URL:  https://www.bettascore.ai/research/reliability-reviewers-vs-owners  \n Comments URL:  https://news.ycombinator.com/item?id=50266780  \n Points: 95 \n # Comments: 78 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-28T05:48:09.217121+00:00"
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T13:01:41.486886+00:00"
   },
   {
     "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
     "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 131 \n # Comments: 59 ",
+    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 183 \n # Comments: 106 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217128+00:00"
+    "researched_at": "2026-10-28T13:01:41.486894+00:00"
   },
   {
     "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
     "url": "https://github.com/maharmstone/moxnox",
-    "summary": " Article URL:  https://github.com/maharmstone/moxnox  \n Comments URL:  https://news.ycombinator.com/item?id=50267569  \n Points: 42 \n # Comments: 8 ",
+    "summary": " Article URL:  https://github.com/maharmstone/moxnox  \n Comments URL:  https://news.ycombinator.com/item?id=50267569  \n Points: 82 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217118+00:00"
+    "researched_at": "2026-10-28T13:01:41.486890+00:00"
   },
   {
     "title": "Git for the US Code",
     "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "summary": " Article URL:  https://lexifina.com/blog/git-for-the-us-code  \n Comments URL:  https://news.ycombinator.com/item?id=50268380  \n Points: 151 \n # Comments: 69 ",
+    "summary": " Article URL:  https://lexifina.com/blog/git-for-the-us-code  \n Comments URL:  https://news.ycombinator.com/item?id=50268380  \n Points: 315 \n # Comments: 166 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217113+00:00"
+    "researched_at": "2026-10-28T13:01:41.486888+00:00"
   },
   {
     "title": "Four Months of Zig",
     "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 99 \n # Comments: 58 ",
+    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 147 \n # Comments: 102 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217133+00:00"
-  },
-  {
-    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-    "summary": " Article URL:  https://www.anthropic.com/news/expanding-partnership-gsa  \n Comments URL:  https://news.ycombinator.com/item?id=50266701  \n Points: 34 \n # Comments: 26 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217124+00:00"
+    "researched_at": "2026-10-28T13:01:41.486898+00:00"
   },
   {
     "title": "Early progress on accelerating drug development with Claude",
     "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 189 \n # Comments: 167 ",
+    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 253 \n # Comments: 247 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217126+00:00"
+    "researched_at": "2026-10-28T13:01:41.486892+00:00"
   },
   {
     "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
     "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-    "summary": " Article URL:  https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  \n Comments URL:  https://news.ycombinator.com/item?id=50265393  \n Points: 77 \n # Comments: 19 ",
+    "summary": " Article URL:  https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  \n Comments URL:  https://news.ycombinator.com/item?id=50265393  \n Points: 183 \n # Comments: 110 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T05:48:09.217131+00:00"
+    "researched_at": "2026-10-28T13:01:41.486896+00:00"
+  },
+  {
+    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+    "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+    "summary": " Article URL:  https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/  \n Comments URL:  https://news.ycombinator.com/item?id=50272145  \n Points: 50 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T13:01:41.486880+00:00"
+  },
+  {
+    "title": "About the compromised eMudhra intermediate CAs",
+    "url": "https://support.apple.com/en-us/149555",
+    "summary": " Article URL:  https://support.apple.com/en-us/149555  \n Comments URL:  https://news.ycombinator.com/item?id=50271685  \n Points: 28 \n # Comments: 16 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T13:01:41.486883+00:00"
   }
 ]
