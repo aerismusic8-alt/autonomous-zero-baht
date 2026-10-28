@@ -1,94 +1,96 @@
 [
   {
-    "title": "Two high-speed trains collide near Toledo, Spain",
-    "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-    "summary": " Article URL:  https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash  \n Comments URL:  https://news.ycombinator.com/item?id=50272596  \n Points: 5 \n # Comments: 2 ",
+    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "url": "https://slidebyside.com/",
+    "summary": " Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features. Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online. \n \n Comments URL:  https://news.ycombinator.com/item?id=50276883  \n Points: 44 \n # Comments: 21 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-28T13:01:41.486874+00:00"
+    "researched_at": "2026-10-28T22:38:36.553211+00:00"
   },
   {
-    "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-    "url": "https://emudhra.we-have-a-problem.com/apple.html",
-    "summary": " Article URL:  https://emudhra.we-have-a-problem.com/apple.html  \n Comments URL:  https://news.ycombinator.com/item?id=50271640  \n Points: 167 \n # Comments: 64 ",
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/  \n Comments URL:  https://news.ycombinator.com/item?id=50276792  \n Points: 707 \n # Comments: 575 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-28T22:38:36.553214+00:00"
+  },
+  {
+    "title": "Why is this fingerprinting script creating bioweapons?",
+    "url": "https://nullpt.rs/fingerprinting-bioweapons",
+    "summary": " Article URL:  https://nullpt.rs/fingerprinting-bioweapons  \n Comments URL:  https://news.ycombinator.com/item?id=50276998  \n Points: 577 \n # Comments: 129 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486886+00:00"
+    "researched_at": "2026-10-28T22:38:36.553199+00:00"
   },
   {
-    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 183 \n # Comments: 106 ",
+    "title": "The case of the 9 bit AES key",
+    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+    "summary": " Article URL:  https://v12.sh/blog/the-case-of-the-9bit-aes-key  \n Comments URL:  https://news.ycombinator.com/item?id=50280722  \n Points: 39 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486894+00:00"
+    "researched_at": "2026-10-28T22:38:36.553188+00:00"
   },
   {
-    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-    "url": "https://github.com/maharmstone/moxnox",
-    "summary": " Article URL:  https://github.com/maharmstone/moxnox  \n Comments URL:  https://news.ycombinator.com/item?id=50267569  \n Points: 82 \n # Comments: 20 ",
+    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+    "summary": " Article URL:  https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/  \n Comments URL:  https://news.ycombinator.com/item?id=50277755  \n Points: 33 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486890+00:00"
+    "researched_at": "2026-10-28T22:38:36.553195+00:00"
   },
   {
-    "title": "Git for the US Code",
-    "url": "https://lexifina.com/blog/git-for-the-us-code",
-    "summary": " Article URL:  https://lexifina.com/blog/git-for-the-us-code  \n Comments URL:  https://news.ycombinator.com/item?id=50268380  \n Points: 315 \n # Comments: 166 ",
+    "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+    "url": "https://nango.dev/careers",
+    "summary": " Article URL:  https://nango.dev/careers  \n Comments URL:  https://news.ycombinator.com/item?id=50280824  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486888+00:00"
+    "researched_at": "2026-10-28T22:38:36.553184+00:00"
   },
   {
-    "title": "Four Months of Zig",
-    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 147 \n # Comments: 102 ",
+    "title": "MacBook Pro with PROLED XDR Display and Touch",
+    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+    "summary": "  https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50276940  \n Points: 445 \n # Comments: 757 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486898+00:00"
+    "researched_at": "2026-10-28T22:38:36.553202+00:00"
   },
   {
-    "title": "Early progress on accelerating drug development with Claude",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 253 \n # Comments: 247 ",
+    "title": "Leak website releases data on DHS employees",
+    "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+    "summary": " Article URL:  https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/  \n Comments URL:  https://news.ycombinator.com/item?id=50280662  \n Points: 14 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486892+00:00"
+    "researched_at": "2026-10-28T22:38:36.553192+00:00"
   },
   {
-    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
-    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-    "summary": " Article URL:  https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  \n Comments URL:  https://news.ycombinator.com/item?id=50265393  \n Points: 183 \n # Comments: 110 ",
+    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "summary": " Article URL:  https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/  \n Comments URL:  https://news.ycombinator.com/item?id=50280864  \n Points: 156 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486896+00:00"
+    "researched_at": "2026-10-28T22:38:36.553179+00:00"
   },
   {
-    "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
-    "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
-    "summary": " Article URL:  https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/  \n Comments URL:  https://news.ycombinator.com/item?id=50272145  \n Points: 50 \n # Comments: 14 ",
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "summary": " Article URL:  https://formlabs.com/products/form-studio-1-basic-founders-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50281044  \n Points: 59 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486880+00:00"
-  },
-  {
-    "title": "About the compromised eMudhra intermediate CAs",
-    "url": "https://support.apple.com/en-us/149555",
-    "summary": " Article URL:  https://support.apple.com/en-us/149555  \n Comments URL:  https://news.ycombinator.com/item?id=50271685  \n Points: 28 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-28T13:01:41.486883+00:00"
+    "researched_at": "2026-10-28T22:38:36.553166+00:00"
   }
 ]

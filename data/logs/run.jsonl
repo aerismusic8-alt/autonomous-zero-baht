@@ -1933,3 +1933,22 @@
 {"timestamp": "2026-10-28T13:01:41.488676+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-28T13:01:41.488755+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-28T13:01:41.488920+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-28T22:38:36.047919+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-28T22:38:36.051454+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.052134+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-28T22:38:36.053039+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-28T22:38:36.178542+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-28T22:38:36.553004+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-28T22:38:36.554256+00:00", "event": "draft_created", "draft_id": "show-hn-slidebyside-present-slides-without-sharing-your-screen", "path": "data/content/drafts/show-hn-slidebyside-present-slides-without-sharing-your-screen.json"}
+{"timestamp": "2026-10-28T22:38:36.554545+00:00", "event": "draft_created", "draft_id": "gemini-4-carbon", "path": "data/content/drafts/gemini-4-carbon.json"}
+{"timestamp": "2026-10-28T22:38:36.554893+00:00", "event": "draft_created", "draft_id": "why-is-this-fingerprinting-script-creating-bioweapons", "path": "data/content/drafts/why-is-this-fingerprinting-script-creating-bioweapons.json"}
+{"timestamp": "2026-10-28T22:38:36.555182+00:00", "event": "draft_created", "draft_id": "the-case-of-the-9-bit-aes-key", "path": "data/content/drafts/the-case-of-the-9-bit-aes-key.json"}
+{"timestamp": "2026-10-28T22:38:36.555454+00:00", "event": "draft_created", "draft_id": "spiders-spin-silk-dope-into-nature-s-toughest-material", "path": "data/content/drafts/spiders-spin-silk-dope-into-nature-s-toughest-material.json"}
+{"timestamp": "2026-10-28T22:38:36.555604+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-slidebyside-present-slides-without-sharing-your-screen.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.555785+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-4-carbon.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.555931+00:00", "event": "draft_validation", "path": "data/content/drafts/why-is-this-fingerprinting-script-creating-bioweapons.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.556077+00:00", "event": "draft_validation", "path": "data/content/drafts/the-case-of-the-9-bit-aes-key.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.556211+00:00", "event": "draft_validation", "path": "data/content/drafts/spiders-spin-silk-dope-into-nature-s-toughest-material.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-28T22:38:36.556440+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-28T22:38:36.556643+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-28T22:38:36.556991+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
