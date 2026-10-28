@@ -1,6 +1,6 @@
 {
   "id": "tailscale-ssh-investigation-and-remediation-update",
-  "created_at": "2026-10-27T22:18:37.005939+00:00",
+  "created_at": "2026-10-28T05:48:09.256969+00:00",
   "source_title": "Tailscale SSH: Investigation and remediation update",
   "source_url": "https://tailscale.com/ssh-investigation-update",
   "source_feed": "https://hnrss.org/frontpage",
@@ -15,7 +15,7 @@
         "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
         "สรุปและขั้นตอนถัดไป"
       ],
-      "source_summary_for_editor": "Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 120 \n # Comments: 65",
+      "source_summary_for_editor": "Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 248 \n # Comments: 124",
       "source_url": "https://tailscale.com/ssh-investigation-update"
     },
     "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Tailscale SSH: Investigation and remediation update\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://tailscale.com/ssh-investigation-update",

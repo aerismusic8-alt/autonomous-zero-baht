@@ -2,101 +2,97 @@
   {
     "title": "Tailscale SSH: Investigation and remediation update",
     "url": "https://tailscale.com/ssh-investigation-update",
-    "summary": " Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 120 \n # Comments: 65 ",
+    "summary": " Article URL:  https://tailscale.com/ssh-investigation-update  \n Comments URL:  https://news.ycombinator.com/item?id=50264857  \n Points: 248 \n # Comments: 124 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T22:18:37.005189+00:00"
+    "researched_at": "2026-10-28T05:48:09.217135+00:00"
   },
   {
     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
     "url": "https://www.brangus.io/survival-llm",
-    "summary": " Article URL:  https://www.brangus.io/survival-llm  \n Comments URL:  https://news.ycombinator.com/item?id=50264853  \n Points: 98 \n # Comments: 64 ",
+    "summary": " Article URL:  https://www.brangus.io/survival-llm  \n Comments URL:  https://news.ycombinator.com/item?id=50264853  \n Points: 268 \n # Comments: 120 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T22:18:37.005192+00:00"
+    "researched_at": "2026-10-28T05:48:09.217136+00:00"
   },
   {
-    "title": "One year of Dioxus fullstack in production: the good, the painful",
-    "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
-    "summary": " Article URL:  https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful  \n Comments URL:  https://news.ycombinator.com/item?id=50265960  \n Points: 12 \n # Comments: 8 ",
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "summary": " Article URL:  https://www.bettascore.ai/research/reliability-reviewers-vs-owners  \n Comments URL:  https://news.ycombinator.com/item?id=50266780  \n Points: 95 \n # Comments: 78 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-27T22:18:37.005167+00:00"
-  },
-  {
-    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-    "url": "https://www.liquid.ai/blog/lfm3",
-    "summary": " Article URL:  https://www.liquid.ai/blog/lfm3  \n Comments URL:  https://news.ycombinator.com/item?id=50262229  \n Points: 90 \n # Comments: 33 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-27T22:18:37.005201+00:00"
-  },
-  {
-    "title": "Hex Raises $100M",
-    "url": "https://hex.tech/blog/hex-new-era/",
-    "summary": " Article URL:  https://hex.tech/blog/hex-new-era/  \n Comments URL:  https://news.ycombinator.com/item?id=50265413  \n Points: 11 \n # Comments: 3 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-10-27T22:18:37.005182+00:00"
-  },
-  {
-    "title": "Three TLS Bugs in GoAhead",
-    "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-    "summary": " Article URL:  https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead  \n Comments URL:  https://news.ycombinator.com/item?id=50263701  \n Points: 38 \n # Comments: 4 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-27T22:18:37.005198+00:00"
+    "researched_at": "2026-10-28T05:48:09.217121+00:00"
   },
   {
     "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
     "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 34 \n # Comments: 6 ",
+    "summary": " Article URL:  https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/  \n Comments URL:  https://news.ycombinator.com/item?id=50265594  \n Points: 131 \n # Comments: 59 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T22:18:37.005179+00:00"
+    "researched_at": "2026-10-28T05:48:09.217128+00:00"
+  },
+  {
+    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+    "url": "https://github.com/maharmstone/moxnox",
+    "summary": " Article URL:  https://github.com/maharmstone/moxnox  \n Comments URL:  https://news.ycombinator.com/item?id=50267569  \n Points: 42 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T05:48:09.217118+00:00"
+  },
+  {
+    "title": "Git for the US Code",
+    "url": "https://lexifina.com/blog/git-for-the-us-code",
+    "summary": " Article URL:  https://lexifina.com/blog/git-for-the-us-code  \n Comments URL:  https://news.ycombinator.com/item?id=50268380  \n Points: 151 \n # Comments: 69 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T05:48:09.217113+00:00"
   },
   {
     "title": "Four Months of Zig",
     "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 30 \n # Comments: 11 ",
+    "summary": " Article URL:  https://gracefulliberty.com/articles/four-months-of-zig/  \n Comments URL:  https://news.ycombinator.com/item?id=50265128  \n Points: 99 \n # Comments: 58 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T22:18:37.005186+00:00"
+    "researched_at": "2026-10-28T05:48:09.217133+00:00"
+  },
+  {
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "summary": " Article URL:  https://www.anthropic.com/news/expanding-partnership-gsa  \n Comments URL:  https://news.ycombinator.com/item?id=50266701  \n Points: 34 \n # Comments: 26 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-28T05:48:09.217124+00:00"
   },
   {
     "title": "Early progress on accelerating drug development with Claude",
     "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 49 \n # Comments: 33 ",
+    "summary": " Article URL:  https://www.anthropic.com/research/early-progress-drug-development  \n Comments URL:  https://news.ycombinator.com/item?id=50265609  \n Points: 189 \n # Comments: 167 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T22:18:37.005175+00:00"
+    "researched_at": "2026-10-28T05:48:09.217126+00:00"
   },
   {
-    "title": "Discord will soon let anyone find public server messages through Google",
-    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-    "summary": " Article URL:  https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover  \n Comments URL:  https://news.ycombinator.com/item?id=50263854  \n Points: 157 \n # Comments: 99 ",
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "summary": " Article URL:  https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/  \n Comments URL:  https://news.ycombinator.com/item?id=50265393  \n Points: 77 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-27T22:18:37.005195+00:00"
+    "researched_at": "2026-10-28T05:48:09.217131+00:00"
   }
 ]
