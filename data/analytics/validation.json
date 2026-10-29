@@ -1,16 +1,11 @@
 [
   {
-    "path": "data/content/drafts/show-hn-slidebyside-present-slides-without-sharing-your-screen.json",
+    "path": "data/content/drafts/zillow-to-pay-212-5m-to-settle-class-action-for-real-estate-venture.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/gemini-4-carbon.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/why-is-this-fingerprinting-script-creating-bioweapons.json",
+    "path": "data/content/drafts/claude-code-burns-15-20-of-your-tokens-on-a-3-word-status-line.json",
     "passed": true,
     "errors": []
   },
@@ -20,7 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/spiders-spin-silk-dope-into-nature-s-toughest-material.json",
+    "path": "data/content/drafts/the-milwaukee-brewers-win-the-first-world-series-title-in-franchise-history.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/stackoverflow-now-gets-fewer-than-1000-questions-a-month.json",
     "passed": true,
     "errors": []
   }

@@ -1,52 +1,61 @@
 [
   {
-    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-    "url": "https://slidebyside.com/",
-    "summary": " Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features. Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online. \n \n Comments URL:  https://news.ycombinator.com/item?id=50276883  \n Points: 44 \n # Comments: 21 ",
+    "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+    "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+    "summary": " Article URL:  https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/  \n Comments URL:  https://news.ycombinator.com/item?id=50284342  \n Points: 24 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-28T22:38:36.553211+00:00"
+    "researched_at": "2026-10-29T05:53:13.874142+00:00"
   },
   {
-    "title": "Gemini 4 Carbon",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/  \n Comments URL:  https://news.ycombinator.com/item?id=50276792  \n Points: 707 \n # Comments: 575 ",
+    "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "summary": " Article URL:  https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce  \n Comments URL:  https://news.ycombinator.com/item?id=50284255  \n Points: 187 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-28T22:38:36.553214+00:00"
-  },
-  {
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "url": "https://nullpt.rs/fingerprinting-bioweapons",
-    "summary": " Article URL:  https://nullpt.rs/fingerprinting-bioweapons  \n Comments URL:  https://news.ycombinator.com/item?id=50276998  \n Points: 577 \n # Comments: 129 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553199+00:00"
+    "researched_at": "2026-10-29T05:53:13.874159+00:00"
   },
   {
     "title": "The case of the 9 bit AES key",
     "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-    "summary": " Article URL:  https://v12.sh/blog/the-case-of-the-9bit-aes-key  \n Comments URL:  https://news.ycombinator.com/item?id=50280722  \n Points: 39 \n # Comments: 9 ",
+    "summary": " Article URL:  https://v12.sh/blog/the-case-of-the-9bit-aes-key  \n Comments URL:  https://news.ycombinator.com/item?id=50280722  \n Points: 101 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553188+00:00"
+    "researched_at": "2026-10-29T05:53:13.874181+00:00"
   },
   {
-    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-    "summary": " Article URL:  https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/  \n Comments URL:  https://news.ycombinator.com/item?id=50277755  \n Points: 33 \n # Comments: 1 ",
+    "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+    "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+    "summary": " Article URL:  https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series  \n Comments URL:  https://news.ycombinator.com/item?id=50284329  \n Points: 67 \n # Comments: 25 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553195+00:00"
+    "researched_at": "2026-10-29T05:53:13.874150+00:00"
+  },
+  {
+    "title": "StackOverflow now gets fewer than 1000 questions a month",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+    "summary": " Article URL:  https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1  \n Comments URL:  https://news.ycombinator.com/item?id=50282454  \n Points: 251 \n # Comments: 228 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-29T05:53:13.874170+00:00"
+  },
+  {
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "summary": " Article URL:  https://divagr.com/blog/qwenputer  \n Comments URL:  https://news.ycombinator.com/item?id=50282838  \n Points: 268 \n # Comments: 61 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-29T05:53:13.874163+00:00"
   },
   {
     "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -55,42 +64,33 @@
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553184+00:00"
+    "researched_at": "2026-10-29T05:53:13.874178+00:00"
   },
   {
-    "title": "MacBook Pro with PROLED XDR Display and Touch",
-    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-    "summary": "  https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50276940  \n Points: 445 \n # Comments: 757 ",
+    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+    "summary": " Article URL:  https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html  \n Comments URL:  https://news.ycombinator.com/item?id=50282544  \n Points: 135 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553202+00:00"
-  },
-  {
-    "title": "Leak website releases data on DHS employees",
-    "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-    "summary": " Article URL:  https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/  \n Comments URL:  https://news.ycombinator.com/item?id=50280662  \n Points: 14 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553192+00:00"
-  },
-  {
-    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-    "summary": " Article URL:  https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/  \n Comments URL:  https://news.ycombinator.com/item?id=50280864  \n Points: 156 \n # Comments: 48 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553179+00:00"
+    "researched_at": "2026-10-29T05:53:13.874167+00:00"
   },
   {
     "title": "Formlabs Studio 1 $699 Resin Printer",
     "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-    "summary": " Article URL:  https://formlabs.com/products/form-studio-1-basic-founders-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50281044  \n Points: 59 \n # Comments: 59 ",
+    "summary": " Article URL:  https://formlabs.com/products/form-studio-1-basic-founders-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50281044  \n Points: 156 \n # Comments: 106 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-28T22:38:36.553166+00:00"
+    "researched_at": "2026-10-29T05:53:13.874173+00:00"
+  },
+  {
+    "title": "A Health Update",
+    "url": "https://furbo.org/2026/10/28/a-health-update/",
+    "summary": " Article URL:  https://furbo.org/2026/10/28/a-health-update/  \n Comments URL:  https://news.ycombinator.com/item?id=50280974  \n Points: 172 \n # Comments: 25 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-29T05:53:13.874176+00:00"
   }
 ]
