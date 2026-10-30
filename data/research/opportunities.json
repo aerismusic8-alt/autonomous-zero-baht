@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "summary": " Article URL:  https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/  \n Comments URL:  https://news.ycombinator.com/item?id=50309647  \n Points: 80 \n # Comments: 30 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T22:25:02.908875+00:00"
+  },
+  {
+    "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+    "summary": " In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.\n- einfold: a modular query planner for fast tensor contractions in vanilla SQL, again, assuming the above array data model. My hope is that the relational model and algebra provide fresh perspectives on how we might do accelerator programming. Here, our thesis is that separating the logical layers in a tensor program from the physical layers is both more correct and more scalable. If the Bitter Lesson is a central dogma of machine learning, then why not formalize it with relational algebra? If this interests you and you’d like to tinker ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T22:25:02.908904+00:00"
+  },
+  {
+    "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+    "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+    "summary": " Article URL:  https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/  \n Comments URL:  https://news.ycombinator.com/item?id=50309573  \n Points: 14 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-30T22:25:02.908881+00:00"
+  },
+  {
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "summary": " Article URL:  https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921  \n Comments URL:  https://news.ycombinator.com/item?id=50309266  \n Points: 37 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908922+00:00"
+  },
+  {
+    "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "summary": " Article URL:  https://www.firezone.dev/blog/introducing-sanstun  \n Comments URL:  https://news.ycombinator.com/item?id=50310398  \n Points: 6 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908856+00:00"
+  },
+  {
+    "title": "Jules Verne's Lost Novel",
+    "url": "https://blue-continuum.com/verne-paris",
+    "summary": " Article URL:  https://blue-continuum.com/verne-paris  \n Comments URL:  https://news.ycombinator.com/item?id=50309314  \n Points: 43 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908916+00:00"
+  },
+  {
+    "title": "Infinite Mac: BeOS",
+    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "summary": " Article URL:  https://blog.persistent.info/2026/10/infinite-mac-beos.html  \n Comments URL:  https://news.ycombinator.com/item?id=50309029  \n Points: 56 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908927+00:00"
+  },
+  {
+    "title": "Archive of our own (AO3) hacked",
+    "url": "https://www.otwstatus.org",
+    "summary": " Article URL:  https://www.otwstatus.org  \n Comments URL:  https://news.ycombinator.com/item?id=50310258  \n Points: 10 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908868+00:00"
+  },
+  {
+    "title": "An Arrogant Way of Killing (2016)",
+    "url": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+    "summary": " Article URL:  https://magazine.atavist.com/2016/an-arrogant-way-of-killing  \n Comments URL:  https://news.ycombinator.com/item?id=50309470  \n Points: 13 \n # Comments: 4 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908910+00:00"
+  },
+  {
+    "title": "A Pickpocket's Guide to New York",
+    "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+    "summary": " Article URL:  https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york  \n Comments URL:  https://news.ycombinator.com/item?id=50308986  \n Points: 30 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-10-30T22:25:02.908932+00:00"
+  }
+]

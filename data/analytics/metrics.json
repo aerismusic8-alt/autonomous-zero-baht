@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "content_id": "through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-30T22:25:02.914741+00:00"
+  },
+  {
+    "content_id": "show-hn-automatic-deduction-of-flashattention-kernel-from-25-lines-of-sql",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-30T22:25:02.914751+00:00"
+  },
+  {
+    "content_id": "embraer-s-atech-aims-to-double-in-size-by-2030-with-drone-traffic-control",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-30T22:25:02.914756+00:00"
+  },
+  {
+    "content_id": "the-oldest-ice-disappears-and-the-stone-age-emerges-from-it",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-30T22:25:02.914760+00:00"
+  },
+  {
+    "content_id": "sanstun-a-sans-io-parallel-friendly-wireguard-implementation-in-rust",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-10-30T22:25:02.914764+00:00"
+  }
+]

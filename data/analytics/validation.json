@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "path": "data/content/drafts/through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/show-hn-automatic-deduction-of-flashattention-kernel-from-25-lines-of-sql.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/embraer-s-atech-aims-to-double-in-size-by-2030-with-drone-traffic-control.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/the-oldest-ice-disappears-and-the-stone-age-emerges-from-it.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/sanstun-a-sans-io-parallel-friendly-wireguard-implementation-in-rust.json",
+    "passed": true,
+    "errors": []
+  }
+]
