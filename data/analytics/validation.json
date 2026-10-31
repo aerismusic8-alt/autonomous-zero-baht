@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/we-took-over-chatgpt-accounts.json",
+    "path": "data/content/drafts/show-hn-nes-contra-1987-port-asm-c-and-then-c-webassembly.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/tell-hn-scribd-breached.json",
+    "path": "data/content/drafts/anthropic-blocks-users-for-anything-touching-training-larger-models.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/serbia-just-elected-the-world-s-brainiest-parliament.json",
+    "path": "data/content/drafts/with-86-of-the-words-you-might-understand-only-38-of-an-anime-s-lines.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/french-lawmakers-approved-a-tax-of-0-055-for-every-gigabyte-of-internet-traffic.json",
+    "path": "data/content/drafts/the-duty-of-a-scholar.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/switch-lowering-in-gcc.json",
+    "path": "data/content/drafts/tcp-use-after-free-cve-2026-98432-cvss-9-8.json",
     "passed": true,
     "errors": []
   }

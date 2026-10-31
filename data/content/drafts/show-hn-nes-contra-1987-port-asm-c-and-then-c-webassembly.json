@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-nes-contra-1987-port-asm-c-and-then-c-webassembly",
+  "created_at": "2026-10-31T21:39:57.251771+00:00",
+  "source_title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+  "source_url": "https://epoyraz.github.io/nes-contra-us/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Based on vermiceli's annotated disassembly of Contra:  https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser. The cherry on top: online multiplayer, so two players can play co-op over the internet. Source:  https://github.com/epoyraz/nes-contra-us  \n \n Comments URL:  https://news.ycombinator.com/item?id=50319169  \n Points: 19 \n # Comments: 12",
+      "source_url": "https://epoyraz.github.io/nes-contra-us/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://epoyraz.github.io/nes-contra-us/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly) อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://epoyraz.github.io/nes-contra-us/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
