@@ -1,0 +1,27 @@
+{
+  "id": "tell-hn-scribd-breached",
+  "created_at": "2026-10-31T05:50:15.006868+00:00",
+  "source_title": "Tell HN: Scribd Breached",
+  "source_url": "https://news.ycombinator.com/item?id=50312756",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Tell HN: Scribd Breached",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026: Subject: Notice of Security Incident This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner. Hello, We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data. We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details). We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information. Watch for phishing We",
+      "source_url": "https://news.ycombinator.com/item?id=50312756"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Tell HN: Scribd Breached\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50312756",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Tell HN: Scribd Breached อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50312756",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
