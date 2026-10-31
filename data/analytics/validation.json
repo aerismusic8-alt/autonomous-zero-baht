@@ -1,6 +1,6 @@
 [
   {
-    "path": "data/content/drafts/through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man.json",
+    "path": "data/content/drafts/we-took-over-chatgpt-accounts.json",
     "passed": true,
     "errors": []
   },
@@ -10,17 +10,17 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/openai-raises-less-than-half-of-30b-target.json",
+    "path": "data/content/drafts/serbia-just-elected-the-world-s-brainiest-parliament.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/sanstun-a-sans-io-parallel-friendly-wireguard-implementation-in-rust.json",
+    "path": "data/content/drafts/french-lawmakers-approved-a-tax-of-0-055-for-every-gigabyte-of-internet-traffic.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/the-oldest-ice-disappears-and-the-stone-age-emerges-from-it.json",
+    "path": "data/content/drafts/switch-lowering-in-gcc.json",
     "passed": true,
     "errors": []
   }

@@ -2075,3 +2075,22 @@
 {"timestamp": "2026-10-31T05:50:15.008959+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-10-31T05:50:15.009136+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-10-31T05:50:15.009410+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-10-31T12:39:20.851686+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-31T12:39:20.861326+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:20.861849+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-10-31T12:39:20.862521+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-10-31T12:39:20.991447+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-10-31T12:39:21.318040+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-10-31T12:39:21.404788+00:00", "event": "draft_created", "draft_id": "we-took-over-chatgpt-accounts", "path": "data/content/drafts/we-took-over-chatgpt-accounts.json"}
+{"timestamp": "2026-10-31T12:39:21.473142+00:00", "event": "draft_created", "draft_id": "tell-hn-scribd-breached", "path": "data/content/drafts/tell-hn-scribd-breached.json"}
+{"timestamp": "2026-10-31T12:39:21.473575+00:00", "event": "draft_created", "draft_id": "serbia-just-elected-the-world-s-brainiest-parliament", "path": "data/content/drafts/serbia-just-elected-the-world-s-brainiest-parliament.json"}
+{"timestamp": "2026-10-31T12:39:21.473738+00:00", "event": "draft_created", "draft_id": "french-lawmakers-approved-a-tax-of-0-055-for-every-gigabyte-of-internet-traffic", "path": "data/content/drafts/french-lawmakers-approved-a-tax-of-0-055-for-every-gigabyte-of-internet-traffic.json"}
+{"timestamp": "2026-10-31T12:39:21.473877+00:00", "event": "draft_created", "draft_id": "switch-lowering-in-gcc", "path": "data/content/drafts/switch-lowering-in-gcc.json"}
+{"timestamp": "2026-10-31T12:39:21.474010+00:00", "event": "draft_validation", "path": "data/content/drafts/we-took-over-chatgpt-accounts.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:21.474080+00:00", "event": "draft_validation", "path": "data/content/drafts/tell-hn-scribd-breached.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:21.474137+00:00", "event": "draft_validation", "path": "data/content/drafts/serbia-just-elected-the-world-s-brainiest-parliament.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:21.474190+00:00", "event": "draft_validation", "path": "data/content/drafts/french-lawmakers-approved-a-tax-of-0-055-for-every-gigabyte-of-internet-traffic.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:21.474241+00:00", "event": "draft_validation", "path": "data/content/drafts/switch-lowering-in-gcc.json", "passed": true, "errors": []}
+{"timestamp": "2026-10-31T12:39:21.474391+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-10-31T12:39:21.474469+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-10-31T12:39:21.474602+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

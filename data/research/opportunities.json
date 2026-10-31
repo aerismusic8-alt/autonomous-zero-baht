@@ -1,14 +1,14 @@
 [
   {
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "summary": " Article URL:  https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/  \n Comments URL:  https://news.ycombinator.com/item?id=50309647  \n Points: 267 \n # Comments: 147 ",
+    "title": "We Took over ChatGPT Accounts",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "summary": " Article URL:  https://www.parameter.ai/labs/we-found-a-gap-at-openai  \n Comments URL:  https://news.ycombinator.com/item?id=50314699  \n Points: 30 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-31T05:50:15.005759+00:00"
+    "researched_at": "2026-10-31T12:39:21.318241+00:00"
   },
   {
     "title": "Tell HN: Scribd Breached",
@@ -19,80 +19,82 @@
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-31T05:50:15.005701+00:00"
+    "researched_at": "2026-10-31T12:39:21.318267+00:00"
   },
   {
-    "title": "OpenAI raises less than half of $30B target",
-    "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-    "summary": " Article URL:  https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5  \n Comments URL:  https://news.ycombinator.com/item?id=50312922  \n Points: 90 \n # Comments: 49 ",
+    "title": "Serbia just elected the world's brainiest parliament",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "summary": " Article URL:  https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament  \n Comments URL:  https://news.ycombinator.com/item?id=50314654  \n Points: 259 \n # Comments: 161 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-31T05:50:15.005683+00:00"
+    "researched_at": "2026-10-31T12:39:21.318247+00:00"
   },
   {
-    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-    "url": "https://www.firezone.dev/blog/introducing-sanstun",
-    "summary": " Article URL:  https://www.firezone.dev/blog/introducing-sanstun  \n Comments URL:  https://news.ycombinator.com/item?id=50310398  \n Points: 98 \n # Comments: 17 ",
+    "title": "French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic",
+    "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026",
+    "summary": " Article URL:  https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50315047  \n Points: 68 \n # Comments: 63 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-10-31T12:39:21.318228+00:00"
+  },
+  {
+    "title": "Switch Lowering in GCC",
+    "url": "https://xoranth.net/gcc-switch/",
+    "summary": " Article URL:  https://xoranth.net/gcc-switch/  \n Comments URL:  https://news.ycombinator.com/item?id=50314085  \n Points: 90 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005752+00:00"
-  },
-  {
-    "title": "The oldest ice disappears and the Stone Age emerges from it",
-    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-    "summary": " Article URL:  https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921  \n Comments URL:  https://news.ycombinator.com/item?id=50309266  \n Points: 121 \n # Comments: 49 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005767+00:00"
+    "researched_at": "2026-10-31T12:39:21.318253+00:00"
   },
   {
     "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
     "url": "https://tng.episodle.com/",
-    "summary": " Article URL:  https://tng.episodle.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50311686  \n Points: 139 \n # Comments: 42 ",
+    "summary": " Article URL:  https://tng.episodle.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50311686  \n Points: 200 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005746+00:00"
+    "researched_at": "2026-10-31T12:39:21.318270+00:00"
   },
   {
-    "title": "My favourite PowerMac is a Nintendo Wii",
-    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-    "summary": " Article URL:  https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/  \n Comments URL:  https://news.ycombinator.com/item?id=50307190  \n Points: 271 \n # Comments: 77 ",
+    "title": "Shiny Object Syndrome",
+    "url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+    "summary": " Article URL:  https://en.wikipedia.org/wiki/Shiny_object_syndrome  \n Comments URL:  https://news.ycombinator.com/item?id=50314872  \n Points: 20 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005774+00:00"
+    "researched_at": "2026-10-31T12:39:21.318237+00:00"
   },
   {
-    "title": "Jules Verne's Lost Novel",
-    "url": "https://blue-continuum.com/verne-paris",
-    "summary": " Article URL:  https://blue-continuum.com/verne-paris  \n Comments URL:  https://news.ycombinator.com/item?id=50309314  \n Points: 93 \n # Comments: 19 ",
+    "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+    "url": "https://piefed.world/post/1503394",
+    "summary": " Article URL:  https://piefed.world/post/1503394  \n Comments URL:  https://news.ycombinator.com/item?id=50314666  \n Points: 46 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005764+00:00"
+    "researched_at": "2026-10-31T12:39:21.318244+00:00"
   },
   {
-    "title": "Infinite Mac: BeOS",
-    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-    "summary": " Article URL:  https://blog.persistent.info/2026/10/infinite-mac-beos.html  \n Comments URL:  https://news.ycombinator.com/item?id=50309029  \n Points: 134 \n # Comments: 56 ",
+    "title": "How long do you need to hold down the power button to turn off a PC?",
+    "url": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+    "summary": " Article URL:  https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/  \n Comments URL:  https://news.ycombinator.com/item?id=50314243  \n Points: 36 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005771+00:00"
+    "researched_at": "2026-10-31T12:39:21.318251+00:00"
   },
   {
-    "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
-    "url": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
-    "summary": " Article URL:  https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e  \n Comments URL:  https://news.ycombinator.com/item?id=50312739  \n Points: 59 \n # Comments: 6 ",
+    "title": "Digital Minimalism",
+    "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+    "summary": " Article URL:  https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html  \n Comments URL:  https://news.ycombinator.com/item?id=50313661  \n Points: 89 \n # Comments: 57 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T05:50:15.005736+00:00"
+    "researched_at": "2026-10-31T12:39:21.318256+00:00"
   }
 ]
