@@ -1,100 +1,104 @@
 [
   {
-    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-    "summary": " Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot. The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions. A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad. Happy to answer anything, and tell me what breaks. p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as yo",
+    "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "summary": " Article URL:  https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million  \n Comments URL:  https://news.ycombinator.com/item?id=50324533  \n Points: 25 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-01T06:14:17.169383+00:00"
+    "researched_at": "2026-11-01T13:35:44.111888+00:00"
   },
   {
-    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-    "summary": " Article URL:  https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve  \n Comments URL:  https://news.ycombinator.com/item?id=50320995  \n Points: 163 \n # Comments: 89 ",
+    "title": "The question we should all be asking about AI",
+    "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+    "summary": " Article URL:  https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt  \n Comments URL:  https://news.ycombinator.com/item?id=50325107  \n Points: 6 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-01T06:14:17.169396+00:00"
+    "researched_at": "2026-11-01T13:35:44.111871+00:00"
   },
   {
-    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+    "title": "The AI cost of JavaScript frameworks",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "summary": " Article URL:  https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/  \n Comments URL:  https://news.ycombinator.com/item?id=50323088  \n Points: 141 \n # Comments: 92 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-01T13:35:44.111904+00:00"
+  },
+  {
+    "title": "Norway makes shithouses great again",
+    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "summary": " Article URL:  https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/  \n Comments URL:  https://news.ycombinator.com/item?id=50324388  \n Points: 339 \n # Comments: 168 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-01T13:35:44.111892+00:00"
+  },
+  {
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
     "url": "https://arxiv.org/abs/2409.02292",
-    "summary": " Article URL:  https://arxiv.org/abs/2409.02292  \n Comments URL:  https://news.ycombinator.com/item?id=50322022  \n Points: 42 \n # Comments: 19 ",
+    "summary": " Article URL:  https://arxiv.org/abs/2409.02292  \n Comments URL:  https://news.ycombinator.com/item?id=50322022  \n Points: 108 \n # Comments: 55 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-01T06:14:17.169370+00:00"
+    "researched_at": "2026-11-01T13:35:44.111911+00:00"
   },
   {
-    "title": "AI text watermarking and quality loss",
-    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-    "summary": " Article URL:  https://blog.keyvan.net/p/ai-text-watermarking-and-quality  \n Comments URL:  https://news.ycombinator.com/item?id=50320599  \n Points: 43 \n # Comments: 7 ",
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+    "summary": " Article URL:  https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/  \n Comments URL:  https://news.ycombinator.com/item?id=50324371  \n Points: 22 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-01T06:14:17.169402+00:00"
+    "researched_at": "2026-11-01T13:35:44.111898+00:00"
   },
   {
-    "title": "When electric cars were for women",
-    "url": "https://spectrum.ieee.org/early-electric-vehicles",
-    "summary": " Article URL:  https://spectrum.ieee.org/early-electric-vehicles  \n Comments URL:  https://news.ycombinator.com/item?id=50321130  \n Points: 58 \n # Comments: 43 ",
+    "title": "Is It EDT or EST?",
+    "url": "https://www.edtorest.com",
+    "summary": " Article URL:  https://www.edtorest.com  \n Comments URL:  https://news.ycombinator.com/item?id=50325072  \n Points: 5 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169390+00:00"
-  },
-  {
-    "title": "Model Aero Engines Free Manufacturable Plans/Blueprints",
-    "url": "https://outerzone.co.uk/plans.asp?cat=Engines",
-    "summary": " Article URL:  https://outerzone.co.uk/plans.asp?cat=Engines  \n Comments URL:  https://news.ycombinator.com/item?id=50322994  \n Points: 3 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169357+00:00"
-  },
-  {
-    "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-    "url": "https://emarzion.github.io/KSRT/",
-    "summary": " Article URL:  https://emarzion.github.io/KSRT/  \n Comments URL:  https://news.ycombinator.com/item?id=50321436  \n Points: 15 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169387+00:00"
+    "researched_at": "2026-11-01T13:35:44.111879+00:00"
   },
   {
     "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
     "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-    "summary": " Article URL:  https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/  \n Comments URL:  https://news.ycombinator.com/item?id=50322173  \n Points: 59 \n # Comments: 22 ",
+    "summary": " Article URL:  https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/  \n Comments URL:  https://news.ycombinator.com/item?id=50322173  \n Points: 173 \n # Comments: 77 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169366+00:00"
-  },
-  {
-    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-    "summary": " Article URL:  https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/  \n Comments URL:  https://news.ycombinator.com/item?id=50320963  \n Points: 283 \n # Comments: 77 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169399+00:00"
+    "researched_at": "2026-11-01T13:35:44.111908+00:00"
   },
   {
     "title": "Altoids Project",
     "url": "https://uvdn7.github.io/altoids-project/",
-    "summary": " Article URL:  https://uvdn7.github.io/altoids-project/  \n Comments URL:  https://news.ycombinator.com/item?id=50321048  \n Points: 83 \n # Comments: 4 ",
+    "summary": " Article URL:  https://uvdn7.github.io/altoids-project/  \n Comments URL:  https://news.ycombinator.com/item?id=50321048  \n Points: 125 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-01T06:14:17.169393+00:00"
+    "researched_at": "2026-11-01T13:35:44.111913+00:00"
+  },
+  {
+    "title": "A tiny Pacific country rolls out universal basic income",
+    "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+    "summary": " Article URL:  https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income  \n Comments URL:  https://news.ycombinator.com/item?id=50324118  \n Points: 76 \n # Comments: 52 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-01T13:35:44.111901+00:00"
   }
 ]
