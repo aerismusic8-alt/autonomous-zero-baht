@@ -1,96 +1,100 @@
 [
   {
-    "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-    "url": "https://epoyraz.github.io/nes-contra-us/",
-    "summary": " Based on vermiceli's annotated disassembly of Contra:  https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser. The cherry on top: online multiplayer, so two players can play co-op over the internet. Source:  https://github.com/epoyraz/nes-contra-us  \n \n Comments URL:  https://news.ycombinator.com/item?id=50319169  \n Points: 19 \n # Comments: 12 ",
+    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "summary": " Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot. The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions. A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad. Happy to answer anything, and tell me what breaks. p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as yo",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-31T21:39:57.251006+00:00"
+    "researched_at": "2026-11-01T06:14:17.169383+00:00"
   },
   {
-    "title": "Anthropic blocks users for anything touching training larger models",
-    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "summary": " Article URL:  https://twitter.com/jiahaoshao1/status/2116475922190922088  \n Comments URL:  https://news.ycombinator.com/item?id=50319358  \n Points: 42 \n # Comments: 7 ",
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "summary": " Article URL:  https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve  \n Comments URL:  https://news.ycombinator.com/item?id=50320995  \n Points: 163 \n # Comments: 89 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-10-31T21:39:57.250996+00:00"
+    "researched_at": "2026-11-01T06:14:17.169396+00:00"
   },
   {
-    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-    "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-    "summary": " Article URL:  https://learnfromx.com/research/anime-word-coverage-vs-lines-understood  \n Comments URL:  https://news.ycombinator.com/item?id=50320028  \n Points: 10 \n # Comments: 2 ",
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "summary": " Article URL:  https://arxiv.org/abs/2409.02292  \n Comments URL:  https://news.ycombinator.com/item?id=50322022  \n Points: 42 \n # Comments: 19 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-01T06:14:17.169370+00:00"
+  },
+  {
+    "title": "AI text watermarking and quality loss",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "summary": " Article URL:  https://blog.keyvan.net/p/ai-text-watermarking-and-quality  \n Comments URL:  https://news.ycombinator.com/item?id=50320599  \n Points: 43 \n # Comments: 7 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-01T06:14:17.169402+00:00"
+  },
+  {
+    "title": "When electric cars were for women",
+    "url": "https://spectrum.ieee.org/early-electric-vehicles",
+    "summary": " Article URL:  https://spectrum.ieee.org/early-electric-vehicles  \n Comments URL:  https://news.ycombinator.com/item?id=50321130  \n Points: 58 \n # Comments: 43 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.250985+00:00"
+    "researched_at": "2026-11-01T06:14:17.169390+00:00"
   },
   {
-    "title": "The Duty of a Scholar",
-    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-    "summary": " Article URL:  https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html  \n Comments URL:  https://news.ycombinator.com/item?id=50319061  \n Points: 56 \n # Comments: 11 ",
+    "title": "Model Aero Engines Free Manufacturable Plans/Blueprints",
+    "url": "https://outerzone.co.uk/plans.asp?cat=Engines",
+    "summary": " Article URL:  https://outerzone.co.uk/plans.asp?cat=Engines  \n Comments URL:  https://news.ycombinator.com/item?id=50322994  \n Points: 3 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.251013+00:00"
+    "researched_at": "2026-11-01T06:14:17.169357+00:00"
   },
   {
-    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-    "summary": " Article URL:  https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf  \n Comments URL:  https://news.ycombinator.com/item?id=50319143  \n Points: 145 \n # Comments: 69 ",
+    "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+    "url": "https://emarzion.github.io/KSRT/",
+    "summary": " Article URL:  https://emarzion.github.io/KSRT/  \n Comments URL:  https://news.ycombinator.com/item?id=50321436  \n Points: 15 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.251010+00:00"
+    "researched_at": "2026-11-01T06:14:17.169387+00:00"
   },
   {
-    "title": "Surviving \"The Graduate\"",
-    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-    "summary": "  https://archive.ph/Eqn1F  \n \n Comments URL:  https://news.ycombinator.com/item?id=50319563  \n Points: 6 \n # Comments: 0 ",
+    "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+    "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+    "summary": " Article URL:  https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/  \n Comments URL:  https://news.ycombinator.com/item?id=50322173  \n Points: 59 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.250989+00:00"
+    "researched_at": "2026-11-01T06:14:17.169366+00:00"
   },
   {
-    "title": "It's the Memory Latency, Stupid",
-    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-    "summary": " Article URL:  https://pivotlake.io/blog/its-the-memory-latency-stupid/  \n Comments URL:  https://news.ycombinator.com/item?id=50318720  \n Points: 53 \n # Comments: 8 ",
+    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+    "summary": " Article URL:  https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/  \n Comments URL:  https://news.ycombinator.com/item?id=50320963  \n Points: 283 \n # Comments: 77 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.251018+00:00"
+    "researched_at": "2026-11-01T06:14:17.169399+00:00"
   },
   {
-    "title": "HackerTube: YouTube built from videos recommended by HN",
-    "url": "https://karpathy.bearblog.dev/hacker-tube/",
-    "summary": " YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.  https://hackertube.org/  \n \n Comments URL:  https://news.ycombinator.com/item?id=50319510  \n Points: 180 \n # Comments: 85 ",
+    "title": "Altoids Project",
+    "url": "https://uvdn7.github.io/altoids-project/",
+    "summary": " Article URL:  https://uvdn7.github.io/altoids-project/  \n Comments URL:  https://news.ycombinator.com/item?id=50321048  \n Points: 83 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.250992+00:00"
-  },
-  {
-    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-    "summary": " Article URL:  https://ryanmadden.net/gpt-56-beats-factorio/  \n Comments URL:  https://news.ycombinator.com/item?id=50318871  \n Points: 118 \n # Comments: 121 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.251015+00:00"
-  },
-  {
-    "title": "Distributed Proofreaders",
-    "url": "https://www.pgdp.net/c/",
-    "summary": " Article URL:  https://www.pgdp.net/c/  \n Comments URL:  https://news.ycombinator.com/item?id=50320137  \n Points: 4 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-10-31T21:39:57.250977+00:00"
+    "researched_at": "2026-11-01T06:14:17.169393+00:00"
   }
 ]
