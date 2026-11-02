@@ -2189,3 +2189,22 @@
 {"timestamp": "2026-11-02T06:14:45.504809+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-02T06:14:45.505027+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-02T06:14:45.505347+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-02T16:13:36.016484+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-02T16:13:36.019001+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.019419+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-02T16:13:36.019860+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-02T16:13:36.107520+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-02T16:13:36.367360+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-02T16:13:36.368240+00:00", "event": "draft_created", "draft_id": "never-complain-never-explain", "path": "data/content/drafts/never-complain-never-explain.json"}
+{"timestamp": "2026-11-02T16:13:36.368399+00:00", "event": "draft_created", "draft_id": "longcat-2-5-native-multimodality-for-agentic-tasks", "path": "data/content/drafts/longcat-2-5-native-multimodality-for-agentic-tasks.json"}
+{"timestamp": "2026-11-02T16:13:36.368533+00:00", "event": "draft_created", "draft_id": "last-night-an-ai-agent-performed-brain-surgery-on-a-mouse", "path": "data/content/drafts/last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.json"}
+{"timestamp": "2026-11-02T16:13:36.368661+00:00", "event": "draft_created", "draft_id": "why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017", "path": "data/content/drafts/why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017.json"}
+{"timestamp": "2026-11-02T16:13:36.368781+00:00", "event": "draft_created", "draft_id": "wtf-ubuntu", "path": "data/content/drafts/wtf-ubuntu.json"}
+{"timestamp": "2026-11-02T16:13:36.368869+00:00", "event": "draft_validation", "path": "data/content/drafts/never-complain-never-explain.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.368946+00:00", "event": "draft_validation", "path": "data/content/drafts/longcat-2-5-native-multimodality-for-agentic-tasks.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.369005+00:00", "event": "draft_validation", "path": "data/content/drafts/last-night-an-ai-agent-performed-brain-surgery-on-a-mouse.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.369059+00:00", "event": "draft_validation", "path": "data/content/drafts/why-are-soviet-math-textbooks-so-hardcore-in-comparison-to-us-textbooks-2017.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.369111+00:00", "event": "draft_validation", "path": "data/content/drafts/wtf-ubuntu.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-02T16:13:36.369229+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-02T16:13:36.369310+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-02T16:13:36.369454+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
