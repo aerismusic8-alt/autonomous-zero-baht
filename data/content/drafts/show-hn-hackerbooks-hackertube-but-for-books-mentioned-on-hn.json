@@ -1,6 +1,6 @@
 {
   "id": "show-hn-hackerbooks-hackertube-but-for-books-mentioned-on-hn",
-  "created_at": "2026-11-01T22:05:51.846270+00:00",
+  "created_at": "2026-11-02T06:14:45.502193+00:00",
   "source_title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
   "source_url": "https://hackerbooks.org",
   "source_feed": "https://hnrss.org/frontpage",
@@ -15,7 +15,7 @@
         "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
         "สรุปและขั้นตอนถัดไป"
       ],
-      "source_summary_for_editor": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc. It counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me. \n \n Comments URL:  https://news.ycombinator.com/item?id=50326821  \n Points: 650 \n # Comments: 152",
+      "source_summary_for_editor": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc. It counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me. \n \n Comments URL:  https://news.ycombinator.com/item?id=50326821  \n Points: 1170 \n # Comments: 209",
       "source_url": "https://hackerbooks.org"
     },
     "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: HackerBooks – HackerTube, but for books mentioned on HN\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://hackerbooks.org",
