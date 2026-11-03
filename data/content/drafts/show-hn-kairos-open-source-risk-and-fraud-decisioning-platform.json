@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-kairos-open-source-risk-and-fraud-decisioning-platform",
+  "created_at": "2026-11-03T23:26:44.024144+00:00",
+  "source_title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+  "source_url": "https://github.com/finic-ai/kairos",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics. 1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models such as XGBoost and logistic regression. This allows you to incorporate plain language questions such as “Is this a throwaway email” into your decisioning, bypassing the need for large amounts of labeled data. This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with. 2. Fraud teams are facing off with live players that are const",
+      "source_url": "https://github.com/finic-ai/kairos"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Kairos – Open-source risk and fraud decisioning platform\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/finic-ai/kairos",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Kairos – Open-source risk and fraud decisioning platform อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/finic-ai/kairos",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
