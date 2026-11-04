@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "summary": " Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at  https://kino.ai/walkthrough-video  and our launch video (made entirely with Kino!) at  https://kino.ai/launch-video  Opus 5.5 can edit videos and make great motion graphics now. But with a raw agent harness, you need to describe tiny edits either in words or in quick one-off UIs, you can’t refer to footage shared across your devices, and feedback from teammates comes as screenshots on Slack. Kino is code-first. All editing, all motion graphics, all dragging of timeline items around, all teammate comments, and all 3D scenes are expressed as code, built on Remotion. This was hard to get right, as we found ourselves building a",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-04T19:49:41.543550+00:00"
+  },
+  {
+    "title": "This Month in Ladybird – October 2026",
+    "url": "https://ladybird.org/newsletter/2026-10-31/",
+    "summary": " Article URL:  https://ladybird.org/newsletter/2026-10-31/  \n Comments URL:  https://news.ycombinator.com/item?id=50369194  \n Points: 56 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543539+00:00"
+  },
+  {
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "url": "https://www.ricursive.com/ripple",
+    "summary": " Article URL:  https://www.ricursive.com/ripple  \n Comments URL:  https://news.ycombinator.com/item?id=50369925  \n Points: 20 \n # Comments: 6 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543522+00:00"
+  },
+  {
+    "title": "Progress on provable inference for large language models",
+    "url": "https://www.anthropic.com/research/provable-inference",
+    "summary": " Article URL:  https://www.anthropic.com/research/provable-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50368626  \n Points: 111 \n # Comments: 49 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543552+00:00"
+  },
+  {
+    "title": "Have I Befriended a Murderer?",
+    "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+    "summary": " Article URL:  https://longreads.com/2026/11/03/murder-friendship-doubt/  \n Comments URL:  https://news.ycombinator.com/item?id=50369754  \n Points: 20 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543528+00:00"
+  },
+  {
+    "title": "Education Shouldn't Be Held for Ransom",
+    "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+    "summary": " Article URL:  https://blog.kagi.com/education-should-not-be-held-for-ransom  \n Comments URL:  https://news.ycombinator.com/item?id=50369657  \n Points: 56 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543531+00:00"
+  },
+  {
+    "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
+    "url": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+    "summary": " Article URL:  https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/  \n Comments URL:  https://news.ycombinator.com/item?id=50369462  \n Points: 13 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543533+00:00"
+  },
+  {
+    "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+    "summary": " Article URL:  https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed  \n Comments URL:  https://news.ycombinator.com/item?id=50369146  \n Points: 103 \n # Comments: 88 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543541+00:00"
+  },
+  {
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "summary": " Article URL:  https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections  \n Comments URL:  https://news.ycombinator.com/item?id=50367125  \n Points: 303 \n # Comments: 98 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543555+00:00"
+  },
+  {
+    "title": "A New Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "summary": " Article URL:  https://go.dev/blog/jsonv2  \n Comments URL:  https://news.ycombinator.com/item?id=50369106  \n Points: 84 \n # Comments: 19 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-04T19:49:41.543543+00:00"
+  }
+]

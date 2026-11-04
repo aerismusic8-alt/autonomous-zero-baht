@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "path": "data/content/drafts/launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/this-month-in-ladybird-october-2026.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/ripple-65b-preview-u-s-open-weight-sota-on-agentic-coding.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/progress-on-provable-inference-for-large-language-models.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/have-i-befriended-a-murderer.json",
+    "passed": true,
+    "errors": []
+  }
+]
