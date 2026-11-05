@@ -2293,3 +2293,22 @@
 {"timestamp": "2026-11-04T19:49:41.545223+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-04T19:49:41.545295+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-04T19:49:41.545435+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-05T06:53:47.543213+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-05T06:53:47.546904+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:47.547553+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-05T06:53:47.548318+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-05T06:53:47.677642+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-05T06:53:55.217764+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-05T06:53:55.218973+00:00", "event": "draft_created", "draft_id": "qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gb-s", "path": "data/content/drafts/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gb-s.json"}
+{"timestamp": "2026-11-05T06:53:55.219273+00:00", "event": "draft_created", "draft_id": "images-2-6", "path": "data/content/drafts/images-2-6.json"}
+{"timestamp": "2026-11-05T06:53:55.219572+00:00", "event": "draft_created", "draft_id": "a-thousand-fewer-paths-to-root", "path": "data/content/drafts/a-thousand-fewer-paths-to-root.json"}
+{"timestamp": "2026-11-05T06:53:55.219845+00:00", "event": "draft_created", "draft_id": "starfall-affordable-routine-access-to-microgravity", "path": "data/content/drafts/starfall-affordable-routine-access-to-microgravity.json"}
+{"timestamp": "2026-11-05T06:53:55.220147+00:00", "event": "draft_created", "draft_id": "ripple-65b-preview-u-s-open-weight-sota-on-agentic-coding", "path": "data/content/drafts/ripple-65b-preview-u-s-open-weight-sota-on-agentic-coding.json"}
+{"timestamp": "2026-11-05T06:53:55.220317+00:00", "event": "draft_validation", "path": "data/content/drafts/qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gb-s.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:55.220466+00:00", "event": "draft_validation", "path": "data/content/drafts/images-2-6.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:55.220622+00:00", "event": "draft_validation", "path": "data/content/drafts/a-thousand-fewer-paths-to-root.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:55.220754+00:00", "event": "draft_validation", "path": "data/content/drafts/starfall-affordable-routine-access-to-microgravity.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:55.220883+00:00", "event": "draft_validation", "path": "data/content/drafts/ripple-65b-preview-u-s-open-weight-sota-on-agentic-coding.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-05T06:53:55.221111+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-05T06:53:55.221283+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-05T06:53:55.221594+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
