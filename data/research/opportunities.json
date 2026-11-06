@@ -1,106 +1,100 @@
 [
   {
-    "title": "Nvidia Kubernetes Engine (NVKE)",
-    "url": "https://github.com/dsx-ai-factory/nvke",
-    "summary": " Article URL:  https://github.com/dsx-ai-factory/nvke  \n Comments URL:  https://news.ycombinator.com/item?id=50387738  \n Points: 51 \n # Comments: 17 ",
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+    "url": "https://up.codes/careers?utm_source=HN",
+    "summary": " Article URL:  https://up.codes/careers?utm_source=HN  \n Comments URL:  https://news.ycombinator.com/item?id=50395043  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-06T06:54:04.562712+00:00"
+    "researched_at": "2026-11-06T19:27:35.057238+00:00"
   },
   {
-    "title": "MS Paint Remote Code Execution Vulnerability",
-    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "summary": " Article URL:  https://www.cve.org/CVERecord?id=CVE-2026-83844  \n Comments URL:  https://news.ycombinator.com/item?id=50384233  \n Points: 448 \n # Comments: 172 ",
+    "title": "Perplexity launches AI agents for work",
+    "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+    "summary": " Article URL:  https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work  \n Comments URL:  https://news.ycombinator.com/item?id=50395866  \n Points: 19 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-06T06:54:04.562730+00:00"
+    "researched_at": "2026-11-06T19:27:35.057230+00:00"
   },
   {
-    "title": "Inkling 2 Small",
-    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-    "summary": " Article URL:  https://thinkingmachines.ai/news/inkling-2-small/  \n Comments URL:  https://news.ycombinator.com/item?id=50386338  \n Points: 157 \n # Comments: 55 ",
+    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+    "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+    "summary": " Article URL:  https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/  \n Comments URL:  https://news.ycombinator.com/item?id=50395933  \n Points: 36 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-06T06:54:04.562723+00:00"
+    "researched_at": "2026-11-06T19:27:35.057213+00:00"
   },
   {
-    "title": "How accurately did science fiction stories predict AI?",
-    "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
-    "summary": " Article URL:  https://jamesyu.org/science-fiction-predictions-of-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50388263  \n Points: 28 \n # Comments: 33 ",
+    "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+    "url": "https://halfnarp.events.ccc.de",
+    "summary": " Article URL:  https://halfnarp.events.ccc.de  \n Comments URL:  https://news.ycombinator.com/item?id=50396108  \n Points: 5 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-06T06:54:04.562700+00:00"
+    "researched_at": "2026-11-06T19:27:35.057197+00:00"
   },
   {
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "summary": " Article URL:  https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html  \n Comments URL:  https://news.ycombinator.com/item?id=50385870  \n Points: 254 \n # Comments: 112 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-06T06:54:04.562726+00:00"
-  },
-  {
-    "title": "Closed AI models dominate the price-performance frontier",
-    "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-    "summary": " Article URL:  https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/  \n Comments URL:  https://news.ycombinator.com/item?id=50387546  \n Points: 52 \n # Comments: 41 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-06T06:54:04.562715+00:00"
-  },
-  {
-    "title": "Claude Code sends your email address to websites",
-    "url": "https://github.com/anthropics/claude-code/issues/107757",
-    "summary": " Article URL:  https://github.com/anthropics/claude-code/issues/107757  \n Comments URL:  https://news.ycombinator.com/item?id=50385272  \n Points: 872 \n # Comments: 288 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-06T06:54:04.562728+00:00"
-  },
-  {
-    "title": "Pwn.college",
-    "url": "https://pwn.college/",
-    "summary": " Article URL:  https://pwn.college/  \n Comments URL:  https://news.ycombinator.com/item?id=50387796  \n Points: 79 \n # Comments: 9 ",
+    "title": "We know 15k websites are infected. how do we tell them?",
+    "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+    "summary": " Article URL:  https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/  \n Comments URL:  https://news.ycombinator.com/item?id=50396064  \n Points: 36 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-06T06:54:04.562709+00:00"
+    "researched_at": "2026-11-06T19:27:35.057207+00:00"
   },
   {
-    "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-    "url": "https://github.com/matthewmrichter/mooftcp",
-    "summary": " Article URL:  https://github.com/matthewmrichter/mooftcp  \n Comments URL:  https://news.ycombinator.com/item?id=50386789  \n Points: 37 \n # Comments: 20 ",
+    "title": "Size-It-Up (Game)",
+    "url": "https://magnitudle.com/size-it-up",
+    "summary": " Article URL:  https://magnitudle.com/size-it-up  \n Comments URL:  https://news.ycombinator.com/item?id=50395869  \n Points: 24 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-06T06:54:04.562720+00:00"
+    "researched_at": "2026-11-06T19:27:35.057226+00:00"
   },
   {
-    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-    "summary": " Article URL:  https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/  \n Comments URL:  https://news.ycombinator.com/item?id=50388122  \n Points: 19 \n # Comments: 2 ",
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "summary": " Article URL:  https://arxiv.org/abs/2610.21375  \n Comments URL:  https://news.ycombinator.com/item?id=50395919  \n Points: 20 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-06T06:54:04.562706+00:00"
+    "researched_at": "2026-11-06T19:27:35.057218+00:00"
+  },
+  {
+    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/  \n Comments URL:  https://news.ycombinator.com/item?id=50395905  \n Points: 47 \n # Comments: 27 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-06T19:27:35.057223+00:00"
+  },
+  {
+    "title": "Flawless UI-UX Skill 1.0.0",
+    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0",
+    "summary": " Article URL:  https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0  \n Comments URL:  https://news.ycombinator.com/item?id=50395747  \n Points: 12 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-06T19:27:35.057232+00:00"
+  },
+  {
+    "title": "Devvm.dev: One VM for every project",
+    "url": "https://devvm.dev/",
+    "summary": " Article URL:  https://devvm.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50395450  \n Points: 23 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-06T19:27:35.057235+00:00"
   }
 ]
