@@ -2331,3 +2331,22 @@
 {"timestamp": "2026-11-05T20:00:19.706890+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-05T20:00:19.707066+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-05T20:00:19.707338+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-06T06:54:03.772357+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-06T06:54:03.784202+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:03.784663+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-06T06:54:03.785308+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-06T06:54:03.932123+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-06T06:54:04.562549+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-06T06:54:04.563512+00:00", "event": "draft_created", "draft_id": "nvidia-kubernetes-engine-nvke", "path": "data/content/drafts/nvidia-kubernetes-engine-nvke.json"}
+{"timestamp": "2026-11-06T06:54:04.563718+00:00", "event": "draft_created", "draft_id": "ms-paint-remote-code-execution-vulnerability", "path": "data/content/drafts/ms-paint-remote-code-execution-vulnerability.json"}
+{"timestamp": "2026-11-06T06:54:04.563899+00:00", "event": "draft_created", "draft_id": "inkling-2-small", "path": "data/content/drafts/inkling-2-small.json"}
+{"timestamp": "2026-11-06T06:54:04.564119+00:00", "event": "draft_created", "draft_id": "how-accurately-did-science-fiction-stories-predict-ai", "path": "data/content/drafts/how-accurately-did-science-fiction-stories-predict-ai.json"}
+{"timestamp": "2026-11-06T06:54:04.564313+00:00", "event": "draft_created", "draft_id": "cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue", "path": "data/content/drafts/cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue.json"}
+{"timestamp": "2026-11-06T06:54:04.564426+00:00", "event": "draft_validation", "path": "data/content/drafts/nvidia-kubernetes-engine-nvke.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:04.564518+00:00", "event": "draft_validation", "path": "data/content/drafts/ms-paint-remote-code-execution-vulnerability.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:04.564599+00:00", "event": "draft_validation", "path": "data/content/drafts/inkling-2-small.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:04.564679+00:00", "event": "draft_validation", "path": "data/content/drafts/how-accurately-did-science-fiction-stories-predict-ai.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:04.564765+00:00", "event": "draft_validation", "path": "data/content/drafts/cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-06T06:54:04.564913+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-06T06:54:04.565053+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-06T06:54:04.565235+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

@@ -1,102 +1,106 @@
 [
   {
-    "title": "The Stacks Project, Formalized in Lean",
-    "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
-    "summary": " Article URL:  https://axiommath.ai/research/the-stacks-project-formalized/  \n Comments URL:  https://news.ycombinator.com/item?id=50380979  \n Points: 41 \n # Comments: 8 ",
+    "title": "Nvidia Kubernetes Engine (NVKE)",
+    "url": "https://github.com/dsx-ai-factory/nvke",
+    "summary": " Article URL:  https://github.com/dsx-ai-factory/nvke  \n Comments URL:  https://news.ycombinator.com/item?id=50387738  \n Points: 51 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-05T20:00:19.703618+00:00"
+    "researched_at": "2026-11-06T06:54:04.562712+00:00"
   },
   {
-    "title": "The Hackintosh Reborn",
-    "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-    "summary": " Article URL:  https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50383057  \n Points: 3 \n # Comments: 0 ",
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "summary": " Article URL:  https://www.cve.org/CVERecord?id=CVE-2026-83844  \n Comments URL:  https://news.ycombinator.com/item?id=50384233  \n Points: 448 \n # Comments: 172 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-05T20:00:19.703585+00:00"
+    "researched_at": "2026-11-06T06:54:04.562730+00:00"
   },
   {
-    "title": "My psychophysics as a bilateral cochlear implant user",
-    "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-    "summary": " Article URL:  https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf  \n Comments URL:  https://news.ycombinator.com/item?id=50381033  \n Points: 112 \n # Comments: 29 ",
+    "title": "Inkling 2 Small",
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+    "summary": " Article URL:  https://thinkingmachines.ai/news/inkling-2-small/  \n Comments URL:  https://news.ycombinator.com/item?id=50386338  \n Points: 157 \n # Comments: 55 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-05T20:00:19.703616+00:00"
+    "researched_at": "2026-11-06T06:54:04.562723+00:00"
   },
   {
-    "title": "How to Lie With Statistics (1954)",
-    "url": "https://archive.org/details/howtoliewithstat00huff",
-    "summary": " Article URL:  https://archive.org/details/howtoliewithstat00huff  \n Comments URL:  https://news.ycombinator.com/item?id=50382594  \n Points: 35 \n # Comments: 4 ",
+    "title": "How accurately did science fiction stories predict AI?",
+    "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+    "summary": " Article URL:  https://jamesyu.org/science-fiction-predictions-of-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50388263  \n Points: 28 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-05T20:00:19.703589+00:00"
+    "researched_at": "2026-11-06T06:54:04.562700+00:00"
   },
   {
-    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
-    "summary": " Article URL:  https://www.ycombinator.com/companies/bild-ai/jobs  \n Comments URL:  https://news.ycombinator.com/item?id=50381512  \n Points: 0 \n # Comments: 0 ",
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "summary": " Article URL:  https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html  \n Comments URL:  https://news.ycombinator.com/item?id=50385870  \n Points: 254 \n # Comments: 112 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-05T20:00:19.703610+00:00"
+    "researched_at": "2026-11-06T06:54:04.562726+00:00"
   },
   {
-    "title": "Window Sweaters",
-    "url": "https://github.com/saragordic/window-sweaters",
-    "summary": " Article URL:  https://github.com/saragordic/window-sweaters  \n Comments URL:  https://news.ycombinator.com/item?id=50381383  \n Points: 104 \n # Comments: 37 ",
+    "title": "Closed AI models dominate the price-performance frontier",
+    "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "summary": " Article URL:  https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/  \n Comments URL:  https://news.ycombinator.com/item?id=50387546  \n Points: 52 \n # Comments: 41 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-06T06:54:04.562715+00:00"
+  },
+  {
+    "title": "Claude Code sends your email address to websites",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "summary": " Article URL:  https://github.com/anthropics/claude-code/issues/107757  \n Comments URL:  https://news.ycombinator.com/item?id=50385272  \n Points: 872 \n # Comments: 288 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-06T06:54:04.562728+00:00"
+  },
+  {
+    "title": "Pwn.college",
+    "url": "https://pwn.college/",
+    "summary": " Article URL:  https://pwn.college/  \n Comments URL:  https://news.ycombinator.com/item?id=50387796  \n Points: 79 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-05T20:00:19.703613+00:00"
+    "researched_at": "2026-11-06T06:54:04.562709+00:00"
   },
   {
-    "title": "Nasdaq plummets 4% into correction territory",
-    "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-    "summary": " Article URL:  https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html  \n Comments URL:  https://news.ycombinator.com/item?id=50381623  \n Points: 102 \n # Comments: 71 ",
+    "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+    "url": "https://github.com/matthewmrichter/mooftcp",
+    "summary": " Article URL:  https://github.com/matthewmrichter/mooftcp  \n Comments URL:  https://news.ycombinator.com/item?id=50386789  \n Points: 37 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-05T20:00:19.703607+00:00"
+    "researched_at": "2026-11-06T06:54:04.562720+00:00"
   },
   {
-    "title": "Motorola Signature 27 with GrapheneOS support",
-    "url": "https://motorolanews.com/motorola-signature-27-2/",
-    "summary": " Article URL:  https://motorolanews.com/motorola-signature-27-2/  \n Comments URL:  https://news.ycombinator.com/item?id=50380810  \n Points: 254 \n # Comments: 161 ",
+    "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+    "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+    "summary": " Article URL:  https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/  \n Comments URL:  https://news.ycombinator.com/item?id=50388122  \n Points: 19 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-05T20:00:19.703621+00:00"
-  },
-  {
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "url": "https://github.com/rivet-dev/rivet",
-    "summary": " Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable. Here’s a video walkthrough:  https://www.youtube.com/watch?v=3Ev6I7DOV9c  When we went through YC in 2023, we were building infrastructure for multiplayer games like Diep and Krunker. This involved heavily optimizing high-throughput matchmaking, real-time player messages, and blitz scaling. Through that process, we spent a lot of time on workloads where Postgres couldn't keep up with our throughput. We started out by hacking together Lua scripts on ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-05T20:00:19.703603+00:00"
-  },
-  {
-    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-    "summary": " Article URL:  https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed  \n Comments URL:  https://news.ycombinator.com/item?id=50383163  \n Points: 17 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-05T20:00:19.703577+00:00"
+    "researched_at": "2026-11-06T06:54:04.562706+00:00"
   }
 ]
