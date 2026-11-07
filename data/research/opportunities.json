@@ -1,100 +1,94 @@
 [
   {
-    "title": "The AI sell-off compared to well-known stock market crashes",
-    "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-    "summary": " Article URL:  https://www.kadoa.com/companies/insights/ai-selloff-perspective  \n Comments URL:  https://news.ycombinator.com/item?id=50401029  \n Points: 39 \n # Comments: 27 ",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "summary": " Article URL:  https://8rank.ai/game/apple-intelligence-personal-knowledge-graph  \n Comments URL:  https://news.ycombinator.com/item?id=50403097  \n Points: 184 \n # Comments: 98 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-07T06:04:14.992812+00:00"
+    "researched_at": "2026-11-07T13:09:43.088415+00:00"
   },
   {
-    "title": "Show HN: Did prediction markets do any predicting this midterms?",
-    "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
-    "summary": " I've heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver's FLIPR model, they are really a wash. Especially looking at flipped or close-by-polls races, there is no alpha compared to a traditional poll-based model. Was this obvious to everyone else too? Can we treat them like the entertainment they are and tax them for the terrible ads? \n \n Comments URL:  https://news.ycombinator.com/item?id=50401451  \n Points: 19 \n # Comments: 8 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T06:04:14.992805+00:00"
-  },
-  {
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "summary": " Article URL:  https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update  \n Comments URL:  https://news.ycombinator.com/item?id=50397711  \n Points: 60 \n # Comments: 11 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T06:04:14.992827+00:00"
-  },
-  {
-    "title": "AI is dramatically accelerating AI research",
-    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "summary": " Article URL:  https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50397994  \n Points: 253 \n # Comments: 204 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T06:04:14.992825+00:00"
-  },
-  {
-    "title": "Sodium-ion batteries approach cost parity with LFP",
-    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-    "summary": " Article URL:  https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/  \n Comments URL:  https://news.ycombinator.com/item?id=50399657  \n Points: 158 \n # Comments: 78 ",
+    "title": "Upload Your RAM",
+    "url": "https://uploadyourram.org",
+    "summary": " Article URL:  https://uploadyourram.org  \n Comments URL:  https://news.ycombinator.com/item?id=50403214  \n Points: 155 \n # Comments: 101 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992822+00:00"
+    "researched_at": "2026-11-07T13:09:43.088411+00:00"
+  },
+  {
+    "title": "The Components of Agent Memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "summary": " Article URL:  https://www.anthropic.com/research/components-of-agent-memory  \n Comments URL:  https://news.ycombinator.com/item?id=50402212  \n Points: 71 \n # Comments: 38 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-07T13:09:43.088425+00:00"
+  },
+  {
+    "title": "Running a law firm on Free software",
+    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+    "summary": " Article URL:  https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50403066  \n Points: 16 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-07T13:09:43.088418+00:00"
   },
   {
     "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
     "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-    "summary": " Article URL:  https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/  \n Comments URL:  https://news.ycombinator.com/item?id=50399991  \n Points: 77 \n # Comments: 33 ",
+    "summary": " Article URL:  https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/  \n Comments URL:  https://news.ycombinator.com/item?id=50399991  \n Points: 140 \n # Comments: 79 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992817+00:00"
+    "researched_at": "2026-11-07T13:09:43.088430+00:00"
   },
   {
-    "title": "Lighting the Skies",
-    "url": "https://computer.rip/2026-10-25-searchlights.html",
-    "summary": " Article URL:  https://computer.rip/2026-10-25-searchlights.html  \n Comments URL:  https://news.ycombinator.com/item?id=50401414  \n Points: 11 \n # Comments: 1 ",
+    "title": "Port 0: The Port That Does Not Exist",
+    "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "summary": " Article URL:  https://acid.vegas/blog/the-port-that-does-not-exist/  \n Comments URL:  https://news.ycombinator.com/item?id=50403063  \n Points: 20 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992809+00:00"
+    "researched_at": "2026-11-07T13:09:43.088420+00:00"
+  },
+  {
+    "title": "Need for Speed Underground 2 online in the browser",
+    "url": "https://nfsu2.xyz/",
+    "summary": " Article URL:  https://nfsu2.xyz/  \n Comments URL:  https://news.ycombinator.com/item?id=50403052  \n Points: 106 \n # Comments: 37 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-07T13:09:43.088423+00:00"
   },
   {
     "title": "Libghostty 1.0",
     "url": "https://mitchellh.com/writing/libghostty-1-0",
-    "summary": " Article URL:  https://mitchellh.com/writing/libghostty-1-0  \n Comments URL:  https://news.ycombinator.com/item?id=50399933  \n Points: 440 \n # Comments: 71 ",
+    "summary": " Article URL:  https://mitchellh.com/writing/libghostty-1-0  \n Comments URL:  https://news.ycombinator.com/item?id=50399933  \n Points: 738 \n # Comments: 121 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992820+00:00"
+    "researched_at": "2026-11-07T13:09:43.088433+00:00"
   },
   {
-    "title": "I toured Unitree's factory. I'm more bullish on the West",
-    "url": "https://josef.cn/blog/unitree",
-    "summary": " Article URL:  https://josef.cn/blog/unitree  \n Comments URL:  https://news.ycombinator.com/item?id=50400597  \n Points: 87 \n # Comments: 55 ",
+    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+    "summary": " Article URL:  https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/  \n Comments URL:  https://news.ycombinator.com/item?id=50403507  \n Points: 32 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992814+00:00"
+    "researched_at": "2026-11-07T13:09:43.088405+00:00"
   },
   {
     "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
     "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-    "summary": " Article URL:  https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals  \n Comments URL:  https://news.ycombinator.com/item?id=50401740  \n Points: 13 \n # Comments: 1 ",
+    "summary": " Article URL:  https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals  \n Comments URL:  https://news.ycombinator.com/item?id=50401740  \n Points: 130 \n # Comments: 98 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T06:04:14.992798+00:00"
+    "researched_at": "2026-11-07T13:09:43.088428+00:00"
   }
 ]

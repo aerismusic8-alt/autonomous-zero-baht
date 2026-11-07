@@ -2388,3 +2388,22 @@
 {"timestamp": "2026-11-07T06:04:14.995012+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-07T06:04:14.995149+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-07T06:04:14.995336+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-07T13:09:41.641907+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-07T13:09:41.644831+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:41.645286+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-07T13:09:41.645829+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-07T13:09:41.746423+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-07T13:09:43.088224+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-07T13:09:43.089203+00:00", "event": "draft_created", "draft_id": "every-mac-comes-with-an-undocumented-family-member-classifier", "path": "data/content/drafts/every-mac-comes-with-an-undocumented-family-member-classifier.json"}
+{"timestamp": "2026-11-07T13:09:43.089451+00:00", "event": "draft_created", "draft_id": "upload-your-ram", "path": "data/content/drafts/upload-your-ram.json"}
+{"timestamp": "2026-11-07T13:09:43.089640+00:00", "event": "draft_created", "draft_id": "the-components-of-agent-memory", "path": "data/content/drafts/the-components-of-agent-memory.json"}
+{"timestamp": "2026-11-07T13:09:43.089815+00:00", "event": "draft_created", "draft_id": "running-a-law-firm-on-free-software", "path": "data/content/drafts/running-a-law-firm-on-free-software.json"}
+{"timestamp": "2026-11-07T13:09:43.089997+00:00", "event": "draft_created", "draft_id": "realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters", "path": "data/content/drafts/realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters.json"}
+{"timestamp": "2026-11-07T13:09:43.090103+00:00", "event": "draft_validation", "path": "data/content/drafts/every-mac-comes-with-an-undocumented-family-member-classifier.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:43.090196+00:00", "event": "draft_validation", "path": "data/content/drafts/upload-your-ram.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:43.090310+00:00", "event": "draft_validation", "path": "data/content/drafts/the-components-of-agent-memory.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:43.090403+00:00", "event": "draft_validation", "path": "data/content/drafts/running-a-law-firm-on-free-software.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:43.090483+00:00", "event": "draft_validation", "path": "data/content/drafts/realpage-rent-pricing-case-wraps-with-nearly-360m-to-renters.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-07T13:09:43.090635+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-07T13:09:43.090751+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-07T13:09:43.090969+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
