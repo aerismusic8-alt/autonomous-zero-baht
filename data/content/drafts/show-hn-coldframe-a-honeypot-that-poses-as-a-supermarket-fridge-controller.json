@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fridge-controller",
+  "created_at": "2026-11-07T21:54:53.943248+00:00",
+  "source_title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+  "source_url": "https://github.com/hedgerow-dev/coldframe",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of",
+      "source_url": "https://github.com/hedgerow-dev/coldframe"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/hedgerow-dev/coldframe",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/hedgerow-dev/coldframe",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
