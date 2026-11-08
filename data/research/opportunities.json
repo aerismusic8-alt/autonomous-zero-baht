@@ -1,102 +1,96 @@
 [
   {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "url": "https://hunch.net/?p=13764006",
-    "summary": "  https://archive.is/AaY5O   https://businessexaminer.ca/victoria-articles/item/microsoft...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50406563  \n Points: 248 \n # Comments: 139 ",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "summary": " Article URL:  https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F  \n Comments URL:  https://news.ycombinator.com/item?id=50409856  \n Points: 13 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-07T21:54:53.942603+00:00"
-  },
-  {
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "summary": " I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T21:54:53.942615+00:00"
-  },
-  {
-    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-    "url": "https://eyesrhythm.com/",
-    "summary": " Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face u",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T21:54:53.942590+00:00"
-  },
-  {
-    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "summary": " Article URL:  https://maxxbench.unlap.ai/research/why-maxxbench/  \n Comments URL:  https://news.ycombinator.com/item?id=50406222  \n Points: 125 \n # Comments: 32 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-07T21:54:53.942619+00:00"
+    "researched_at": "2026-11-08T06:08:31.824825+00:00"
   },
   {
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "summary": " Article URL:  https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again  \n Comments URL:  https://news.ycombinator.com/item?id=50407882  \n Points: 39 \n # Comments: 21 ",
+    "summary": " Article URL:  https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again  \n Comments URL:  https://news.ycombinator.com/item?id=50407882  \n Points: 298 \n # Comments: 205 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-07T21:54:53.942599+00:00"
+    "researched_at": "2026-11-08T06:08:31.824858+00:00"
+  },
+  {
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "url": "https://github.com/crmne/zapfast",
+    "summary": " Article URL:  https://github.com/crmne/zapfast  \n Comments URL:  https://news.ycombinator.com/item?id=50409855  \n Points: 34 \n # Comments: 16 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T06:08:31.824829+00:00"
   },
   {
     "title": "What I run on my $10 USD OpenStick homelab",
     "url": "https://blog.bosscher.ch/posts/openstick/",
-    "summary": " Article URL:  https://blog.bosscher.ch/posts/openstick/  \n Comments URL:  https://news.ycombinator.com/item?id=50406670  \n Points: 186 \n # Comments: 41 ",
+    "summary": " Article URL:  https://blog.bosscher.ch/posts/openstick/  \n Comments URL:  https://news.ycombinator.com/item?id=50406670  \n Points: 478 \n # Comments: 97 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T21:54:53.942601+00:00"
+    "researched_at": "2026-11-08T06:08:31.824862+00:00"
   },
   {
-    "title": "Show HN: Where Were We",
-    "url": "https://wherewerewe.app/",
-    "summary": " A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. \n \n Comments URL:  https://news.ycombinator.com/item?id=50408082  \n Points: 11 \n # Comments: 4 ",
+    "title": "Making any integer with four 2s (2025)",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "summary": " Article URL:  https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/  \n Comments URL:  https://news.ycombinator.com/item?id=50408713  \n Points: 95 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T21:54:53.942597+00:00"
+    "researched_at": "2026-11-08T06:08:31.824854+00:00"
   },
   {
-    "title": "Shadow of the Sun",
-    "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-    "summary": " Article URL:  https://mattlakeman.org/2021/07/27/shadow-of-the-sun/  \n Comments URL:  https://news.ycombinator.com/item?id=50408104  \n Points: 4 \n # Comments: 2 ",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "summary": " Article URL:  https://imagesco.com/articles/kirlian/kirlian-photography.html  \n Comments URL:  https://news.ycombinator.com/item?id=50410359  \n Points: 11 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T21:54:53.942594+00:00"
+    "researched_at": "2026-11-08T06:08:31.824810+00:00"
   },
   {
-    "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-    "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-    "summary": " Article URL:  https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor  \n Comments URL:  https://news.ycombinator.com/item?id=50406502  \n Points: 26 \n # Comments: 5 ",
+    "title": "IRA Velinsky – Commodore's Industrial Designer",
+    "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+    "summary": " Article URL:  https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/  \n Comments URL:  https://news.ycombinator.com/item?id=50408750  \n Points: 26 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T21:54:53.942605+00:00"
+    "researched_at": "2026-11-08T06:08:31.824850+00:00"
   },
   {
-    "title": "Five memorable books about programming (2008)",
-    "url": "https://prog21.dadgum.com/19.html",
-    "summary": " Article URL:  https://prog21.dadgum.com/19.html  \n Comments URL:  https://news.ycombinator.com/item?id=50406319  \n Points: 56 \n # Comments: 26 ",
+    "title": "Goodbye Claude, Hello Pi",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "summary": " Article URL:  https://caleb.software/posts/claude-to-pi.html  \n Comments URL:  https://news.ycombinator.com/item?id=50410107  \n Points: 82 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-07T21:54:53.942607+00:00"
+    "researched_at": "2026-11-08T06:08:31.824819+00:00"
+  },
+  {
+    "title": "GitHub New pull request overview page in public preview",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "summary": " Article URL:  https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/  \n Comments URL:  https://news.ycombinator.com/item?id=50408931  \n Points: 107 \n # Comments: 75 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T06:08:31.824843+00:00"
+  },
+  {
+    "title": "Commodore PET – The Worlds First Personal Computer",
+    "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+    "summary": " Article URL:  https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/  \n Comments URL:  https://news.ycombinator.com/item?id=50408961  \n Points: 40 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T06:08:31.824838+00:00"
   }
 ]

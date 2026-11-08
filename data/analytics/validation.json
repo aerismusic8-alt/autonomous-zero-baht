@@ -1,26 +1,26 @@
 [
   {
-    "path": "data/content/drafts/the-end-of-microsoft-research-s-ai-frontiers-group.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fridge-controller.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/show-hn-an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/maxxbench-nice-deepswe-score-but-is-it-true.json",
+    "path": "data/content/drafts/consumer-brain-wave-headsets-threaten-privacy.json",
     "passed": true,
     "errors": []
   },
   {
     "path": "data/content/drafts/claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-public-github-files.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/zapfast-a-fast-native-whatsapp-client-in-rust-and-egui.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/what-i-run-on-my-10-usd-openstick-homelab.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/making-any-integer-with-four-2s-2025.json",
     "passed": true,
     "errors": []
   }

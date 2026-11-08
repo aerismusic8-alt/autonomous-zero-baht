@@ -1,6 +1,6 @@
 [
   {
-    "content_id": "the-end-of-microsoft-research-s-ai-frontiers-group",
+    "content_id": "consumer-brain-wave-headsets-threaten-privacy",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -8,40 +8,7 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-11-07T21:54:53.944315+00:00"
-  },
-  {
-    "content_id": "show-hn-coldframe-a-honeypot-that-poses-as-a-supermarket-fridge-controller",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-11-07T21:54:53.944317+00:00"
-  },
-  {
-    "content_id": "show-hn-an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-11-07T21:54:53.944319+00:00"
-  },
-  {
-    "content_id": "maxxbench-nice-deepswe-score-but-is-it-true",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-11-07T21:54:53.944320+00:00"
+    "recorded_at": "2026-11-08T06:08:31.828341+00:00"
   },
   {
     "content_id": "claude-code-s-don-t-ask-again-exposes-passwords-in-1-122-public-github-files",
@@ -52,6 +19,39 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-11-07T21:54:53.944321+00:00"
+    "recorded_at": "2026-11-08T06:08:31.828346+00:00"
+  },
+  {
+    "content_id": "zapfast-a-fast-native-whatsapp-client-in-rust-and-egui",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T06:08:31.828349+00:00"
+  },
+  {
+    "content_id": "what-i-run-on-my-10-usd-openstick-homelab",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T06:08:31.828351+00:00"
+  },
+  {
+    "content_id": "making-any-integer-with-four-2s-2025",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T06:08:31.828353+00:00"
   }
 ]
