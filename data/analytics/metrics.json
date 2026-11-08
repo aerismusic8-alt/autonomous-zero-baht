@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "content_id": "the-web-is-more-than-enough-by-paul-ford",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T22:11:05.045220+00:00"
+  },
+  {
+    "content_id": "outlook-com-is-quietly-rejecting-email-from-domains-without-dmarc",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T22:11:05.045225+00:00"
+  },
+  {
+    "content_id": "how-i-fight-ai-brain-fry",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T22:11:05.045228+00:00"
+  },
+  {
+    "content_id": "goldman-sachs-is-pulling-claude-code-from-its-bankers-and-traders",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T22:11:05.045230+00:00"
+  },
+  {
+    "content_id": "starship-flight-15-on-11-13-plans-to-catch-both-booster-and-ship",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-08T22:11:05.045232+00:00"
+  }
+]

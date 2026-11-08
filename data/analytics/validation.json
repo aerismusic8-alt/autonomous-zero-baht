@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "path": "data/content/drafts/the-web-is-more-than-enough-by-paul-ford.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/outlook-com-is-quietly-rejecting-email-from-domains-without-dmarc.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/how-i-fight-ai-brain-fry.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/goldman-sachs-is-pulling-claude-code-from-its-bankers-and-traders.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/starship-flight-15-on-11-13-plans-to-catch-both-booster-and-ship.json",
+    "passed": true,
+    "errors": []
+  }
+]

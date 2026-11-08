@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "summary": " Article URL:  https://ftrain.com/aboard-the-web-is-more-than-enough  \n Comments URL:  https://news.ycombinator.com/item?id=50416456  \n Points: 16 \n # Comments: 4 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-08T22:11:05.041753+00:00"
+  },
+  {
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "summary": " Article URL:  https://mailroute.net/blog/outlook-rejecting-email-without-dmarc  \n Comments URL:  https://news.ycombinator.com/item?id=50416158  \n Points: 125 \n # Comments: 102 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-08T22:11:05.041759+00:00"
+  },
+  {
+    "title": "How I Fight AI Brain Fry",
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "summary": " Article URL:  https://sergeykuhne.com/blog/fighting-ai-brain-fry  \n Comments URL:  https://news.ycombinator.com/item?id=50416363  \n Points: 92 \n # Comments: 79 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-08T22:11:05.041756+00:00"
+  },
+  {
+    "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "summary": " Article URL:  https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers  \n Comments URL:  https://news.ycombinator.com/item?id=50415628  \n Points: 447 \n # Comments: 277 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-08T22:11:05.041771+00:00"
+  },
+  {
+    "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "summary": " Article URL:  https://www.spacex.com/launches/starship-flight-15  \n Comments URL:  https://news.ycombinator.com/item?id=50416471  \n Points: 42 \n # Comments: 18 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041750+00:00"
+  },
+  {
+    "title": "Playing with the STM32MP2",
+    "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+    "summary": " Article URL:  https://serd.es/2026/11/08/playing-with-stm32mp2.html  \n Comments URL:  https://news.ycombinator.com/item?id=50416014  \n Points: 6 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041765+00:00"
+  },
+  {
+    "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+    "url": "https://kevinboone.me/cpmzork.html",
+    "summary": " Article URL:  https://kevinboone.me/cpmzork.html  \n Comments URL:  https://news.ycombinator.com/item?id=50415750  \n Points: 20 \n # Comments: 11 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041768+00:00"
+  },
+  {
+    "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+    "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+    "summary": " Article URL:  https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors  \n Comments URL:  https://news.ycombinator.com/item?id=50416801  \n Points: 208 \n # Comments: 160 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041745+00:00"
+  },
+  {
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "url": "https://duxlabs.dev/",
+    "summary": " Article URL:  https://duxlabs.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50416053  \n Points: 96 \n # Comments: 32 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041762+00:00"
+  },
+  {
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "url": "https://news.ycombinator.com/item?id=50417407",
+    "summary": " What are you working on? What have you been curious about lately? \n \n Comments URL:  https://news.ycombinator.com/item?id=50417407  \n Points: 12 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-08T22:11:05.041736+00:00"
+  }
+]
