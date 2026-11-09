@@ -2473,3 +2473,22 @@
 {"timestamp": "2026-11-08T22:11:05.044895+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-08T22:11:05.045122+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-08T22:11:05.045403+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-09T06:42:13.778217+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-09T06:42:13.782329+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:13.783001+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-09T06:42:13.783788+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-09T06:42:13.922682+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-09T06:42:14.569122+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-09T06:42:14.570389+00:00", "event": "draft_created", "draft_id": "i-m-not-convinced-the-ai-bubble-exists", "path": "data/content/drafts/i-m-not-convinced-the-ai-bubble-exists.json"}
+{"timestamp": "2026-11-09T06:42:14.570756+00:00", "event": "draft_created", "draft_id": "apple-capped-engineers-at-a-200-daily-ai-budget", "path": "data/content/drafts/apple-capped-engineers-at-a-200-daily-ai-budget.json"}
+{"timestamp": "2026-11-09T06:42:14.571050+00:00", "event": "draft_created", "draft_id": "a-bit-about-email", "path": "data/content/drafts/a-bit-about-email.json"}
+{"timestamp": "2026-11-09T06:42:14.571385+00:00", "event": "draft_created", "draft_id": "when-a-language-s-creator-and-its-owners-strongly-disagree-pdf", "path": "data/content/drafts/when-a-language-s-creator-and-its-owners-strongly-disagree-pdf.json"}
+{"timestamp": "2026-11-09T06:42:14.571689+00:00", "event": "draft_created", "draft_id": "unlocking-any-car-from-x-brand-in-most-of-the-world", "path": "data/content/drafts/unlocking-any-car-from-x-brand-in-most-of-the-world.json"}
+{"timestamp": "2026-11-09T06:42:14.571864+00:00", "event": "draft_validation", "path": "data/content/drafts/i-m-not-convinced-the-ai-bubble-exists.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:14.572011+00:00", "event": "draft_validation", "path": "data/content/drafts/apple-capped-engineers-at-a-200-daily-ai-budget.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:14.572146+00:00", "event": "draft_validation", "path": "data/content/drafts/a-bit-about-email.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:14.572277+00:00", "event": "draft_validation", "path": "data/content/drafts/when-a-language-s-creator-and-its-owners-strongly-disagree-pdf.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:14.572411+00:00", "event": "draft_validation", "path": "data/content/drafts/unlocking-any-car-from-x-brand-in-most-of-the-world.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-09T06:42:14.572700+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-09T06:42:14.572885+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-09T06:42:14.573181+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
