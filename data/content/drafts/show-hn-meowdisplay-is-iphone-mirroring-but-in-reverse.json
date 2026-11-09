@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-meowdisplay-is-iphone-mirroring-but-in-reverse",
+  "created_at": "2026-11-09T22:25:35.665543+00:00",
+  "source_title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+  "source_url": "https://meowdisplay.app/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hey HN and Cats, thank you for checking this out! Github:\n https://github.com/raiseCatError/meowdisplay  EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay:  https://github.com/peetzweg/opendisplay \nwhich provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing. The website has interactive illustrative demos if you'd like to see the app demonstrated. I think MeowDisplay does a few things differently, some of which I prefer and you might too. Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloatin",
+      "source_url": "https://meowdisplay.app/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://meowdisplay.app/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://meowdisplay.app/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-someone-was-here-find-out-who-used-your-mac-while-you-were-away",
+  "created_at": "2026-11-09T22:25:35.665378+00:00",
+  "source_title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+  "source_url": "https://someonewashere.app/",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads. Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook. \n \n Comments URL:  https://news.ycombinator.com/item?id=50429812  \n Points: 28 \n # Comments: 10",
+      "source_url": "https://someonewashere.app/"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Someone Was Here – Find out who used your Mac while you were away\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://someonewashere.app/",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Someone Was Here – Find out who used your Mac while you were away อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://someonewashere.app/",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

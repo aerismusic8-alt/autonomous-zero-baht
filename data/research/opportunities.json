@@ -1,98 +1,102 @@
 [
   {
-    "title": "I'm not convinced the AI bubble exists",
-    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-    "summary": " Article URL:  https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists  \n Comments URL:  https://news.ycombinator.com/item?id=50418975  \n Points: 153 \n # Comments: 209 ",
+    "title": "Supply chain attack on Qubole customers",
+    "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+    "summary": " Article URL:  https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack  \n Comments URL:  https://news.ycombinator.com/item?id=50432147  \n Points: 9 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-09T06:42:14.569324+00:00"
+    "researched_at": "2026-11-09T22:25:35.664636+00:00"
   },
   {
-    "title": "Apple capped engineers at a $200 daily AI budget",
-    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
-    "summary": " Article URL:  https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1  \n Comments URL:  https://news.ycombinator.com/item?id=50421426  \n Points: 33 \n # Comments: 29 ",
+    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+    "url": "https://someonewashere.app/",
+    "summary": " Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads. Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook. \n \n Comments URL:  https://news.ycombinator.com/item?id=50429812  \n Points: 28 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-09T06:42:14.569296+00:00"
+    "researched_at": "2026-11-09T22:25:35.664660+00:00"
   },
   {
-    "title": "A Bit about Email",
-    "url": "https://maurycyz.com/misc/email/",
-    "summary": " Article URL:  https://maurycyz.com/misc/email/  \n Comments URL:  https://news.ycombinator.com/item?id=50420383  \n Points: 19 \n # Comments: 2 ",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "url": "https://meowdisplay.app/",
+    "summary": " Hey HN and Cats, thank you for checking this out! Github:\n https://github.com/raiseCatError/meowdisplay  EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay:  https://github.com/peetzweg/opendisplay \nwhich provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing. The website has interactive illustrative demos if you'd like to see the app demonstrated. I think MeowDisplay does a few things differently, some of which I prefer and you might too. Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloatin",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-09T06:42:14.569314+00:00"
+    "researched_at": "2026-11-09T22:25:35.664666+00:00"
   },
   {
-    "title": "When a language's creator and its owners strongly disagree [pdf]",
-    "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-    "summary": " Article URL:  https://isocpp.org/files/papers/P4454R0.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50418818  \n Points: 106 \n # Comments: 95 ",
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "summary": " Article URL:  https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/  \n Comments URL:  https://news.ycombinator.com/item?id=50429545  \n Points: 115 \n # Comments: 16 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-09T22:25:35.664668+00:00"
+  },
+  {
+    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "summary": " Article URL:  https://artificialanalysis.ai/models/claude-fable-5-2  \n Comments URL:  https://news.ycombinator.com/item?id=50431144  \n Points: 150 \n # Comments: 79 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-09T22:25:35.664641+00:00"
+  },
+  {
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "url": "https://postalpro.usps.com/zcb",
+    "summary": " Article URL:  https://postalpro.usps.com/zcb  \n Comments URL:  https://news.ycombinator.com/item?id=50431058  \n Points: 267 \n # Comments: 128 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569327+00:00"
+    "researched_at": "2026-11-09T22:25:35.664644+00:00"
   },
   {
-    "title": "Unlocking any car from X brand in most of the world",
-    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-    "summary": " Article URL:  https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/  \n Comments URL:  https://news.ycombinator.com/item?id=50419215  \n Points: 213 \n # Comments: 74 ",
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "url": "https://parkgraph.com/parking-app-fees",
+    "summary": " Article URL:  https://parkgraph.com/parking-app-fees  \n Comments URL:  https://news.ycombinator.com/item?id=50430991  \n Points: 22 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569320+00:00"
+    "researched_at": "2026-11-09T22:25:35.664646+00:00"
   },
   {
-    "title": "The Qlobe: Rotating Quine (2010)",
-    "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
-    "summary": " Article URL:  http://mamememo.blogspot.com/2010/09/qlobe.html  \n Comments URL:  https://news.ycombinator.com/item?id=50420599  \n Points: 15 \n # Comments: 0 ",
+    "title": "E-means: 10x faster k-means at equal loss",
+    "url": "https://e-means.github.io/",
+    "summary": " Article URL:  https://e-means.github.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50429734  \n Points: 180 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569310+00:00"
+    "researched_at": "2026-11-09T22:25:35.664663+00:00"
   },
   {
-    "title": "RIP, Harvest",
-    "url": "https://aphyr.com/posts/427-rip-harvest",
-    "summary": " Article URL:  https://aphyr.com/posts/427-rip-harvest  \n Comments URL:  https://news.ycombinator.com/item?id=50420035  \n Points: 274 \n # Comments: 82 ",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "summary": " Article URL:  https://www.anthropic.com/claude-fable-and-mythos-5-2  \n Comments URL:  https://news.ycombinator.com/item?id=50429906  \n Points: 770 \n # Comments: 444 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569317+00:00"
+    "researched_at": "2026-11-09T22:25:35.664654+00:00"
   },
   {
-    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-    "url": "https://ketchup3d.github.io/app/",
-    "summary": " Article URL:  https://ketchup3d.github.io/app/  \n Comments URL:  https://news.ycombinator.com/item?id=50418176  \n Points: 370 \n # Comments: 97 ",
+    "title": "CUI – Native UI components for C",
+    "url": "https://yappologistic.github.io/CUI/",
+    "summary": " Article URL:  https://yappologistic.github.io/CUI/  \n Comments URL:  https://news.ycombinator.com/item?id=50430621  \n Points: 91 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569336+00:00"
-  },
-  {
-    "title": "Chimera Vocal Synth",
-    "url": "https://chimera-vocal-synth.vercel.app/",
-    "summary": " Article URL:  https://chimera-vocal-synth.vercel.app/  \n Comments URL:  https://news.ycombinator.com/item?id=50418182  \n Points: 167 \n # Comments: 23 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569329+00:00"
-  },
-  {
-    "title": "A Critique of GPUI",
-    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-    "summary": " Article URL:  https://blog.zortax.de/posts/a-critique-of-gpui  \n Comments URL:  https://news.ycombinator.com/item?id=50420857  \n Points: 60 \n # Comments: 25 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-09T06:42:14.569305+00:00"
+    "researched_at": "2026-11-09T22:25:35.664652+00:00"
   }
 ]
