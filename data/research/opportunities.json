@@ -1,94 +1,102 @@
 [
   {
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "summary": " Article URL:  https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html  \n Comments URL:  https://news.ycombinator.com/item?id=50435660  \n Points: 110 \n # Comments: 53 ",
+    "title": "Work at the Frontier: AI's effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "summary": " Article URL:  https://openai.com/index/ai-effect-on-freelance-work  \n Comments URL:  https://news.ycombinator.com/item?id=50443838  \n Points: 20 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-10T07:24:16.665782+00:00"
+    "researched_at": "2026-11-10T19:47:28.223897+00:00"
   },
   {
-    "title": "Your TV can see through walls",
-    "url": "https://maurycyz.com/projects/fading/",
-    "summary": " Article URL:  https://maurycyz.com/projects/fading/  \n Comments URL:  https://news.ycombinator.com/item?id=50436410  \n Points: 41 \n # Comments: 11 ",
+    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+    "summary": " Article URL:  https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/  \n Comments URL:  https://news.ycombinator.com/item?id=50442691  \n Points: 106 \n # Comments: 48 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-10T19:47:28.223919+00:00"
+  },
+  {
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "summary": " Article URL:  https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/  \n Comments URL:  https://news.ycombinator.com/item?id=50443824  \n Points: 96 \n # Comments: 44 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-10T19:47:28.223900+00:00"
+  },
+  {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "url": "https://github.com/GoogleChrome/modern-web-guidance",
+    "summary": " Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without  s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent  +JS based pattern.  We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge. 200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves.  (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1] I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your co",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-10T19:47:28.223904+00:00"
+  },
+  {
+    "title": "An Open Field Guide to Inference Engineering",
+    "url": "https://docs.modelplane.ai/guides/inference-guide",
+    "summary": " Article URL:  https://docs.modelplane.ai/guides/inference-guide  \n Comments URL:  https://news.ycombinator.com/item?id=50443714  \n Points: 14 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-10T19:47:28.223910+00:00"
+  },
+  {
+    "title": "Val Town is winding down",
+    "url": "https://blog.val.town/winding-down",
+    "summary": " Article URL:  https://blog.val.town/winding-down  \n Comments URL:  https://news.ycombinator.com/item?id=50443427  \n Points: 137 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665775+00:00"
+    "researched_at": "2026-11-10T19:47:28.223912+00:00"
   },
   {
-    "title": "Ultorg: The User Interface for Relational Databases",
-    "url": "https://www.ultorg.com/",
-    "summary": " Article URL:  https://www.ultorg.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50435898  \n Points: 27 \n # Comments: 6 ",
+    "title": "Starlink Mini 2",
+    "url": "https://starlink.com/mini-2",
+    "summary": " Article URL:  https://starlink.com/mini-2  \n Comments URL:  https://news.ycombinator.com/item?id=50444129  \n Points: 96 \n # Comments: 71 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665779+00:00"
+    "researched_at": "2026-11-10T19:47:28.223891+00:00"
   },
   {
-    "title": "Mathematicians Are Like Luddites",
-    "url": "https://alok.blog/luddite/",
-    "summary": " Article URL:  https://alok.blog/luddite/  \n Comments URL:  https://news.ycombinator.com/item?id=50436587  \n Points: 11 \n # Comments: 0 ",
+    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+    "summary": " Article URL:  https://claude.com/resources/articles/sheets-whiteboards-data  \n Comments URL:  https://news.ycombinator.com/item?id=50443716  \n Points: 25 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665771+00:00"
+    "researched_at": "2026-11-10T19:47:28.223907+00:00"
   },
   {
-    "title": "Locating the source of a mysterious beep",
-    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-    "summary": " Article URL:  https://simonwillison.net/2026/Nov/9/mysterious-beeps/  \n Comments URL:  https://news.ycombinator.com/item?id=50434310  \n Points: 120 \n # Comments: 58 ",
+    "title": "AMD's Zen 6 Family: Feeding the Beast",
+    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+    "summary": " Article URL:  https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast  \n Comments URL:  https://news.ycombinator.com/item?id=50443090  \n Points: 90 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665788+00:00"
+    "researched_at": "2026-11-10T19:47:28.223914+00:00"
   },
   {
-    "title": "Horible public key tricks",
-    "url": "https://maurycyz.com/projects/badcert/",
-    "summary": " Article URL:  https://maurycyz.com/projects/badcert/  \n Comments URL:  https://news.ycombinator.com/item?id=50434264  \n Points: 121 \n # Comments: 39 ",
+    "title": ".name Grandfathered",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "summary": " Article URL:  https://neil.fraser.name/news/2026/11/10/  \n Comments URL:  https://news.ycombinator.com/item?id=50442736  \n Points: 399 \n # Comments: 69 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665791+00:00"
-  },
-  {
-    "title": "Formalizing CPython",
-    "url": "https://broyojo.com/python-formalization/",
-    "summary": " Article URL:  https://broyojo.com/python-formalization/  \n Comments URL:  https://news.ycombinator.com/item?id=50435105  \n Points: 41 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665785+00:00"
-  },
-  {
-    "title": "Fable 5.2 one-shotted my nephew's dream game",
-    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-    "summary": " Article URL:  https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game  \n Comments URL:  https://news.ycombinator.com/item?id=50433659  \n Points: 330 \n # Comments: 231 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665794+00:00"
-  },
-  {
-    "title": "Exact – a new cross platform UI framework",
-    "url": "https://github.com/expo/exact",
-    "summary": " Article URL:  https://github.com/expo/exact  \n Comments URL:  https://news.ycombinator.com/item?id=50433541  \n Points: 110 \n # Comments: 69 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665800+00:00"
-  },
-  {
-    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-    "summary": " Article URL:  https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/  \n Comments URL:  https://news.ycombinator.com/item?id=50436640  \n Points: 94 \n # Comments: 21 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-10T07:24:16.665762+00:00"
+    "researched_at": "2026-11-10T19:47:28.223916+00:00"
   }
 ]
