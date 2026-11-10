@@ -2511,3 +2511,22 @@
 {"timestamp": "2026-11-09T22:25:35.666311+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-09T22:25:35.666387+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-09T22:25:35.666542+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-10T07:24:15.901019+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-10T07:24:15.912892+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:15.913504+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-10T07:24:15.914245+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-10T07:24:16.306814+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-10T07:24:16.665576+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-10T07:24:16.666810+00:00", "event": "draft_created", "draft_id": "coreweave-bond-yield-tops-16-as-ai-credit-stress-rises", "path": "data/content/drafts/coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.json"}
+{"timestamp": "2026-11-10T07:24:16.667112+00:00", "event": "draft_created", "draft_id": "your-tv-can-see-through-walls", "path": "data/content/drafts/your-tv-can-see-through-walls.json"}
+{"timestamp": "2026-11-10T07:24:16.667423+00:00", "event": "draft_created", "draft_id": "ultorg-the-user-interface-for-relational-databases", "path": "data/content/drafts/ultorg-the-user-interface-for-relational-databases.json"}
+{"timestamp": "2026-11-10T07:24:16.667719+00:00", "event": "draft_created", "draft_id": "mathematicians-are-like-luddites", "path": "data/content/drafts/mathematicians-are-like-luddites.json"}
+{"timestamp": "2026-11-10T07:24:16.667986+00:00", "event": "draft_created", "draft_id": "locating-the-source-of-a-mysterious-beep", "path": "data/content/drafts/locating-the-source-of-a-mysterious-beep.json"}
+{"timestamp": "2026-11-10T07:24:16.668139+00:00", "event": "draft_validation", "path": "data/content/drafts/coreweave-bond-yield-tops-16-as-ai-credit-stress-rises.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:16.668282+00:00", "event": "draft_validation", "path": "data/content/drafts/your-tv-can-see-through-walls.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:16.668425+00:00", "event": "draft_validation", "path": "data/content/drafts/ultorg-the-user-interface-for-relational-databases.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:16.668556+00:00", "event": "draft_validation", "path": "data/content/drafts/mathematicians-are-like-luddites.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:16.668705+00:00", "event": "draft_validation", "path": "data/content/drafts/locating-the-source-of-a-mysterious-beep.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-10T07:24:16.668934+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-10T07:24:16.669135+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-10T07:24:16.669438+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

@@ -1,102 +1,94 @@
 [
   {
-    "title": "Supply chain attack on Qubole customers",
-    "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-    "summary": " Article URL:  https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack  \n Comments URL:  https://news.ycombinator.com/item?id=50432147  \n Points: 9 \n # Comments: 4 ",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "summary": " Article URL:  https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html  \n Comments URL:  https://news.ycombinator.com/item?id=50435660  \n Points: 110 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-09T22:25:35.664636+00:00"
+    "researched_at": "2026-11-10T07:24:16.665782+00:00"
   },
   {
-    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-    "url": "https://someonewashere.app/",
-    "summary": " Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads. Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook. \n \n Comments URL:  https://news.ycombinator.com/item?id=50429812  \n Points: 28 \n # Comments: 10 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-09T22:25:35.664660+00:00"
-  },
-  {
-    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-    "url": "https://meowdisplay.app/",
-    "summary": " Hey HN and Cats, thank you for checking this out! Github:\n https://github.com/raiseCatError/meowdisplay  EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay:  https://github.com/peetzweg/opendisplay \nwhich provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing. The website has interactive illustrative demos if you'd like to see the app demonstrated. I think MeowDisplay does a few things differently, some of which I prefer and you might too. Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloatin",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-09T22:25:35.664666+00:00"
-  },
-  {
-    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-    "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-    "summary": " Article URL:  https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/  \n Comments URL:  https://news.ycombinator.com/item?id=50429545  \n Points: 115 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-09T22:25:35.664668+00:00"
-  },
-  {
-    "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-    "summary": " Article URL:  https://artificialanalysis.ai/models/claude-fable-5-2  \n Comments URL:  https://news.ycombinator.com/item?id=50431144  \n Points: 150 \n # Comments: 79 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-09T22:25:35.664641+00:00"
-  },
-  {
-    "title": "USPS now offers official ZIP Code boundary polygons",
-    "url": "https://postalpro.usps.com/zcb",
-    "summary": " Article URL:  https://postalpro.usps.com/zcb  \n Comments URL:  https://news.ycombinator.com/item?id=50431058  \n Points: 267 \n # Comments: 128 ",
+    "title": "Your TV can see through walls",
+    "url": "https://maurycyz.com/projects/fading/",
+    "summary": " Article URL:  https://maurycyz.com/projects/fading/  \n Comments URL:  https://news.ycombinator.com/item?id=50436410  \n Points: 41 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T22:25:35.664644+00:00"
+    "researched_at": "2026-11-10T07:24:16.665775+00:00"
   },
   {
-    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-    "url": "https://parkgraph.com/parking-app-fees",
-    "summary": " Article URL:  https://parkgraph.com/parking-app-fees  \n Comments URL:  https://news.ycombinator.com/item?id=50430991  \n Points: 22 \n # Comments: 7 ",
+    "title": "Ultorg: The User Interface for Relational Databases",
+    "url": "https://www.ultorg.com/",
+    "summary": " Article URL:  https://www.ultorg.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50435898  \n Points: 27 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T22:25:35.664646+00:00"
+    "researched_at": "2026-11-10T07:24:16.665779+00:00"
   },
   {
-    "title": "E-means: 10x faster k-means at equal loss",
-    "url": "https://e-means.github.io/",
-    "summary": " Article URL:  https://e-means.github.io/  \n Comments URL:  https://news.ycombinator.com/item?id=50429734  \n Points: 180 \n # Comments: 11 ",
+    "title": "Mathematicians Are Like Luddites",
+    "url": "https://alok.blog/luddite/",
+    "summary": " Article URL:  https://alok.blog/luddite/  \n Comments URL:  https://news.ycombinator.com/item?id=50436587  \n Points: 11 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T22:25:35.664663+00:00"
+    "researched_at": "2026-11-10T07:24:16.665771+00:00"
   },
   {
-    "title": "Claude Fable 5.2 and Mythos 5.2",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-    "summary": " Article URL:  https://www.anthropic.com/claude-fable-and-mythos-5-2  \n Comments URL:  https://news.ycombinator.com/item?id=50429906  \n Points: 770 \n # Comments: 444 ",
+    "title": "Locating the source of a mysterious beep",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "summary": " Article URL:  https://simonwillison.net/2026/Nov/9/mysterious-beeps/  \n Comments URL:  https://news.ycombinator.com/item?id=50434310  \n Points: 120 \n # Comments: 58 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T22:25:35.664654+00:00"
+    "researched_at": "2026-11-10T07:24:16.665788+00:00"
   },
   {
-    "title": "CUI – Native UI components for C",
-    "url": "https://yappologistic.github.io/CUI/",
-    "summary": " Article URL:  https://yappologistic.github.io/CUI/  \n Comments URL:  https://news.ycombinator.com/item?id=50430621  \n Points: 91 \n # Comments: 56 ",
+    "title": "Horible public key tricks",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "summary": " Article URL:  https://maurycyz.com/projects/badcert/  \n Comments URL:  https://news.ycombinator.com/item?id=50434264  \n Points: 121 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-09T22:25:35.664652+00:00"
+    "researched_at": "2026-11-10T07:24:16.665791+00:00"
+  },
+  {
+    "title": "Formalizing CPython",
+    "url": "https://broyojo.com/python-formalization/",
+    "summary": " Article URL:  https://broyojo.com/python-formalization/  \n Comments URL:  https://news.ycombinator.com/item?id=50435105  \n Points: 41 \n # Comments: 15 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-10T07:24:16.665785+00:00"
+  },
+  {
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "summary": " Article URL:  https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game  \n Comments URL:  https://news.ycombinator.com/item?id=50433659  \n Points: 330 \n # Comments: 231 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-10T07:24:16.665794+00:00"
+  },
+  {
+    "title": "Exact – a new cross platform UI framework",
+    "url": "https://github.com/expo/exact",
+    "summary": " Article URL:  https://github.com/expo/exact  \n Comments URL:  https://news.ycombinator.com/item?id=50433541  \n Points: 110 \n # Comments: 69 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-10T07:24:16.665800+00:00"
+  },
+  {
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "summary": " Article URL:  https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/  \n Comments URL:  https://news.ycombinator.com/item?id=50436640  \n Points: 94 \n # Comments: 21 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-10T07:24:16.665762+00:00"
   }
 ]
