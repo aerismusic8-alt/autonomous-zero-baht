@@ -1,102 +1,98 @@
 [
   {
-    "title": "Work at the Frontier: AI's effect on freelance work",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "summary": " Article URL:  https://openai.com/index/ai-effect-on-freelance-work  \n Comments URL:  https://news.ycombinator.com/item?id=50443838  \n Points: 20 \n # Comments: 10 ",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "summary": " Article URL:  https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/  \n Comments URL:  https://news.ycombinator.com/item?id=50446520  \n Points: 137 \n # Comments: 100 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-10T19:47:28.223897+00:00"
+    "researched_at": "2026-11-11T06:32:46.650044+00:00"
   },
   {
-    "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
-    "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
-    "summary": " Article URL:  https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/  \n Comments URL:  https://news.ycombinator.com/item?id=50442691  \n Points: 106 \n # Comments: 48 ",
+    "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "summary": " Article URL:  https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/  \n Comments URL:  https://news.ycombinator.com/item?id=50448174  \n Points: 39 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-10T19:47:28.223919+00:00"
+    "researched_at": "2026-11-11T06:32:46.650038+00:00"
   },
   {
-    "title": "Synaptics patent claims stop work on DisplayLink drivers",
-    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-    "summary": " Article URL:  https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/  \n Comments URL:  https://news.ycombinator.com/item?id=50443824  \n Points: 96 \n # Comments: 44 ",
+    "title": "$30M Raised to Redo the CPU",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "summary": " Article URL:  https://tendrils.co/blog/2026-11-10/30m-raised  \n Comments URL:  https://news.ycombinator.com/item?id=50447036  \n Points: 72 \n # Comments: 63 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-10T19:47:28.223900+00:00"
+    "researched_at": "2026-11-11T06:32:46.650042+00:00"
   },
   {
-    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "summary": " Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without  s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default to using the platform-native solution and instead prefer the incumbent  +JS based pattern.  We started an effort in Chrome to supplement coding agents with this key domain knowledge and we're shipping our 1.0 today, in collaboration with Firefox, MDN, and Edge. 200+ guides (~1.7MB) of curated, hand-crafted implementation best-practices from web experts, updated as the web evolves.  (Open source, obv, so.. we'll welcome your bikeshedding ;) Readable versions here: [1] I've spent the last 9 months obsessing over how to ship this as an agent skill + (Agentic RAG) CLI without blowing up your co",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-10T19:47:28.223904+00:00"
-  },
-  {
-    "title": "An Open Field Guide to Inference Engineering",
-    "url": "https://docs.modelplane.ai/guides/inference-guide",
-    "summary": " Article URL:  https://docs.modelplane.ai/guides/inference-guide  \n Comments URL:  https://news.ycombinator.com/item?id=50443714  \n Points: 14 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-10T19:47:28.223910+00:00"
-  },
-  {
-    "title": "Val Town is winding down",
-    "url": "https://blog.val.town/winding-down",
-    "summary": " Article URL:  https://blog.val.town/winding-down  \n Comments URL:  https://news.ycombinator.com/item?id=50443427  \n Points: 137 \n # Comments: 35 ",
+    "title": "Tracking Anthropic-discovered vulnerabilities",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "summary": " Article URL:  https://www.vulncheck.com/blog/anthropic-glasswing-november-update  \n Comments URL:  https://news.ycombinator.com/item?id=50447074  \n Points: 373 \n # Comments: 173 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T19:47:28.223912+00:00"
+    "researched_at": "2026-11-11T06:32:46.650040+00:00"
   },
   {
-    "title": "Starlink Mini 2",
-    "url": "https://starlink.com/mini-2",
-    "summary": " Article URL:  https://starlink.com/mini-2  \n Comments URL:  https://news.ycombinator.com/item?id=50444129  \n Points: 96 \n # Comments: 71 ",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "summary": " Article URL:  https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna  \n Comments URL:  https://news.ycombinator.com/item?id=50449275  \n Points: 53 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T19:47:28.223891+00:00"
+    "researched_at": "2026-11-11T06:32:46.650025+00:00"
   },
   {
-    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "summary": " Article URL:  https://claude.com/resources/articles/sheets-whiteboards-data  \n Comments URL:  https://news.ycombinator.com/item?id=50443716  \n Points: 25 \n # Comments: 11 ",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "summary": " Article URL:  https://gatezh.com/posts/macos-secure-enclave-ssh-keys/  \n Comments URL:  https://news.ycombinator.com/item?id=50449748  \n Points: 72 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T19:47:28.223907+00:00"
+    "researched_at": "2026-11-11T06:32:46.650022+00:00"
   },
   {
-    "title": "AMD's Zen 6 Family: Feeding the Beast",
-    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-    "summary": " Article URL:  https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast  \n Comments URL:  https://news.ycombinator.com/item?id=50443090  \n Points: 90 \n # Comments: 32 ",
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "url": "https://tis-100.wincon.dev/",
+    "summary": " Article URL:  https://tis-100.wincon.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50448340  \n Points: 37 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T19:47:28.223914+00:00"
+    "researched_at": "2026-11-11T06:32:46.650032+00:00"
   },
   {
-    "title": ".name Grandfathered",
-    "url": "https://neil.fraser.name/news/2026/11/10/",
-    "summary": " Article URL:  https://neil.fraser.name/news/2026/11/10/  \n Comments URL:  https://news.ycombinator.com/item?id=50442736  \n Points: 399 \n # Comments: 69 ",
+    "title": "Hooked on Tuna",
+    "url": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428",
+    "summary": "  https://blue-continuum.com/hooked-on-tuna  \n \n Comments URL:  https://news.ycombinator.com/item?id=50449080  \n Points: 23 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-10T19:47:28.223916+00:00"
+    "researched_at": "2026-11-11T06:32:46.650027+00:00"
+  },
+  {
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "summary": " Article URL:  https://github.com/gmkurtzer/ginux  \n Comments URL:  https://news.ycombinator.com/item?id=50450007  \n Points: 26 \n # Comments: 4 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-11T06:32:46.650017+00:00"
+  },
+  {
+    "title": "A great old-timey game-programming hack (2013)",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "summary": " Article URL:  https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html  \n Comments URL:  https://news.ycombinator.com/item?id=50448921  \n Points: 95 \n # Comments: 14 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-11T06:32:46.650030+00:00"
   }
 ]
