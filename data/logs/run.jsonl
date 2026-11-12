@@ -2606,3 +2606,22 @@
 {"timestamp": "2026-11-12T07:17:51.431211+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-12T07:17:51.431338+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-12T07:17:51.431545+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-12T19:59:01.533415+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-12T19:59:01.536496+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.536991+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-12T19:59:01.537664+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-12T19:59:01.639867+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-12T19:59:01.962864+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-12T19:59:01.963917+00:00", "event": "draft_created", "draft_id": "show-hn-kapso-iterative-learning-from-enterprise-data", "path": "data/content/drafts/show-hn-kapso-iterative-learning-from-enterprise-data.json"}
+{"timestamp": "2026-11-12T19:59:01.964135+00:00", "event": "draft_created", "draft_id": "show-hn-agentrun-open-source-self-improving-managed-agents", "path": "data/content/drafts/show-hn-agentrun-open-source-self-improving-managed-agents.json"}
+{"timestamp": "2026-11-12T19:59:01.964326+00:00", "event": "draft_created", "draft_id": "gemini-4-hydrogen", "path": "data/content/drafts/gemini-4-hydrogen.json"}
+{"timestamp": "2026-11-12T19:59:01.964507+00:00", "event": "draft_created", "draft_id": "singapore-says-u-s-not-helpful-on-investigation-into-suspected-spy-s-company", "path": "data/content/drafts/singapore-says-u-s-not-helpful-on-investigation-into-suspected-spy-s-company.json"}
+{"timestamp": "2026-11-12T19:59:01.964728+00:00", "event": "draft_created", "draft_id": "rust-1-100-0", "path": "data/content/drafts/rust-1-100-0.json"}
+{"timestamp": "2026-11-12T19:59:01.964842+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-kapso-iterative-learning-from-enterprise-data.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.964940+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-agentrun-open-source-self-improving-managed-agents.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.965025+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-4-hydrogen.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.965104+00:00", "event": "draft_validation", "path": "data/content/drafts/singapore-says-u-s-not-helpful-on-investigation-into-suspected-spy-s-company.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.965180+00:00", "event": "draft_validation", "path": "data/content/drafts/rust-1-100-0.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T19:59:01.965327+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-12T19:59:01.965456+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-12T19:59:01.965686+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

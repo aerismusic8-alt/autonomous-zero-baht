@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-kapso-iterative-learning-from-enterprise-data",
+  "created_at": "2026-11-12T19:59:01.963691+00:00",
+  "source_title": "Show HN: Kapso – Iterative learning from enterprise data",
+  "source_url": "https://news.ycombinator.com/item?id=50471281",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what you learn. This bottom-up process is the only way to deliver meaningful outcomes quickly in large, messy enterprise data environments. Consultants gathering context in meetings or teams defining a business ontology upfront to fit into the data has no chance of execution, in quarters and sometimes years. An AI-native system should automate this process, compounding learning to each new investigation and implementation. For instance, one of our enterprise projects was moving a company off it",
+      "source_url": "https://news.ycombinator.com/item?id=50471281"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: Kapso – Iterative learning from enterprise data\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50471281",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: Kapso – Iterative learning from enterprise data อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50471281",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
