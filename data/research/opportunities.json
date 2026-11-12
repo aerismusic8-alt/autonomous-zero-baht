@@ -1,99 +1,96 @@
 [
   {
-    "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-    "url": "https://pomerado.ai/",
-    "summary": " Hi HN, we’re Alan and Akshay from Pomerado ( https://pomerado.ai/ ). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve. Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns. We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, th",
-    "source": "https://hnrss.org/frontpage",
-    "score": 2,
-    "matched_keywords": [
-      "automation",
-      "ai"
-    ],
-    "researched_at": "2026-11-11T19:39:06.163725+00:00"
-  },
-  {
-    "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-    "url": "https://github.com/klad-app/klad",
-    "summary": " I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft of whatever art I needed with actual brushes, and then be able to go in myself and edit every last stroke or layer that it created. Klad is that application. Written in Rust, it can be fully controlled by an agent through the CLI, and every function is available in a nice UI as well: a brush engine, frame-by-frame animation (and bones/IK), vectors, text layers, colours, layer effects, infinite undo (even after re-opening the file!),… Why I think it's useful for a wider audience: Adobe showed ag",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "summary": " Article URL:  https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/  \n Comments URL:  https://news.ycombinator.com/item?id=50458900  \n Points: 510 \n # Comments: 498 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-11T19:39:06.163769+00:00"
+    "researched_at": "2026-11-12T07:17:51.428988+00:00"
   },
   {
-    "title": "AI, activity, and outcomes in software engineering",
-    "url": "https://cabird.com/talks/shipping-faster/",
-    "summary": "  https://www.youtube.com/watch?v=0wumMeZsNsI  \n \n Comments URL:  https://news.ycombinator.com/item?id=50455332  \n Points: 64 \n # Comments: 81 ",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "summary": " Article URL:  https://www.mcmillen.dev/sigbovik/  \n Comments URL:  https://news.ycombinator.com/item?id=50459745  \n Points: 356 \n # Comments: 49 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-11T19:39:06.163755+00:00"
+    "researched_at": "2026-11-12T07:17:51.428981+00:00"
   },
   {
-    "title": "The hardest notes to find on the guitar fretboard",
-    "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
-    "summary": " Article URL:  https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard  \n Comments URL:  https://news.ycombinator.com/item?id=50454995  \n Points: 31 \n # Comments: 33 ",
+    "title": "Nvidia is preparing to oust Jensen Huang",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "summary": " Article URL:  https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad  \n Comments URL:  https://news.ycombinator.com/item?id=50459703  \n Points: 860 \n # Comments: 1217 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163759+00:00"
+    "researched_at": "2026-11-12T07:17:51.428984+00:00"
   },
   {
-    "title": "The Power and Legacy of Virginia Tech's Mac-Based Supercomputers",
-    "url": "https://512pixels.net/2026/11/va-tech-system-x-system-g/",
-    "summary": " Article URL:  https://512pixels.net/2026/11/va-tech-system-x-system-g/  \n Comments URL:  https://news.ycombinator.com/item?id=50456010  \n Points: 10 \n # Comments: 0 ",
+    "title": "Lock Your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "summary": " Article URL:  https://hugovk.dev/blog/2026/lock-github-actions/  \n Comments URL:  https://news.ycombinator.com/item?id=50459485  \n Points: 209 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163715+00:00"
+    "researched_at": "2026-11-12T07:17:51.428986+00:00"
   },
   {
-    "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-    "url": "https://termsheetplease.com/",
-    "summary": " Article URL:  https://termsheetplease.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50457230  \n Points: 10 \n # Comments: 0 ",
+    "title": "Lean Grimoire",
+    "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+    "summary": " Article URL:  https://terrytao.wordpress.com/2026/11/11/lean-grimoire/  \n Comments URL:  https://news.ycombinator.com/item?id=50462375  \n Points: 28 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163705+00:00"
+    "researched_at": "2026-11-12T07:17:51.428974+00:00"
   },
   {
-    "title": "Faster Retrieval for Better, More Efficient RAG",
-    "url": "https://machinelearning.apple.com/research/faster-retrieval",
-    "summary": " Article URL:  https://machinelearning.apple.com/research/faster-retrieval  \n Comments URL:  https://news.ycombinator.com/item?id=50455633  \n Points: 71 \n # Comments: 12 ",
+    "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+    "url": "https://www.getlazarus.org/forums/topic/17/",
+    "summary": " Article URL:  https://www.getlazarus.org/forums/topic/17/  \n Comments URL:  https://news.ycombinator.com/item?id=50463540  \n Points: 12 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163749+00:00"
+    "researched_at": "2026-11-12T07:17:51.428959+00:00"
   },
   {
-    "title": "AWS Finally Built Its Own AWS Emulator",
-    "url": "https://github.com/aws/aws-emulator",
-    "summary": " Article URL:  https://github.com/aws/aws-emulator  \n Comments URL:  https://news.ycombinator.com/item?id=50456631  \n Points: 200 \n # Comments: 55 ",
+    "title": "Darling Development Update – Q4 2026",
+    "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+    "summary": " Article URL:  https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50463103  \n Points: 16 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163713+00:00"
+    "researched_at": "2026-11-12T07:17:51.428968+00:00"
   },
   {
-    "title": "AWS Emulator and the engineer's job when agents write the code",
-    "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-    "summary": " Article URL:  https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html  \n Comments URL:  https://news.ycombinator.com/item?id=50456740  \n Points: 47 \n # Comments: 2 ",
+    "title": "Critical RCE Vulnerability in Apache HTTP Server",
+    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "summary": " Article URL:  https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability  \n Comments URL:  https://news.ycombinator.com/item?id=50462177  \n Points: 124 \n # Comments: 54 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163710+00:00"
+    "researched_at": "2026-11-12T07:17:51.428977+00:00"
   },
   {
-    "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-    "summary": " Article URL:  https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/  \n Comments URL:  https://news.ycombinator.com/item?id=50455394  \n Points: 247 \n # Comments: 127 ",
+    "title": "Bad ideas that aren't bad anymore",
+    "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+    "summary": " Article URL:  https://devonestes.com/bad-ideas-that-arent-bad-anymore  \n Comments URL:  https://news.ycombinator.com/item?id=50462613  \n Points: 17 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-11T19:39:06.163753+00:00"
+    "researched_at": "2026-11-12T07:17:51.428971+00:00"
+  },
+  {
+    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+    "url": "https://github.com/tylertms/Stela",
+    "summary": " Article URL:  https://github.com/tylertms/Stela  \n Comments URL:  https://news.ycombinator.com/item?id=50460154  \n Points: 93 \n # Comments: 36 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-12T07:17:51.428979+00:00"
   }
 ]

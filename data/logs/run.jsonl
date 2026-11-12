@@ -2587,3 +2587,22 @@
 {"timestamp": "2026-11-11T19:39:06.165495+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-11T19:39:06.165569+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-11T19:39:06.165747+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-12T07:17:50.903226+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-12T07:17:50.906388+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:50.906875+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-12T07:17:50.907424+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-12T07:17:51.011909+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-12T07:17:51.428810+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-12T07:17:51.429803+00:00", "event": "draft_created", "draft_id": "united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers", "path": "data/content/drafts/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers.json"}
+{"timestamp": "2026-11-12T07:17:51.430027+00:00", "event": "draft_created", "draft_id": "93-of-paint-splatters-are-valid-perl-programs-2019", "path": "data/content/drafts/93-of-paint-splatters-are-valid-perl-programs-2019.json"}
+{"timestamp": "2026-11-12T07:17:51.430224+00:00", "event": "draft_created", "draft_id": "nvidia-is-preparing-to-oust-jensen-huang", "path": "data/content/drafts/nvidia-is-preparing-to-oust-jensen-huang.json"}
+{"timestamp": "2026-11-12T07:17:51.430403+00:00", "event": "draft_created", "draft_id": "lock-your-github-actions", "path": "data/content/drafts/lock-your-github-actions.json"}
+{"timestamp": "2026-11-12T07:17:51.430601+00:00", "event": "draft_created", "draft_id": "lean-grimoire", "path": "data/content/drafts/lean-grimoire.json"}
+{"timestamp": "2026-11-12T07:17:51.430725+00:00", "event": "draft_validation", "path": "data/content/drafts/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:51.430818+00:00", "event": "draft_validation", "path": "data/content/drafts/93-of-paint-splatters-are-valid-perl-programs-2019.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:51.430902+00:00", "event": "draft_validation", "path": "data/content/drafts/nvidia-is-preparing-to-oust-jensen-huang.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:51.430981+00:00", "event": "draft_validation", "path": "data/content/drafts/lock-your-github-actions.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:51.431058+00:00", "event": "draft_validation", "path": "data/content/drafts/lean-grimoire.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-12T07:17:51.431211+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-12T07:17:51.431338+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-12T07:17:51.431545+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
