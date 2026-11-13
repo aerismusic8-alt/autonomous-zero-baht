@@ -1,98 +1,100 @@
 [
   {
-    "title": "Show HN: Kapso – Iterative learning from enterprise data",
-    "url": "https://news.ycombinator.com/item?id=50471281",
-    "summary": " Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what you learn. This bottom-up process is the only way to deliver meaningful outcomes quickly in large, messy enterprise data environments. Consultants gathering context in meetings or teams defining a business ontology upfront to fit into the data has no chance of execution, in quarters and sometimes years. An AI-native system should automate this process, compounding learning to each new investigation and implementation. For instance, one of our enterprise projects was moving a company off it",
+    "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+    "url": "https://github.com/pharma2a/pharma2a",
+    "summary": " I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ? \n \n Comments URL:  https://news.ycombinator.com/item?id=50478543  \n Points: 4 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-12T19:59:01.963080+00:00"
+    "researched_at": "2026-11-13T06:51:01.130729+00:00"
   },
   {
-    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-    "summary": " We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post:  https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. You can self-host it (see 1-click install on Render) with an OpenRouter key, or try the hosted version at console.agentrun.ai. We’d love feedback, especially on the architecture (see README), or anything we may be missing to make it useful to you. \n \n Comments URL:  https://news.ycombinator.com/item?id=50471650  \n Points: 33 \n # Comments: 3 ",
+    "title": "Scientists claim the universe is twice as old as believed",
+    "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+    "summary": " Article URL:  https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/  \n Comments URL:  https://news.ycombinator.com/item?id=50478635  \n Points: 21 \n # Comments: 6 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-12T19:59:01.963066+00:00"
+    "researched_at": "2026-11-13T06:51:01.130718+00:00"
   },
   {
-    "title": "Gemini 4 Hydrogen",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-    "summary": " Article URL:  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/  \n Comments URL:  https://news.ycombinator.com/item?id=50471431  \n Points: 296 \n # Comments: 188 ",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "summary": " Article URL:  https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer  \n Comments URL:  https://news.ycombinator.com/item?id=50475713  \n Points: 188 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-12T19:59:01.963072+00:00"
+    "researched_at": "2026-11-13T06:51:01.130741+00:00"
   },
   {
-    "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
-    "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
-    "summary": " Article URL:  https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html  \n Comments URL:  https://news.ycombinator.com/item?id=50471621  \n Points: 61 \n # Comments: 14 ",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "summary": " Article URL:  https://unemploymentlabs.com/checkpoint-forensics  \n Comments URL:  https://news.ycombinator.com/item?id=50474883  \n Points: 256 \n # Comments: 74 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-13T06:51:01.130744+00:00"
+  },
+  {
+    "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+    "summary": " Article URL:  https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high  \n Comments URL:  https://news.ycombinator.com/item?id=50478622  \n Points: 29 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963069+00:00"
+    "researched_at": "2026-11-13T06:51:01.130724+00:00"
   },
   {
-    "title": "Rust 1.100.0",
-    "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
-    "summary": " Article URL:  https://github.com/rust-lang/rust/releases/tag/1.100.0  \n Comments URL:  https://news.ycombinator.com/item?id=50471793  \n Points: 262 \n # Comments: 55 ",
+    "title": "Switcher (2004)",
+    "url": "https://folklore.org/Switcher.html",
+    "summary": " Article URL:  https://folklore.org/Switcher.html  \n Comments URL:  https://news.ycombinator.com/item?id=50477714  \n Points: 76 \n # Comments: 20 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963047+00:00"
+    "researched_at": "2026-11-13T06:51:01.130734+00:00"
   },
   {
-    "title": "Outlook is down, and so is Microsoft's status page",
-    "url": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
-    "summary": " Article URL:  https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/  \n Comments URL:  https://news.ycombinator.com/item?id=50471731  \n Points: 184 \n # Comments: 54 ",
+    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+    "url": "https://github.com/KoljaB/RealtimeVAD",
+    "summary": " Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal. There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a 10 ms energy detector with a threshold that adapts to environment or room noise. Which worked amazingly well. It created more false positives but in my speculative generation pipeline that would not matter. If it's wrong and the user continues speaking I can abort the pipeline fast. I benchmarked my solution over ~3200 turns from my assistant logs and it came out ~110 ms faster initially. Still 100 ms now after some a fix which was needed for quiet speech. I made it public if you want to have a look. If you measure it on your data I really appreciate any feedback. There's a benchmark script in the repo. Thx for reading, have a good day folks. \n \n Comments URL:  https://news.ycombinator.com/",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963054+00:00"
+    "researched_at": "2026-11-13T06:51:01.130755+00:00"
   },
   {
-    "title": "Gemini 4 Hydrogen and Orchestrator",
-    "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-    "summary": " Article URL:  https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/  \n Comments URL:  https://news.ycombinator.com/item?id=50472260  \n Points: 44 \n # Comments: 6 ",
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+    "summary": " Article URL:  https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/  \n Comments URL:  https://news.ycombinator.com/item?id=50477231  \n Points: 393 \n # Comments: 297 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963044+00:00"
+    "researched_at": "2026-11-13T06:51:01.130739+00:00"
   },
   {
-    "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-    "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-    "summary": " Article URL:  https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/  \n Comments URL:  https://news.ycombinator.com/item?id=50472490  \n Points: 39 \n # Comments: 7 ",
+    "title": "IceWM",
+    "url": "https://ice-wm.org/",
+    "summary": " Article URL:  https://ice-wm.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50478515  \n Points: 71 \n # Comments: 30 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963036+00:00"
+    "researched_at": "2026-11-13T06:51:01.130732+00:00"
   },
   {
-    "title": "Ask HN: Microsoft/Azure Outage?",
-    "url": "https://news.ycombinator.com/item?id=50471668",
-    "summary": " For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load. \n \n Comments URL:  https://news.ycombinator.com/item?id=50471668  \n Points: 241 \n # Comments: 117 ",
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "url": "https://brave.com/blog/search-api-agentic-payments/",
+    "summary": " Article URL:  https://brave.com/blog/search-api-agentic-payments/  \n Comments URL:  https://news.ycombinator.com/item?id=50477649  \n Points: 49 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963056+00:00"
-  },
-  {
-    "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
-    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-    "summary": " Article URL:  https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/  \n Comments URL:  https://news.ycombinator.com/item?id=50471761  \n Points: 25 \n # Comments: 1 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-12T19:59:01.963051+00:00"
+    "researched_at": "2026-11-13T06:51:01.130737+00:00"
   }
 ]

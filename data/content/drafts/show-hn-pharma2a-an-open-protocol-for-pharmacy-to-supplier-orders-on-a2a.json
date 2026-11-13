@@ -1,0 +1,27 @@
+{
+  "id": "show-hn-pharma2a-an-open-protocol-for-pharmacy-to-supplier-orders-on-a2a",
+  "created_at": "2026-11-13T06:51:01.131364+00:00",
+  "source_title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+  "source_url": "https://github.com/pharma2a/pharma2a",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ? \n \n Comments URL:  https://news.ycombinator.com/item?id=50478543  \n Points: 4 \n # Comments: 0",
+      "source_url": "https://github.com/pharma2a/pharma2a"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://github.com/pharma2a/pharma2a",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://github.com/pharma2a/pharma2a",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
