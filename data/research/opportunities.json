@@ -1,100 +1,100 @@
 [
   {
-    "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
-    "url": "https://github.com/pharma2a/pharma2a",
-    "summary": " I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ? \n \n Comments URL:  https://news.ycombinator.com/item?id=50478543  \n Points: 4 \n # Comments: 0 ",
+    "title": "The avalanche that hit math is coming for AI development",
+    "url": "https://www.dwarkesh.com/p/rsi",
+    "summary": " Article URL:  https://www.dwarkesh.com/p/rsi  \n Comments URL:  https://news.ycombinator.com/item?id=50487854  \n Points: 35 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-13T06:51:01.130729+00:00"
+    "researched_at": "2026-11-13T19:46:26.097335+00:00"
   },
   {
-    "title": "Scientists claim the universe is twice as old as believed",
-    "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-    "summary": " Article URL:  https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/  \n Comments URL:  https://news.ycombinator.com/item?id=50478635  \n Points: 21 \n # Comments: 6 ",
+    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+    "url": "https://isometricsf.com/",
+    "summary": " Technical Write-up:  https://www.justinchavez.com/blog/isometric-sf-how/  Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post. Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models. If I did the map with Nano Banana 2 it would have cost around 7k USD! Credit for the idea goes to Isometric NYC. \n \n Comments URL:  https://news.ycombinator.com/item?id=50487228  \n Points: 46 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-13T06:51:01.130718+00:00"
+    "researched_at": "2026-11-13T19:46:26.097351+00:00"
   },
   {
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "summary": " Article URL:  https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer  \n Comments URL:  https://news.ycombinator.com/item?id=50475713  \n Points: 188 \n # Comments: 48 ",
+    "title": "OpenAI disbands its robotics team as its general models start running robots",
+    "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+    "summary": " Article URL:  https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/  \n Comments URL:  https://news.ycombinator.com/item?id=50487184  \n Points: 46 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-13T06:51:01.130741+00:00"
+    "researched_at": "2026-11-13T19:46:26.097356+00:00"
   },
   {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "summary": " Article URL:  https://unemploymentlabs.com/checkpoint-forensics  \n Comments URL:  https://news.ycombinator.com/item?id=50474883  \n Points: 256 \n # Comments: 74 ",
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "summary": " Article URL:  https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths  \n Comments URL:  https://news.ycombinator.com/item?id=50486748  \n Points: 178 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-13T06:51:01.130744+00:00"
+    "researched_at": "2026-11-13T19:46:26.097359+00:00"
   },
   {
-    "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-    "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-    "summary": " Article URL:  https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high  \n Comments URL:  https://news.ycombinator.com/item?id=50478622  \n Points: 29 \n # Comments: 11 ",
+    "title": "Models can now transmit viruses in weight-space",
+    "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+    "summary": " Article URL:  https://www.alphaxiv.org/abs/2611.weight-space-misfolding  \n Comments URL:  https://news.ycombinator.com/item?id=50487762  \n Points: 47 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130724+00:00"
+    "researched_at": "2026-11-13T19:46:26.097337+00:00"
   },
   {
-    "title": "Switcher (2004)",
-    "url": "https://folklore.org/Switcher.html",
-    "summary": " Article URL:  https://folklore.org/Switcher.html  \n Comments URL:  https://news.ycombinator.com/item?id=50477714  \n Points: 76 \n # Comments: 20 ",
+    "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+    "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+    "summary": " Article URL:  https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/  \n Comments URL:  https://news.ycombinator.com/item?id=50487522  \n Points: 75 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130734+00:00"
+    "researched_at": "2026-11-13T19:46:26.097342+00:00"
   },
   {
-    "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
-    "url": "https://github.com/KoljaB/RealtimeVAD",
-    "summary": " Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal. There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a 10 ms energy detector with a threshold that adapts to environment or room noise. Which worked amazingly well. It created more false positives but in my speculative generation pipeline that would not matter. If it's wrong and the user continues speaking I can abort the pipeline fast. I benchmarked my solution over ~3200 turns from my assistant logs and it came out ~110 ms faster initially. Still 100 ms now after some a fix which was needed for quiet speech. I made it public if you want to have a look. If you measure it on your data I really appreciate any feedback. There's a benchmark script in the repo. Thx for reading, have a good day folks. \n \n Comments URL:  https://news.ycombinator.com/",
+    "title": "FM-1 Workbench",
+    "url": "https://open.m-vave.com/fm1-workbench",
+    "summary": " Article URL:  https://open.m-vave.com/fm1-workbench  \n Comments URL:  https://news.ycombinator.com/item?id=50488325  \n Points: 11 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130755+00:00"
+    "researched_at": "2026-11-13T19:46:26.097330+00:00"
   },
   {
-    "title": "Nvidia employees petition to bring back Jensen Huang",
-    "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-    "summary": " Article URL:  https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/  \n Comments URL:  https://news.ycombinator.com/item?id=50477231  \n Points: 393 \n # Comments: 297 ",
+    "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+    "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+    "summary": " Article URL:  https://toninoble.com/post/ctrlc-ctrlv-ctrlcve  \n Comments URL:  https://news.ycombinator.com/item?id=50487605  \n Points: 17 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130739+00:00"
+    "researched_at": "2026-11-13T19:46:26.097340+00:00"
   },
   {
-    "title": "IceWM",
-    "url": "https://ice-wm.org/",
-    "summary": " Article URL:  https://ice-wm.org/  \n Comments URL:  https://news.ycombinator.com/item?id=50478515  \n Points: 71 \n # Comments: 30 ",
+    "title": "Concurrent Shell Command Queues",
+    "url": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+    "summary": " Article URL:  https://emmer.dev/blog/concurrent-shell-command-queues/  \n Comments URL:  https://news.ycombinator.com/item?id=50486521  \n Points: 11 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130732+00:00"
+    "researched_at": "2026-11-13T19:46:26.097361+00:00"
   },
   {
-    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-    "url": "https://brave.com/blog/search-api-agentic-payments/",
-    "summary": " Article URL:  https://brave.com/blog/search-api-agentic-payments/  \n Comments URL:  https://news.ycombinator.com/item?id=50477649  \n Points: 49 \n # Comments: 14 ",
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "url": "https://haddyalchaer.com/jepa",
+    "summary": " Article URL:  https://haddyalchaer.com/jepa  \n Comments URL:  https://news.ycombinator.com/item?id=50487185  \n Points: 106 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-13T06:51:01.130737+00:00"
+    "researched_at": "2026-11-13T19:46:26.097354+00:00"
   }
 ]
