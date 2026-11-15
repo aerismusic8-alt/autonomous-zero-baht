@@ -1,94 +1,100 @@
 [
   {
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "url": "https://www.crissyfield.de/research/lovable-en/",
-    "summary": " Article URL:  https://www.crissyfield.de/research/lovable-en/  \n Comments URL:  https://news.ycombinator.com/item?id=50499017  \n Points: 508 \n # Comments: 184 ",
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "summary": " Article URL:  https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c  \n Comments URL:  https://news.ycombinator.com/item?id=50503588  \n Points: 50 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-14T22:29:26.780953+00:00"
+    "researched_at": "2026-11-15T06:40:50.389586+00:00"
   },
   {
-    "title": "Will we put data centers in space?",
-    "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-    "summary": " Article URL:  https://www.forethought.org/research/will-we-really-put-data-centers-in-space  \n Comments URL:  https://news.ycombinator.com/item?id=50498945  \n Points: 41 \n # Comments: 120 ",
+    "title": "Show HN: Gawain – Require type hints on all Python variables",
+    "url": "https://github.com/matheuzgomes/gawain",
+    "summary": " Yes, i really hate \"dict[str, ANY]\" \n \n Comments URL:  https://news.ycombinator.com/item?id=50504072  \n Points: 26 \n # Comments: 8 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-15T06:40:50.389571+00:00"
+  },
+  {
+    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+    "url": "https://bobbiec.github.io/jamaican-font.html",
+    "summary": " Article URL:  https://bobbiec.github.io/jamaican-font.html  \n Comments URL:  https://news.ycombinator.com/item?id=50502839  \n Points: 23 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-15T06:40:50.389600+00:00"
+  },
+  {
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "summary": " Article URL:  https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal  \n Comments URL:  https://news.ycombinator.com/item?id=50502988  \n Points: 39 \n # Comments: 3 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-15T06:40:50.389597+00:00"
+  },
+  {
+    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "summary": " Article URL:  https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches  \n Comments URL:  https://news.ycombinator.com/item?id=50503255  \n Points: 169 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780956+00:00"
+    "researched_at": "2026-11-15T06:40:50.389593+00:00"
   },
   {
-    "title": "US IRS free online tax filing open source repo (2025)",
-    "url": "https://github.com/IRS-Public/direct-file",
-    "summary": " Article URL:  https://github.com/IRS-Public/direct-file  \n Comments URL:  https://news.ycombinator.com/item?id=50499083  \n Points: 122 \n # Comments: 69 ",
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "summary": "  https://x.com/SpaceX/status/2121316300702056595   https://youtu.be/jHlpfNSpBmw?t=3233  \n \n Comments URL:  https://news.ycombinator.com/item?id=50500963  \n Points: 1018 \n # Comments: 677 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780947+00:00"
+    "researched_at": "2026-11-15T06:40:50.389609+00:00"
   },
   {
-    "title": "SpaceX Catches the Starship to end Flight 15",
-    "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-    "summary": " Article URL:  https://x.com/i/broadcasts/2brajgZlOKRMka  \n Comments URL:  https://news.ycombinator.com/item?id=50500963  \n Points: 283 \n # Comments: 147 ",
+    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "summary": " Article URL:  https://github.com/Tthanh2k6/turbo-browser-mcp  \n Comments URL:  https://news.ycombinator.com/item?id=50503930  \n Points: 17 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780930+00:00"
+    "researched_at": "2026-11-15T06:40:50.389581+00:00"
   },
   {
-    "title": "PyPI's redesigned project pages with clearer security signals are now live",
-    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-    "summary": " Article URL:  https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/  \n Comments URL:  https://news.ycombinator.com/item?id=50497892  \n Points: 175 \n # Comments: 81 ",
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "summary": " Article URL:  https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html  \n Comments URL:  https://news.ycombinator.com/item?id=50501631  \n Points: 400 \n # Comments: 197 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780964+00:00"
+    "researched_at": "2026-11-15T06:40:50.389603+00:00"
   },
   {
-    "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-    "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-    "summary": " Article URL:  https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379  \n Comments URL:  https://news.ycombinator.com/item?id=50499723  \n Points: 134 \n # Comments: 59 ",
+    "title": "My favourite modern NES games",
+    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "summary": " Article URL:  https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/  \n Comments URL:  https://news.ycombinator.com/item?id=50503465  \n Points: 20 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780943+00:00"
+    "researched_at": "2026-11-15T06:40:50.389590+00:00"
   },
   {
-    "title": "How to Create Your Own Decentralized Messenger Protocol",
-    "url": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
-    "summary": " Article URL:  https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol  \n Comments URL:  https://news.ycombinator.com/item?id=50498073  \n Points: 47 \n # Comments: 9 ",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "url": "https://retrocomputing.stackexchange.com/questions/17957",
+    "summary": " Article URL:  https://retrocomputing.stackexchange.com/questions/17957  \n Comments URL:  https://news.ycombinator.com/item?id=50501594  \n Points: 170 \n # Comments: 73 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780961+00:00"
-  },
-  {
-    "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-    "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-    "summary": " Article URL:  https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year  \n Comments URL:  https://news.ycombinator.com/item?id=50499945  \n Points: 47 \n # Comments: 12 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780938+00:00"
-  },
-  {
-    "title": "Creating a self booting ZIP archive",
-    "url": "https://goliath32.com/blog/ziphead.html",
-    "summary": " Article URL:  https://goliath32.com/blog/ziphead.html  \n Comments URL:  https://news.ycombinator.com/item?id=50498295  \n Points: 32 \n # Comments: 6 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780959+00:00"
-  },
-  {
-    "title": "A Family Tree of Software Job Titles",
-    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-    "summary": " Article URL:  https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/  \n Comments URL:  https://news.ycombinator.com/item?id=50499038  \n Points: 140 \n # Comments: 63 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-14T22:29:26.780950+00:00"
+    "researched_at": "2026-11-15T06:40:50.389606+00:00"
   }
 ]
