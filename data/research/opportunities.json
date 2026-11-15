@@ -1,100 +1,102 @@
 [
   {
-    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-    "summary": " Article URL:  https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c  \n Comments URL:  https://news.ycombinator.com/item?id=50503588  \n Points: 50 \n # Comments: 26 ",
+    "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+    "url": "https://github.com/db-branch/db-branch",
+    "summary": " Article URL:  https://github.com/db-branch/db-branch  \n Comments URL:  https://news.ycombinator.com/item?id=50506940  \n Points: 10 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T06:40:50.389586+00:00"
+    "researched_at": "2026-11-15T18:54:16.967577+00:00"
   },
   {
-    "title": "Show HN: Gawain – Require type hints on all Python variables",
-    "url": "https://github.com/matheuzgomes/gawain",
-    "summary": " Yes, i really hate \"dict[str, ANY]\" \n \n Comments URL:  https://news.ycombinator.com/item?id=50504072  \n Points: 26 \n # Comments: 8 ",
+    "title": "Emacs Is My Browser",
+    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "summary": " Article URL:  https://joshblais.com/blog/emacs-as-my-browser/  \n Comments URL:  https://news.ycombinator.com/item?id=50507553  \n Points: 90 \n # Comments: 50 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T06:40:50.389571+00:00"
+    "researched_at": "2026-11-15T18:54:16.967567+00:00"
   },
   {
-    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-    "url": "https://bobbiec.github.io/jamaican-font.html",
-    "summary": " Article URL:  https://bobbiec.github.io/jamaican-font.html  \n Comments URL:  https://news.ycombinator.com/item?id=50502839  \n Points: 23 \n # Comments: 5 ",
+    "title": "All AI-generated code should be Open Source",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "summary": " Article URL:  https://jakub.jankiewicz.org/blog/ai-code-open-source/  \n Comments URL:  https://news.ycombinator.com/item?id=50507303  \n Points: 684 \n # Comments: 368 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T06:40:50.389600+00:00"
+    "researched_at": "2026-11-15T18:54:16.967570+00:00"
   },
   {
-    "title": "Court denies motion to dismiss DRAM price fixing case",
-    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-    "summary": " Article URL:  https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal  \n Comments URL:  https://news.ycombinator.com/item?id=50502988  \n Points: 39 \n # Comments: 3 ",
+    "title": "A short explainer on how El Niño works [video]",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "summary": " Article URL:  https://www.youtube.com/watch?v=7_JF3etiAv8  \n Comments URL:  https://news.ycombinator.com/item?id=50509308  \n Points: 17 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-15T06:40:50.389597+00:00"
+    "researched_at": "2026-11-15T18:54:16.967557+00:00"
   },
   {
-    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-    "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-    "summary": " Article URL:  https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches  \n Comments URL:  https://news.ycombinator.com/item?id=50503255  \n Points: 169 \n # Comments: 41 ",
+    "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "summary": " Article URL:  https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html  \n Comments URL:  https://news.ycombinator.com/item?id=50509023  \n Points: 17 \n # Comments: 5 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-15T18:54:16.967564+00:00"
+  },
+  {
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "summary": " Article URL:  https://magazine.sebastianraschka.com/p/understanding-positional-embeddings  \n Comments URL:  https://news.ycombinator.com/item?id=50506376  \n Points: 139 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389593+00:00"
+    "researched_at": "2026-11-15T18:54:16.967587+00:00"
   },
   {
-    "title": "SpaceX catches the Starship to end Flight 15",
-    "url": "https://www.spacex.com/launches/starship-flight-15",
-    "summary": "  https://x.com/SpaceX/status/2121316300702056595   https://youtu.be/jHlpfNSpBmw?t=3233  \n \n Comments URL:  https://news.ycombinator.com/item?id=50500963  \n Points: 1018 \n # Comments: 677 ",
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "url": "https://prog21.dadgum.com/116.html",
+    "summary": " Article URL:  https://prog21.dadgum.com/116.html  \n Comments URL:  https://news.ycombinator.com/item?id=50506894  \n Points: 125 \n # Comments: 55 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389609+00:00"
+    "researched_at": "2026-11-15T18:54:16.967580+00:00"
   },
   {
-    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-    "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-    "summary": " Article URL:  https://github.com/Tthanh2k6/turbo-browser-mcp  \n Comments URL:  https://news.ycombinator.com/item?id=50503930  \n Points: 17 \n # Comments: 1 ",
+    "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "summary": " Article URL:  https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/  \n Comments URL:  https://news.ycombinator.com/item?id=50506719  \n Points: 264 \n # Comments: 153 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389581+00:00"
+    "researched_at": "2026-11-15T18:54:16.967582+00:00"
   },
   {
-    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-    "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-    "summary": " Article URL:  https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html  \n Comments URL:  https://news.ycombinator.com/item?id=50501631  \n Points: 400 \n # Comments: 197 ",
+    "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+    "summary": " Article URL:  https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/  \n Comments URL:  https://news.ycombinator.com/item?id=50507206  \n Points: 67 \n # Comments: 32 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389603+00:00"
+    "researched_at": "2026-11-15T18:54:16.967573+00:00"
   },
   {
-    "title": "My favourite modern NES games",
-    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-    "summary": " Article URL:  https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/  \n Comments URL:  https://news.ycombinator.com/item?id=50503465  \n Points: 20 \n # Comments: 0 ",
+    "title": "A NES emulator written in Odin",
+    "url": "https://lucypero.com/lucynes.html",
+    "summary": " Article URL:  https://lucypero.com/lucynes.html  \n Comments URL:  https://news.ycombinator.com/item?id=50506588  \n Points: 72 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389590+00:00"
-  },
-  {
-    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-    "url": "https://retrocomputing.stackexchange.com/questions/17957",
-    "summary": " Article URL:  https://retrocomputing.stackexchange.com/questions/17957  \n Comments URL:  https://news.ycombinator.com/item?id=50501594  \n Points: 170 \n # Comments: 73 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-15T06:40:50.389606+00:00"
+    "researched_at": "2026-11-15T18:54:16.967585+00:00"
   }
 ]
