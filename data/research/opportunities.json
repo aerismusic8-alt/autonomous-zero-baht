@@ -1,98 +1,100 @@
 [
   {
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "summary": " Article URL:  https://forum.torproject.org/t/security-release-0-4-9-17/22454  \n Comments URL:  https://news.ycombinator.com/item?id=50512441  \n Points: 108 \n # Comments: 24 ",
+    "title": "Spamhaus new email sender requirements in November",
+    "url": "https://www.spamhaus.org/sender-guidelines/",
+    "summary": " Article URL:  https://www.spamhaus.org/sender-guidelines/  \n Comments URL:  https://news.ycombinator.com/item?id=50523784  \n Points: 11 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-16T06:37:25.377161+00:00"
+    "researched_at": "2026-11-16T22:10:48.270967+00:00"
   },
   {
-    "title": "Tell HN: HN is being scraped for emails to scam",
-    "url": "https://news.ycombinator.com/item?id=50513451",
-    "summary": " I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make your page private I've had some of those emails suddenly have spam sent to as well. Please be safe everyone! My favorite tells that an email is a scam:\n- Before opening a surprising/suspicious email, hover over the sender name to see the domain the sender came from (don't open the email if it's strange).\n- _If_ you already opened the email, before clicking any links in the email, hover over them to see the domain that the link sends you to. There are dozens more tips but a full article would be required, an",
+    "title": "OpenCode Browse",
+    "url": "https://opencode.ai/product/browse",
+    "summary": " Article URL:  https://opencode.ai/product/browse  \n Comments URL:  https://news.ycombinator.com/item?id=50523459  \n Points: 9 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-16T06:37:25.377148+00:00"
+    "researched_at": "2026-11-16T22:10:48.270974+00:00"
   },
   {
-    "title": "Qwen4-Max",
-    "url": "https://qwen.ai/blog?id=qwen4-max",
-    "summary": " Article URL:  https://qwen.ai/blog?id=qwen4-max  \n Comments URL:  https://news.ycombinator.com/item?id=50513215  \n Points: 327 \n # Comments: 109 ",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "url": "https://news.ycombinator.com/item?id=50522776",
+    "summary": " Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video:  https://youtube.com/shorts/xBrocTc9cfA  We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forear",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-16T06:37:25.377152+00:00"
+    "researched_at": "2026-11-16T22:10:48.270994+00:00"
   },
   {
-    "title": "What's Next for Nvidia?",
-    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-    "summary": " Article URL:  https://steveblank.com/2026/11/15/whats-next-for-nvidia/  \n Comments URL:  https://news.ycombinator.com/item?id=50512235  \n Points: 184 \n # Comments: 239 ",
+    "title": "Caltech professor no longer grades homework's because everyone uses AI",
+    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+    "summary": " Article URL:  https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11  \n Comments URL:  https://news.ycombinator.com/item?id=50523022  \n Points: 35 \n # Comments: 31 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-16T22:10:48.270983+00:00"
+  },
+  {
+    "title": "Optimizely Compromised",
+    "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+    "summary": " Article URL:  https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/  \n Comments URL:  https://news.ycombinator.com/item?id=50523300  \n Points: 23 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377167+00:00"
+    "researched_at": "2026-11-16T22:10:48.270976+00:00"
   },
   {
-    "title": "Universal XSS in uBlock Origin from website-driven element picker",
-    "url": "https://iter.ca/post/ubo-uxss/",
-    "summary": " Article URL:  https://iter.ca/post/ubo-uxss/  \n Comments URL:  https://news.ycombinator.com/item?id=50513160  \n Points: 240 \n # Comments: 57 ",
+    "title": "My Quest to push native Three.js quality match AAA Game Engines",
+    "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+    "summary": " Article URL:  https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs  \n Comments URL:  https://news.ycombinator.com/item?id=50523291  \n Points: 37 \n # Comments: 9 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377155+00:00"
+    "researched_at": "2026-11-16T22:10:48.270978+00:00"
   },
   {
-    "title": "Stop Filming in Log",
-    "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-    "summary": " Article URL:  https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/  \n Comments URL:  https://news.ycombinator.com/item?id=50514093  \n Points: 18 \n # Comments: 7 ",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/  \n Comments URL:  https://news.ycombinator.com/item?id=50523025  \n Points: 38 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377143+00:00"
+    "researched_at": "2026-11-16T22:10:48.270981+00:00"
   },
   {
-    "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-    "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-    "summary": " Article URL:  https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone  \n Comments URL:  https://news.ycombinator.com/item?id=50512296  \n Points: 26 \n # Comments: 2 ",
+    "title": "Chemistry Is Geometry",
+    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry  \n Comments URL:  https://news.ycombinator.com/item?id=50522643  \n Points: 18 \n # Comments: 3 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377164+00:00"
+    "researched_at": "2026-11-16T22:10:48.270996+00:00"
   },
   {
-    "title": "How to Make Almost Anything",
-    "url": "https://pub.cba.mit.edu/863.26/site/",
-    "summary": " Article URL:  https://pub.cba.mit.edu/863.26/site/  \n Comments URL:  https://news.ycombinator.com/item?id=50514470  \n Points: 10 \n # Comments: 0 ",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "summary": " Article URL:  https://www.cs.cmu.edu/learn/  \n Comments URL:  https://news.ycombinator.com/item?id=50522980  \n Points: 39 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377131+00:00"
+    "researched_at": "2026-11-16T22:10:48.270985+00:00"
   },
   {
-    "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
-    "summary": " Article URL:  https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101  \n Comments URL:  https://news.ycombinator.com/item?id=50514180  \n Points: 37 \n # Comments: 0 ",
+    "title": "BugMeNot Has Closed",
+    "url": "https://www.bugmenot.com/",
+    "summary": " Article URL:  https://www.bugmenot.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50523601  \n Points: 79 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377138+00:00"
-  },
-  {
-    "title": "Coles hit by a cybersecurity incident",
-    "url": "https://www.colesgroup.com.au/updates/",
-    "summary": " Article URL:  https://www.colesgroup.com.au/updates/  \n Comments URL:  https://news.ycombinator.com/item?id=50512824  \n Points: 83 \n # Comments: 61 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-16T06:37:25.377158+00:00"
+    "researched_at": "2026-11-16T22:10:48.270971+00:00"
   }
 ]
