@@ -1,0 +1,27 @@
+{
+  "id": "tell-hn-hn-is-being-scraped-for-emails-to-scam",
+  "created_at": "2026-11-16T06:37:25.378255+00:00",
+  "source_title": "Tell HN: HN is being scraped for emails to scam",
+  "source_url": "https://news.ycombinator.com/item?id=50513451",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make your page private I've had some of those emails suddenly have spam sent to as well. Please be safe everyone! My favorite tells that an email is a scam:\n- Before opening a surprising/suspicious email, hover over the sender name to see the domain the sender came from (don't open the email if it's strange).\n- _If_ you already opened the email, before clicking any links in the email, hover over them to see the domain that the link sends you to. There are dozens more tips but a full article would be required, an",
+      "source_url": "https://news.ycombinator.com/item?id=50513451"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Tell HN: HN is being scraped for emails to scam\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50513451",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Tell HN: HN is being scraped for emails to scam อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50513451",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}

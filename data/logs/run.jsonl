@@ -2758,3 +2758,22 @@
 {"timestamp": "2026-11-15T18:54:16.970181+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-15T18:54:16.970308+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-15T18:54:16.970494+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-16T06:37:19.654527+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-16T06:37:19.658469+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:19.659144+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-16T06:37:19.660016+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-16T06:37:19.786238+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-16T06:37:25.376968+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-16T06:37:25.378161+00:00", "event": "draft_created", "draft_id": "tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack", "path": "data/content/drafts/tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack.json"}
+{"timestamp": "2026-11-16T06:37:25.378473+00:00", "event": "draft_created", "draft_id": "tell-hn-hn-is-being-scraped-for-emails-to-scam", "path": "data/content/drafts/tell-hn-hn-is-being-scraped-for-emails-to-scam.json"}
+{"timestamp": "2026-11-16T06:37:25.378771+00:00", "event": "draft_created", "draft_id": "qwen4-max", "path": "data/content/drafts/qwen4-max.json"}
+{"timestamp": "2026-11-16T06:37:25.379047+00:00", "event": "draft_created", "draft_id": "what-s-next-for-nvidia", "path": "data/content/drafts/what-s-next-for-nvidia.json"}
+{"timestamp": "2026-11-16T06:37:25.379316+00:00", "event": "draft_created", "draft_id": "universal-xss-in-ublock-origin-from-website-driven-element-picker", "path": "data/content/drafts/universal-xss-in-ublock-origin-from-website-driven-element-picker.json"}
+{"timestamp": "2026-11-16T06:37:25.379468+00:00", "event": "draft_validation", "path": "data/content/drafts/tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:25.379610+00:00", "event": "draft_validation", "path": "data/content/drafts/tell-hn-hn-is-being-scraped-for-emails-to-scam.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:25.379762+00:00", "event": "draft_validation", "path": "data/content/drafts/qwen4-max.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:25.379889+00:00", "event": "draft_validation", "path": "data/content/drafts/what-s-next-for-nvidia.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:25.380020+00:00", "event": "draft_validation", "path": "data/content/drafts/universal-xss-in-ublock-origin-from-website-driven-element-picker.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-16T06:37:25.380244+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-16T06:37:25.380417+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-16T06:37:25.380737+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
