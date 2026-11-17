@@ -1,100 +1,100 @@
 [
   {
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "summary": " Article URL:  https://xusheng.dev/posts/windows-coding-agent-telemetry/  \n Comments URL:  https://news.ycombinator.com/item?id=50524736  \n Points: 529 \n # Comments: 367 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "developer tools"
+    ],
+    "researched_at": "2026-11-17T07:59:20.728892+00:00"
+  },
+  {
+    "title": "Tokendoctor – See what your Claude Code use overpays",
+    "url": "https://github.com/localixai/tokendoctor",
+    "summary": " Article URL:  https://github.com/localixai/tokendoctor  \n Comments URL:  https://news.ycombinator.com/item?id=50526584  \n Points: 20 \n # Comments: 9 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-17T07:59:20.728874+00:00"
+  },
+  {
     "title": "Spamhaus new email sender requirements in November",
     "url": "https://www.spamhaus.org/sender-guidelines/",
-    "summary": " Article URL:  https://www.spamhaus.org/sender-guidelines/  \n Comments URL:  https://news.ycombinator.com/item?id=50523784  \n Points: 11 \n # Comments: 4 ",
+    "summary": " Article URL:  https://www.spamhaus.org/sender-guidelines/  \n Comments URL:  https://news.ycombinator.com/item?id=50523784  \n Points: 97 \n # Comments: 86 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-16T22:10:48.270967+00:00"
+    "researched_at": "2026-11-17T07:59:20.728896+00:00"
   },
   {
-    "title": "OpenCode Browse",
-    "url": "https://opencode.ai/product/browse",
-    "summary": " Article URL:  https://opencode.ai/product/browse  \n Comments URL:  https://news.ycombinator.com/item?id=50523459  \n Points: 9 \n # Comments: 1 ",
+    "title": "Mem Is Shutting Down",
+    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "summary": " Article URL:  https://get.mem.ai/blog/mem-is-shutting-down  \n Comments URL:  https://news.ycombinator.com/item?id=50526537  \n Points: 49 \n # Comments: 64 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-16T22:10:48.270974+00:00"
+    "researched_at": "2026-11-17T07:59:20.728882+00:00"
   },
   {
-    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-    "url": "https://news.ycombinator.com/item?id=50522776",
-    "summary": " Hi HN! We’re Arsh and Max, founders of Axonnic ( https://axonnic.com ). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots. Here’s a demo video:  https://youtube.com/shorts/xBrocTc9cfA  We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly. The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forear",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-16T22:10:48.270994+00:00"
-  },
-  {
-    "title": "Caltech professor no longer grades homework's because everyone uses AI",
-    "url": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
-    "summary": " Article URL:  https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11  \n Comments URL:  https://news.ycombinator.com/item?id=50523022  \n Points: 35 \n # Comments: 31 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-16T22:10:48.270983+00:00"
-  },
-  {
-    "title": "Optimizely Compromised",
-    "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
-    "summary": " Article URL:  https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/  \n Comments URL:  https://news.ycombinator.com/item?id=50523300  \n Points: 23 \n # Comments: 3 ",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "summary": " Article URL:  https://twitter.com/id_aa_carmack/status/2122478083319992513  \n Comments URL:  https://news.ycombinator.com/item?id=50525575  \n Points: 95 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270976+00:00"
+    "researched_at": "2026-11-17T07:59:20.728887+00:00"
   },
   {
-    "title": "My Quest to push native Three.js quality match AAA Game Engines",
-    "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
-    "summary": " Article URL:  https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs  \n Comments URL:  https://news.ycombinator.com/item?id=50523291  \n Points: 37 \n # Comments: 9 ",
+    "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+    "url": "https://github.com/yocontra/pulsar",
+    "summary": " Article URL:  https://github.com/yocontra/pulsar  \n Comments URL:  https://news.ycombinator.com/item?id=50526967  \n Points: 10 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270978+00:00"
+    "researched_at": "2026-11-17T07:59:20.728867+00:00"
   },
   {
-    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-    "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-    "summary": " Article URL:  https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/  \n Comments URL:  https://news.ycombinator.com/item?id=50523025  \n Points: 38 \n # Comments: 26 ",
+    "title": "Running coding agents without handing them my credentials",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "summary": " Article URL:  https://blog.antonio.cx/running-agents-with-lend  \n Comments URL:  https://news.ycombinator.com/item?id=50526152  \n Points: 100 \n # Comments: 57 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270981+00:00"
+    "researched_at": "2026-11-17T07:59:20.728884+00:00"
   },
   {
-    "title": "Chemistry Is Geometry",
-    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-    "summary": " Article URL:  https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry  \n Comments URL:  https://news.ycombinator.com/item?id=50522643  \n Points: 18 \n # Comments: 3 ",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "summary": " Article URL:  https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/  \n Comments URL:  https://news.ycombinator.com/item?id=50524767  \n Points: 288 \n # Comments: 122 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270996+00:00"
+    "researched_at": "2026-11-17T07:59:20.728889+00:00"
   },
   {
-    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "url": "https://www.cs.cmu.edu/learn/",
-    "summary": " Article URL:  https://www.cs.cmu.edu/learn/  \n Comments URL:  https://news.ycombinator.com/item?id=50522980  \n Points: 39 \n # Comments: 7 ",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "url": "https://support.apple.com/en-us/149699",
+    "summary": " Article URL:  https://support.apple.com/en-us/149699  \n Comments URL:  https://news.ycombinator.com/item?id=50526560  \n Points: 97 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270985+00:00"
+    "researched_at": "2026-11-17T07:59:20.728879+00:00"
   },
   {
-    "title": "BugMeNot Has Closed",
-    "url": "https://www.bugmenot.com/",
-    "summary": " Article URL:  https://www.bugmenot.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50523601  \n Points: 79 \n # Comments: 40 ",
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+    "summary": " Article URL:  https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50524225  \n Points: 101 \n # Comments: 24 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-16T22:10:48.270971+00:00"
+    "researched_at": "2026-11-17T07:59:20.728894+00:00"
   }
 ]

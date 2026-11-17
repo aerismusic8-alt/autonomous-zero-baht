@@ -1,5 +1,27 @@
 [
   {
+    "content_id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-17T07:59:20.731349+00:00"
+  },
+  {
+    "content_id": "tokendoctor-see-what-your-claude-code-use-overpays",
+    "impressions": null,
+    "clicks": null,
+    "conversions": null,
+    "revenue": null,
+    "currency": null,
+    "verified": false,
+    "source": null,
+    "recorded_at": "2026-11-17T07:59:20.731352+00:00"
+  },
+  {
     "content_id": "spamhaus-new-email-sender-requirements-in-november",
     "impressions": null,
     "clicks": null,
@@ -8,10 +30,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-11-16T22:10:48.272644+00:00"
+    "recorded_at": "2026-11-17T07:59:20.731354+00:00"
   },
   {
-    "content_id": "opencode-browse",
+    "content_id": "mem-is-shutting-down",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -19,10 +41,10 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-11-16T22:10:48.272646+00:00"
+    "recorded_at": "2026-11-17T07:59:20.731355+00:00"
   },
   {
-    "content_id": "launch-hn-axonnic-yc-f26-sleeves-that-track-fingers-and-estimate-force",
+    "content_id": "why-3dfx-1-cards-had-such-a-washed-out-color-output",
     "impressions": null,
     "clicks": null,
     "conversions": null,
@@ -30,28 +52,6 @@
     "currency": null,
     "verified": false,
     "source": null,
-    "recorded_at": "2026-11-16T22:10:48.272647+00:00"
-  },
-  {
-    "content_id": "caltech-professor-no-longer-grades-homework-s-because-everyone-uses-ai",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-11-16T22:10:48.272649+00:00"
-  },
-  {
-    "content_id": "optimizely-compromised",
-    "impressions": null,
-    "clicks": null,
-    "conversions": null,
-    "revenue": null,
-    "currency": null,
-    "verified": false,
-    "source": null,
-    "recorded_at": "2026-11-16T22:10:48.272650+00:00"
+    "recorded_at": "2026-11-17T07:59:20.731357+00:00"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
+    "path": "data/content/drafts/windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/tokendoctor-see-what-your-claude-code-use-overpays.json",
+    "passed": true,
+    "errors": []
+  },
+  {
     "path": "data/content/drafts/spamhaus-new-email-sender-requirements-in-november.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/opencode-browse.json",
+    "path": "data/content/drafts/mem-is-shutting-down.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/launch-hn-axonnic-yc-f26-sleeves-that-track-fingers-and-estimate-force.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/caltech-professor-no-longer-grades-homework-s-because-everyone-uses-ai.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/optimizely-compromised.json",
+    "path": "data/content/drafts/why-3dfx-1-cards-had-such-a-washed-out-color-output.json",
     "passed": true,
     "errors": []
   }
