@@ -1,100 +1,98 @@
 [
   {
-    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "summary": " Article URL:  https://xusheng.dev/posts/windows-coding-agent-telemetry/  \n Comments URL:  https://news.ycombinator.com/item?id=50524736  \n Points: 529 \n # Comments: 367 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "developer tools"
-    ],
-    "researched_at": "2026-11-17T07:59:20.728892+00:00"
-  },
-  {
-    "title": "Tokendoctor – See what your Claude Code use overpays",
-    "url": "https://github.com/localixai/tokendoctor",
-    "summary": " Article URL:  https://github.com/localixai/tokendoctor  \n Comments URL:  https://news.ycombinator.com/item?id=50526584  \n Points: 20 \n # Comments: 9 ",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "summary": " Article URL:  https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/  \n Comments URL:  https://news.ycombinator.com/item?id=50535885  \n Points: 159 \n # Comments: 75 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T07:59:20.728874+00:00"
+    "researched_at": "2026-11-17T20:59:06.883379+00:00"
   },
   {
-    "title": "Spamhaus new email sender requirements in November",
-    "url": "https://www.spamhaus.org/sender-guidelines/",
-    "summary": " Article URL:  https://www.spamhaus.org/sender-guidelines/  \n Comments URL:  https://news.ycombinator.com/item?id=50523784  \n Points: 97 \n # Comments: 86 ",
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "summary": " We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster:  https://github.com/better-auth/better-auth/pull/10762 . I previously foun",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T07:59:20.728896+00:00"
+    "researched_at": "2026-11-17T20:59:06.883363+00:00"
   },
   {
-    "title": "Mem Is Shutting Down",
-    "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-    "summary": " Article URL:  https://get.mem.ai/blog/mem-is-shutting-down  \n Comments URL:  https://news.ycombinator.com/item?id=50526537  \n Points: 49 \n # Comments: 64 ",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "summary": " Article URL:  https://openai.com/index/advancing-computer-use-for-healthcare-teams/  \n Comments URL:  https://news.ycombinator.com/item?id=50535898  \n Points: 16 \n # Comments: 12 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T07:59:20.728882+00:00"
+    "researched_at": "2026-11-17T20:59:06.883376+00:00"
   },
   {
-    "title": "Why 3dfx 1 cards had such a washed out color output?",
-    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-    "summary": " Article URL:  https://twitter.com/id_aa_carmack/status/2122478083319992513  \n Comments URL:  https://news.ycombinator.com/item?id=50525575  \n Points: 95 \n # Comments: 14 ",
+    "title": "jQuery 4.1.0",
+    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+    "summary": " Article URL:  https://github.com/jquery/jquery/releases/tag/4.1.0  \n Comments URL:  https://news.ycombinator.com/item?id=50537156  \n Points: 69 \n # Comments: 34 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728887+00:00"
+    "researched_at": "2026-11-17T20:59:06.883345+00:00"
   },
   {
-    "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
-    "url": "https://github.com/yocontra/pulsar",
-    "summary": " Article URL:  https://github.com/yocontra/pulsar  \n Comments URL:  https://news.ycombinator.com/item?id=50526967  \n Points: 10 \n # Comments: 0 ",
+    "title": "Web Browser Engineering",
+    "url": "https://browser.engineering/",
+    "summary": " Article URL:  https://browser.engineering/  \n Comments URL:  https://news.ycombinator.com/item?id=50537290  \n Points: 33 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728867+00:00"
+    "researched_at": "2026-11-17T20:59:06.883337+00:00"
   },
   {
-    "title": "Running coding agents without handing them my credentials",
-    "url": "https://blog.antonio.cx/running-agents-with-lend",
-    "summary": " Article URL:  https://blog.antonio.cx/running-agents-with-lend  \n Comments URL:  https://news.ycombinator.com/item?id=50526152  \n Points: 100 \n # Comments: 57 ",
+    "title": "Solid 2.0",
+    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+    "summary": " Article URL:  https://www.solidjs.com/blog/solid-2-0-the-long-hold/  \n Comments URL:  https://news.ycombinator.com/item?id=50536387  \n Points: 89 \n # Comments: 22 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728884+00:00"
+    "researched_at": "2026-11-17T20:59:06.883367+00:00"
   },
   {
-    "title": "Optimizely compromised, served malware on Zoom, GitLab",
-    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "summary": " Article URL:  https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/  \n Comments URL:  https://news.ycombinator.com/item?id=50524767  \n Points: 288 \n # Comments: 122 ",
+    "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+    "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+    "summary": " Article URL:  https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/  \n Comments URL:  https://news.ycombinator.com/item?id=50536031  \n Points: 48 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728889+00:00"
+    "researched_at": "2026-11-17T20:59:06.883370+00:00"
   },
   {
-    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-    "url": "https://support.apple.com/en-us/149699",
-    "summary": " Article URL:  https://support.apple.com/en-us/149699  \n Comments URL:  https://news.ycombinator.com/item?id=50526560  \n Points: 97 \n # Comments: 53 ",
+    "title": "Phrack 73 Released",
+    "url": "https://phrack.org/issues/73/introduction_md",
+    "summary": " Article URL:  https://phrack.org/issues/73/introduction_md  \n Comments URL:  https://news.ycombinator.com/item?id=50535992  \n Points: 107 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728879+00:00"
+    "researched_at": "2026-11-17T20:59:06.883373+00:00"
   },
   {
-    "title": "How to Break into Security, Ptacek Edition (2012)",
-    "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-    "summary": " Article URL:  https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/  \n Comments URL:  https://news.ycombinator.com/item?id=50524225  \n Points: 101 \n # Comments: 24 ",
+    "title": "Apple Services Down",
+    "url": "https://developer.apple.com/system-status/",
+    "summary": " Article URL:  https://developer.apple.com/system-status/  \n Comments URL:  https://news.ycombinator.com/item?id=50535238  \n Points: 445 \n # Comments: 251 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T07:59:20.728894+00:00"
+    "researched_at": "2026-11-17T20:59:06.883382+00:00"
+  },
+  {
+    "title": "350 years ago, this man discovered that light has a finite speed",
+    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+    "summary": " Article URL:  https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969  \n Comments URL:  https://news.ycombinator.com/item?id=50536813  \n Points: 85 \n # Comments: 17 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-17T20:59:06.883350+00:00"
   }
 ]

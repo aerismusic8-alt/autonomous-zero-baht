@@ -2815,3 +2815,22 @@
 {"timestamp": "2026-11-17T07:59:20.731174+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-17T07:59:20.731288+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-17T07:59:20.731466+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-17T20:59:06.451239+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-17T20:59:06.463465+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.464126+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-17T20:59:06.464852+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-17T20:59:06.624058+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-17T20:59:06.883165+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-17T20:59:06.884407+00:00", "event": "draft_created", "draft_id": "mai-code-2-and-code-2-flash", "path": "data/content/drafts/mai-code-2-and-code-2-flash.json"}
+{"timestamp": "2026-11-17T20:59:06.884716+00:00", "event": "draft_created", "draft_id": "launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos", "path": "data/content/drafts/launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos.json"}
+{"timestamp": "2026-11-17T20:59:06.885025+00:00", "event": "draft_created", "draft_id": "advancing-computer-use-agents-for-healthcare-teams", "path": "data/content/drafts/advancing-computer-use-agents-for-healthcare-teams.json"}
+{"timestamp": "2026-11-17T20:59:06.885305+00:00", "event": "draft_created", "draft_id": "jquery-4-1-0", "path": "data/content/drafts/jquery-4-1-0.json"}
+{"timestamp": "2026-11-17T20:59:06.885569+00:00", "event": "draft_created", "draft_id": "web-browser-engineering", "path": "data/content/drafts/web-browser-engineering.json"}
+{"timestamp": "2026-11-17T20:59:06.885721+00:00", "event": "draft_validation", "path": "data/content/drafts/mai-code-2-and-code-2-flash.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.885883+00:00", "event": "draft_validation", "path": "data/content/drafts/launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.886024+00:00", "event": "draft_validation", "path": "data/content/drafts/advancing-computer-use-agents-for-healthcare-teams.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.886155+00:00", "event": "draft_validation", "path": "data/content/drafts/jquery-4-1-0.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.886284+00:00", "event": "draft_validation", "path": "data/content/drafts/web-browser-engineering.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-17T20:59:06.886510+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-17T20:59:06.886708+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-17T20:59:06.887016+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
