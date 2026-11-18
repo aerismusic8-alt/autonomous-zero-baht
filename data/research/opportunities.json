@@ -1,98 +1,98 @@
 [
   {
-    "title": "MAI Code 2 and Code 2 Flash",
-    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "summary": " Article URL:  https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/  \n Comments URL:  https://news.ycombinator.com/item?id=50535885  \n Points: 159 \n # Comments: 75 ",
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "summary": " Article URL:  https://revscope.co/blog/search-seo-geo-2026/  \n Comments URL:  https://news.ycombinator.com/item?id=50540178  \n Points: 301 \n # Comments: 231 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T20:59:06.883379+00:00"
+    "researched_at": "2026-11-18T07:35:23.535779+00:00"
   },
   {
-    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-    "url": "https://starsling.dev",
-    "summary": " We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87x) on StarSling. We realized the true value of having an agent loop running on top of fast runners when our agents found an 11-month-old performance bottleneck in better-auth. The fix made one of their test jobs 5.4x faster:  https://github.com/better-auth/better-auth/pull/10762 . I previously foun",
+    "title": "Claude was trained on protein sequences at scale",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "summary": " Article URL:  http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/  \n Comments URL:  https://news.ycombinator.com/item?id=50541619  \n Points: 26 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T20:59:06.883363+00:00"
+    "researched_at": "2026-11-18T07:35:23.535767+00:00"
   },
   {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-    "summary": " Article URL:  https://openai.com/index/advancing-computer-use-for-healthcare-teams/  \n Comments URL:  https://news.ycombinator.com/item?id=50535898  \n Points: 16 \n # Comments: 12 ",
+    "title": "Cerebras Disaggregated Inference",
+    "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+    "summary": " Article URL:  https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference  \n Comments URL:  https://news.ycombinator.com/item?id=50540472  \n Points: 65 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-17T20:59:06.883376+00:00"
+    "researched_at": "2026-11-18T07:35:23.535774+00:00"
   },
   {
-    "title": "jQuery 4.1.0",
-    "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-    "summary": " Article URL:  https://github.com/jquery/jquery/releases/tag/4.1.0  \n Comments URL:  https://news.ycombinator.com/item?id=50537156  \n Points: 69 \n # Comments: 34 ",
+    "title": "Why is Gemini 4 Carbon taking so long?",
+    "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+    "summary": " Article URL:  https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/  \n Comments URL:  https://news.ycombinator.com/item?id=50541790  \n Points: 44 \n # Comments: 26 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883345+00:00"
+    "researched_at": "2026-11-18T07:35:23.535764+00:00"
   },
   {
-    "title": "Web Browser Engineering",
-    "url": "https://browser.engineering/",
-    "summary": " Article URL:  https://browser.engineering/  \n Comments URL:  https://news.ycombinator.com/item?id=50537290  \n Points: 33 \n # Comments: 1 ",
+    "title": "Why Fibonacci?",
+    "url": "https://www.evilgeniuslabs.org/why-fibonacci",
+    "summary": " Article URL:  https://www.evilgeniuslabs.org/why-fibonacci  \n Comments URL:  https://news.ycombinator.com/item?id=50542264  \n Points: 17 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883337+00:00"
+    "researched_at": "2026-11-18T07:35:23.535754+00:00"
   },
   {
-    "title": "Solid 2.0",
-    "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
-    "summary": " Article URL:  https://www.solidjs.com/blog/solid-2-0-the-long-hold/  \n Comments URL:  https://news.ycombinator.com/item?id=50536387  \n Points: 89 \n # Comments: 22 ",
+    "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+    "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+    "summary": " Article URL:  https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/  \n Comments URL:  https://news.ycombinator.com/item?id=50542135  \n Points: 225 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883367+00:00"
+    "researched_at": "2026-11-18T07:35:23.535760+00:00"
   },
   {
-    "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
-    "url": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
-    "summary": " Article URL:  https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/  \n Comments URL:  https://news.ycombinator.com/item?id=50536031  \n Points: 48 \n # Comments: 39 ",
+    "title": "ID.me terms required for IRS sign-in",
+    "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+    "summary": " Article URL:  https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in  \n Comments URL:  https://news.ycombinator.com/item?id=50540437  \n Points: 305 \n # Comments: 129 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883370+00:00"
+    "researched_at": "2026-11-18T07:35:23.535777+00:00"
   },
   {
-    "title": "Phrack 73 Released",
-    "url": "https://phrack.org/issues/73/introduction_md",
-    "summary": " Article URL:  https://phrack.org/issues/73/introduction_md  \n Comments URL:  https://news.ycombinator.com/item?id=50535992  \n Points: 107 \n # Comments: 4 ",
+    "title": "H-1B Executive Actions in 2026 [pdf]",
+    "url": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+    "summary": " Article URL:  https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50541550  \n Points: 32 \n # Comments: 36 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883373+00:00"
+    "researched_at": "2026-11-18T07:35:23.535769+00:00"
   },
   {
-    "title": "Apple Services Down",
-    "url": "https://developer.apple.com/system-status/",
-    "summary": " Article URL:  https://developer.apple.com/system-status/  \n Comments URL:  https://news.ycombinator.com/item?id=50535238  \n Points: 445 \n # Comments: 251 ",
+    "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+    "summary": " Article URL:  https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer  \n Comments URL:  https://news.ycombinator.com/item?id=50541538  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883382+00:00"
+    "researched_at": "2026-11-18T07:35:23.535772+00:00"
   },
   {
-    "title": "350 years ago, this man discovered that light has a finite speed",
-    "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-    "summary": " Article URL:  https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969  \n Comments URL:  https://news.ycombinator.com/item?id=50536813  \n Points: 85 \n # Comments: 17 ",
+    "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+    "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+    "summary": " Article URL:  https://wiki.archiveteam.org/index.php/Apple_Discussions  \n Comments URL:  https://news.ycombinator.com/item?id=50539747  \n Points: 166 \n # Comments: 56 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-17T20:59:06.883350+00:00"
+    "researched_at": "2026-11-18T07:35:23.535781+00:00"
   }
 ]

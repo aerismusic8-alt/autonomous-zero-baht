@@ -2834,3 +2834,22 @@
 {"timestamp": "2026-11-17T20:59:06.886510+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-17T20:59:06.886708+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-17T20:59:06.887016+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-18T07:35:22.065742+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-18T07:35:22.069253+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:22.069751+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-18T07:35:22.070389+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-18T07:35:22.170603+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-18T07:35:23.535606+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-18T07:35:23.536539+00:00", "event": "draft_created", "draft_id": "google-s-ai-answers-reducing-search-traffic-by-40", "path": "data/content/drafts/google-s-ai-answers-reducing-search-traffic-by-40.json"}
+{"timestamp": "2026-11-18T07:35:23.536752+00:00", "event": "draft_created", "draft_id": "claude-was-trained-on-protein-sequences-at-scale", "path": "data/content/drafts/claude-was-trained-on-protein-sequences-at-scale.json"}
+{"timestamp": "2026-11-18T07:35:23.536936+00:00", "event": "draft_created", "draft_id": "cerebras-disaggregated-inference", "path": "data/content/drafts/cerebras-disaggregated-inference.json"}
+{"timestamp": "2026-11-18T07:35:23.537112+00:00", "event": "draft_created", "draft_id": "why-is-gemini-4-carbon-taking-so-long", "path": "data/content/drafts/why-is-gemini-4-carbon-taking-so-long.json"}
+{"timestamp": "2026-11-18T07:35:23.537286+00:00", "event": "draft_created", "draft_id": "why-fibonacci", "path": "data/content/drafts/why-fibonacci.json"}
+{"timestamp": "2026-11-18T07:35:23.537409+00:00", "event": "draft_validation", "path": "data/content/drafts/google-s-ai-answers-reducing-search-traffic-by-40.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:23.537500+00:00", "event": "draft_validation", "path": "data/content/drafts/claude-was-trained-on-protein-sequences-at-scale.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:23.537585+00:00", "event": "draft_validation", "path": "data/content/drafts/cerebras-disaggregated-inference.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:23.537664+00:00", "event": "draft_validation", "path": "data/content/drafts/why-is-gemini-4-carbon-taking-so-long.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:23.537740+00:00", "event": "draft_validation", "path": "data/content/drafts/why-fibonacci.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-18T07:35:23.537886+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-18T07:35:23.537998+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-18T07:35:23.538194+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
