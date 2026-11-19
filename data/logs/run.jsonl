@@ -2872,3 +2872,22 @@
 {"timestamp": "2026-11-18T20:36:44.754004+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-18T20:36:44.754222+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-18T20:36:44.754513+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-19T07:31:33.041990+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-19T07:31:33.045329+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:33.045688+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-19T07:31:33.046094+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-19T07:31:33.663759+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-19T07:31:45.531846+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-19T07:31:45.532783+00:00", "event": "draft_created", "draft_id": "palo-alto-networks-to-acquire-applied-compute-for-4-5b", "path": "data/content/drafts/palo-alto-networks-to-acquire-applied-compute-for-4-5b.json"}
+{"timestamp": "2026-11-19T07:31:45.532930+00:00", "event": "draft_created", "draft_id": "gemini-4-neon", "path": "data/content/drafts/gemini-4-neon.json"}
+{"timestamp": "2026-11-19T07:31:45.533062+00:00", "event": "draft_created", "draft_id": "we-need-smart-people-who-give-a-shit", "path": "data/content/drafts/we-need-smart-people-who-give-a-shit.json"}
+{"timestamp": "2026-11-19T07:31:45.533177+00:00", "event": "draft_created", "draft_id": "unreal-tournament-2004-in-the-browser", "path": "data/content/drafts/unreal-tournament-2004-in-the-browser.json"}
+{"timestamp": "2026-11-19T07:31:45.533294+00:00", "event": "draft_created", "draft_id": "previous-token-prediction-based-llm-inversion-for-prompt-reconstruction", "path": "data/content/drafts/previous-token-prediction-based-llm-inversion-for-prompt-reconstruction.json"}
+{"timestamp": "2026-11-19T07:31:45.533375+00:00", "event": "draft_validation", "path": "data/content/drafts/palo-alto-networks-to-acquire-applied-compute-for-4-5b.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:45.533431+00:00", "event": "draft_validation", "path": "data/content/drafts/gemini-4-neon.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:45.533480+00:00", "event": "draft_validation", "path": "data/content/drafts/we-need-smart-people-who-give-a-shit.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:45.533526+00:00", "event": "draft_validation", "path": "data/content/drafts/unreal-tournament-2004-in-the-browser.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:45.533653+00:00", "event": "draft_validation", "path": "data/content/drafts/previous-token-prediction-based-llm-inversion-for-prompt-reconstruction.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-19T07:31:45.533766+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-19T07:31:45.533871+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-19T07:31:45.534000+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
