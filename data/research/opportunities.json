@@ -1,102 +1,96 @@
 [
   {
-    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-    "summary": " Article URL:  https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine  \n Comments URL:  https://news.ycombinator.com/item?id=50564159  \n Points: 65 \n # Comments: 34 ",
+    "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+    "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+    "summary": " Article URL:  https://www.databricks.com/blog/postgresql-19-available-lakebase  \n Comments URL:  https://news.ycombinator.com/item?id=50568643  \n Points: 49 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-19T20:42:15.435757+00:00"
+    "researched_at": "2026-11-20T07:23:07.718385+00:00"
   },
   {
-    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "summary": " Article URL:  https://www.youtube.com/watch?v=lwfewYL7X0o  \n Comments URL:  https://news.ycombinator.com/item?id=50564366  \n Points: 24 \n # Comments: 31 ",
+    "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+    "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+    "summary": " Article URL:  https://grapheneos.social/@GrapheneOS/117645038299496084  \n Comments URL:  https://news.ycombinator.com/item?id=50570479  \n Points: 206 \n # Comments: 40 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-19T20:42:15.435751+00:00"
+    "researched_at": "2026-11-20T07:23:07.718362+00:00"
   },
   {
-    "title": "Fuck Your AI Safeguards",
-    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-    "summary": " Article URL:  https://ounapuu.ee/posts/2026/11/19/unsafeguards/  \n Comments URL:  https://news.ycombinator.com/item?id=50562262  \n Points: 292 \n # Comments: 105 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T20:42:15.435783+00:00"
-  },
-  {
-    "title": "Chrome AI features wasting much bandwidth",
-    "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-    "summary": " Article URL:  https://perishablepress.com/chrome-ai-wasting-much-bandwidth/  \n Comments URL:  https://news.ycombinator.com/item?id=50562636  \n Points: 91 \n # Comments: 32 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T20:42:15.435769+00:00"
-  },
-  {
-    "title": "Anthropic hits $2T in Nasdaq debut",
-    "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-    "summary": " Article URL:  https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/  \n Comments URL:  https://news.ycombinator.com/item?id=50562754  \n Points: 547 \n # Comments: 874 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-19T20:42:15.435767+00:00"
-  },
-  {
-    "title": "UK government forced to admit it issued Apple a secret encryption order",
-    "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-    "summary": " Article URL:  https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/  \n Comments URL:  https://news.ycombinator.com/item?id=50562113  \n Points: 309 \n # Comments: 142 ",
+    "title": "Vint Cerf on why TCP/IP was never patented",
+    "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+    "summary": " Article URL:  https://seremot.com/p/vint-cerf-on-why-tcpip-was-never  \n Comments URL:  https://news.ycombinator.com/item?id=50568861  \n Points: 88 \n # Comments: 27 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T20:42:15.435785+00:00"
+    "researched_at": "2026-11-20T07:23:07.718382+00:00"
   },
   {
-    "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-    "url": "https://cornholenews.news",
-    "summary": " Article URL:  https://cornholenews.news  \n Comments URL:  https://news.ycombinator.com/item?id=50561515  \n Points: 132 \n # Comments: 63 ",
+    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "summary": " Article URL:  https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/  \n Comments URL:  https://news.ycombinator.com/item?id=50569516  \n Points: 58 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T20:42:15.435789+00:00"
+    "researched_at": "2026-11-20T07:23:07.718376+00:00"
   },
   {
-    "title": "Pancreatic cancer halted by virus injection in three patients",
-    "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-    "summary": " Article URL:  https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/  \n Comments URL:  https://news.ycombinator.com/item?id=50563066  \n Points: 173 \n # Comments: 15 ",
+    "title": "PostgreSQL 19",
+    "url": "https://www.postgresql.org/docs/release/19.0/",
+    "summary": " Article URL:  https://www.postgresql.org/docs/release/19.0/  \n Comments URL:  https://news.ycombinator.com/item?id=50569890  \n Points: 81 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T20:42:15.435764+00:00"
+    "researched_at": "2026-11-20T07:23:07.718373+00:00"
   },
   {
-    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "url": "https://github.com/onlook-dev/onlook/",
-    "summary": " Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook  and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the entire product as an agentic design tool, and open-sourced it to the community. Here’s a demo video: ( https://youtu.be/BogcYWf4siM ) If you're an engineer, traditional engineering tools are largely built for convergence, whereas designers tend to explore and diverge on ideas. Onlook gives designers a familiar canvas while managing all of the dev processes that get between them and making mind-blowing designs in code. Designers can work on a multiple simultaneous worktrees that run on the real app locally, and every change lands as a PR you can review or throw away, so there aren’t mockups to ",
+    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+    "url": "https://github.com/openssl/openssl/pull/33652",
+    "summary": " Article URL:  https://github.com/openssl/openssl/pull/33652  \n Comments URL:  https://news.ycombinator.com/item?id=50569226  \n Points: 161 \n # Comments: 86 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T20:42:15.435780+00:00"
+    "researched_at": "2026-11-20T07:23:07.718379+00:00"
   },
   {
-    "title": "Claude solves two open problems in the physics of black holes",
-    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "summary": " Article URL:  https://www.anthropic.com/research/claude-black-hole-physics  \n Comments URL:  https://news.ycombinator.com/item?id=50563148  \n Points: 241 \n # Comments: 90 ",
+    "title": "Jujutsu Primer",
+    "url": "https://ethanlowman.com/posts/jj-primer/",
+    "summary": " Article URL:  https://ethanlowman.com/posts/jj-primer/  \n Comments URL:  https://news.ycombinator.com/item?id=50570628  \n Points: 29 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-19T20:42:15.435761+00:00"
+    "researched_at": "2026-11-20T07:23:07.718354+00:00"
+  },
+  {
+    "title": "GIMP now has UI tests",
+    "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+    "summary": " Article URL:  https://www.gimp.org/news/2026/11/16/gimp-ui-tests/  \n Comments URL:  https://news.ycombinator.com/item?id=50569985  \n Points: 83 \n # Comments: 78 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T07:23:07.718370+00:00"
+  },
+  {
+    "title": "FFmpeg 9.1 'Gauss'",
+    "url": "https://ffmpeg.org/download.html#release_9.1",
+    "summary": " Article URL:  https://ffmpeg.org/download.html#release_9.1  \n Comments URL:  https://news.ycombinator.com/item?id=50569998  \n Points: 52 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T07:23:07.718366+00:00"
+  },
+  {
+    "title": "ChatGPT for SNES",
+    "url": "https://www.bxfoundry.com/chatgpt_snes/",
+    "summary": " Article URL:  https://www.bxfoundry.com/chatgpt_snes/  \n Comments URL:  https://news.ycombinator.com/item?id=50568548  \n Points: 52 \n # Comments: 15 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-20T07:23:07.718387+00:00"
   }
 ]
