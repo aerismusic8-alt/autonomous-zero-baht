@@ -1,96 +1,100 @@
 [
   {
-    "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-    "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
-    "summary": " Article URL:  https://www.databricks.com/blog/postgresql-19-available-lakebase  \n Comments URL:  https://news.ycombinator.com/item?id=50568643  \n Points: 49 \n # Comments: 19 ",
+    "title": "We promoted developers into architects without informing them",
+    "url": "https://manidoraisamy.com/developer-to-architect.html",
+    "summary": " Article URL:  https://manidoraisamy.com/developer-to-architect.html  \n Comments URL:  https://news.ycombinator.com/item?id=50579331  \n Points: 88 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-20T07:23:07.718385+00:00"
+    "researched_at": "2026-11-20T20:26:47.551935+00:00"
   },
   {
-    "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-    "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-    "summary": " Article URL:  https://grapheneos.social/@GrapheneOS/117645038299496084  \n Comments URL:  https://news.ycombinator.com/item?id=50570479  \n Points: 206 \n # Comments: 40 ",
+    "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+    "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+    "summary": " Article URL:  https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/  \n Comments URL:  https://news.ycombinator.com/item?id=50580385  \n Points: 42 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-20T07:23:07.718362+00:00"
+    "researched_at": "2026-11-20T20:26:47.551927+00:00"
   },
   {
-    "title": "Vint Cerf on why TCP/IP was never patented",
-    "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-    "summary": " Article URL:  https://seremot.com/p/vint-cerf-on-why-tcpip-was-never  \n Comments URL:  https://news.ycombinator.com/item?id=50568861  \n Points: 88 \n # Comments: 27 ",
+    "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+    "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+    "summary": " Article URL:  https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/  \n Comments URL:  https://news.ycombinator.com/item?id=50577901  \n Points: 131 \n # Comments: 75 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-20T20:26:47.551953+00:00"
+  },
+  {
+    "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+    "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+    "summary": " Article URL:  https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394  \n Comments URL:  https://news.ycombinator.com/item?id=50578794  \n Points: 145 \n # Comments: 122 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-20T20:26:47.551941+00:00"
+  },
+  {
+    "title": "Winedroid – run Android apps without Android (WASM demo)",
+    "url": "https://winedroid.soham.sh/demo/",
+    "summary": " Article URL:  https://winedroid.soham.sh/demo/  \n Comments URL:  https://news.ycombinator.com/item?id=50580536  \n Points: 16 \n # Comments: 2 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718382+00:00"
+    "researched_at": "2026-11-20T20:26:47.551917+00:00"
   },
   {
-    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-    "summary": " Article URL:  https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/  \n Comments URL:  https://news.ycombinator.com/item?id=50569516  \n Points: 58 \n # Comments: 8 ",
+    "title": "Vibecoding an inference chip",
+    "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+    "summary": " Article URL:  https://ankitg.me/blog/vibecoding-inference-chip/  \n Comments URL:  https://news.ycombinator.com/item?id=50579297  \n Points: 41 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718376+00:00"
+    "researched_at": "2026-11-20T20:26:47.551938+00:00"
   },
   {
-    "title": "PostgreSQL 19",
-    "url": "https://www.postgresql.org/docs/release/19.0/",
-    "summary": " Article URL:  https://www.postgresql.org/docs/release/19.0/  \n Comments URL:  https://news.ycombinator.com/item?id=50569890  \n Points: 81 \n # Comments: 2 ",
+    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "summary": " Article URL:  https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/  \n Comments URL:  https://news.ycombinator.com/item?id=50578358  \n Points: 149 \n # Comments: 29 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718373+00:00"
+    "researched_at": "2026-11-20T20:26:47.551945+00:00"
   },
   {
-    "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-    "url": "https://github.com/openssl/openssl/pull/33652",
-    "summary": " Article URL:  https://github.com/openssl/openssl/pull/33652  \n Comments URL:  https://news.ycombinator.com/item?id=50569226  \n Points: 161 \n # Comments: 86 ",
+    "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+    "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+    "summary": " Article URL:  https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md  \n Comments URL:  https://news.ycombinator.com/item?id=50578233  \n Points: 39 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718379+00:00"
+    "researched_at": "2026-11-20T20:26:47.551948+00:00"
   },
   {
-    "title": "Jujutsu Primer",
-    "url": "https://ethanlowman.com/posts/jj-primer/",
-    "summary": " Article URL:  https://ethanlowman.com/posts/jj-primer/  \n Comments URL:  https://news.ycombinator.com/item?id=50570628  \n Points: 29 \n # Comments: 11 ",
+    "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+    "url": "https://certuvia.com/blog/postgres-19",
+    "summary": " Article URL:  https://certuvia.com/blog/postgres-19  \n Comments URL:  https://news.ycombinator.com/item?id=50578117  \n Points: 24 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718354+00:00"
+    "researched_at": "2026-11-20T20:26:47.551950+00:00"
   },
   {
-    "title": "GIMP now has UI tests",
-    "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-    "summary": " Article URL:  https://www.gimp.org/news/2026/11/16/gimp-ui-tests/  \n Comments URL:  https://news.ycombinator.com/item?id=50569985  \n Points: 83 \n # Comments: 78 ",
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "summary": " Article URL:  https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/  \n Comments URL:  https://news.ycombinator.com/item?id=50579568  \n Points: 618 \n # Comments: 259 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718370+00:00"
-  },
-  {
-    "title": "FFmpeg 9.1 'Gauss'",
-    "url": "https://ffmpeg.org/download.html#release_9.1",
-    "summary": " Article URL:  https://ffmpeg.org/download.html#release_9.1  \n Comments URL:  https://news.ycombinator.com/item?id=50569998  \n Points: 52 \n # Comments: 10 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718366+00:00"
-  },
-  {
-    "title": "ChatGPT for SNES",
-    "url": "https://www.bxfoundry.com/chatgpt_snes/",
-    "summary": " Article URL:  https://www.bxfoundry.com/chatgpt_snes/  \n Comments URL:  https://news.ycombinator.com/item?id=50568548  \n Points: 52 \n # Comments: 15 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-20T07:23:07.718387+00:00"
+    "researched_at": "2026-11-20T20:26:47.551931+00:00"
   }
 ]
