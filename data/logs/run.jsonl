@@ -2948,3 +2948,22 @@
 {"timestamp": "2026-11-20T20:26:47.555093+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-20T20:26:47.555298+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-20T20:26:47.555583+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-21T07:15:43.460307+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-21T07:15:43.475365+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:43.475977+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-21T07:15:43.476786+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-21T07:15:43.627335+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-21T07:15:45.929052+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-21T07:15:45.930370+00:00", "event": "draft_created", "draft_id": "ninlive-the-nine-inch-nails-live-archive", "path": "data/content/drafts/ninlive-the-nine-inch-nails-live-archive.json"}
+{"timestamp": "2026-11-21T07:15:45.930661+00:00", "event": "draft_created", "draft_id": "inkling-2-mini", "path": "data/content/drafts/inkling-2-mini.json"}
+{"timestamp": "2026-11-21T07:15:45.930940+00:00", "event": "draft_created", "draft_id": "clojure-will-affect-the-way-you-think-about-programming-2017", "path": "data/content/drafts/clojure-will-affect-the-way-you-think-about-programming-2017.json"}
+{"timestamp": "2026-11-21T07:15:45.931232+00:00", "event": "draft_created", "draft_id": "clawdos-an-ai-coding-agent-for-dos", "path": "data/content/drafts/clawdos-an-ai-coding-agent-for-dos.json"}
+{"timestamp": "2026-11-21T07:15:45.931510+00:00", "event": "draft_created", "draft_id": "ask-hn-i-have-been-unemployed-for-2y-15-years-of-experience-us-what-to-do", "path": "data/content/drafts/ask-hn-i-have-been-unemployed-for-2y-15-years-of-experience-us-what-to-do.json"}
+{"timestamp": "2026-11-21T07:15:45.931665+00:00", "event": "draft_validation", "path": "data/content/drafts/ninlive-the-nine-inch-nails-live-archive.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:45.931802+00:00", "event": "draft_validation", "path": "data/content/drafts/inkling-2-mini.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:45.931933+00:00", "event": "draft_validation", "path": "data/content/drafts/clojure-will-affect-the-way-you-think-about-programming-2017.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:45.932061+00:00", "event": "draft_validation", "path": "data/content/drafts/clawdos-an-ai-coding-agent-for-dos.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:45.932215+00:00", "event": "draft_validation", "path": "data/content/drafts/ask-hn-i-have-been-unemployed-for-2y-15-years-of-experience-us-what-to-do.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T07:15:45.932442+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-21T07:15:45.932649+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-21T07:15:45.932926+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
