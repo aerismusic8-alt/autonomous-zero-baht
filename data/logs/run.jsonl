@@ -2967,3 +2967,22 @@
 {"timestamp": "2026-11-21T07:15:45.932442+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-21T07:15:45.932649+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-21T07:15:45.932926+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-21T19:20:59.248748+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-21T19:20:59.283903+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:20:59.284545+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-21T19:20:59.285267+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-21T19:20:59.698553+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-21T19:21:01.159928+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-21T19:21:01.161070+00:00", "event": "draft_created", "draft_id": "rce-in-gnupg", "path": "data/content/drafts/rce-in-gnupg.json"}
+{"timestamp": "2026-11-21T19:21:01.161381+00:00", "event": "draft_created", "draft_id": "verification-files-for-the-lean-proof-of-the-riemann-hypothesis", "path": "data/content/drafts/verification-files-for-the-lean-proof-of-the-riemann-hypothesis.json"}
+{"timestamp": "2026-11-21T19:21:01.161655+00:00", "event": "draft_created", "draft_id": "show-hn-zero-c-power-of-c-without-any-gc", "path": "data/content/drafts/show-hn-zero-c-power-of-c-without-any-gc.json"}
+{"timestamp": "2026-11-21T19:21:01.161924+00:00", "event": "draft_created", "draft_id": "postgresql-extensions-in-go", "path": "data/content/drafts/postgresql-extensions-in-go.json"}
+{"timestamp": "2026-11-21T19:21:01.162217+00:00", "event": "draft_created", "draft_id": "my-monitor-was-cutting-my-download-speed-by-75", "path": "data/content/drafts/my-monitor-was-cutting-my-download-speed-by-75.json"}
+{"timestamp": "2026-11-21T19:21:01.162366+00:00", "event": "draft_validation", "path": "data/content/drafts/rce-in-gnupg.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:21:01.162506+00:00", "event": "draft_validation", "path": "data/content/drafts/verification-files-for-the-lean-proof-of-the-riemann-hypothesis.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:21:01.162646+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-zero-c-power-of-c-without-any-gc.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:21:01.162774+00:00", "event": "draft_validation", "path": "data/content/drafts/postgresql-extensions-in-go.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:21:01.162900+00:00", "event": "draft_validation", "path": "data/content/drafts/my-monitor-was-cutting-my-download-speed-by-75.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-21T19:21:01.163143+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-21T19:21:01.163317+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-21T19:21:01.163597+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
