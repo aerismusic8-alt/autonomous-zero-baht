@@ -2986,3 +2986,22 @@
 {"timestamp": "2026-11-21T19:21:01.163143+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-21T19:21:01.163317+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-21T19:21:01.163597+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-22T06:56:30.920420+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-22T06:56:30.924063+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:30.924525+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-22T06:56:30.925046+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-22T06:56:31.039078+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-22T06:56:31.240928+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-22T06:56:31.242102+00:00", "event": "draft_created", "draft_id": "together-ai-prompt-leakage-for-requests", "path": "data/content/drafts/together-ai-prompt-leakage-for-requests.json"}
+{"timestamp": "2026-11-22T06:56:31.242319+00:00", "event": "draft_created", "draft_id": "the-mythology-of-conscious-ai", "path": "data/content/drafts/the-mythology-of-conscious-ai.json"}
+{"timestamp": "2026-11-22T06:56:31.242519+00:00", "event": "draft_created", "draft_id": "data-processing-incidents-on-inference-providers", "path": "data/content/drafts/data-processing-incidents-on-inference-providers.json"}
+{"timestamp": "2026-11-22T06:56:31.242692+00:00", "event": "draft_created", "draft_id": "toyota-nissan-and-honda-to-standardize-parts-to-lower-costs", "path": "data/content/drafts/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs.json"}
+{"timestamp": "2026-11-22T06:56:31.242852+00:00", "event": "draft_created", "draft_id": "the-most-popular-car-colors-in-america", "path": "data/content/drafts/the-most-popular-car-colors-in-america.json"}
+{"timestamp": "2026-11-22T06:56:31.242958+00:00", "event": "draft_validation", "path": "data/content/drafts/together-ai-prompt-leakage-for-requests.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:31.243042+00:00", "event": "draft_validation", "path": "data/content/drafts/the-mythology-of-conscious-ai.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:31.243111+00:00", "event": "draft_validation", "path": "data/content/drafts/data-processing-incidents-on-inference-providers.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:31.243181+00:00", "event": "draft_validation", "path": "data/content/drafts/toyota-nissan-and-honda-to-standardize-parts-to-lower-costs.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:31.243243+00:00", "event": "draft_validation", "path": "data/content/drafts/the-most-popular-car-colors-in-america.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T06:56:31.243420+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-22T06:56:31.243523+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-22T06:56:31.243754+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
