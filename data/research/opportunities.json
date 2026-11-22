@@ -1,98 +1,94 @@
 [
   {
-    "title": "Together.ai: Prompt Leakage for Requests",
-    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-    "summary": " Article URL:  https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50595816  \n Points: 19 \n # Comments: 7 ",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence/",
+    "summary": " Article URL:  https://openai.com/index/perplexity-and-intelligence/  \n Comments URL:  https://news.ycombinator.com/item?id=50601525  \n Points: 239 \n # Comments: 165 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-22T06:56:31.241092+00:00"
+    "researched_at": "2026-11-22T19:44:48.683383+00:00"
   },
   {
-    "title": "The Mythology of Conscious AI",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "summary": " Article URL:  https://www.noemamag.com/the-mythology-of-conscious-ai/  \n Comments URL:  https://news.ycombinator.com/item?id=50595537  \n Points: 30 \n # Comments: 64 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-22T06:56:31.241101+00:00"
-  },
-  {
-    "title": "Data Processing Incidents on Inference Providers",
-    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-    "summary": " Article URL:  https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/  \n Comments URL:  https://news.ycombinator.com/item?id=50595554  \n Points: 97 \n # Comments: 34 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-22T06:56:31.241099+00:00"
-  },
-  {
-    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-    "summary": " Article URL:  https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/  \n Comments URL:  https://news.ycombinator.com/item?id=50596133  \n Points: 262 \n # Comments: 121 ",
+    "title": "Testing Terraform with AWS Emulator",
+    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "summary": " Article URL:  https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/  \n Comments URL:  https://news.ycombinator.com/item?id=50599309  \n Points: 32 \n # Comments: 4 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241088+00:00"
+    "researched_at": "2026-11-22T19:44:48.683409+00:00"
   },
   {
-    "title": "The Most Popular Car Colors in America",
-    "url": "https://www.iseecars.com/most-popular-car-colors-study",
-    "summary": " Article URL:  https://www.iseecars.com/most-popular-car-colors-study  \n Comments URL:  https://news.ycombinator.com/item?id=50595725  \n Points: 21 \n # Comments: 33 ",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "url": "https://github.com/gulivan/worker755",
+    "summary": " Article URL:  https://github.com/gulivan/worker755  \n Comments URL:  https://news.ycombinator.com/item?id=50599762  \n Points: 182 \n # Comments: 46 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241095+00:00"
+    "researched_at": "2026-11-22T19:44:48.683405+00:00"
   },
   {
-    "title": "Show HN: The Riemann Proof Handbook",
-    "url": "https://github.com/tamnd/riemann-handbook",
-    "summary": " Article URL:  https://github.com/tamnd/riemann-handbook  \n Comments URL:  https://news.ycombinator.com/item?id=50596664  \n Points: 5 \n # Comments: 0 ",
+    "title": "Open Social Web Alliance",
+    "url": "https://osw-alliance.net/en/",
+    "summary": " Article URL:  https://osw-alliance.net/en/  \n Comments URL:  https://news.ycombinator.com/item?id=50600511  \n Points: 156 \n # Comments: 157 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241082+00:00"
+    "researched_at": "2026-11-22T19:44:48.683399+00:00"
   },
   {
-    "title": "Sandwich Simulator",
-    "url": "https://stulle.app/",
-    "summary": " Article URL:  https://stulle.app/  \n Comments URL:  https://news.ycombinator.com/item?id=50594911  \n Points: 139 \n # Comments: 53 ",
+    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "summary": " Article URL:  https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/  \n Comments URL:  https://news.ycombinator.com/item?id=50600622  \n Points: 66 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241111+00:00"
+    "researched_at": "2026-11-22T19:44:48.683392+00:00"
   },
   {
-    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-    "summary": " Article URL:  https://github.com/sebaandrada-cell/PcapAnalyzer  \n Comments URL:  https://news.ycombinator.com/item?id=50594132  \n Points: 101 \n # Comments: 10 ",
+    "title": "Fascism and Monopoly",
+    "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+    "summary": " Article URL:  https://repository.law.umich.edu/mlr/vol118/iss7/2/  \n Comments URL:  https://news.ycombinator.com/item?id=50600521  \n Points: 31 \n # Comments: 8 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241115+00:00"
+    "researched_at": "2026-11-22T19:44:48.683395+00:00"
   },
   {
-    "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-    "url": "https://github.com/ItsNotRexed/Leonida",
-    "summary": " Article URL:  https://github.com/ItsNotRexed/Leonida  \n Comments URL:  https://news.ycombinator.com/item?id=50595168  \n Points: 120 \n # Comments: 84 ",
+    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+    "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+    "summary": " Article URL:  https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html  \n Comments URL:  https://news.ycombinator.com/item?id=50600677  \n Points: 115 \n # Comments: 99 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241108+00:00"
+    "researched_at": "2026-11-22T19:44:48.683388+00:00"
   },
   {
-    "title": "Advice for the next 100 Rust GUIs",
-    "url": "https://linebender.org/blog/next-100-guis/",
-    "summary": " Article URL:  https://linebender.org/blog/next-100-guis/  \n Comments URL:  https://news.ycombinator.com/item?id=50593737  \n Points: 133 \n # Comments: 36 ",
+    "title": "Dirac's Theorem at a Dinner Party",
+    "url": "https://prideout.net/blog/dirac-dinner-party/",
+    "summary": " Article URL:  https://prideout.net/blog/dirac-dinner-party/  \n Comments URL:  https://news.ycombinator.com/item?id=50602660  \n Points: 3 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T06:56:31.241118+00:00"
+    "researched_at": "2026-11-22T19:44:48.683379+00:00"
+  },
+  {
+    "title": "Canada recommits to federal funding for news",
+    "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+    "summary": " Article URL:  https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/  \n Comments URL:  https://news.ycombinator.com/item?id=50602847  \n Points: 62 \n # Comments: 28 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-22T19:44:48.683370+00:00"
+  },
+  {
+    "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+    "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+    "summary": " Article URL:  https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/  \n Comments URL:  https://news.ycombinator.com/item?id=50600435  \n Points: 86 \n # Comments: 43 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-22T19:44:48.683402+00:00"
   }
 ]

@@ -3005,3 +3005,22 @@
 {"timestamp": "2026-11-22T06:56:31.243420+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-22T06:56:31.243523+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-22T06:56:31.243754+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-22T19:44:48.194253+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-22T19:44:48.197685+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.198167+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-22T19:44:48.198734+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-22T19:44:48.345789+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-22T19:44:48.683198+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-22T19:44:48.684398+00:00", "event": "draft_created", "draft_id": "perplexity-and-intelligence", "path": "data/content/drafts/perplexity-and-intelligence.json"}
+{"timestamp": "2026-11-22T19:44:48.684681+00:00", "event": "draft_created", "draft_id": "testing-terraform-with-aws-emulator", "path": "data/content/drafts/testing-terraform-with-aws-emulator.json"}
+{"timestamp": "2026-11-22T19:44:48.684934+00:00", "event": "draft_created", "draft_id": "show-hn-i-built-a-game-where-you-are-an-llm-s-subagent", "path": "data/content/drafts/show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.json"}
+{"timestamp": "2026-11-22T19:44:48.685192+00:00", "event": "draft_created", "draft_id": "open-social-web-alliance", "path": "data/content/drafts/open-social-web-alliance.json"}
+{"timestamp": "2026-11-22T19:44:48.685426+00:00", "event": "draft_created", "draft_id": "i-joined-the-ntp-pool-but-not-with-my-stratum-1-pi", "path": "data/content/drafts/i-joined-the-ntp-pool-but-not-with-my-stratum-1-pi.json"}
+{"timestamp": "2026-11-22T19:44:48.685568+00:00", "event": "draft_validation", "path": "data/content/drafts/perplexity-and-intelligence.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.685687+00:00", "event": "draft_validation", "path": "data/content/drafts/testing-terraform-with-aws-emulator.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.685800+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-i-built-a-game-where-you-are-an-llm-s-subagent.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.685906+00:00", "event": "draft_validation", "path": "data/content/drafts/open-social-web-alliance.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.686012+00:00", "event": "draft_validation", "path": "data/content/drafts/i-joined-the-ntp-pool-but-not-with-my-stratum-1-pi.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-22T19:44:48.686239+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-22T19:44:48.686388+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-22T19:44:48.686633+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
