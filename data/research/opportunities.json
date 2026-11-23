@@ -1,96 +1,92 @@
 [
   {
-    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-    "summary": " Article URL:  https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3  \n Comments URL:  https://news.ycombinator.com/item?id=50605045  \n Points: 214 \n # Comments: 159 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-23T07:45:28.816669+00:00"
-  },
-  {
-    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-    "url": "https://0rwx.com/",
-    "summary": " Article URL:  https://0rwx.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50605445  \n Points: 43 \n # Comments: 10 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-23T07:45:28.816667+00:00"
-  },
-  {
-    "title": "Yes, 17M lines of Lean is a lot",
-    "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-    "summary": " Article URL:  https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/  \n Comments URL:  https://news.ycombinator.com/item?id=50607668  \n Points: 18 \n # Comments: 17 ",
+    "title": "VP ≠ VNP over Every Field",
+    "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+    "summary": " Paper:  https://github.com/anthropics/formal-math/blob/11b6c7e3c927d...  \n \n Comments URL:  https://news.ycombinator.com/item?id=50620102  \n Points: 147 \n # Comments: 104 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816648+00:00"
+    "researched_at": "2026-11-23T23:57:37.011982+00:00"
   },
   {
-    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-    "url": "https://github.com/AFK-surf/xnulinux",
-    "summary": " Article URL:  https://github.com/AFK-surf/xnulinux  \n Comments URL:  https://news.ycombinator.com/item?id=50607261  \n Points: 175 \n # Comments: 77 ",
+    "title": "The horse made the state",
+    "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+    "summary": " Article URL:  https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist  \n Comments URL:  https://news.ycombinator.com/item?id=50619186  \n Points: 49 \n # Comments: 48 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816655+00:00"
+    "researched_at": "2026-11-23T23:57:37.011987+00:00"
   },
   {
-    "title": "What we learned operating auth for 1k APIs",
-    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
-    "summary": " Article URL:  https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/  \n Comments URL:  https://news.ycombinator.com/item?id=50606072  \n Points: 38 \n # Comments: 5 ",
+    "title": "The Beauty of Artists' Studios",
+    "url": "https://spectator.com/article/the-beauty-of-artists-studios/",
+    "summary": "  https://archive.ph/qcUxG  \n \n Comments URL:  https://news.ycombinator.com/item?id=50620530  \n Points: 6 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816662+00:00"
+    "researched_at": "2026-11-23T23:57:37.011968+00:00"
   },
   {
-    "title": "Treemap of the Riemann Hypothesis Lean Proof",
-    "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-    "summary": " Article URL:  https://pengowray.github.io/riemann-zeta-proof-visualizer/  \n Comments URL:  https://news.ycombinator.com/item?id=50606499  \n Points: 51 \n # Comments: 11 ",
+    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+    "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+    "summary": " Article URL:  https://stalw.art/blog/microsoft-exchange-replacement/  \n Comments URL:  https://news.ycombinator.com/item?id=50620349  \n Points: 80 \n # Comments: 41 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816658+00:00"
+    "researched_at": "2026-11-23T23:57:37.011971+00:00"
   },
   {
-    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-    "url": "https://spelunkr.tv",
-    "summary": " Article URL:  https://spelunkr.tv  \n Comments URL:  https://news.ycombinator.com/item?id=50606192  \n Points: 414 \n # Comments: 58 ",
+    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+    "url": "https://arm.jonpalmisc.com/",
+    "summary": " Article URL:  https://arm.jonpalmisc.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50617499  \n Points: 775 \n # Comments: 158 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816660+00:00"
+    "researched_at": "2026-11-23T23:57:37.011994+00:00"
   },
   {
-    "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
-    "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
-    "summary": " Article URL:  https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/  \n Comments URL:  https://news.ycombinator.com/item?id=50607498  \n Points: 110 \n # Comments: 28 ",
+    "title": "Next gaming monitor should still be an OLED",
+    "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+    "summary": " Article URL:  https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled  \n Comments URL:  https://news.ycombinator.com/item?id=50618798  \n Points: 14 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816653+00:00"
+    "researched_at": "2026-11-23T23:57:37.011992+00:00"
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
-    "summary": " Article URL:  https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager  \n Comments URL:  https://news.ycombinator.com/item?id=50608390  \n Points: 0 \n # Comments: 0 ",
+    "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+    "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+    "summary": " Article URL:  https://twitter.com/__alpoge__/status/2124987173439209561  \n Comments URL:  https://news.ycombinator.com/item?id=50620250  \n Points: 51 \n # Comments: 34 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816643+00:00"
+    "researched_at": "2026-11-23T23:57:37.011977+00:00"
   },
   {
-    "title": "A Partial Evaluator for C",
-    "url": "https://phoenix.labri.fr/software/tempo/",
-    "summary": " Article URL:  https://phoenix.labri.fr/software/tempo/  \n Comments URL:  https://news.ycombinator.com/item?id=50607627  \n Points: 32 \n # Comments: 1 ",
+    "title": "GPUI is getting its own repository",
+    "url": "https://github.com/zed-industries/gpui",
+    "summary": " Article URL:  https://github.com/zed-industries/gpui  \n Comments URL:  https://news.ycombinator.com/item?id=50619103  \n Points: 71 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-23T07:45:28.816650+00:00"
+    "researched_at": "2026-11-23T23:57:37.011989+00:00"
+  },
+  {
+    "title": "Freeing the iPod Nano 5G",
+    "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+    "summary": " Article URL:  https://viktorkrapivin.com/blog/nano5g-priv-prvd  \n Comments URL:  https://news.ycombinator.com/item?id=50620721  \n Points: 5 \n # Comments: 1 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-23T23:57:37.011962+00:00"
+  },
+  {
+    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+    "url": "https://www.bored.com/",
+    "summary": " Article URL:  https://www.bored.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50619207  \n Points: 61 \n # Comments: 17 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-23T23:57:37.011984+00:00"
   }
 ]

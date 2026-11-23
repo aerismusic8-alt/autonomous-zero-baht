@@ -3043,3 +3043,22 @@
 {"timestamp": "2026-11-23T07:45:28.818318+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-23T07:45:28.818441+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-23T07:45:28.818569+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-23T23:57:36.640438+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-23T23:57:36.646016+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:36.646464+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-23T23:57:36.647073+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-23T23:57:36.747823+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-23T23:57:37.011777+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-23T23:57:37.012730+00:00", "event": "draft_created", "draft_id": "vp-vnp-over-every-field", "path": "data/content/drafts/vp-vnp-over-every-field.json"}
+{"timestamp": "2026-11-23T23:57:37.012957+00:00", "event": "draft_created", "draft_id": "the-horse-made-the-state", "path": "data/content/drafts/the-horse-made-the-state.json"}
+{"timestamp": "2026-11-23T23:57:37.013144+00:00", "event": "draft_created", "draft_id": "the-beauty-of-artists-studios", "path": "data/content/drafts/the-beauty-of-artists-studios.json"}
+{"timestamp": "2026-11-23T23:57:37.013340+00:00", "event": "draft_created", "draft_id": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange", "path": "data/content/drafts/stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange.json"}
+{"timestamp": "2026-11-23T23:57:37.013520+00:00", "event": "draft_created", "draft_id": "per-arm-s-request-this-site-will-be-discontinued-on-4-december-2026", "path": "data/content/drafts/per-arm-s-request-this-site-will-be-discontinued-on-4-december-2026.json"}
+{"timestamp": "2026-11-23T23:57:37.013627+00:00", "event": "draft_validation", "path": "data/content/drafts/vp-vnp-over-every-field.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:37.013718+00:00", "event": "draft_validation", "path": "data/content/drafts/the-horse-made-the-state.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:37.013816+00:00", "event": "draft_validation", "path": "data/content/drafts/the-beauty-of-artists-studios.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:37.013904+00:00", "event": "draft_validation", "path": "data/content/drafts/stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:37.013984+00:00", "event": "draft_validation", "path": "data/content/drafts/per-arm-s-request-this-site-will-be-discontinued-on-4-december-2026.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-23T23:57:37.014134+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-23T23:57:37.014246+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-23T23:57:37.014448+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
