@@ -1,94 +1,96 @@
 [
   {
-    "title": "Perplexity and Intelligence",
-    "url": "https://openai.com/index/perplexity-and-intelligence/",
-    "summary": " Article URL:  https://openai.com/index/perplexity-and-intelligence/  \n Comments URL:  https://news.ycombinator.com/item?id=50601525  \n Points: 239 \n # Comments: 165 ",
+    "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+    "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+    "summary": " Article URL:  https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3  \n Comments URL:  https://news.ycombinator.com/item?id=50605045  \n Points: 214 \n # Comments: 159 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-22T19:44:48.683383+00:00"
+    "researched_at": "2026-11-23T07:45:28.816669+00:00"
   },
   {
-    "title": "Testing Terraform with AWS Emulator",
-    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-    "summary": " Article URL:  https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/  \n Comments URL:  https://news.ycombinator.com/item?id=50599309  \n Points: 32 \n # Comments: 4 ",
+    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+    "url": "https://0rwx.com/",
+    "summary": " Article URL:  https://0rwx.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50605445  \n Points: 43 \n # Comments: 10 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-23T07:45:28.816667+00:00"
+  },
+  {
+    "title": "Yes, 17M lines of Lean is a lot",
+    "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+    "summary": " Article URL:  https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/  \n Comments URL:  https://news.ycombinator.com/item?id=50607668  \n Points: 18 \n # Comments: 17 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683409+00:00"
+    "researched_at": "2026-11-23T07:45:28.816648+00:00"
   },
   {
-    "title": "Show HN: I built a game where you are an LLM's subagent",
-    "url": "https://github.com/gulivan/worker755",
-    "summary": " Article URL:  https://github.com/gulivan/worker755  \n Comments URL:  https://news.ycombinator.com/item?id=50599762  \n Points: 182 \n # Comments: 46 ",
+    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "summary": " Article URL:  https://github.com/AFK-surf/xnulinux  \n Comments URL:  https://news.ycombinator.com/item?id=50607261  \n Points: 175 \n # Comments: 77 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683405+00:00"
+    "researched_at": "2026-11-23T07:45:28.816655+00:00"
   },
   {
-    "title": "Open Social Web Alliance",
-    "url": "https://osw-alliance.net/en/",
-    "summary": " Article URL:  https://osw-alliance.net/en/  \n Comments URL:  https://news.ycombinator.com/item?id=50600511  \n Points: 156 \n # Comments: 157 ",
+    "title": "What we learned operating auth for 1k APIs",
+    "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+    "summary": " Article URL:  https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/  \n Comments URL:  https://news.ycombinator.com/item?id=50606072  \n Points: 38 \n # Comments: 5 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683399+00:00"
+    "researched_at": "2026-11-23T07:45:28.816662+00:00"
   },
   {
-    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-    "summary": " Article URL:  https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/  \n Comments URL:  https://news.ycombinator.com/item?id=50600622  \n Points: 66 \n # Comments: 17 ",
+    "title": "Treemap of the Riemann Hypothesis Lean Proof",
+    "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+    "summary": " Article URL:  https://pengowray.github.io/riemann-zeta-proof-visualizer/  \n Comments URL:  https://news.ycombinator.com/item?id=50606499  \n Points: 51 \n # Comments: 11 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683392+00:00"
+    "researched_at": "2026-11-23T07:45:28.816658+00:00"
   },
   {
-    "title": "Fascism and Monopoly",
-    "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
-    "summary": " Article URL:  https://repository.law.umich.edu/mlr/vol118/iss7/2/  \n Comments URL:  https://news.ycombinator.com/item?id=50600521  \n Points: 31 \n # Comments: 8 ",
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "url": "https://spelunkr.tv",
+    "summary": " Article URL:  https://spelunkr.tv  \n Comments URL:  https://news.ycombinator.com/item?id=50606192  \n Points: 414 \n # Comments: 58 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683395+00:00"
+    "researched_at": "2026-11-23T07:45:28.816660+00:00"
   },
   {
-    "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-    "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-    "summary": " Article URL:  https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html  \n Comments URL:  https://news.ycombinator.com/item?id=50600677  \n Points: 115 \n # Comments: 99 ",
+    "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+    "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+    "summary": " Article URL:  https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/  \n Comments URL:  https://news.ycombinator.com/item?id=50607498  \n Points: 110 \n # Comments: 28 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683388+00:00"
+    "researched_at": "2026-11-23T07:45:28.816653+00:00"
   },
   {
-    "title": "Dirac's Theorem at a Dinner Party",
-    "url": "https://prideout.net/blog/dirac-dinner-party/",
-    "summary": " Article URL:  https://prideout.net/blog/dirac-dinner-party/  \n Comments URL:  https://news.ycombinator.com/item?id=50602660  \n Points: 3 \n # Comments: 0 ",
+    "title": "CollectWise (YC F24) Is Hiring",
+    "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+    "summary": " Article URL:  https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager  \n Comments URL:  https://news.ycombinator.com/item?id=50608390  \n Points: 0 \n # Comments: 0 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683379+00:00"
+    "researched_at": "2026-11-23T07:45:28.816643+00:00"
   },
   {
-    "title": "Canada recommits to federal funding for news",
-    "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-    "summary": " Article URL:  https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/  \n Comments URL:  https://news.ycombinator.com/item?id=50602847  \n Points: 62 \n # Comments: 28 ",
+    "title": "A Partial Evaluator for C",
+    "url": "https://phoenix.labri.fr/software/tempo/",
+    "summary": " Article URL:  https://phoenix.labri.fr/software/tempo/  \n Comments URL:  https://news.ycombinator.com/item?id=50607627  \n Points: 32 \n # Comments: 1 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683370+00:00"
-  },
-  {
-    "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-    "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-    "summary": " Article URL:  https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/  \n Comments URL:  https://news.ycombinator.com/item?id=50600435  \n Points: 86 \n # Comments: 43 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-22T19:44:48.683402+00:00"
+    "researched_at": "2026-11-23T07:45:28.816650+00:00"
   }
 ]
