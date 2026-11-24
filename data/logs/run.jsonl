@@ -3062,3 +3062,22 @@
 {"timestamp": "2026-11-23T23:57:37.014134+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-23T23:57:37.014246+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-23T23:57:37.014448+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-24T09:58:42.659028+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-24T09:58:42.670076+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:42.670595+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-24T09:58:42.671075+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-24T09:58:42.987364+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-24T09:58:43.344280+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-24T09:58:43.345146+00:00", "event": "draft_created", "draft_id": "the-search-for-a-top-dark-matter-candidate", "path": "data/content/drafts/the-search-for-a-top-dark-matter-candidate.json"}
+{"timestamp": "2026-11-24T09:58:43.345332+00:00", "event": "draft_created", "draft_id": "the-power-of-graphql-without-graphql", "path": "data/content/drafts/the-power-of-graphql-without-graphql.json"}
+{"timestamp": "2026-11-24T09:58:43.345484+00:00", "event": "draft_created", "draft_id": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange", "path": "data/content/drafts/stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange.json"}
+{"timestamp": "2026-11-24T09:58:43.345621+00:00", "event": "draft_created", "draft_id": "rune-rust-vm-for-emacs", "path": "data/content/drafts/rune-rust-vm-for-emacs.json"}
+{"timestamp": "2026-11-24T09:58:43.345744+00:00", "event": "draft_created", "draft_id": "new-york-bans-subscription-and-post-purchase-fees-on-cars", "path": "data/content/drafts/new-york-bans-subscription-and-post-purchase-fees-on-cars.json"}
+{"timestamp": "2026-11-24T09:58:43.345835+00:00", "event": "draft_validation", "path": "data/content/drafts/the-search-for-a-top-dark-matter-candidate.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:43.345896+00:00", "event": "draft_validation", "path": "data/content/drafts/the-power-of-graphql-without-graphql.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:43.345950+00:00", "event": "draft_validation", "path": "data/content/drafts/stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:43.346001+00:00", "event": "draft_validation", "path": "data/content/drafts/rune-rust-vm-for-emacs.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:43.346051+00:00", "event": "draft_validation", "path": "data/content/drafts/new-york-bans-subscription-and-post-purchase-fees-on-cars.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-24T09:58:43.346163+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-24T09:58:43.346254+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-24T09:58:43.346395+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}

@@ -1,16 +1,11 @@
 [
   {
-    "path": "data/content/drafts/vp-vnp-over-every-field.json",
+    "path": "data/content/drafts/the-search-for-a-top-dark-matter-candidate.json",
     "passed": true,
     "errors": []
   },
   {
-    "path": "data/content/drafts/the-horse-made-the-state.json",
-    "passed": true,
-    "errors": []
-  },
-  {
-    "path": "data/content/drafts/the-beauty-of-artists-studios.json",
+    "path": "data/content/drafts/the-power-of-graphql-without-graphql.json",
     "passed": true,
     "errors": []
   },
@@ -20,7 +15,12 @@
     "errors": []
   },
   {
-    "path": "data/content/drafts/per-arm-s-request-this-site-will-be-discontinued-on-4-december-2026.json",
+    "path": "data/content/drafts/rune-rust-vm-for-emacs.json",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "path": "data/content/drafts/new-york-bans-subscription-and-post-purchase-fees-on-cars.json",
     "passed": true,
     "errors": []
   }
