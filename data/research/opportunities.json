@@ -1,98 +1,100 @@
 [
   {
-    "title": "Taking over US Treasury subdomains for $3 each",
-    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-    "summary": " Article URL:  https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each  \n Comments URL:  https://news.ycombinator.com/item?id=50638478  \n Points: 65 \n # Comments: 10 ",
+    "title": "The polynomial Hirsch conjecture is false [pdf]",
+    "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+    "summary": " Article URL:  https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf  \n Comments URL:  https://news.ycombinator.com/item?id=50644980  \n Points: 76 \n # Comments: 13 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-25T08:42:31.107225+00:00"
+    "researched_at": "2026-11-25T21:45:00.537592+00:00"
   },
   {
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "url": "https://gpu-demo-gallery.pages.dev/",
-    "summary": " Article URL:  https://gpu-demo-gallery.pages.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50638503  \n Points: 86 \n # Comments: 19 ",
+    "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+    "url": "https://danprice.ai/blog/opus-symphony",
+    "summary": " Article URL:  https://danprice.ai/blog/opus-symphony  \n Comments URL:  https://news.ycombinator.com/item?id=50646662  \n Points: 42 \n # Comments: 43 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-25T08:42:31.107219+00:00"
+    "researched_at": "2026-11-25T21:45:00.537570+00:00"
   },
   {
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "summary": " Article URL:  https://www.marginalia.nu/log/a_141_marginalia_update/  \n Comments URL:  https://news.ycombinator.com/item?id=50638220  \n Points: 92 \n # Comments: 35 ",
+    "title": "Rumors swirling that labs might have cracked Factoring in P",
+    "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+    "summary": " Article URL:  https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/  \n Comments URL:  https://news.ycombinator.com/item?id=50643065  \n Points: 409 \n # Comments: 285 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-25T08:42:31.107231+00:00"
+    "researched_at": "2026-11-25T21:45:00.537611+00:00"
   },
   {
-    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-    "summary": " Article URL:  https://noahbuilt.it/writing/qwen-on-5600-lambdas  \n Comments URL:  https://news.ycombinator.com/item?id=50638070  \n Points: 60 \n # Comments: 10 ",
+    "title": "Britain's ghost stations",
+    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "summary": "  https://archive.ph/pfVdX  \n \n Comments URL:  https://news.ycombinator.com/item?id=50645074  \n Points: 58 \n # Comments: 12 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-25T21:45:00.537588+00:00"
+  },
+  {
+    "title": "Investigating degraded experiences across GitHub products",
+    "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+    "summary": " Article URL:  https://www.githubstatus.com/incidents/qn8mfv6q5hlx  \n Comments URL:  https://news.ycombinator.com/item?id=50643720  \n Points: 173 \n # Comments: 93 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107240+00:00"
+    "researched_at": "2026-11-25T21:45:00.537602+00:00"
   },
   {
-    "title": "Macrohistory in Six Facts",
-    "url": "https://basilhalperin.com/essays/macrohistory.html",
-    "summary": " Article URL:  https://basilhalperin.com/essays/macrohistory.html  \n Comments URL:  https://news.ycombinator.com/item?id=50637891  \n Points: 60 \n # Comments: 25 ",
+    "title": "In C++, = default and {} are not the same constructor",
+    "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+    "summary": " Article URL:  https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/  \n Comments URL:  https://news.ycombinator.com/item?id=50643199  \n Points: 88 \n # Comments: 147 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107266+00:00"
+    "researched_at": "2026-11-25T21:45:00.537605+00:00"
   },
   {
-    "title": "Lua for data representation (2025)",
-    "url": "https://citrons.xyz/journal/2025-07-23",
-    "summary": " Article URL:  https://citrons.xyz/journal/2025-07-23  \n Comments URL:  https://news.ycombinator.com/item?id=50637888  \n Points: 49 \n # Comments: 16 ",
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "summary": " See also  The matrix multiplication exponent is nine fourths [pdf]  -  https://news.ycombinator.com/item?id=50637220  \n \n Comments URL:  https://news.ycombinator.com/item?id=50646108  \n Points: 514 \n # Comments: 370 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107277+00:00"
+    "researched_at": "2026-11-25T21:45:00.537583+00:00"
   },
   {
-    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-    "summary": " Article URL:  https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F  \n Comments URL:  https://news.ycombinator.com/item?id=50638320  \n Points: 162 \n # Comments: 104 ",
+    "title": "Deriving Black-Scholes",
+    "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+    "summary": " Article URL:  https://david.alvarezrosa.com/posts/deriving-black-scholes/  \n Comments URL:  https://news.ycombinator.com/item?id=50644814  \n Points: 45 \n # Comments: 39 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107228+00:00"
+    "researched_at": "2026-11-25T21:45:00.537598+00:00"
   },
   {
-    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-    "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "summary": " Article URL:  https://rida.dev/blog/bypassing-ios-safari-60-fps-limit  \n Comments URL:  https://news.ycombinator.com/item?id=50637890  \n Points: 143 \n # Comments: 52 ",
+    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+    "summary": " Article URL:  https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts  \n Comments URL:  https://news.ycombinator.com/item?id=50643129  \n Points: 385 \n # Comments: 93 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107273+00:00"
+    "researched_at": "2026-11-25T21:45:00.537608+00:00"
   },
   {
-    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-    "url": "https://buttons.joshwcomeau.com/",
-    "summary": " Article URL:  https://buttons.joshwcomeau.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50638032  \n Points: 303 \n # Comments: 33 ",
+    "title": "1Password Security Incident",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "summary": " Article URL:  https://1password.com/blog/update-on-nov-2026-security-incident  \n Comments URL:  https://news.ycombinator.com/item?id=50644817  \n Points: 806 \n # Comments: 333 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107244+00:00"
-  },
-  {
-    "title": "A faster algorithm for extracting hexadecimal digits of π",
-    "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-    "summary": " Article URL:  https://www.stylewarning.com/posts/faster-digit-extraction/  \n Comments URL:  https://news.ycombinator.com/item?id=50638075  \n Points: 33 \n # Comments: 0 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-25T08:42:31.107237+00:00"
+    "researched_at": "2026-11-25T21:45:00.537595+00:00"
   }
 ]
