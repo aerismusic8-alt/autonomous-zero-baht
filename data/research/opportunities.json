@@ -1,100 +1,98 @@
 [
   {
-    "title": "Working with AI",
-    "url": "https://www.anthropic.com/research/working-with-ai",
-    "summary": " Article URL:  https://www.anthropic.com/research/working-with-ai  \n Comments URL:  https://news.ycombinator.com/item?id=50634734  \n Points: 49 \n # Comments: 42 ",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "summary": " Article URL:  https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each  \n Comments URL:  https://news.ycombinator.com/item?id=50638478  \n Points: 65 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-24T22:30:25.909130+00:00"
+    "researched_at": "2026-11-25T08:42:31.107225+00:00"
   },
   {
-    "title": "Ternary Bonsai 2.5 27B",
-    "url": "https://prismml.com/news/bonsai-2-5-27b",
-    "summary": " Article URL:  https://prismml.com/news/bonsai-2-5-27b  \n Comments URL:  https://news.ycombinator.com/item?id=50633922  \n Points: 186 \n # Comments: 60 ",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "summary": " Article URL:  https://gpu-demo-gallery.pages.dev/  \n Comments URL:  https://news.ycombinator.com/item?id=50638503  \n Points: 86 \n # Comments: 19 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-24T22:30:25.909150+00:00"
+    "researched_at": "2026-11-25T08:42:31.107219+00:00"
   },
   {
-    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-    "url": "https://news.ycombinator.com/item?id=50634426",
-    "summary": " Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to their bank in 2 mins) - Pay people without your explicit approval to trusted contacts (you can set this) Here’s a demo:  https://youtube.com/shorts/Q9X7zioEqi0  We started working on this because assistants are frustratingly hands-off when it comes to finance and money movement. You can have your assistant go through a receipt and map out all the amounts owed taking care of splitting the subtotal, ",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "summary": " Article URL:  https://www.marginalia.nu/log/a_141_marginalia_update/  \n Comments URL:  https://news.ycombinator.com/item?id=50638220  \n Points: 92 \n # Comments: 35 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-24T22:30:25.909147+00:00"
+    "researched_at": "2026-11-25T08:42:31.107231+00:00"
   },
   {
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "summary": " Article URL:  https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/  \n Comments URL:  https://news.ycombinator.com/item?id=50634658  \n Points: 28 \n # Comments: 2 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 1,
-    "matched_keywords": [
-      "ai"
-    ],
-    "researched_at": "2026-11-24T22:30:25.909133+00:00"
-  },
-  {
-    "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-    "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
-    "summary": " Article URL:  https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/  \n Comments URL:  https://news.ycombinator.com/item?id=50631157  \n Points: 184 \n # Comments: 159 ",
+    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "summary": " Article URL:  https://noahbuilt.it/writing/qwen-on-5600-lambdas  \n Comments URL:  https://news.ycombinator.com/item?id=50638070  \n Points: 60 \n # Comments: 10 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909163+00:00"
+    "researched_at": "2026-11-25T08:42:31.107240+00:00"
   },
   {
-    "title": "Heart attack and stroke risk detectable decades in advance",
-    "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-    "summary": " Article URL:  https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance  \n Comments URL:  https://news.ycombinator.com/item?id=50635271  \n Points: 10 \n # Comments: 0 ",
+    "title": "Macrohistory in Six Facts",
+    "url": "https://basilhalperin.com/essays/macrohistory.html",
+    "summary": " Article URL:  https://basilhalperin.com/essays/macrohistory.html  \n Comments URL:  https://news.ycombinator.com/item?id=50637891  \n Points: 60 \n # Comments: 25 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909117+00:00"
+    "researched_at": "2026-11-25T08:42:31.107266+00:00"
   },
   {
-    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
-    "url": "https://grafana.com/grafana/download",
-    "summary": " Article URL:  https://grafana.com/grafana/download  \n Comments URL:  https://news.ycombinator.com/item?id=50633159  \n Points: 94 \n # Comments: 18 ",
+    "title": "Lua for data representation (2025)",
+    "url": "https://citrons.xyz/journal/2025-07-23",
+    "summary": " Article URL:  https://citrons.xyz/journal/2025-07-23  \n Comments URL:  https://news.ycombinator.com/item?id=50637888  \n Points: 49 \n # Comments: 16 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909157+00:00"
+    "researched_at": "2026-11-25T08:42:31.107277+00:00"
   },
   {
-    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-    "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-    "summary": " Article URL:  https://andlukyane.com/blog/cayley-graphs-and-torchtpu  \n Comments URL:  https://news.ycombinator.com/item?id=50633424  \n Points: 39 \n # Comments: 0 ",
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "summary": " Article URL:  https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F  \n Comments URL:  https://news.ycombinator.com/item?id=50638320  \n Points: 162 \n # Comments: 104 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909154+00:00"
+    "researched_at": "2026-11-25T08:42:31.107228+00:00"
   },
   {
-    "title": "Cloudflare hides shortcomings of the underlying infrastructure",
-    "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
-    "summary": " Article URL:  https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/  \n Comments URL:  https://news.ycombinator.com/item?id=50632883  \n Points: 128 \n # Comments: 85 ",
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "summary": " Article URL:  https://rida.dev/blog/bypassing-ios-safari-60-fps-limit  \n Comments URL:  https://news.ycombinator.com/item?id=50637890  \n Points: 143 \n # Comments: 52 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909160+00:00"
+    "researched_at": "2026-11-25T08:42:31.107273+00:00"
   },
   {
-    "title": "An unclassified CIA system was breached in a cyberattack",
-    "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-    "summary": " Article URL:  https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77  \n Comments URL:  https://news.ycombinator.com/item?id=50634933  \n Points: 39 \n # Comments: 9 ",
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "url": "https://buttons.joshwcomeau.com/",
+    "summary": " Article URL:  https://buttons.joshwcomeau.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50638032  \n Points: 303 \n # Comments: 33 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-24T22:30:25.909125+00:00"
+    "researched_at": "2026-11-25T08:42:31.107244+00:00"
+  },
+  {
+    "title": "A faster algorithm for extracting hexadecimal digits of π",
+    "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+    "summary": " Article URL:  https://www.stylewarning.com/posts/faster-digit-extraction/  \n Comments URL:  https://news.ycombinator.com/item?id=50638075  \n Points: 33 \n # Comments: 0 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-25T08:42:31.107237+00:00"
   }
 ]
