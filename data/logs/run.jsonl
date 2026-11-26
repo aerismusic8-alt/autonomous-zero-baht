@@ -3157,3 +3157,22 @@
 {"timestamp": "2026-11-26T08:26:50.751340+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
 {"timestamp": "2026-11-26T08:26:50.751533+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
 {"timestamp": "2026-11-26T08:26:50.751812+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
+{"timestamp": "2026-11-26T21:38:12.573021+00:00", "event": "decision_recorded", "research_items": 1, "drafts_created": 1, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-26T21:38:12.575721+00:00", "event": "draft_validation", "path": "draft.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:12.576162+00:00", "event": "publisher_skipped", "reason": "human_review_required", "draft_count": 1}
+{"timestamp": "2026-11-26T21:38:12.576699+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 1}
+{"timestamp": "2026-11-26T21:38:12.674854+00:00", "event": "run_started", "project": "AUTONOMOUS ZERO-BAHT BUSINESS OS", "mode": "AUTONOMOUS-FIRST", "budget_thb": 0}
+{"timestamp": "2026-11-26T21:38:15.099041+00:00", "event": "research_feed_success", "feed": "https://hnrss.org/frontpage", "item_count": 10}
+{"timestamp": "2026-11-26T21:38:15.099918+00:00", "event": "draft_created", "draft_id": "banks-look-to-dump-ai-debt", "path": "data/content/drafts/banks-look-to-dump-ai-debt.json"}
+{"timestamp": "2026-11-26T21:38:15.100087+00:00", "event": "draft_created", "draft_id": "youtube-ad-punisher-auto-reloads-youtube-pages-when-an-ad-plays", "path": "data/content/drafts/youtube-ad-punisher-auto-reloads-youtube-pages-when-an-ad-plays.json"}
+{"timestamp": "2026-11-26T21:38:15.100214+00:00", "event": "draft_created", "draft_id": "the-greatest-architect-you-ve-never-heard-of-is-in-pakistan", "path": "data/content/drafts/the-greatest-architect-you-ve-never-heard-of-is-in-pakistan.json"}
+{"timestamp": "2026-11-26T21:38:15.100327+00:00", "event": "draft_created", "draft_id": "show-hn-fuck-data-brokers-py", "path": "data/content/drafts/show-hn-fuck-data-brokers-py.json"}
+{"timestamp": "2026-11-26T21:38:15.100442+00:00", "event": "draft_created", "draft_id": "rvoip-0-5-the-complete-voip-stack-in-rust", "path": "data/content/drafts/rvoip-0-5-the-complete-voip-stack-in-rust.json"}
+{"timestamp": "2026-11-26T21:38:15.100526+00:00", "event": "draft_validation", "path": "data/content/drafts/banks-look-to-dump-ai-debt.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:15.100588+00:00", "event": "draft_validation", "path": "data/content/drafts/youtube-ad-punisher-auto-reloads-youtube-pages-when-an-ad-plays.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:15.100642+00:00", "event": "draft_validation", "path": "data/content/drafts/the-greatest-architect-you-ve-never-heard-of-is-in-pakistan.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:15.100692+00:00", "event": "draft_validation", "path": "data/content/drafts/show-hn-fuck-data-brokers-py.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:15.100739+00:00", "event": "draft_validation", "path": "data/content/drafts/rvoip-0-5-the-complete-voip-stack-in-rust.json", "passed": true, "errors": []}
+{"timestamp": "2026-11-26T21:38:15.100868+00:00", "event": "decision_recorded", "research_items": 10, "drafts_created": 5, "validation_failures": 0, "recommended_action": "human_review_drafts_then_consider_platform_compliant_publishing", "reason": "Drafts passed basic structural checks only; factual and platform review is still required.", "publish_automatically": false}
+{"timestamp": "2026-11-26T21:38:15.100945+00:00", "event": "publisher_skipped", "reason": "publishing_disabled", "draft_count": 5}
+{"timestamp": "2026-11-26T21:38:15.101105+00:00", "event": "run_completed", "research_count": 10, "draft_count": 5, "published": 0, "next_action": "human_review_drafts_then_consider_platform_compliant_publishing"}
