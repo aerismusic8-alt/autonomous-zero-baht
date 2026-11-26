@@ -1,0 +1,27 @@
+{
+  "id": "tell-hn-lots-of-ask-hns-again",
+  "created_at": "2026-11-26T08:26:50.748967+00:00",
+  "source_title": "Tell HN: Lots of Ask HNs again",
+  "source_url": "https://news.ycombinator.com/item?id=50649864",
+  "source_feed": "https://hnrss.org/frontpage",
+  "research_score": 1,
+  "formats": {
+    "seo_article_outline": {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "sections": [
+        "ปัญหาหรือคำถามที่ผู้อ่านต้องการคำตอบ",
+        "ข้อมูลพื้นฐานและข้อเท็จจริงที่ตรวจสอบได้",
+        "ทางเลือกหรือขั้นตอนที่ผู้อ่านนำไปใช้ได้",
+        "ข้อจำกัดและสิ่งที่ควรตรวจสอบเพิ่มเติม",
+        "สรุปและขั้นตอนถัดไป"
+      ],
+      "source_summary_for_editor": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.:  Ask HN: Why is Ask HN only showing me 14 posts?  -  https://news.ycombinator.com/item?id=49984484  - Oct 2026 (47 comments)  Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?  -  https://news.ycombinator.com/item?id=50280719  - Oct 2026 (3 comments) I believe I found the problem. The pool of stories for  https://news.ycombinator.com/ask  has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs. p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted with",
+      "source_url": "https://news.ycombinator.com/item?id=50649864"
+    },
+    "facebook_post": "กำลังรวบรวมข้อมูลเรื่อง: Tell HN: Lots of Ask HNs again\\n\\nก่อนตัดสินใจ ควรตรวจสอบแหล่งข้อมูลและเปรียบเทียบทางเลือกให้เหมาะกับความต้องการของตนเอง\\n\\nแหล่งข้อมูลสำหรับตรวจสอบ: https://news.ycombinator.com/item?id=50649864",
+    "short_video_script": "Hook: คุณกำลังหาข้อมูลเรื่อง Tell HN: Lots of Ask HNs again อยู่หรือไม่?\\n\\nเนื้อหา: เริ่มจากตรวจสอบข้อมูลต้นทาง เปรียบเทียบข้อเท็จจริงและข้อจำกัด อย่าตัดสินใจจากพาดหัวเพียงอย่างเดียว\\n\\nCTA: อ่านข้อมูลต้นทางและตรวจสอบรายละเอียดเพิ่มเติมได้ที่ https://news.ycombinator.com/item?id=50649864",
+    "affiliate_disclosure": "Disclosure: หากมีลิงก์ Affiliate ในฉบับเผยแพร่ ผู้จัดทำอาจได้รับค่าคอมมิชชันโดยไม่มีค่าใช้จ่ายเพิ่มสำหรับผู้ซื้อ"
+  },
+  "status": "draft_requires_human_review",
+  "first_hand_experience_claimed": false
+}
