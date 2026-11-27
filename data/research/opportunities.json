@@ -1,94 +1,100 @@
 [
   {
-    "title": "Banks look to dump AI debt",
-    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
-    "summary": " Article URL:  https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt  \n Comments URL:  https://news.ycombinator.com/item?id=50659634  \n Points: 8 \n # Comments: 0 ",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "summary": " Article URL:  https://blainehansen.me/post/mainstream-verifiable-language/  \n Comments URL:  https://news.ycombinator.com/item?id=50663089  \n Points: 123 \n # Comments: 90 ",
     "source": "https://hnrss.org/frontpage",
     "score": 1,
     "matched_keywords": [
       "ai"
     ],
-    "researched_at": "2026-11-26T21:38:15.099200+00:00"
+    "researched_at": "2026-11-27T08:41:41.425420+00:00"
   },
   {
-    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-    "url": "https://github.com/antonpictures/youtube-punisher",
-    "summary": " Article URL:  https://github.com/antonpictures/youtube-punisher  \n Comments URL:  https://news.ycombinator.com/item?id=50657530  \n Points: 139 \n # Comments: 200 ",
+    "title": "The group chat where your AI talks behind your back",
+    "url": "https://construct22.com/",
+    "summary": " Article URL:  https://construct22.com/  \n Comments URL:  https://news.ycombinator.com/item?id=50663595  \n Points: 129 \n # Comments: 41 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-27T08:41:41.425411+00:00"
+  },
+  {
+    "title": "The Cutthroat Business of Shipwrecks",
+    "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+    "summary": " Article URL:  https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/  \n Comments URL:  https://news.ycombinator.com/item?id=50661705  \n Points: 22 \n # Comments: 2 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-27T08:41:41.425425+00:00"
+  },
+  {
+    "title": "AI made self-hosting fun again",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "summary": " Article URL:  https://janlukas.blog/posts/ai-self-hosting  \n Comments URL:  https://news.ycombinator.com/item?id=50660180  \n Points: 615 \n # Comments: 316 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 1,
+    "matched_keywords": [
+      "ai"
+    ],
+    "researched_at": "2026-11-27T08:41:41.425431+00:00"
+  },
+  {
+    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+    "url": "https://kendell.dev/blog/arkwrapper/",
+    "summary": " Article URL:  https://kendell.dev/blog/arkwrapper/  \n Comments URL:  https://news.ycombinator.com/item?id=50660273  \n Points: 95 \n # Comments: 14 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099219+00:00"
+    "researched_at": "2026-11-27T08:41:41.425429+00:00"
   },
   {
-    "title": "The greatest architect you've never heard of is in Pakistan",
+    "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+    "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+    "summary": " Article URL:  https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/  \n Comments URL:  https://news.ycombinator.com/item?id=50663666  \n Points: 39 \n # Comments: 23 ",
+    "source": "https://hnrss.org/frontpage",
+    "score": 0,
+    "matched_keywords": [],
+    "researched_at": "2026-11-27T08:41:41.425406+00:00"
+  },
+  {
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
     "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "summary": " Article URL:  https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/  \n Comments URL:  https://news.ycombinator.com/item?id=50659841  \n Points: 9 \n # Comments: 1 ",
+    "summary": " Article URL:  https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/  \n Comments URL:  https://news.ycombinator.com/item?id=50659841  \n Points: 354 \n # Comments: 84 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099195+00:00"
+    "researched_at": "2026-11-27T08:41:41.425433+00:00"
   },
   {
-    "title": "Show HN: Fuck_data_brokers.py",
-    "url": "https://github.com/gary23w/f-ck_data_brokers",
-    "summary": " Article URL:  https://github.com/gary23w/f-ck_data_brokers  \n Comments URL:  https://news.ycombinator.com/item?id=50658191  \n Points: 129 \n # Comments: 21 ",
+    "title": "Hard Drive pricing has gotten bad",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "summary": " Article URL:  https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/  \n Comments URL:  https://news.ycombinator.com/item?id=50661646  \n Points: 315 \n # Comments: 213 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099207+00:00"
+    "researched_at": "2026-11-27T08:41:41.425427+00:00"
   },
   {
-    "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-    "url": "https://github.com/eisenzopf/rvoip",
-    "summary": " Article URL:  https://github.com/eisenzopf/rvoip  \n Comments URL:  https://news.ycombinator.com/item?id=50658632  \n Points: 21 \n # Comments: 5 ",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "url": "https://www.buynothingday.co.uk/",
+    "summary": " Article URL:  https://www.buynothingday.co.uk/  \n Comments URL:  https://news.ycombinator.com/item?id=50663261  \n Points: 44 \n # Comments: 7 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099202+00:00"
+    "researched_at": "2026-11-27T08:41:41.425418+00:00"
   },
   {
-    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-    "url": "https://bui.preetham.top/charts/",
-    "summary": " Article URL:  https://bui.preetham.top/charts/  \n Comments URL:  https://news.ycombinator.com/item?id=50658193  \n Points: 9 \n # Comments: 2 ",
+    "title": "\"What's Claude's Fursona?\" and Other Questions",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "summary": " Article URL:  https://herecomesthemoon.net/2026/11/whats-claudes-fursona/  \n Comments URL:  https://news.ycombinator.com/item?id=50662933  \n Points: 78 \n # Comments: 53 ",
     "source": "https://hnrss.org/frontpage",
     "score": 0,
     "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099204+00:00"
-  },
-  {
-    "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-    "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
-    "summary": " Article URL:  https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr  \n Comments URL:  https://news.ycombinator.com/item?id=50658170  \n Points: 39 \n # Comments: 16 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099209+00:00"
-  },
-  {
-    "title": "George Whitesides, 1939-2026",
-    "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-    "summary": " Article URL:  https://www.science.org/content/blog-post/george-whitesides-1939-2026  \n Comments URL:  https://news.ycombinator.com/item?id=50657936  \n Points: 24 \n # Comments: 4 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099211+00:00"
-  },
-  {
-    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "summary": " Article URL:  https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/  \n Comments URL:  https://news.ycombinator.com/item?id=50657645  \n Points: 144 \n # Comments: 60 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099213+00:00"
-  },
-  {
-    "title": "AMD Specific Patches for Llama.cpp",
-    "url": "https://devnull.land/amd-specific-llama-cpp",
-    "summary": " Article URL:  https://devnull.land/amd-specific-llama-cpp  \n Comments URL:  https://news.ycombinator.com/item?id=50657265  \n Points: 203 \n # Comments: 52 ",
-    "source": "https://hnrss.org/frontpage",
-    "score": 0,
-    "matched_keywords": [],
-    "researched_at": "2026-11-26T21:38:15.099221+00:00"
+    "researched_at": "2026-11-27T08:41:41.425423+00:00"
   }
 ]
